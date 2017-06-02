@@ -58,6 +58,8 @@
 * 手ぶらセット：○ 基本料金内に含む。△ 別料金。✗ なし。
 * 宿泊：△は仮眠室、○はカプセルまたは個室。
 
+# 横浜エリア
+
 ## 本牧ゆあそび館
 ### 公式リンク
 http://www.yuasobikan.com/ryokin.html
@@ -183,7 +185,7 @@ http://www.mantennoyu.com/
 - 保土ヶ谷名物「保土ヶ谷ちゃんぽん」なる謎メニューあり。知らんぞ、そんな名物。
 - 温泉は黒湯タイプ。
 
-# 竜泉寺の湯 鶴ヶ峰店
+## 竜泉寺の湯 鶴ヶ峰店
 ### 公式リンク
 http://ryusenjinoyu.com/y_tsurugamine/
 
@@ -205,7 +207,7 @@ http://ryusenjinoyu.com/y_tsurugamine/
 - 露天風呂にテレビあり。露天風呂に浸かりながら笑点とか見てると、頭が溶けていく。
 - お子様は多いです。
 
-# 横浜温泉チャレンジャー
+## 横浜温泉チャレンジャー
 ### 公式リンク
 http://yokohamaonsen.web.fc2.com/
 
@@ -223,7 +225,7 @@ http://yokohamaonsen.web.fc2.com/
 - 温泉はナトリウム塩化物泉。少し熱め。
 - 鍼灸整骨院が併設されている。
 
-# お風呂の王様 瀬谷店
+## お風呂の王様 瀬谷店
 ### 公式リンク
 http://www.kokochiyu.com/seya/
 
@@ -242,7 +244,7 @@ http://www.kokochiyu.com/seya/
 - 炭酸泉の広さはほどほど。
 - 1Fのベランダで喫煙可。
 
-# お風呂の王様 港南台店
+## お風呂の王様 港南台店
 ### 公式リンク
 http://www.ousama2603.com/shop/kounandai
 
@@ -260,3 +262,11 @@ http://www.ousama2603.com/shop/kounandai
 - 温泉は黒湯
 - 1Fベランダで喫煙可。
 - 炭酸泉の広さはほどほど。
+
+# 川崎エリア
+
+# 相模原エリア
+
+# 湘南エリア
+
+# 県央・県西エリア
