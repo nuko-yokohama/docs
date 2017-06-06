@@ -15,10 +15,10 @@
 |[スカイスパ](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#スカイスパ)|横浜市西区|○|✗|2370円|✗|○|○|○|△|○|
 |[万葉倶楽部](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#万葉倶楽部)|横浜市西区|△|○|2370円|○|○|○|○|○|○|
 |[満天の湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#満天の湯)|横浜市保土ヶ谷区|○|✗|930円|○|○|△|○|✗|✗|
-|竜泉寺の湯 鶴ヶ峰店|横浜市旭区|✗|○|600円|○|○|△|○|✗|✗|
-|横浜温泉チャレンジャー|横浜市旭区|✗|○|600円|✗|✗|△|○|△|✗|
-|おふろの王様 瀬谷店|横浜市瀬谷区|✗|○|900円|○|○|△|○|✗|✗|
-|おふろの王様 港南台店|横浜市港南区|✗|✗|840円|○|○|△|○|✗|✗|
+|[竜泉寺の湯 鶴ヶ峰店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#竜泉寺の湯-鶴ヶ峰店)|横浜市旭区|✗|○|600円|○|○|△|○|✗|✗|
+|[横浜温泉チャレンジャー](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#横浜温泉チャレンジャー)|横浜市旭区|✗|○|600円|✗|✗|△|○|△|✗|
+|[おふろの王様 瀬谷店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#お風呂の王様-瀬谷店)|横浜市瀬谷区|✗|○|900円|○|○|△|○|✗|✗|
+|[おふろの王様 港南台店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#お風呂の王様-港南台店)|横浜市港南区|✗|✗|840円|○|○|△|○|✗|✗|
 |湯快爽快 たや店|横浜市栄区|✗|○|840円|○|○|△|○|✗|✗|
 |ユーランド緑 八朔の湯|横浜市緑区|✗|○|900円|○|○|△|○|✗|✗|
 |港北の湯|横浜市都筑区|✗|○|900円|○|○|△|○|✗|✗|
