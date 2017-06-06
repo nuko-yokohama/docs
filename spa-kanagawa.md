@@ -19,7 +19,7 @@
 |[横浜温泉チャレンジャー](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#横浜温泉チャレンジャー)|横浜市旭区|✗|○|600円|✗|✗|△|○|△|✗|
 |[おふろの王様 瀬谷店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#お風呂の王様-瀬谷店)|横浜市瀬谷区|✗|○|900円|○|○|△|○|✗|✗|
 |[おふろの王様 港南台店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#お風呂の王様-港南台店)|横浜市港南区|✗|✗|840円|○|○|△|○|✗|✗|
-|湯快爽快 たや店|横浜市栄区|✗|○|840円|○|○|△|○|✗|✗|
+|[湯快爽快 たや店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#湯快爽快-たや店)|横浜市栄区|✗|○|840円|○|○|△|○|✗|✗|
 |ユーランド緑 八朔の湯|横浜市緑区|✗|○|900円|○|○|△|○|✗|✗|
 |港北の湯|横浜市都筑区|✗|○|900円|○|○|△|○|✗|✗|
 |湯けむりの里 すすき野|横浜市青葉区|✗|✗|780円|○|○|△|○|✗|✗|
