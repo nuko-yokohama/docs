@@ -13,6 +13,7 @@
 |[Spa EAS](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#spa-eas)|横浜市西区|○|✗|2670円|△|○|○|○|○|△|
 |[スカイスパ](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#スカイスパ)|横浜市西区|○|✗|2370円|✗|○|○|○|△|○|
 |[万葉倶楽部](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#万葉倶楽部)|横浜市西区|△|○|2370円|○|○|○|○|○|○|
+|[横浜温泉くさつ](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#横浜温泉くさつ)|横浜市南区|△|✗|720円|✗|△|△|△|✗|✗|
 |[みうら湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#みうら湯)|横浜市南区|△|✗|900円|○|○|△|○|△|✗|
 |[満天の湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#満天の湯)|横浜市保土ヶ谷区|○|✗|930円|○|○|△|○|✗|✗|
 |[竜泉寺の湯 鶴ヶ峰店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#竜泉寺の湯-鶴ヶ峰店)|横浜市旭区|✗|○|600円|○|○|△|○|✗|✗|
@@ -179,6 +180,23 @@ http://www.manyo.co.jp/mm21/
 - 天気が良ければ屋上の足湯利用もおすすめ。
 - 飲み物の自販機がないので注意。売店で売ってはいるけど、やっぱり高め。
 - 漫画の揃えはまずまず。
+
+## 横浜温泉くさつ
+### 公式リンク
+### 最寄り駅
+- 京急「井土ヶ谷駅」
+### 風呂の種類
+
+|天然温泉|人口温泉|炭酸泉|薬湯|電気風呂|ドライサウナ|スチームサウナ|低温サウナ室|クールルーム|
+|:-----:|:------:|:---:|:--:|:-----:|:---------:|:----------:|:---------:|:----------:|
+|○      |-       |-    |-   |-      |○          |-           |-          |-           |
+
+### メモ
+- サウナは別料金。サウナなしなら450円らしい。
+- 設備は古め。
+- 黒湯の温泉、冷泉が楽しめる。
+- 手ぶらで来た場合、ソープ、シャンプーも購入要。
+- [チャイナ飯店](https://ramendb.supleks.jp/s/17439.html)とセットで・・・お勧めはしないがｗ
 
 ## みうら湯
 ### 公式リンク
