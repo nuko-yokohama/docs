@@ -199,6 +199,9 @@ http://www.manyo.co.jp/mm21/
 
 ## 横浜温泉くさつ
 ### 公式リンク
+- なし
+### その他リンク
+- http://www.asahi-net.or.jp/~ue3t-cb/spa/yokohama_kusatu/yokohama_kusatu.htm
 ### 最寄り駅
 - 京急「井土ヶ谷駅」
 ### 風呂の種類
@@ -234,8 +237,8 @@ http://www.manyo.co.jp/mm21/
   - 横浜らしくサンマーメンが置いてある。味噌ラーメンはまずまずだった。
   - 数ヶ月ごとに季節限定ラーメンも提供しているようだ。
 - 近隣
-  - 弘明寺商店街にはラーメン店/中華料理店多し。
-  
+  - 弘明寺商店街にはラーメン店/中華料理店多し。[壱八家](https://ramendb.supleks.jp/s/11076.html)、[味天](https://ramendb.supleks.jp/s/93595.html)(刀削麺)、[まえたん](https://ramendb.supleks.jp/s/69824.html)(担々麺)など。
+  
 ### メモ
 - 施設全体が明るい。
 - 全施設、階段を使わずに利用できるのは良し。
