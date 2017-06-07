@@ -123,6 +123,12 @@ http://spa-newjapan-yokohama.jp/index.html
 |:-----:|:------:|:---:|:--:|:-----:|:---------:|:----------:|:---------:|:----------:|
 |-      |-       |-    |-   |-      |○          |○           |-          |-           |
 
+### ラーメン
+- 店内
+  - [3Fレストラン](https://ramendb.supleks.jp/s/66832.html)でラーメンが食べられる。
+- 近隣
+  - [関内二郎](https://ramendb.supleks.jp/s/2532.html)、[華隆餐館](https://ramendb.supleks.jp/s/3609.html)、[みずき](https://ramendb.supleks.jp/s/53282.html)など多数。
+  
 ### メモ
 - 風呂の設備は最近のスパ銭と比べると地味。
 - サウナ室は広め。高温サウナ室あり。
@@ -142,9 +148,10 @@ http://www.spa-eas.com/
 
 ### ラーメン
 - 店内
-  - 店内に中華料理店はあるが、値段はお高め。
+  - 店内に中華料理店はあるが、値段はお高め。
 - 近隣
-  - 横浜西口なのでいろいろある。[吉村家](https://ramendb.supleks.jp/s/1611.html)、[維新商店](https://ramendb.supleks.jp/s/69681.html)、[せんだい](https://ramendb.supleks.jp/s/97757.html)、[ゴル麺](https://ramendb.supleks.jp/s/31713.html)など。
+  - 横浜西口なのでいろいろある。[吉村家](https://ramendb.supleks.jp/s/1611.html)、[維新商店](https://ramendb.supleks.jp/s/69681.html)、[せんだい](https://ramendb.supleks.jp/s/97757.html)、[ゴル麺](https://ramendb.supleks.jp/s/31713.html)など。
+  
 ### メモ
 - 値段は高いが、横浜駅近で使いやすい。
 - 天然温泉は少々塩素殺菌が強すぎる気が・・・。
@@ -249,7 +256,10 @@ http://www.mantennoyu.com/
 |○      |-       |○    |○   |○      |○          |○           |-          |-           |
 
 ### ラーメン
-- 保土ヶ谷名物「保土ヶ谷ちゃんぽん」なる謎メニューあり。知らんぞ、そんな名物。
+- 店内
+  - 保土ヶ谷名物「保土ヶ谷ちゃんぽん」なる謎メニューあり。知らんぞ、そんな名物。
+- 近隣
+  - [味山河 上星川店](https://ramendb.supleks.jp/s/67401.html)、[寿々㐂家](https://ramendb.supleks.jp/s/2783.html)(少し離れているけど)、[星華園](https://ramendb.supleks.jp/s/26234.html)(街の中華屋さん。ミソパーコーが美味かった)
 
 ### メモ
 - 上星川駅から徒歩2分なので使いやすい。
