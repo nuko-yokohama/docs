@@ -23,8 +23,8 @@
 |[湯快爽快 たや店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#湯快爽快-たや店)|横浜市栄区|✗|○|840円|○|○|△|○|✗|✗|
 |[八朔の湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#八朔の湯)|横浜市緑区|✗|○|900円|○|○|△|○|✗|✗|
 |[港北の湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#港北の湯)|横浜市都筑区|✗|○|900円|○|○|△|○|✗|✗|
-|湯けむりの里 すすき野|横浜市青葉区|✗|✗|780円|○|○|△|○|✗|✗|
-|INSPA横浜|横浜市神奈川区|✗|○|2500円|✗|✗|○|✗|△|✗|
+|[湯けむりの里 すすき野](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#湯けむりの里-すすき野)|横浜市青葉区|✗|✗|780円|○|○|△|○|✗|✗|
+|[INSPA横浜](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#inpsa横浜)|横浜市神奈川区|✗|○|2500円|✗|✗|○|✗|△|✗|
 |[反町浴場](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#反町浴場)|横浜市神奈川区|○|✗|800円|△|○|○|✗|✗|✗|
 |鷲の湯|横浜市神奈川区|△|✗|770円|△|○|○|○|✗|✗|
 |ユーランド鶴見|横浜市鶴見区|✗|○|1900円|○|○|○|○|△|✗|
