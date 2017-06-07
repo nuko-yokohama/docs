@@ -22,7 +22,7 @@
 |[おふろの王様 港南台店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#お風呂の王様-港南台店)|横浜市港南区|✗|✗|840円|○|○|△|○|✗|✗|
 |[湯快爽快 たや店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#湯快爽快-たや店)|横浜市栄区|✗|○|840円|○|○|△|○|✗|✗|
 |[八朔の湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#八朔の湯)|横浜市緑区|✗|○|900円|○|○|△|○|✗|✗|
-|港北の湯|横浜市都筑区|✗|○|900円|○|○|△|○|✗|✗|
+|[港北の湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#港北の湯)|横浜市都筑区|✗|○|900円|○|○|△|○|✗|✗|
 |湯けむりの里 すすき野|横浜市青葉区|✗|✗|780円|○|○|△|○|✗|✗|
 |INSPA|横浜市神奈川区|✗|○|2500円|✗|✗|○|✗|△|✗|
 |[反町浴場](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#反町浴場)|横浜市神奈川区|○|✗|800円|△|○|○|✗|✗|✗|
@@ -407,19 +407,18 @@ http://www.yu-land.co.jp/s1-hassaku/
 - 定期的に人工温泉内容を変更している。
 - 男女別日替わり？で和風/洋風の浴場を切替え。
 
-## 八朔の湯
+## 港北の湯
 ### 公式リンク
-http://www.yu-land.co.jp/s1-hassaku/
+http://kohokunoyu.com/introduction/
 
 ### 最寄り駅
-- 一応は東急線「市が尾」になるが、」少々遠い。
-- 十日市場駅からシャトルバスあり。
+- 何処が最寄り駅になるんだろう・・・的な場所
 
 ### 風呂の種類
 
 |天然温泉|人口温泉|炭酸泉|薬湯|電気風呂|ドライサウナ|スチームサウナ|低温サウナ室|クールルーム|
 |:-----:|:------:|:---:|:--:|:-----:|:---------:|:----------:|:---------:|:----------:|
-|-      |○       |-    |-   |○      |○          |○           |○          |-           |
+|○      |-       |○    |-   |-      |○          |○           |-          |-           |
 
 ### ラーメン
 - 店内
