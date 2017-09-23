@@ -275,6 +275,7 @@ http://www.mantennoyu.com/
 ### ラーメン
 - 店内
   - 保土ヶ谷名物「保土ヶ谷ちゃんぽん」なる謎メニューあり。知らんぞ、そんな名物。
+  - https://ramendb.supleks.jp/s/103608.html
 - 近隣
   - [味山河 上星川店](https://ramendb.supleks.jp/s/67401.html)、[寿々㐂家](https://ramendb.supleks.jp/s/2783.html)(少し離れているけど)、[星華園](https://ramendb.supleks.jp/s/26234.html)(街の中華屋さん。ミソパーコーが美味かった)
 
@@ -548,7 +549,8 @@ http://www.yu-land.com/
 
 ### ラーメン
 - 店内
-  - 3F食堂でラーメンも提供。醤油ラーメン、味噌ラーメン、スーラータンメンなど。
+  - 3F食堂でラーメンも提供。醤油ラーメン、味噌ラーメン、スーラータンメンなど。
+  - https://ramendb.supleks.jp/s/102081.html
 - 近隣
   - 近隣にはないかな。末吉通り沿いまで行けば何軒かはある。
 
@@ -559,6 +561,7 @@ http://www.yu-land.com/
 # 川崎エリア
 
 ## 川崎ビッグ
+現在、改装工事中。10月頃に再開。(2017-09-22)
 ### 公式リンク
 http://www.kawasaki-big.com/
 
@@ -603,7 +606,8 @@ http://www.jn-family.com/
 
 ### ラーメン
 - 店内
-  - ラーメンは数種類。数回食べたかな。
+  - ラーメンは数種類。数回食べたかな。
+  - https://ramendb.supleks.jp/s/72723.html
 - 近隣
   - 相模原駅側、アイワールド側に結構な数のラーメン店あり。
   - このへんのラーメン店はあらかた食べ尽くした気がするｗ
