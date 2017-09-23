@@ -9,7 +9,7 @@
 |名称|市区町村|駅近|送迎バス|基本料金|露天|サウナ|手ぶらセット|ラーメン|漫画|宿泊|
 |:---|:------|:--:|:-----:|------:|:--:|:----:|:--------:|:------:|:-:|:--:|
 |[本牧ゆあそび館](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#本牧ゆあそび館)|横浜市中区|✗|✗|870円|△|○|○|△|✗|✗|
-|[スパ ニュージャパン](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#スパニュージャパン)|横浜市中区|○|✗|1550円|△|○|○|○|△|△|
+|[スパ ニュージャパン](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#スパニュージャパン) (閉館)|横浜市中区|○|✗|1550円|△|○|○|○|△|△|
 |[Spa EAS](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#spa-eas)|横浜市西区|○|✗|2670円|△|○|○|○|○|△|
 |[スカイスパ](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#スカイスパ)|横浜市西区|○|✗|2370円|✗|○|○|○|△|○|
 |[万葉倶楽部](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#万葉倶楽部)|横浜市西区|△|○|2370円|○|○|○|○|○|○|
@@ -112,6 +112,7 @@ http://www.yuasobikan.com/
 - 館内禁煙。入口に灰皿あり。
 
 ## スパ　ニュージャパン
+2017年8月31日に閉館しました。かなしい。
 ### 公式リンク
 http://spa-newjapan-yokohama.jp/index.html
 ### 最寄り駅
