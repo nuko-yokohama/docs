@@ -9,17 +9,17 @@
 |名称|市区町村|駅近|送迎バス|基本料金|露天|サウナ|手ぶらセット|ラーメン|漫画|宿泊|
 |:---|:------|:--:|:-----:|------:|:--:|:----:|:--------:|:------:|:-:|:--:|
 |[本牧ゆあそび館](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#本牧ゆあそび館)|横浜市中区|✗|✗|870円|△|○|○|△|✗|✗|
-|[スパ ニュージャパン](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#スパニュージャパン) (閉館)|横浜市中区|○|✗|1550円|△|○|○|○|△|△|
+|[スパ ニュージャパン](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#スパニュージャパン) (閉館)|横浜市中区|[○](https://ramendb.supleks.jp/s/66832.html)|✗|1550円|△|○|○|○|△|△|
 |[Spa EAS](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#spa-eas)|横浜市西区|○|✗|2670円|△|○|○|○|○|△|
 |[スカイスパ](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#スカイスパ)|横浜市西区|○|✗|2370円|✗|○|○|○|△|○|
 |[万葉倶楽部](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#万葉倶楽部)|横浜市西区|△|○|2370円|○|○|○|○|○|○|
 |[横浜温泉くさつ](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#横浜温泉くさつ)|横浜市南区|△|✗|720円|✗|△|△|△|✗|✗|
-|[みうら湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#みうら湯)|横浜市南区|△|✗|900円|○|○|△|○|△|✗|
-|[満天の湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#満天の湯)|横浜市保土ヶ谷区|○|✗|930円|○|○|△|○|✗|✗|
-|[竜泉寺の湯 鶴ヶ峰店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#竜泉寺の湯-鶴ヶ峰店)|横浜市旭区|✗|○|600円|○|○|△|○|✗|✗|
+|[みうら湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#みうら湯)|横浜市南区|△|✗|900円|○|○|△|[○](https://ramendb.supleks.jp/s/91445.html)|△|✗|
+|[満天の湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#満天の湯)|横浜市保土ヶ谷区|○|✗|930円|○|○|△|[○](https://ramendb.supleks.jp/s/103608.html)|✗|✗|
+|[竜泉寺の湯 鶴ヶ峰店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#竜泉寺の湯-鶴ヶ峰店)|横浜市旭区|✗|○|600円|○|○|△|[○](https://ramendb.supleks.jp/s/94373.html)|✗|✗|
 |[横浜温泉チャレンジャー](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#横浜温泉チャレンジャー)|横浜市旭区|✗|○|600円|✗|✗|△|○|△|✗|
 |[おふろの王様 瀬谷店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#お風呂の王様-瀬谷店)|横浜市瀬谷区|✗|○|900円|○|○|△|○|✗|✗|
-|[おふろの王様 港南台店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#お風呂の王様-港南台店)|横浜市港南区|✗|✗|840円|○|○|△|○|✗|✗|
+|[おふろの王様 港南台店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#お風呂の王様-港南台店)|横浜市港南区|✗|✗|840円|○|○|△|[○](https://ramendb.supleks.jp/s/106388.html)|✗|✗|
 |[湯快爽快 たや店](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#湯快爽快-たや店)|横浜市栄区|✗|○|840円|○|○|△|○|✗|✗|
 |[葛の湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#葛の湯)|横浜市泉区|✗|✗|630円|○|○|△|○|△|✗|
 |[八朔の湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#八朔の湯)|横浜市緑区|✗|○|900円|○|○|△|○|✗|✗|
@@ -29,7 +29,7 @@
 |[反町浴場](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#反町浴場)|横浜市神奈川区|○|✗|800円|△|○|○|✗|✗|✗|
 |[鷲の湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#鷲の湯)|横浜市神奈川区|△|✗|770円|△|○|○|○|✗|✗|
 |[ユーランド鶴見](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#ユーランド鶴見)|横浜市鶴見区|✗|○|1900円|○|○|○|○|△|✗|
-|おふろの国|横浜市鶴見区|✗|✗|700円|○|○|△|○|✗|✗|
+|おふろの国|横浜市鶴見区|✗|✗|700円|○|○|△|[○](https://ramendb.supleks.jp/s/24721.html)|✗|✗|
 |RAKU SPA|横浜市鶴見区|✗|○|1680円|○|○|○|△|◎|✗|
 |シーサイドスパ|横浜市金沢区|✗|✗|1300円|○|○|△|✗|✗|✗|
 
@@ -73,7 +73,7 @@
 
 |名称|市区町村|駅近|送迎バス|基本料金|露天|サウナ|手ぶらセット|ラーメン|漫画|宿泊|
 |:---|:------|:--:|:-----:|------:|:--:|:----:|:--------:|:------:|:-:|:--:|
-|相模健康センター|座間市|△|○|1600円|○|○|○|○|○|△|
+|相模健康センター|座間市|△|○|1600円|○|○|○|[○](https://ramendb.supleks.jp/s/92017.html)|○|△|
 |湯花楽 厚木店|秦野市|✗|○|1550円|○|○|○|○|○|✗|
 |弘法の里湯|秦野市|○|✗|1000円|○|✗|△|✗|✗|✗|
 |万葉の湯 はだの・湯河原温泉|秦野市|△|○|1800円|△|○|○|△|△|○|
