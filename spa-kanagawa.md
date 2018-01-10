@@ -28,7 +28,7 @@
 |[INSPA横浜](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#inpsa横浜)|横浜市神奈川区|✗|○|2500円|✗|✗|○|✗|△|✗|
 |[反町浴場](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#反町浴場)|横浜市神奈川区|○|✗|800円|△|○|○|✗|✗|✗|
 |[鷲の湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#鷲の湯)|横浜市神奈川区|△|✗|770円|△|○|○|○|✗|✗|
-|[ユーランド鶴見](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#ユーランド鶴見)|横浜市鶴見区|✗|○|1900円|○|○|○|○|△|✗|
+|[ユーランド鶴見](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#ユーランド鶴見)|横浜市鶴見区|✗|○|1900円|○|○|○|[○](https://ramendb.supleks.jp/s/102081.html)|△|✗|
 |おふろの国|横浜市鶴見区|✗|✗|700円|○|○|△|[○](https://ramendb.supleks.jp/s/24721.html)|✗|✗|
 |RAKU SPA|横浜市鶴見区|✗|○|1680円|○|○|○|△|◎|✗|
 |シーサイドスパ|横浜市金沢区|✗|✗|1300円|○|○|△|✗|✗|✗|
