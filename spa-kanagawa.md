@@ -583,13 +583,6 @@ http://ofuronokuni.co.jp/
 ### メモ
 - ロウリュあり。日によってはレスラーが熱波を送ってくれる。
 
-# 川崎エリア
-
-## 川崎ビッグ
-現在、改装工事中。10月頃に再開。(2017-09-22)
-### 公式リンク
-http://www.kawasaki-big.com/
-
 ## RAKU SPA
 ### 公式リンク
 http://rakuspa.com/tsurumi/
