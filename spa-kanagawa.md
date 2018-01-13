@@ -30,7 +30,7 @@
 |[鷲の湯](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#鷲の湯)|横浜市神奈川区|△|✗|770円|△|○|○|○|✗|✗|
 |[ユーランド鶴見](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#ユーランド鶴見)|横浜市鶴見区|✗|○|1900円|○|○|○|[○](https://ramendb.supleks.jp/s/102081.html)|△|✗|
 |[おふろの国](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#おふろの国)|横浜市鶴見区|✗|✗|700円|○|○|△|[○](https://ramendb.supleks.jp/s/24721.html)|✗|✗|
-|[RAKU SPA](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#RAKU%20SPA)|横浜市鶴見区|✗|○|1680円|○|○|○|△|◎|✗|
+|[RAKU SPA](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#RAKU-SPA)|横浜市鶴見区|✗|○|1680円|○|○|○|△|◎|✗|
 |[シーサイドスパ](https://github.com/nuko-yokohama/docs/blob/master/spa-kanagawa.md#シーサイドスパ)|横浜市金沢区|✗|✗|1300円|○|○|△|✗|✗|✗|
 
 ### 川崎エリア
