@@ -19,8 +19,11 @@
 | 横浜市中区     | [名代 富士そば伊勢佐木モール店](https://ramendb.supleks.jp/s/22122.html) | [ラーメン](https://ramendb.supleks.jp/review/183092.html)<br />[ラーメンミニカレーセット](https://ramendb.supleks.jp/review/1042085.html) |
 | 横浜市南区     | [八十一 別所店](https://ramendb.supleks.jp/s/112801.html)    | [チャーシューメン](https://ramendb.supleks.jp/review/1172302.html) |
 | 横浜市南区     | [やぶ忠 六ツ川店](https://ramendb.supleks.jp/s/110326.html)  | [けんちんラーメン](https://ramendb.supleks.jp/review/1142065.html) |
+| 横浜市南区     | [大むら](https://ramendb.supleks.jp/s/111738.html)           | [チャーシューメン](https://ramendb.supleks.jp/review/1159952.html) |
 | 横浜市港南区   | [やぶ忠](https://ramendb.supleks.jp/s/57246.html)            | [チャーシューメン](https://ramendb.supleks.jp/review/1084150.html) |
+| 横浜市神奈川区 | [蕎麦 源](https://ramendb.supleks.jp/s/28894.html)           | [ラーメン](https://ramendb.supleks.jp/review/1157494.html)   |
 | 横浜市瀬谷区   | [志波田](https://ramendb.supleks.jp/s/106488.html)           | [チャーシューメン](https://ramendb.supleks.jp/review/1119264.html) |
+| 横浜市鶴見区   | [めん殿](https://ramendb.supleks.jp/s/90453.html)            | [チャーシューメン](https://ramendb.supleks.jp/review/972612.html) |
 | 横浜市鶴見区   | [ゆで太郎鶴見中央店](https://ramendb.supleks.jp/s/82393.html) | [ざる中華](https://ramendb.supleks.jp/review/1171468.html)   |
 | 川崎市川崎区   | [増田屋](https://ramendb.supleks.jp/s/64218.html)            | [ラーメン定食](https://ramendb.supleks.jp/review/1089655.html) |
 | 川崎市川崎区   | [ゆで太郎川崎砂子店](https://ramendb.supleks.jp/s/67785.html) | [中華そば＋わかめ](https://ramendb.supleks.jp/review/1139034.html) |
