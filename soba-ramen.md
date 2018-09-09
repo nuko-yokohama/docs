@@ -21,7 +21,7 @@
 | 横浜市南区     | [やぶ忠 六ツ川店](https://ramendb.supleks.jp/s/110326.html)  | ぬ：[けんちんラーメン](https://ramendb.supleks.jp/review/1142065.html) |
 | 横浜市南区     | [大むら](https://ramendb.supleks.jp/s/111738.html)           | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1159952.html) |
 | 横浜市港南区   | [やぶ忠](https://ramendb.supleks.jp/s/57246.html)            | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1084150.html) |
-| 横浜市港南区   | 増田屋                                                       | 冷やしラーメン                                               |
+| 横浜市港南区   | [増田屋](https://ramendb.supleks.jp/s/112962.html)           | ぬ：[冷やしラーメン](https://ramendb.supleks.jp/review/1174139.html) |
 | 横浜市神奈川区 | [蕎麦 源](https://ramendb.supleks.jp/s/28894.html)           | ぬ：[ラーメン](https://ramendb.supleks.jp/review/1157494.html) |
 | 横浜市瀬谷区   | [志波田](https://ramendb.supleks.jp/s/106488.html)           | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1119264.html) |
 | 横浜市鶴見区   | [めん殿](https://ramendb.supleks.jp/s/90453.html)            | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/972612.html) |
@@ -70,7 +70,7 @@
 | 東京都港区   | [ゆで太郎芝大門店](https://ramendb.supleks.jp/s/61812.html)  | [鬼おろしざる中華](https://ramendb.supleks.jp/review/1158578.html) |
 | 東京都港区   | [ゆで太郎高輪店](https://ramendb.supleks.jp/s/60648.html)    | [野菜たっぷり中華そば](https://ramendb.supleks.jp/review/1132716.html) |
 | 東京都港区   | [ゆで太郎 竹芝店](https://ramendb.supleks.jp/s/62932.html)   | [ダブルワカメラーメン](https://ramendb.supleks.jp/review/1123178.html) |
-| 東京都港区   | 【閉店】[梅もと品川店](https://ramendb.supleks.jp/s/32642.html) | [みそラーメン](https://ramendb.supleks.jp/review/323621.html) |
+| 東京都港区   | 【閉店】[梅もと品川店](https://ramendb.supleks.jp/s/32642.html) | ぬ：[みそラーメン](https://ramendb.supleks.jp/review/323621.html) |
 | 東京都港区   | [ゆで太郎 南青山一丁目店](https://ramendb.supleks.jp/s/56069.html) | [月見中華](https://ramendb.supleks.jp/review/1120205.html)   |
 | 東京都中央区 | [梅もと八重洲店](https://ramendb.supleks.jp/s/58520.html)    | [正油ラーメン＋おにぎり](https://ramendb.supleks.jp/review/982356.html) |
 | 東京都新宿区 | [梅もと新宿西口店](https://ramendb.supleks.jp/s/20042.html)  | [ラーメン天丼セット](https://ramendb.supleks.jp/review/158281.html) |
