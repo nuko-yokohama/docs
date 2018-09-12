@@ -86,4 +86,12 @@
 
 ## その他
 
-他の都道府県も別途追加予定。天童市の水車はこのリストに含めるべきだろうか・・・？
+他の都道府県のリスト。
+
+| 場所               | 店名                                                         | メニュー                                                     |
+| ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 山形県新庄市       | [一茶庵分店](https://ramendb.supleks.jp/s/14887.html)        | ぬ：[一茶ラーメン](https://ramendb.supleks.jp/review/88339.html) |
+| 山形県天童市       | [手打ち 水車生そば](https://ramendb.supleks.jp/s/5193.html)  | ぬ：[元祖鳥中華](https://ramendb.supleks.jp/review/251555.html) |
+| 大阪市北区         | [阪急そば梅田駅3階店](https://ramendb.supleks.jp/s/32832.html) | ぬ：[和風中華そば(天ぷら抜き)＋きざみ](https://ramendb.supleks.jp/review/1105582.html) |
+| 兵庫県神戸市中央区 | [えきそばJR元町店](https://ramendb.supleks.jp/s/94806.html)  | [てんぷらえきそば](https://ramendb.supleks.jp/review/1014054.html) |
+|                    |                                                              |                                                              |
