@@ -44,7 +44,7 @@
 | 厚木市           | [ゆで太郎厚木下依知店](https://ramendb.supleks.jp/s/86515.html) |                                                              |
 | 厚木市           | [ゆで太郎厚木西インター店](https://supleks.jp/s/100563.html) |                                                              |
 | 大和市           | [ゆで太郎大和下鶴間店](https://ramendb.supleks.jp/s/84839.html) |                                                              |
-| 大和市           | [増田屋](https://ramendb.supleks.jp/s/112813.html)           |                                                              |
+| 大和市           | [増田屋](https://ramendb.supleks.jp/s/112813.html)           | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1177856.html) |
 | 三浦市           | [そば新](https://ramendb.supleks.jp/s/60578.html)            | ぬ：[天ラーメン](https://ramendb.supleks.jp/review/725439.html) |
 
 
