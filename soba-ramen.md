@@ -20,7 +20,8 @@
 | 横浜市西区       | [ゆで太郎横浜岡野店](https://supleks.jp/s/95433.html)        |                                                              |
 | 横浜市南区       | [八十一 別所店](https://ramendb.supleks.jp/s/112801.html)    | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1172302.html) |
 | 横浜市南区       | [やぶ忠 六ツ川店](https://ramendb.supleks.jp/s/110326.html)  | ぬ：[けんちんラーメン](https://ramendb.supleks.jp/review/1142065.html) |
-| 横浜市南区       | [大むら](https://ramendb.supleks.jp/s/111738.html)           | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1159952.html) |
+| 横浜市南区       | [大むら](https://ramendb.supleks.jp/s/111738.html) (弘明寺)  | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1159952.html) |
+| 横浜市南区       | [大むら](https://ramendb.supleks.jp/s/55486.html) (井土ヶ谷) | ぬ：[チャーシューワンタンメン](https://ramendb.supleks.jp/review/1180752.html) |
 | 横浜市港南区     | [やぶ忠](https://ramendb.supleks.jp/s/57246.html)            | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1084150.html) |
 | 横浜市港南区     | [増田屋](https://ramendb.supleks.jp/s/112962.html)           | ぬ：[冷やしラーメン](https://ramendb.supleks.jp/review/1174139.html) |
 | 横浜市神奈川区   | [蕎麦 源](https://ramendb.supleks.jp/s/28894.html)           | ぬ：[ラーメン](https://ramendb.supleks.jp/review/1157494.html) |
