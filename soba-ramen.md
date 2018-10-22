@@ -18,6 +18,7 @@
 | 横浜市中区       | [ゆで太郎関内ベイスターズ通り店](https://ramendb.supleks.jp/s/84091.html) |                                                              |
 | 横浜市中区       | [名代 富士そば伊勢佐木モール店](https://ramendb.supleks.jp/s/22122.html) | ぬ：[ラーメン](https://ramendb.supleks.jp/review/183092.html)<br />[ラーメンミニカレーセット](https://ramendb.supleks.jp/review/1042085.html) |
 | 横浜市西区       | [ゆで太郎横浜岡野店](https://supleks.jp/s/95433.html)        |                                                              |
+| 横浜市西区       | [山屋](https://ramendb.supleks.jp/s/30511.html)              | ぬ：[サンマーメン](https://ramendb.supleks.jp/review/654459.html) |
 | 横浜市南区       | [八十一 別所店](https://ramendb.supleks.jp/s/112801.html)    | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1172302.html) |
 | 横浜市南区       | [やぶ忠 六ツ川店](https://ramendb.supleks.jp/s/110326.html)  | ぬ：[けんちんラーメン](https://ramendb.supleks.jp/review/1142065.html) |
 | 横浜市南区       | [大むら](https://ramendb.supleks.jp/s/111738.html) (弘明寺)  | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1159952.html) |
@@ -75,7 +76,7 @@
 | 東京都大田区 | [そば処 やぶ久](https://ramendb.supleks.jp/s/102651.html)    | [ラーメン](https://ramendb.supleks.jp/review/1122601.html)   |
 | 東京都大田区 | [そば処 廣栄屋](https://ramendb.supleks.jp/s/102656.html)    | [タンメン](https://ramendb.supleks.jp/review/1120734.html)   |
 | 東京都大田区 | [そば処 朝日屋](https://ramendb.supleks.jp/s/102627.html)    | [ラーメン](https://ramendb.supleks.jp/review/1119449.html)   |
-| 東京都大田区 | [そば処 亀屋](https://ramendb.supleks.jp/s/112948.html)      | [中華そば](https://ramendb.supleks.jp/review/1173936.html)   |
+| 東京都品川区 | [そば処 亀屋](https://ramendb.supleks.jp/s/112948.html)      | [中華そば](https://ramendb.supleks.jp/review/1173936.html)   |
 | 東京都品川区 | [ゆで太郎大崎広小路店](https://ramendb.supleks.jp/s/62281.html) | [カレーざる中華](https://ramendb.supleks.jp/review/1164206.html) |
 | 東京都品川区 | [ゆで太郎東五反田店](https://ramendb.supleks.jp/s/62110.html) | [野菜たっぷり中華そば＋コロッケ](https://ramendb.supleks.jp/review/1135730.html) |
 | 東京都港区   | [ゆで太郎芝大門店](https://ramendb.supleks.jp/s/61812.html)  | [鬼おろしざる中華](https://ramendb.supleks.jp/review/1158578.html) |
@@ -84,6 +85,7 @@
 | 東京都港区   | 【閉店】[梅もと品川店](https://ramendb.supleks.jp/s/32642.html) | ぬ：[みそラーメン](https://ramendb.supleks.jp/review/323621.html) |
 | 東京都港区   | [ゆで太郎 南青山一丁目店](https://ramendb.supleks.jp/s/56069.html) | [月見中華](https://ramendb.supleks.jp/review/1120205.html)   |
 | 東京都中央区 | [梅もと八重洲店](https://ramendb.supleks.jp/s/58520.html)    | [正油ラーメン＋おにぎり](https://ramendb.supleks.jp/review/982356.html) |
+| 東京都中央区 | [ゆで太郎 銀座5丁目店](https://ramendb.supleks.jp/s/62712.html) | [中華そば＋かき揚げ](https://ramendb.supleks.jp/review/1184642.html) |
 | 東京都新宿区 | [梅もと新宿西口店](https://ramendb.supleks.jp/s/20042.html)  | [ラーメン天丼セット](https://ramendb.supleks.jp/review/158281.html) |
 |              |                                                              |                                                              |
 
