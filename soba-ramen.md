@@ -1,6 +1,6 @@
 # 蕎麦屋さんのラーメンデータベース
 
-蕎麦・うどんの提供を主業務にしているけど、ラーメンも提供しているお店のリスト。
+蕎麦・うどんの提供を主業務にしているけど、ラーメンも提供しているお店の誰得なリスト。
 
 店舗の追加や、修正等あれば、pull requestやissueをお願いします。 
 
@@ -32,6 +32,7 @@
 | 横浜市旭区       | [ゆで太郎鶴ヶ峰店](https://supleks.jp/s/85708.html)          |                                                              |
 | 横浜市鶴見区     | [めん殿](https://ramendb.supleks.jp/s/90453.html)            | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/972612.html) |
 | 横浜市鶴見区     | [ゆで太郎鶴見中央店](https://ramendb.supleks.jp/s/82393.html) | [ざる中華](https://ramendb.supleks.jp/review/1171468.html)   |
+| 横浜市戸塚区     | [満留賀](https://ramendb.supleks.jp/s/113897.html)           | [チャーシューメン](https://ramendb.supleks.jp/review/1186750.html) |
 | 川崎市川崎区     | [増田屋](https://ramendb.supleks.jp/s/64218.html)            | ぬ：[ラーメン定食](https://ramendb.supleks.jp/review/1089655.html) |
 | 川崎市川崎区     | [ゆで太郎川崎砂子店](https://ramendb.supleks.jp/s/67785.html) | [中華そば＋わかめ](https://ramendb.supleks.jp/review/1139034.html) |
 | 川崎市川崎区     | 名代 富士そば（川崎駅東口）                                  |                                                              |
@@ -76,6 +77,7 @@
 | 東京都大田区 | [そば処 やぶ久](https://ramendb.supleks.jp/s/102651.html)    | [ラーメン](https://ramendb.supleks.jp/review/1122601.html)   |
 | 東京都大田区 | [そば処 廣栄屋](https://ramendb.supleks.jp/s/102656.html)    | [タンメン](https://ramendb.supleks.jp/review/1120734.html)   |
 | 東京都大田区 | [そば処 朝日屋](https://ramendb.supleks.jp/s/102627.html)    | [ラーメン](https://ramendb.supleks.jp/review/1119449.html)   |
+| 東京都大田区 | [そば処 双葉家 赤松支店](https://ramendb.supleks.jp/s/102666.html) | [中華そば](https://ramendb.supleks.jp/review/1186073.html)   |
 | 東京都品川区 | [そば処 亀屋](https://ramendb.supleks.jp/s/112948.html)      | [中華そば](https://ramendb.supleks.jp/review/1173936.html)   |
 | 東京都品川区 | [ゆで太郎大崎広小路店](https://ramendb.supleks.jp/s/62281.html) | [カレーざる中華](https://ramendb.supleks.jp/review/1164206.html) |
 | 東京都品川区 | [ゆで太郎東五反田店](https://ramendb.supleks.jp/s/62110.html) | [野菜たっぷり中華そば＋コロッケ](https://ramendb.supleks.jp/review/1135730.html) |
