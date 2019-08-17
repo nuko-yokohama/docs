@@ -39,7 +39,8 @@
 | 川崎市幸区       | [そば処 大むら](https://ramendb.supleks.jp/s/87237.html)     |                                                              |
 | 川崎市幸区       | [大むら](https://ramendb.supleks.jp/s/83473.html)            | [ラーメン](https://ramendb.supleks.jp/review/1041026.html)   |
 | 川崎市中原区     | [名代 富士そば元住吉店](https://ramendb.supleks.jp/s/90102.html) | [煮干しラーメン](https://ramendb.supleks.jp/review/1030101.html) |
-| 川原市中原区     | [かしわや武蔵小杉店](https://ramendb.supleks.jp/s/56576.html) | ぬ：[肉ラーメン](https://ramendb.supleks.jp/review/1176834.html) |
+| 川原市多摩区     | [大むら](https://ramendb.supleks.jp/s/101101.html) | [タンメン](https://ramendb.supleks.jp/review/1076637.html) |
+| 川崎市高津区     | [梅もと溝の口店](https://ramendb.supleks.jp/s/62799.html)    | [正油ラーメン](https://ramendb.supleks.jp/review/918706.html) |
 | 川崎市高津区     | [梅もと溝の口店](https://ramendb.supleks.jp/s/62799.html)    | [正油ラーメン](https://ramendb.supleks.jp/review/918706.html) |
 | 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/75975.html)     | ぬ：[味噌チャーシューメン](https://ramendb.supleks.jp/review/1135004.html) |
 | 相模原市中央区   | [ゆで太郎相模原小町通店](https://ramendb.supleks.jp/s/106482.html) | [中華そば](https://ramendb.supleks.jp/review/1119117.html)   |
