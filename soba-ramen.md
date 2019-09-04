@@ -32,6 +32,7 @@
 | 横浜市旭区       | [ゆで太郎鶴ヶ峰店](https://supleks.jp/s/85708.html)          |                                                              |
 | 横浜市鶴見区     | [めん殿](https://ramendb.supleks.jp/s/90453.html)            | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/972612.html) |
 | 横浜市鶴見区     | [ゆで太郎鶴見中央店](https://ramendb.supleks.jp/s/82393.html) | [ざる中華](https://ramendb.supleks.jp/review/1171468.html)   |
+| 横浜市鶴見区     | [大村庵](https://kanagawa-ramendb.supleks.jp/s/120529.html) | [ラーメン](https://ramendb.supleks.jp/review/1260901.html)   |
 | 横浜市戸塚区     | [満留賀](https://ramendb.supleks.jp/s/113897.html)           | [チャーシューメン](https://ramendb.supleks.jp/review/1186750.html) |
 | 川崎市川崎区     | [増田屋](https://ramendb.supleks.jp/s/64218.html)            | ぬ：[ラーメン定食](https://ramendb.supleks.jp/review/1089655.html) |
 | 川崎市川崎区     | [ゆで太郎川崎砂子店](https://ramendb.supleks.jp/s/67785.html) | [中華そば＋わかめ](https://ramendb.supleks.jp/review/1139034.html) |
