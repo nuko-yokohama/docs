@@ -51,6 +51,7 @@
 | 相模原市緑区     | [ゆで太郎西橋本店](https://ramendb.supleks.jp/s/98903.html)  | [中華そばとり舞茸天丼セット](https://ramendb.supleks.jp/review/1130647.html) |
 | 相模原市緑区     | [増田屋](https://ramendb.supleks.jp/s/80676.html)            | [ラーメン](https://ramendb.supleks.jp/review/888139.html)    |
 | 茅ヶ崎市         | [大むら](https://ramendb.supleks.jp/s/111269.html) （本当に蕎麦店か要確認） |                                                              |
+| 平塚市           | [大黒庵 本店](https://ramendb.supleks.jp/s/12062.html) | [ラーメン](https://ramendb.supleks.jp/review/942657.html) |
 | 平塚市           | [ゆで太郎平塚桜ヶ丘店](https://ramendb.supleks.jp/s/107868.html) |                                                              |
 | 厚木市           | [ゆで太郎厚木下依知店](https://ramendb.supleks.jp/s/86515.html) |                                                              |
 | 厚木市           | [ゆで太郎厚木西インター店](https://supleks.jp/s/100563.html) |                                                              |
