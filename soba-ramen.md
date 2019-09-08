@@ -85,6 +85,7 @@
 | 東京都大田区 | [そば処 朝日屋](https://ramendb.supleks.jp/s/102627.html)    | [ラーメン](https://ramendb.supleks.jp/review/1119449.html)   |
 | 東京都大田区 | [そば処 双葉家 赤松支店](https://ramendb.supleks.jp/s/102666.html) | [中華そば](https://ramendb.supleks.jp/review/1186073.html)   |
 | 東京都大田区 | [そば処 吉岡家 本店](https://ramendb.supleks.jp/s/102591.html) | [もやしそば](https://ramendb.supleks.jp/review/1254975.html)   |
+| 東京都大田区 | [そば処 旭庵](https://ramendb.supleks.jp/s/102629.html) | [冷やし中華](https://ramendb.supleks.jp/review/1261912.html)   |
 | 東京都品川区 | [そば処 亀屋](https://ramendb.supleks.jp/s/112948.html)      | [中華そば](https://ramendb.supleks.jp/review/1173936.html)   |
 | 東京都品川区 | [ゆで太郎大崎広小路店](https://ramendb.supleks.jp/s/62281.html) | [カレーざる中華](https://ramendb.supleks.jp/review/1164206.html) |
 | 東京都品川区 | [ゆで太郎東五反田店](https://ramendb.supleks.jp/s/62110.html) | [野菜たっぷり中華そば＋コロッケ](https://ramendb.supleks.jp/review/1135730.html) |
