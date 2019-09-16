@@ -24,6 +24,7 @@
 | 横浜市南区       | [やぶ忠 六ツ川店](https://ramendb.supleks.jp/s/110326.html)  | ぬ：[けんちんラーメン](https://ramendb.supleks.jp/review/1142065.html) |
 | 横浜市南区       | [大むら](https://ramendb.supleks.jp/s/111738.html) (弘明寺)  | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1159952.html) |
 | 横浜市南区       | [大むら](https://ramendb.supleks.jp/s/55486.html) (井土ヶ谷) | ぬ：[チャーシューワンタンメン](https://ramendb.supleks.jp/review/1180752.html) |
+| 横浜市南区 | 鶴岡そば（未登録、六ツ川） | 冷やし中華のみ。カレーは数種あり |
 | 横浜市港南区     | [やぶ忠](https://ramendb.supleks.jp/s/57246.html)            | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1084150.html) |
 | 横浜市港南区     | [増田屋](https://ramendb.supleks.jp/s/112962.html)           | ぬ：[冷やしラーメン](https://ramendb.supleks.jp/review/1174139.html) |
 | 横浜市神奈川区   | [蕎麦 源](https://ramendb.supleks.jp/s/28894.html)           | ぬ：[ラーメン](https://ramendb.supleks.jp/review/1157494.html) |
@@ -31,6 +32,7 @@
 | 横浜市泉区       | [ゆで太郎横浜中田東店](https://supleks.jp/s/95785.html)      |                                                              |
 | 横浜市保土ケ谷区 | [ゆで太郎保土ヶ谷区役所前店](https://supleks.jp/s/86305.html) |                                                              |
 | 横浜市旭区       | [ゆで太郎鶴ヶ峰店](https://supleks.jp/s/85708.html)          |                                                              |
+| 横浜市旭区       | 白根家 フジスーパー前店 | 冷やし中華のみ。カレーは数種あり。 |
 | 横浜市鶴見区     | [めん殿](https://ramendb.supleks.jp/s/90453.html)            | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/972612.html) |
 | 横浜市鶴見区     | [ゆで太郎鶴見中央店](https://ramendb.supleks.jp/s/82393.html) | [ざる中華](https://ramendb.supleks.jp/review/1171468.html)   |
 | 横浜市鶴見区     | [大村庵](https://kanagawa-ramendb.supleks.jp/s/120529.html) | [ラーメン](https://ramendb.supleks.jp/review/1260901.html)   |
