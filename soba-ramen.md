@@ -38,7 +38,7 @@
 | 横浜市鶴見区 | 満留賀（未登録：定休日不明、矢向駅南） | |
 | 横浜市戸塚区     | [満留賀](https://ramendb.supleks.jp/s/113897.html)           | [チャーシューメン](https://ramendb.supleks.jp/review/1186750.html)<br>ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1263604.html)<br>味噌ラーメンは玉葱抜きにできないので注意 |
 | 横浜市泉区 | 満留賀（未登録、第2、4、5日曜日、立場駅） | ラーメンあり。サンマーメンはないが、もやしそばあり |
-| 横浜市都筑区 | 満留賀（未登録：日曜定休）| |
+| 横浜市都筑区 | 満留賀（未登録：日曜定休、ららぽーと傍）| ラーメン、タンメン、味噌ラーメン、もやしそば、五目中華そば、チャンポンメン、チャーシューメン |
 | 川崎市川崎区     | [増田屋](https://ramendb.supleks.jp/s/64218.html)            | ぬ：[ラーメン定食](https://ramendb.supleks.jp/review/1089655.html) |
 | 川崎市川崎区     | [ゆで太郎川崎砂子店](https://ramendb.supleks.jp/s/67785.html) | [中華そば＋わかめ](https://ramendb.supleks.jp/review/1139034.html) |
 | 川崎市川崎区     | 名代 富士そば（川崎駅東口）                                  |                                                              |
