@@ -34,7 +34,7 @@
 | 横浜市鶴見区     | [めん殿](https://ramendb.supleks.jp/s/90453.html)            | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/972612.html) |
 | 横浜市鶴見区     | [ゆで太郎鶴見中央店](https://ramendb.supleks.jp/s/82393.html) | [ざる中華](https://ramendb.supleks.jp/review/1171468.html)   |
 | 横浜市鶴見区     | [大村庵](https://kanagawa-ramendb.supleks.jp/s/120529.html) | [ラーメン](https://ramendb.supleks.jp/review/1260901.html)   |
-| 横浜市鶴見区 | 満留賀（未登録：日曜定休、鶴見中央） | けんちんラーメン！ |
+| 横浜市鶴見区 | 満留賀（未登録：日曜定休、京急鶴見） | けんちんラーメン！ |
 | 横浜市鶴見区 | 満留賀（未登録：定休日不明、矢向駅南） | |
 | 横浜市戸塚区     | [満留賀](https://ramendb.supleks.jp/s/113897.html)           | [チャーシューメン](https://ramendb.supleks.jp/review/1186750.html)<br>ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1263604.html)<br>味噌ラーメンは玉葱抜きにできないので注意 |
 | 横浜市泉区 | 満留賀（未登録、第2、4、5日曜日、立場駅） | ラーメンあり。サンマーメンはないが、もやしそばあり |
