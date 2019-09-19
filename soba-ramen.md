@@ -46,7 +46,7 @@
 | 川崎市川崎区     | [増田屋](https://ramendb.supleks.jp/s/64218.html)            | ぬ：[ラーメン定食](https://ramendb.supleks.jp/review/1089655.html) |
 | 川崎市川崎区     | [ゆで太郎川崎砂子店](https://ramendb.supleks.jp/s/67785.html) | [中華そば＋わかめ](https://ramendb.supleks.jp/review/1139034.html) |
 | 川崎市川崎区     | 名代 富士そば（川崎駅東口）                                  |                                                              |
-| 川崎市川崎区     | [そば処 満留賀](https://ramendb.supleks.jp/s/106516.html) | [ラーメンとチャーハンセット](https://ramendb.supleks.jp/review/1134744.html)<br>[もやしラーメン](https://ramendb.supleks.jp/review/1134745.html)|
+| 川崎市川崎区     | [そば処 満留賀](https://ramendb.supleks.jp/s/106516.html) 閉店？ | [ラーメンとチャーハンセット](https://ramendb.supleks.jp/review/1134744.html)<br>[もやしラーメン](https://ramendb.supleks.jp/review/1134745.html)|
 | 川崎市幸区       | [そば処 大むら](https://ramendb.supleks.jp/s/87237.html)     |                                                              |
 | 川崎市幸区       | [大むら](https://ramendb.supleks.jp/s/83473.html)            | [ラーメン](https://ramendb.supleks.jp/review/1041026.html)   |
 | 川崎市中原区     | [名代 富士そば元住吉店](https://ramendb.supleks.jp/s/90102.html) | [煮干しラーメン](https://ramendb.supleks.jp/review/1030101.html) |
