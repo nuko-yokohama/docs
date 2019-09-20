@@ -20,6 +20,7 @@
 | 横浜市西区       | [ゆで太郎横浜岡野店](https://supleks.jp/s/95433.html)        |                                                              |
 | 横浜市西区       | [山屋](https://ramendb.supleks.jp/s/30511.html)              | ぬ：[サンマーメン](https://ramendb.supleks.jp/review/654459.html) |
 | 横浜市西区       | [お食事処 満留賀](https://ramendb.supleks.jp/s/86304.html)              | ぬ：[サンマーメン](https://ramendb.supleks.jp/review/1263383.html) |
+| 横浜市西区 | 砂場（未登録、高島町） | 冷やし中華あり |
 | 横浜市南区       | [八十一 別所店](https://ramendb.supleks.jp/s/112801.html)（閉店）    | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1172302.html) |
 | 横浜市南区       | [やぶ忠 六ツ川店](https://ramendb.supleks.jp/s/110326.html)  | ぬ：[けんちんラーメン](https://ramendb.supleks.jp/review/1142065.html) |
 | 横浜市南区       | [大むら](https://ramendb.supleks.jp/s/111738.html) (弘明寺)  | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1159952.html) |
