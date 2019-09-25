@@ -43,6 +43,7 @@
 | 横浜市鶴見区 | 満留賀（未登録：定休日不明、矢向駅南） | 
 | 横浜市鶴見区 | [満留賀](https://supleks.jp/s/120954.html) | 以前はラーメンを提供していたが、現在は未提供とのこと。(2019-09-17確認) | 
 | 横浜市戸塚区     | [満留賀](https://ramendb.supleks.jp/s/113897.html)           | [チャーシューメン](https://ramendb.supleks.jp/review/1186750.html)<br>ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1263604.html)<br>味噌ラーメンは玉葱抜きにできないので注意 |
+| 横浜市戸塚区 | [福徳屋](https://supleks.jp/s/59819.html) | つけ麺のみ中華麺らしい |
 | 横浜市泉区 | 満留賀（未登録、第2、4、5日曜日、立場駅） | ラーメンあり。サンマーメンはないが、もやしそばあり |
 | 横浜市港北区 | [麺房 八角](https://supleks.jp/s/68119.html) | [B定食 (らーめん＋カツ丼)](https://supleks.jp/s/63073/review) |
 | 横浜市港北区 | [そば処やます家](https://supleks.jp/s/63073.html) | [ねぎらーめん](https://supleks.jp/review/782597.html) |
