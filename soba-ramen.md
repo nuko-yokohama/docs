@@ -51,12 +51,14 @@
 | 川崎市川崎区     | [ゆで太郎川崎砂子店](https://ramendb.supleks.jp/s/67785.html) | [中華そば＋わかめ](https://ramendb.supleks.jp/review/1139034.html) |
 | 川崎市川崎区     | 名代 富士そば（川崎駅東口）                                  |                                                              |
 | 川崎市川崎区     | [そば処 満留賀](https://ramendb.supleks.jp/s/106516.html) 閉店？ | [ラーメンとチャーハンセット](https://ramendb.supleks.jp/review/1134744.html)<br>[もやしラーメン](https://ramendb.supleks.jp/review/1134745.html)|
+| 川崎市川崎区 | [かわさき蕎麦](https://supleks.jp/s/31290/review) 閉店 | ぬ：[チャーシューメン](https://supleks.jp/review/332635.html) |
 | 川崎市幸区       | [そば処 大むら](https://ramendb.supleks.jp/s/87237.html)     |                                                              |
 | 川崎市幸区       | [大むら](https://ramendb.supleks.jp/s/83473.html)            | [ラーメン](https://ramendb.supleks.jp/review/1041026.html)   |
 | 川崎市中原区     | [名代 富士そば元住吉店](https://ramendb.supleks.jp/s/90102.html) | [煮干しラーメン](https://ramendb.supleks.jp/review/1030101.html) |
 | 川崎市中原区  | [さぬきうどん さいか](https://ramendb.supleks.jp/s/31608.html) | ぬ：[和風カレーラーメン](https://ramendb.supleks.jp/review/1190387.html)<br>[和風ピリ辛らーめん](https://ramendb.supleks.jp/review/1193870.html)|
 | 川原市多摩区     | [大むら](https://ramendb.supleks.jp/s/101101.html) | [タンメン](https://ramendb.supleks.jp/review/1076637.html) |
 | 川崎市高津区     | [梅もと溝の口店](https://ramendb.supleks.jp/s/62799.html)    | [正油ラーメン](https://ramendb.supleks.jp/review/918706.html) |
+| 川崎市高津区 | [松月庵](https://supleks.jp/s/58391.html) 水曜定休？| |
 | 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/75975.html)     | ぬ：[味噌チャーシューメン](https://ramendb.supleks.jp/review/1135004.html) |
 | 相模原市中央区   | [ゆで太郎相模原小町通店](https://ramendb.supleks.jp/s/106482.html) | [中華そば](https://ramendb.supleks.jp/review/1119117.html)   |
 | 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/114493.html) | [味噌ラーメン](https://ramendb.supleks.jp/review/1194236.html)   |
@@ -73,7 +75,7 @@
 | 綾瀬市 | [綾瀬やぶ久](https://supleks.jp/s/103794.html) | 中華ソバ、カレータンメン！ |
 | 秦野市           | 満留賀（未登録、読みはマルカ） | ラーメン数種あり。サンマーメンはなし。 |
 | 三浦市           | [そば新](https://ramendb.supleks.jp/s/60578.html)            | ぬ：[天ラーメン](https://ramendb.supleks.jp/review/725439.html) |
-
+| 三浦市           | [そば処 三崎](https://supleks.jp/s/67786.html)            | [味噌とんこつチャーシューメン](https://supleks.jp/review/797789.html) |
 
 
 ## 東京都
