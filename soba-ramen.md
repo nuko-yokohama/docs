@@ -63,7 +63,7 @@
 | 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/75975.html)     | ぬ：[味噌チャーシューメン](https://ramendb.supleks.jp/review/1135004.html) |
 | 相模原市中央区   | [ゆで太郎相模原小町通店](https://ramendb.supleks.jp/s/106482.html) | [中華そば](https://ramendb.supleks.jp/review/1119117.html)   |
 | 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/114493.html) | [味噌ラーメン](https://ramendb.supleks.jp/review/1194236.html)   |
-| 相模原市緑区     | おそば 満留賀（未登録、橋本五叉路南側） | ラーメン、タンメン、もやしそば、五目そばあり |
+| 相模原市緑区     | [おそば 満留賀](https://supleks.jp/s/121199.html) | 以前はラーメンを提供していたが、現在はメニューから消えている。(2019-09-26に確認) |
 | 相模原市緑区     | [ゆで太郎西橋本店](https://ramendb.supleks.jp/s/98903.html)  | [中華そばとり舞茸天丼セット](https://ramendb.supleks.jp/review/1130647.html) |
 | 相模原市緑区     | [増田屋](https://ramendb.supleks.jp/s/80676.html)            | [ラーメン](https://ramendb.supleks.jp/review/888139.html)    |
 | 茅ヶ崎市         | [大むら](https://ramendb.supleks.jp/s/111269.html) （本当に蕎麦店か要確認） |                                                              |
