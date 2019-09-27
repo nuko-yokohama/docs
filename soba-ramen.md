@@ -64,12 +64,18 @@
 | 相模原市中央区   | [ゆで太郎相模原小町通店](https://ramendb.supleks.jp/s/106482.html) | [中華そば](https://ramendb.supleks.jp/review/1119117.html)   |
 | 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/114493.html) | [味噌ラーメン](https://ramendb.supleks.jp/review/1194236.html)   |
 | 相模原市中央区 | [長生庵](https://supleks.jp/s/110986.html) | [ラーメン](https://supleks.jp/review/1149988.html) |
+| 相模原市中央区 | [山田うどん 亀井野店](https://supleks.jp/s/77215.html) |  |
+| 相模原市中央区 | [山田うどん 相模原中央店](https://supleks.jp/s/80291.html) |  |
+| 相模原市中央区 | [山田うどん 田名店](https://supleks.jp/s/111501.html) |  |
 | 相模原市緑区     | [おそば 満留賀](https://supleks.jp/s/121199.html) | 以前はラーメンを提供していたが、現在はメニューから消えている。(2019-09-26に確認) |
 | 相模原市緑区     | [ゆで太郎西橋本店](https://ramendb.supleks.jp/s/98903.html)  | [中華そばとり舞茸天丼セット](https://ramendb.supleks.jp/review/1130647.html) |
 | 相模原市緑区     | [増田屋](https://ramendb.supleks.jp/s/80676.html)            | [ラーメン](https://ramendb.supleks.jp/review/888139.html)    |
+| 藤沢市 | [山田うどん 亀井野店](https://supleks.jp/s/62817.html) |  |
+| 藤沢市 | [山田うどん 藤沢田方町店](https://supleks.jp/s/89871.html) |  |
 | 茅ヶ崎市         | [大むら](https://ramendb.supleks.jp/s/111269.html) （本当に蕎麦店か要確認） |                                                              |
 | 平塚市           | [大黒庵 本店](https://ramendb.supleks.jp/s/12062.html) | [ラーメン](https://ramendb.supleks.jp/review/942657.html) |
 | 平塚市           | [ゆで太郎平塚桜ヶ丘店](https://ramendb.supleks.jp/s/107868.html) |                                                              |
+| 平塚市 | [山田うどん食堂](https://supleks.jp/s/121171.html) | |
 | 厚木市           | [ゆで太郎厚木下依知店](https://ramendb.supleks.jp/s/86515.html) |                                                              |
 | 厚木市           | [ゆで太郎厚木西インター店](https://supleks.jp/s/100563.html) |                                                              |
 | 大和市           | [ゆで太郎大和下鶴間店](https://ramendb.supleks.jp/s/84839.html) |                                                              |
