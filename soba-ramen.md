@@ -62,7 +62,7 @@
 | 川崎市高津区 | [松月庵](https://supleks.jp/s/58391.html) 水曜定休？| |
 | 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/75975.html)     | ぬ：[味噌チャーシューメン](https://ramendb.supleks.jp/review/1135004.html) |
 | 相模原市中央区   | [ゆで太郎相模原小町通店](https://ramendb.supleks.jp/s/106482.html) | [中華そば](https://ramendb.supleks.jp/review/1119117.html)   |
-| 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/114493.html) | [味噌ラーメン](https://ramendb.supleks.jp/review/1194236.html)   |
+| 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/114493.html) | [味噌ラーメン](https://ramendb.supleks.jp/review/1194236.html)<br>ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1267096.html) |
 | 相模原市中央区 | [長生庵](https://supleks.jp/s/110986.html) | [ラーメン](https://supleks.jp/review/1149988.html) |
 | 相模原市中央区 | [山田うどん 亀井野店](https://supleks.jp/s/77215.html) |  |
 | 相模原市中央区 | [山田うどん 相模原中央店](https://supleks.jp/s/80291.html) |  |
