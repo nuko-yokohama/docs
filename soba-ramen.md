@@ -32,6 +32,7 @@
 | 横浜市神奈川区   | [蕎麦 源](https://ramendb.supleks.jp/s/28894.html)           | ぬ：[ラーメン](https://ramendb.supleks.jp/review/1157494.html) |
 | 横浜市瀬谷区     | [志波田](https://ramendb.supleks.jp/s/106488.html)           | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1119264.html) |
 | 横浜市泉区       | [ゆで太郎横浜中田東店](https://supleks.jp/s/95785.html)      |                                                              |
+| 横浜市泉区 | [ラーメンショップ 岡津店](https://supleks.jp/s/80664.html) | ラーショにも関わらず蕎麦の提供もある異色店 |
 | 横浜市保土ケ谷区 | [ゆで太郎保土ヶ谷区役所前店](https://supleks.jp/s/86305.html) |                                                              |
 | 横浜市旭区       | [ゆで太郎鶴ヶ峰店](https://supleks.jp/s/85708.html)          |                                                              |
 | 横浜市旭区       | 白根家 フジスーパー前店 | 冷やし中華のみ。カレーは数種あり。 |
