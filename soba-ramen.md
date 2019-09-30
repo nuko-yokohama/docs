@@ -80,7 +80,7 @@
 | 厚木市           | [ゆで太郎厚木西インター店](https://supleks.jp/s/100563.html) |                                                              |
 | 大和市           | [ゆで太郎大和下鶴間店](https://ramendb.supleks.jp/s/84839.html) |                                                              |
 | 大和市           | [増田屋](https://ramendb.supleks.jp/s/112813.html)           | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1177856.html) |
-| 座間市 | [さか本そば店](https://sobadb.supleks.jp/s/107935.html)　｜｜
+| 座間市 | [さか本そば店](https://sobadb.supleks.jp/s/107935.html)　|  |
 | 綾瀬市 | [綾瀬やぶ久](https://supleks.jp/s/103794.html) | 中華ソバ、カレータンメン！ |
 | 秦野市           | 満留賀（未登録、読みはマルカ） | ラーメン数種あり。サンマーメンはなし。 |
 | 三浦市           | [そば処 三崎](https://supleks.jp/s/67786.html)            | [味噌とんこつチャーシューメン](https://supleks.jp/review/797789.html) |
