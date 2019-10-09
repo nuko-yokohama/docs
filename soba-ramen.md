@@ -4,9 +4,16 @@
 
 店舗の追加や、修正等あれば、pull requestやissueをお願いします。 
 
+* [神奈川県](#神奈川県)
+   * [横浜市](#横浜市) [川崎市](#川崎市) [相模原市(町田含む)](#相模原市) [湘南・三浦](#湘南・三浦) [県央](#県央) [県西](#県西)
+* [東京都](#東京都)
+* [その他](#その他)
+
 ## 神奈川県
 
 まずは地元神奈川のデータから整理する。
+
+### 横浜市
 
 | 場所             | 店名                                                         | 備考                                                         |
 | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -49,6 +56,11 @@
 | 横浜市港北区 | [麺房 八角](https://supleks.jp/s/68119.html) | [B定食 (らーめん＋カツ丼)](https://supleks.jp/s/63073/review) |
 | 横浜市港北区 | [そば処やます家](https://supleks.jp/s/63073.html) | [ねぎらーめん](https://supleks.jp/review/782597.html) |
 | 横浜市都筑区 | [満留賀](https://supleks.jp/s/121395.html) | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1267096.html) |
+
+### 川崎市
+
+| 場所         | 店名                                                         | 備考                                                         |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 川崎市川崎区     | [増田屋](https://ramendb.supleks.jp/s/64218.html)            | ぬ：[ラーメン定食](https://ramendb.supleks.jp/review/1089655.html) |
 | 川崎市川崎区     | [ゆで太郎川崎砂子店](https://ramendb.supleks.jp/s/67785.html) | [中華そば＋わかめ](https://ramendb.supleks.jp/review/1139034.html) |
 | 川崎市川崎区     | 名代 富士そば（川崎駅東口）                                  |                                                              |
@@ -61,6 +73,13 @@
 | 川原市多摩区     | [大むら](https://ramendb.supleks.jp/s/101101.html) | [タンメン](https://ramendb.supleks.jp/review/1076637.html) |
 | 川崎市高津区     | [梅もと溝の口店](https://ramendb.supleks.jp/s/62799.html)    | [正油ラーメン](https://ramendb.supleks.jp/review/918706.html) |
 | 川崎市高津区 | [松月庵](https://supleks.jp/s/58391.html) 水曜定休？| |
+
+### 相模原市
+
+あたりまえですが、町田も含みます。町田は神奈川なので。
+
+| 場所         | 店名                                                         | 備考                                                         |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/75975.html)     | ぬ：[味噌チャーシューメン](https://ramendb.supleks.jp/review/1135004.html) |
 | 相模原市中央区   | [ゆで太郎相模原小町通店](https://ramendb.supleks.jp/s/106482.html) | [中華そば](https://ramendb.supleks.jp/review/1119117.html)   |
 | 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/114493.html) | [味噌ラーメン](https://ramendb.supleks.jp/review/1194236.html)<br>ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1267096.html) |
@@ -71,12 +90,26 @@
 | 相模原市緑区     | [おそば 満留賀](https://supleks.jp/s/121199.html) | 以前はラーメンを提供していたが、現在はメニューから消えている。(2019-09-26に確認) |
 | 相模原市緑区     | [ゆで太郎西橋本店](https://ramendb.supleks.jp/s/98903.html)  | [中華そばとり舞茸天丼セット](https://ramendb.supleks.jp/review/1130647.html) |
 | 相模原市緑区     | [増田屋](https://ramendb.supleks.jp/s/80676.html)            | [ラーメン](https://ramendb.supleks.jp/review/888139.html)    |
+
+### 湘南・三浦
+
+| 場所         | 店名                                                         | 備考                                                         |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 藤沢市 | [山田うどん 亀井野店](https://supleks.jp/s/62817.html) |  |
 | 藤沢市 | [山田うどん 藤沢田方町店](https://supleks.jp/s/89871.html) |  |
 | 茅ヶ崎市         | [大むら](https://ramendb.supleks.jp/s/111269.html) （本当に蕎麦店か要確認） |                                                              |
 | 平塚市           | [大黒庵 本店](https://ramendb.supleks.jp/s/12062.html) | [ラーメン](https://ramendb.supleks.jp/review/942657.html) |
 | 平塚市           | [ゆで太郎平塚桜ヶ丘店](https://ramendb.supleks.jp/s/107868.html) |                                                              |
 | 平塚市 | [山田うどん食堂](https://supleks.jp/s/121171.html) | |
+| 三浦市           | [そば処 三崎](https://supleks.jp/s/67786.html)            | [味噌とんこつチャーシューメン](https://supleks.jp/review/797789.html) |
+| 三浦市(城ヶ島) | [そば新](https://ramendb.supleks.jp/s/60578.html)            | ぬ：[天ラーメン](https://ramendb.supleks.jp/review/725439.html) |
+| 三浦市(城ヶ島) | [梅一](https://supleks.jp/s/72351.html) | [わかめラーメン](https://supleks.jp/review/877845.html) |
+
+
+### 県央
+
+| 場所         | 店名                                                         | 備考                                                         |
+| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 厚木市           | [ゆで太郎厚木下依知店](https://ramendb.supleks.jp/s/86515.html) |                                                              |
 | 厚木市           | [ゆで太郎厚木西インター店](https://supleks.jp/s/100563.html) |                                                              |
 | 大和市           | [ゆで太郎大和下鶴間店](https://ramendb.supleks.jp/s/84839.html) |                                                              |
@@ -84,10 +117,8 @@
 | 座間市 | [さか本そば店](https://sobadb.supleks.jp/s/107935.html)　|  |
 | 綾瀬市 | [綾瀬やぶ久](https://supleks.jp/s/103794.html) | 中華ソバ、カレータンメン！ |
 | 秦野市           | 満留賀（未登録、読みはマルカ） | ラーメン数種あり。サンマーメンはなし。 |
-| 三浦市           | [そば処 三崎](https://supleks.jp/s/67786.html)            | [味噌とんこつチャーシューメン](https://supleks.jp/review/797789.html) |
-| 三浦市(城ヶ島) | [そば新](https://ramendb.supleks.jp/s/60578.html)            | ぬ：[天ラーメン](https://ramendb.supleks.jp/review/725439.html) |
-| 三浦市(城ヶ島) | [梅一](https://supleks.jp/s/72351.html) | [わかめラーメン](https://supleks.jp/review/877845.html) |
 
+### 県西
 
 ## 東京都
 
