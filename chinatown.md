@@ -95,7 +95,7 @@
 | [品珍閣関帝廟通り店](https://supleks.jp/s/92359.html) |          | ○        | ?      | ?      | ○    | ？         | ？   | 未食。店、まだ残っていたっけ？                               |
 | [翡翠楼新館](https://supleks.jp/s/73971.html)         |          | ○        | ?      | ?      | ○    | ○          | ○    | 場所合ってる？要確認。翡翠炒飯が有名。                       |
 | [老北京](https://supleks.jp/s/119960.html)            |          |          |        |        |      |            |      | 最近登録された店。                                           |
-| [愛群](https://supleks.jp/s/18962.html)               |          | ○        | ?      | ?      | ○    | ?          | ？   | [牛?撈麺](https://supleks.jp/review/145407.html)    |
+| [愛群](https://supleks.jp/s/18962.html)               |          | ○        | ?      | ?      | ○    | ?          | ？   | [牛腩撈麺](https://supleks.jp/review/145407.html)    |
 | [秀味園](https://supleks.jp/s/76399.html)             |          | ○        | ?      | ?      | ○    | ?          | ？   | [揚げ茄子と豚しゃぶのおろしぶっかけそば](https://supleks.jp/review/850423.html) |
 | [金陵](https://supleks.jp/s/27060.html)               |          |          |        |        |      |            |      | ここはもう以前の業態ではなかったかも。要調査。               |
 | [桃香園](https://supleks.jp/s/96514.html)             |          | ？       | ？     | ？     | ？   | ？         | ？   | イートイン？今はないかも。                                   |
