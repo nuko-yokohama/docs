@@ -41,19 +41,19 @@
 
 | 店舗名                                                       | ジャンル | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 | メモ                                                         |
 | ------------------------------------------------------------ | -------- | -------- | ------ | ------ | ---- | ---------- | ---- | ------------------------------------------------------------ |
-| [横浜大飯店](https://supleks.jp/s/21471.html)                |          | ○        | ?      | ?      | ○    | ?          | ○    | 食べ放題店                                                   |
+| [横浜大飯店](https://supleks.jp/s/21471.html)                |食べ放題 | ○        | ?      | ?      | ○    | ?          | ○    | 食べ放題店                                                   |
 | [SARIO 聘珍茶寮 横浜中華街店](https://supleks.jp/s/27504.html) |          | ○        | ?      | ?      | ○    | ?          | ？   | [激辛タンタン麺](https://supleks.jp/review/855634.html)<br />値段は安い。 |
 | [楽園](https://supleks.jp/s/18749.html)                      |          | ○        | ?      | ?      | ○    | ?          | ○    | [牛腩湯河粉](https://supleks.jp/review/149911.html)           |
 | [中国飯店](https://supleks.jp/s/93110.html)                  |          | ○        | ?      | ?      | ○    | ?          | ○    | 食べてない                                                   |
 | [北京料理 慶華樓](https://supleks.jp/s/20184.html)           | 北京料理 | ○        | ?      | ?      | ○    | ?          | ○    | [獅子頭湯麺+餃子](https://supleks.jp/review/160192.html)     |
 | [大珍楼](https://supleks.jp/s/18018.html)                    |          | ○        | ?      | ?      | ？   | ?          | ？   | 食べてない。閉店してないか要確認。                           |
-| [龍盛飯店](https://supleks.jp/s/71114.html)                  |          | ○        | ?      | ?      | ○    | ?          | ○    | [牛ナン湯河粉](https://supleks.jp/review/806564.html)<br />湯麺より炒麺が充実している店。 |
-| [永安楼](https://supleks.jp/s/22916.html)                    |          | ○        | ?      | ?      | ○    | ?          | ○    | [肉入りスープソバ](https://supleks.jp/review/192815.html)    |
+| [龍盛飯店](https://supleks.jp/s/71114.html)   | 食べ放題 | ○        | ?      | ?      | ○    | ?          | ○    | [牛ナン湯河粉](https://supleks.jp/review/806564.html)<br />以前とはメニューを刷新。|
 | [萬珍樓本店](https://.supleks.jp/s/87640.html)               |          | ○        | ?      | ?      | ○    | ?          | ○    | 老舗店。お値段高め。                                         |
 | [廣東飯店](https://supleks.jp/s/8092.html)                   |          | ○        | ?      | ？     | ○    | ?          | ○    | [蕃茄牛肉伴麺](https://supleks.jp/review/854619.html)<br />[扣肉面](https://supleks.jp/review/198204.html) |
-| [均元楼](https://supleks.jp/s/19205.html)                    |          | ○        | ?      | ?      | ○    | ?          | ○    | [正宗坦々麺](https://supleks.jp/review/151524.html)          |
 | [景珍樓新館](https://supleks.jp/s/82155.html)                |          | ○        | ?      | ?      | ○    | ?          | ○    | [牛腩湯麺](https://supleks.jp/review/902029.html)             |
-| [中華菜館 新新](https://supleks.jp/s/74080.html)             |          | ○        | ?      | ?      | ○    | ?          | ○    | [滑肉麺](https://supleks.jp/review/830786.html)              |
+| 鵬天閣酒家 | | ✗ | ✗ | ✗| ○ | ✗ | ○ | |
+| 海源酒家 | 食べ放題 | ○ | ✗ | ✗ | ○ | ？ | ○ ||
+| 王府井酒家 | 食べ放題 | ○ | ✗ | ✗ | ○ | ？ | ○ ||
 | [四川料理 京華樓別館](https://supleks.jp/s/22079.html)       | 四川料理 | ○        | ○      | ?      | ○    | ?          | ○    | [酸菜牛肉刀削麺](https://supleks.jp/review/182751.html)<br />[四川担々刀削麺（特辛）](https://supleks.jp/review/246016.html) |
 | [華龍飯店](https://supleks.jp/s/74476.html)                  |          | ○        | ?      | ?      | ○    | ?          | ○    | [上海葱油麺](https://supleks.jp/review/834603.html)          |
 | [海南飯店](https://supleks.jp/s/18618.html)                  |          | ○        | ?      | ?      | ○    | ?          | ○    | [千労麺+海老餃子](https://supleks.jp/review/145907.html)     |
@@ -271,6 +271,7 @@
 | [千禧楼](https://supleks.jp/s/18690.html)   | 福建料理 | ○        | ✗      | ✗      | ○    | ？         | ○                                           | [福建湯面](https://supleks.jp/review/138848.html)            |
 | [龍江飯店](https://supleks.jp/s/76004.html) |          | ○        | ✗      | ✗      | ○    | ○          | ○                                           | [五目そば](https://supleks.jp/review/847502.html)            |
 | [景珍樓](https://supleks.jp/s/16279.html)   |          | ○        | ✗      | ✗      | ？   | ？         | ？                                          | [チャーシュー麺](https://supleks.jp/review/106380.html)      |
+| [中華街大飯店](https://supleks.jp/s/76860.html) | 食べ放題| ○        | ✗      | ✗      | ？   | ？         | ？                                          | [担々麺](https://supleks.jp/review/854181.html)     | 
 | 錦里                                        |          |          |        |        |      |            |                                             | 未登録                                                       |
 
 ## 長安路
