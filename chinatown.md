@@ -131,7 +131,6 @@
 | [長城飯店](https://supleks.jp/s/73107.html)                  |                        | ○        | ✗      | ✗      | ○    | ✗          | ○    | [高菜麺](https://supleks.jp/review/823108.html)              |
 | [萬和樓](https://supleks.jp/s/18458.html)                    | 台湾料理               | ○        | ✗      | ✗      | ？   | ？         | ？   | [台湾麻醤麺](https://supleks.jp/review/141944.html)<br />[台湾牛肉麺](https://supleks.jp/review/137248.html) |
 | [SAIGON DEP](https://supleks.jp/s/76746.html)                | ベトナム               | ○        | ✗      | ○      | ○    | ？         | ？   | [ベトナム風冷やしそば](https://supleks.jp/review/853149.html)<br />食べログ掲載保留。 |
-|                                                              |                        |          |        |        |      |            |      |                                                              |
 
 
 
@@ -168,11 +167,11 @@
 
 | 店舗名                                            | ジャンル | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 | メモ                                                         |
 | ------------------------------------------------- | -------- | -------- | ------ | ------ | ---- | ---------- | ---- | ------------------------------------------------------------ |
+| [美心酒家](https://supleks.jp/s/121611.html) | 香港料理 |○ | ✗ | ✗ | ○ | ✗ | ○ | [正宗香港風云呑麺](https://ramendb.supleks.jp/review/1270072.html) |
 | [北京](https://supleks.jp/s/24919.html)           |          | ○        | ？     | ？     | ？   | ？         | ？   | [もやしそば](https://supleks.jp/review/221152.html)          |
-| [邨昌本館](https://supleks.jp/s/31366.html)       |          | ○        | ？     | ✗      | ○    | ？         | ○    | [ホタテあっさりメン](https://supleks.jp/review/305777.html)  |
 | [東珍味](https://supleks.jp/s/76158.html)         |          | ○        | ✗      | ✗      | ○    | ✗          | ○    | [高菜牛腩湯麺](https://supleks.jp/review/848869.html)        |
-| [龍華樓](https://ramendb.supleks.jp/s/26538.html) | 広東料理 | ○        | ？     | ？     | ？   | ？         | ？   | 閉店の可能性あり<br />[特製担々麺+水餃子セット](https://supleks.jp/review/242091.html) |
-| [美楽一杯新館](https://supleks.jp/s/97190.html)   |          | ○        | ？     | ✗      | ○    | ？         | ○    |                                                              |
+| [美楽一杯新館](https://supleks.jp/s/97190.html)   |          | ○        | ？     | ✗      | ○    | ？         | ○    | |
+| 
 | [梅蘭新館](https://supleks.jp/s/74909.html)       |          | ○        | ✗      | ✗      | ○    | ？         | ○    | [海蜆湯麺](https://supleks.jp/review/847800.html)            |
 
 
