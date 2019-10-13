@@ -171,7 +171,6 @@
 | [北京](https://supleks.jp/s/24919.html)           |          | ○        | ？     | ？     | ？   | ？         | ？   | [もやしそば](https://supleks.jp/review/221152.html)          |
 | [東珍味](https://supleks.jp/s/76158.html)         |          | ○        | ✗      | ✗      | ○    | ✗          | ○    | [高菜牛腩湯麺](https://supleks.jp/review/848869.html)        |
 | [美楽一杯新館](https://supleks.jp/s/97190.html)   |          | ○        | ？     | ✗      | ○    | ？         | ○    | |
-| 
 | [梅蘭新館](https://supleks.jp/s/74909.html)       |          | ○        | ✗      | ✗      | ○    | ？         | ○    | [海蜆湯麺](https://supleks.jp/review/847800.html)            |
 
 
