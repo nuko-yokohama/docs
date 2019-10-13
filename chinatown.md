@@ -153,14 +153,13 @@
 | [東光飯店別館](https://supleks.jp/s/6558.html)     |          | ○        | ✗      | ✗                                           | ○    | ○          | ○    | [北京炒瑪麺](https://supleks.jp/review/822532.html)<br />[東光チャーハン](https://supleks.jp/review/1207195.html) |
 | [鵬天閣](https://supleks.jp/s/115953.html)         |          | ○        | ✗      | ✗                                           | ○    | ？         | ○    |                                                              |
 | [牡丹園](https://supleks.jp/s/26320.html)          | 広東料理 | ○        | ✗      | [○](https://supleks.jp/review/1018290.html) | ○    | ○          | ○    | [牛喃湯麺](https://supleks.jp/review/239362.html)<br />[牛腩炒飯](https://supleks.jp/review/1212829.html) |
-| [中国料理 満珠園](https://supleks.jp/s/21811.html) |          | ○        | ✗      | ✗                                           |      | ？         | ？   |                                                              |
-| [日昇 四川菜館](https://supleks.jp/s/97247.html)   | 四川料理 | ○        | ○      | ✗                                           | ○    | ？         | ○    | [豚バラ肉刀削麺](https://supleks.jp/review/1039278.html)     |
+| 七福堂 | 食べ放題 | ○ | ✗ | ✗ | ○ | ？ | ○ | |                                                |
 | [保昌](https://supleks.jp/s/18622.html)            |          | ○        | ✗      | [○](https://supleks.jp/review/1244034.html) | ○    | ？         | ○    | 牛バラカレーが有名<br />[骨湯麺](https://supleks.jp/review/138600.html)<br />[アサリと野菜たっぷりピリ辛タンメン](https://supleks.jp/review/859832.html) |
 | [京城飯店](https://supleks.jp/s/73700.html)        |          | ○        | ✗      | ✗                                           | ○    | ？         | ○    | [黒担々麺](https://supleks.jp/review/827441.html)            |
 | [景徳鎮新館](https://supleks.jp/s/26332.html)      | 四川料理 | ○        | ✗      | ✗                                           | ○    | ？         | ○    | [棒々鶏冷麺](https://supleks.jp/review/239567.html)          |
 | [上海飯店](https://supleks.jp/s/73799.html)        |          | ○        | ✗      | ✗                                           | ○    | ？         | ○    | [椎茸ソバ](https://supleks.jp/review/828380.html)[           |
 | [大福林](https://supleks.jp/s/118183.html)         |          | ○        | ✗      | ✗                                           | ○    | ？         | ○    | 小皿料理店                                                   |
-|                                                    |          |          |        |                                             |      |            |      |                                                              |
+                                                           |
 
 
 ## 名無しの通り(中山路-香港路)
@@ -175,7 +174,7 @@
 | [龍華樓](https://ramendb.supleks.jp/s/26538.html) | 広東料理 | ○        | ？     | ？     | ？   | ？         | ？   | 閉店の可能性あり<br />[特製担々麺+水餃子セット](https://supleks.jp/review/242091.html) |
 | [美楽一杯新館](https://supleks.jp/s/97190.html)   |          | ○        | ？     | ✗      | ○    | ？         | ○    |                                                              |
 | [梅蘭新館](https://supleks.jp/s/74909.html)       |          | ○        | ✗      | ✗      | ○    | ？         | ○    | [海蜆湯麺](https://supleks.jp/review/847800.html)            |
-|                                                   |          |          |        |        |      |            |      |                                                              |
+
 
 
 ## 市場通り
@@ -215,7 +214,6 @@
 
 | 店舗名                                             | ジャンル | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 | メモ                                                         |
 | -------------------------------------------------- | -------- | -------- | ------ | ------ | ---- | ---------- | ---- | ------------------------------------------------------------ |
-| [壹路發](https://supleks.jp/s/73668.html)          | 台湾料理 | ○        | ✗      | ✗      | ○    | ？         | ○    | [香茹湯麺](https://supleks.jp/review/827339.html)            |
 | [中華第一家 杜記](https://supleks.jp/s/19114.html) | 四川料理 | ○        | ○      | ✗      | ○    | ？         | ○    | [高菜牛肉麺](https://supleks.jp/review/157541.html)<br />[四川燃面](https://supleks.jp/review/844789.html) |
 | [福楼](https://supleks.jp/s/33222.html)            |          | ○        | ？     | ✗      | ？   | ？         | ？   | [福樓麺](https://supleks.jp/review/823623.html)              |
 
