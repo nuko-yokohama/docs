@@ -250,7 +250,7 @@
 | [福満園本店](https://supleks.jp/s/18575.html)     | 四川料理<br />福建料理 | ○        | ？      | ？      | ○    | ？         | ○    | [タンタンメン](https://supleks.jp/review/147591.html)        |
 | [景徳鎮酒家](https://supleks.jp/s/85954.html)     | 四川料理               | ○        | ？      | ？      | ○    | ？         | ○    | [とろーりチーズの海鮮陳マーボー麺](https://supleks.jp/review/934734.html) |
 | [金香樓](https://supleks.jp/s/19400.html)         |                        | ○        | ？      | ？      | ○    | ？         | ○    | 壺料理<br />[紅焼牛肉面（四川風牛肉そば）](https://supleks.jp/review/149250.html) |
-| 餃子伝説 | | ○ | ○ | ？ | ？ | ？ | ○ | 餃子の種類多い。<br/> 刀削麺あり | 
+| [餃子伝説 総本舗](https://supleks.jp/s/121765.html) | | ○ | ○ | ✗ | ○ | ✗ | ○ | [四川什錦牛腩刀削面](https://ramendb.supleks.jp/review/1271649.html)<br/>餃子の種類多い。<br/> 刀削麺あり | 
 | [一本家](https://supleks.jp/s/101268.html)        | 家系                   | ○        | ？      | ？      | ？    | ？          | ○    | 旧・一八家<br />[赤味噌らーめん＋ほうれん草](https://supleks.jp/review/1077895.html) |
 | [武夷点心舗](https://supleks.jp/s/71318.html)     | 点心                   | ○        | ？      | ？      | ？    | ？          | ？   | **猫耳**という菓子あり<br />[拌麺＋雲呑湯](https://supleks.jp/review/808382.html)[ |
 | [東光飯店](https://supleks.jp/s/2568.html)        |                        | ○        | ？      | ？      | ○    | ○          | ○    | [牛肉汁そば](https://supleks.jp/review/93507.html)           |
