@@ -47,7 +47,7 @@
 | [中国飯店](https://supleks.jp/s/93110.html)                  |          | ○        | ？      | ？      | ○    | ？          | ○    | 食べてない                                                   |
 | [北京料理 慶華樓](https://supleks.jp/s/20184.html)           | 北京料理 | ○        | ？      | ？      | ○    | ？          | ○    | [獅子頭湯麺+餃子](https://supleks.jp/review/160192.html)     |
 | [大珍楼](https://supleks.jp/s/18018.html)                    |          | ○        | ？      | ？      | ？   | ？          | ？   | 食べてない。   |
-| [龍盛飯店](https://supleks.jp/s/71114.html)   | 食べ放題 | ○        | ？      | ？      | ○    | ？          | ○    | [牛ナン湯河粉](https://supleks.jp/review/806564.html)<br />以前とはメニューを刷新。|
+| [龍盛飯店](https://supleks.jp/s/71114.html)   | 食べ放題 | ○        | ？      | ？      | ○    | ？          | ○    | [牛腩湯河粉](https://supleks.jp/review/806564.html)<br />以前とはメニューを刷新。|
 | [萬珍樓本店](https://.supleks.jp/s/87640.html)               |          | ○        | ？      | ？      | ○    | ？          | ○    | 老舗店。お値段高め。                                         |
 | [廣東飯店](https://supleks.jp/s/8092.html)                   |          | ○        | ？      | ？     | ○    | ？          | ○    | [蕃茄牛肉伴麺](https://supleks.jp/review/854619.html)<br />[扣肉面](https://supleks.jp/review/198204.html) |
 | [景珍樓新館](https://supleks.jp/s/82155.html)                |          | ○        | ？      | ？      | ○    | ？          | ○    | [牛腩湯麺](https://supleks.jp/review/902029.html)             |
