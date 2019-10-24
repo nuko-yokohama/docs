@@ -280,7 +280,7 @@
 | [王家餃子](https://supleks.jp/s/54216.html)               |          | ○        | ？      | ？      | ？   | ？         | ○    | [サンマーメンセット](https://supleks.jp/review/680217.html)<br />水餃子推し |
 | [珍膳美](https://supleks.jp/s/61623.html)                 | 広東料理 | ○        | ？      | ？      | ○    | ？         | ○    | [葱油麺](https://supleks.jp/review/814819.html)              |
 | [馬さんの店 龍仙](https://supleks.jp/s/17033.html)        |          | ○        | ？      | ？      | ○    | ？         | ○    | [ジャジャ麺](https://supleks.jp/review/681029.html)          |
-| 双喜麺上海 | パスタ | ○ | ✗ | ✗ | ○ | ✗ | 中華麺ではなくパスタを使ったメニュー。|
+| 双喜麺上海 | パスタ | ○ | ✗ | ✗ | ○ | ✗ | ✗ | 中華麺ではなくパスタを使ったメニュー。|
 | 鑫福隆 |  | ○        | ✗      | ✗      | ○    | ○ | ○  | 自家製ニラ挽肉炒飯 |
 | [天香樓](https://supleks.jp/s/72129.html)                 |          | ○        | ？      | ？      | ○    | ○          | ○    | 中国四大料理提供<br />[黒担々麺と半炒飯セット](https://supleks.jp/review/814991.html) |
 
