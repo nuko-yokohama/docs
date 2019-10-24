@@ -119,7 +119,7 @@
 | [茘香尊本店](https://supleks.jp/s/27052.html)                |                        | ○        | ？      | ？      | ○    | ？          | ○    | [冬茹湯麺](https://supleks.jp/review/818604.html)            |
 | [梅蘭 金閣](https://supleks.jp/s/22673.html)                 |                        | ○        | ？      | ？      | ○    | ？         | ○    | [生馬面](https://supleks.jp/review/189655.html)<br />梅蘭やきそばが有名 |
 | [梅林閣](https://supleks.jp/s/19553.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ？   | [海蜆湯麺](https://supleks.jp/review/813751.html)            |
-| 四川麻婆 | 四川料理 | ○ | ？ | ？ | ○ | ？ | ○ | |
+| [四川麻婆 本館](https://supleks.jp/s/121859.html) | 四川料理 | ○ | ✗ | ✗ | ○ | ✗ | ○ | 黒牛炒飯](https://chahandb.supleks.jp/review/1272660.html)|
 | [龍海飯店](https://supleks.jp/s/86266.html)                  | 食べ放題               | ○        | ？      | ？      | ○    | ？         | ○    |                                                    |
 | [清香園](https://supleks.jp/s/74821.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ○    | [什景湯麺](https://supleks.jp/review/843353.html)<br />[扣肉湯麺](https://supleks.jp/review/837160.html) |
 | [獅門酒楼](https://supleks.jp/s/71391.html)                  |                        | ○        | ？      | ？      | ○    | ？         | ○    | [冬茹湯麺](https://supleks.jp/review/809235.html)            |
