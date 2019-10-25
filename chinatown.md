@@ -97,8 +97,8 @@
 | [老北京](https://supleks.jp/s/119960.html)            |          |          |        |        |      |            |      | 最近登録された店。                                           |
 | [愛群](https://supleks.jp/s/18962.html)               |          | ○        | ？      | ？      | ○    | ？          | ？   | [牛腩撈麺](https://supleks.jp/review/145407.html)    |
 | [秀味園](https://supleks.jp/s/76399.html)             |          | ○        | ？      | ？      | ○    | ？          | ？   | [揚げ茄子と豚しゃぶのおろしぶっかけそば](https://supleks.jp/review/850423.html)1<br/>[富貴炒飯](https://chahandb.supleks.jp/review/1270533.html) |
-| [金陵](https://supleks.jp/s/27060.html)               |          |          |        |        |      |            |      | ここはもう以前の業態ではなかったかも。要調査。               |
-| [桃香園](https://supleks.jp/s/96514.html)             |          | ？       | ？     | ？     | ？   | ？         | ？   | イートイン？今はないかも。                                   |
+| [金陵](https://supleks.jp/s/27060.html)               |          |          |        |        |      |            |      | ここはもう以前の業態ではなかったかも。<br>現在はご飯もののみ。|
+| [桃香園](https://supleks.jp/s/96514.html)             |          | ✗       | ✗     | ✗     | ✗   | ✗         | ○   | イートイン？点心のみか。 |
 | [清風楼](https://supleks.jp/s/50027.html)             |          | ○        | ？      | ？      | ○    | ？         | ？   | 未食。炒飯が美味いらしい、。                                 |
 | [広東料理 聚英](https://supleks.jp/s/90713.html)      | 広東料理 | ○        | ？      | ？      | ○    | ？         | ○    | 未食。                                                       |
 | [三和楼](https://supleks.jp/s/25552.html)             |          | ○        | ？      | ？      | ○    | ？         | ○    | 蜆ラーメン、サンマー排骨麺など。                             |
