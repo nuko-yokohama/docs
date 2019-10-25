@@ -47,7 +47,7 @@
 | [楽園](https://supleks.jp/s/18749.html)                      |          | ○        | ？      | ？      | ○    | ？          | ○    | [牛腩湯河粉](https://supleks.jp/review/149911.html)           |
 | [中国飯店](https://supleks.jp/s/93110.html)                  |          | ○        | ？      | ？      | ○    | ？          | ○    | 食べてない                                                   |
 | [北京料理 慶華樓](https://supleks.jp/s/20184.html)           | 北京料理 | ○        | ？      | ？      | ○    | ？          | ○    | [獅子頭湯麺+餃子](https://supleks.jp/review/160192.html)     |
-| [大珍楼](https://supleks.jp/s/18018.html)                    |          | ○        | ？      | ？      | ？   | ？          | ？   | 食べてない。   |
+| [大珍楼](https://supleks.jp/s/18018.html)                    |食べ放題| ○        | ？      | ？      | ？   | ？          | ？   | 食べてない。   |
 | [龍盛飯店](https://supleks.jp/s/71114.html)   | 食べ放題 | ○        | ？      | ？      | ○    | ？          | ○    | [牛腩湯河粉](https://supleks.jp/review/806564.html)<br />以前とはメニューを刷新。|
 | [萬珍樓本店](https://.supleks.jp/s/87640.html)               |          | ○        | ？      | ？      | ○    | ？          | ○    | 老舗店。お値段高め。                                         |
 | [廣東飯店](https://supleks.jp/s/8092.html)                   |          | ○        | ？      | ？     | ○    | ？          | ○    | [蕃茄牛肉伴麺](https://supleks.jp/review/854619.html)<br />[扣肉面](https://supleks.jp/review/198204.html) |
@@ -93,7 +93,7 @@
 | [龍翔記](https://supleks.jp/s/76207.html)             | 食べ放題 | ○        | ？      | ？      | ○    | ？          | ○    | [五目そば・炒飯セット](https://supleks.jp/review/849218.html) |
 | [光龍飯店](supleks.jp/s/73951.html)                   |          | ○        | ？      | ？      | ○    | ？          | ○    | [叉焼湯麺](https://supleks.jp/review/829367.html)    |
 | [四川料理 京華樓](https://supleks.jp/s/5957.html)     | 四川料理 | ○        | ○      | ？      | ○    | ？          | ○    | [京華樓特製麻辣刀削麺](https://supleks.jp/review/88519.html)<br />[冷やし四川担々刀削麺](https://supleks.jp/review/849381.html) |
-| [品珍閣関帝廟通り店](https://supleks.jp/s/92359.html) |          | ○        | ？      | ？      | ○    | ？         | ？   | 未食。|
+| [品珍閣関帝廟通り店](https://supleks.jp/s/92359.html) | 食べ放題 | ○        | ？      | ？      | ○    | ？         | ？   | 未食。|
 | [翡翠楼新館](https://supleks.jp/s/73971.html)         |          | ○        | ？      | ？      | ○    | ○          | ○    | 場所合ってる？要確認。翡翠炒飯が有名。                       |
 | [老北京](https://supleks.jp/s/119960.html)            |          |          |        |        |      |            |      | 最近登録された店。                                           |
 | [愛群](https://supleks.jp/s/18962.html)               |          | ○        | ？      | ？      | ○    | ？          | ？   | [牛腩撈麺](https://supleks.jp/review/145407.html)    |
