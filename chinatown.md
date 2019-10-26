@@ -101,9 +101,10 @@
 | [金陵](https://supleks.jp/s/27060.html)               |          |          |        |        |      |            |      | ここはもう以前の業態ではなかったかも。<br>現在はご飯もののみ。|
 | [桃香園](https://supleks.jp/s/96514.html)             |          | ✗       | ✗     | ✗     | ✗   | ✗         | ○   | イートイン？点心のみか。 |
 | [清風楼](https://supleks.jp/s/50027.html)             |          | ○        | ？      | ？      | ○    | ？         | ？   | 未食。炒飯が美味いらしい、。                                 |
-| [広東料理 聚英](https://supleks.jp/s/90713.html)      | 広東料理 | ○        | ？      | ？      | ○    | ？         | ○    | 未食。                                                       |
+| [広東料理 聚英](https://supleks.jp/s/90713.html)      | 広東料理 | ○        | ✗      | ✗      | ○    | ✗         | ○    | 蟹肉拌麺 |
 | [三和楼](https://supleks.jp/s/25552.html)             |          | ○        | ？      | ？      | ○    | ？         | ○    | 蜆ラーメン、サンマー排骨麺など。                             |
 | [大新園](https://supleks.jp/s/75119.html)             | 上海料理 | ○        | ？      | ？      | ○    | ？         | ？   | [涼風湯麺](https://supleks.jp/review/855296.html)            |
+| 鴻利 | 香港料理 | ○ | ✗ | ✗ | ○ | ✗ | ○ | 鴻利特製炒飯、大排炒飯。 |
 | [蓬莱閣](https://supleks.jp/s/58022.html)             | 北京料理 | ○        | ？      | ？      | ○    | ？         | ○    | [苳菇麺](https://supleks.jp/review/839077.html)              |
 | [謝朋酒樓](https://supleks.jp/s/29230.html)           | 四川料理 | ○        | ？      | ？      | ？   | ？         | ？   | [四川然麺](https://supleks.jp/review/277584.html)            |
 | [中国料理 東園](https://supleks.jp/s/27128.html)      |          | ○        | ？      | ？      | ？   | ？         | ？   | 排骨が有名らしい                                             |
