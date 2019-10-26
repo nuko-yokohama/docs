@@ -67,7 +67,7 @@
 | [聘珍樓横浜本店](https://supleks.jp/s/25188.html)            |          | ○        | ？      | ？      | ○    | ？          | ○    | [サンマーメン](https://supleks.jp/review/224181.html)        |
 | 興記餃子センター|  | ○ | ✗ | ✗ | ○ | ✗ | ○    |   |
 | [中華菜館 同發別館](https://supleks.jp/s/17771.html)         |          | ○        | ？      | ？      | ○    | ？          | ○    | [海鮮そば](https://supleks.jp/review/125942.html)            |
-| 龍江飯店 | 食べ放題 | ○ | ✗ | ✗ | ○ | ✗ | ○    |   |
+| 龍江飯店 | 食べ放題 | ○ | ✗ | ✗ | ○ | ✗ | ○    | 北門通りから移転したのかも。要確認。  |
 | 萬金楼| 食べ放題 | ○ | ✗ | ✗ | ○ | ✗ | ○    |   |
 | [龍翔](https://supleks.jp/s/95639.html)                      |          | ○        | ？      | ？      | ○    | ？         | ？   | 未食                                                         |
 | [大連餃子基地 DALIAN中華街店](https://supleks.jp/s/22247.html) |          | ○        | ？      | ？      | ○    | ？          | ○    | [擔仔麺+香菜煎餃子](https://supleks.jp/review/184695.html)   |
@@ -271,7 +271,7 @@
 | [東北人家](https://supleks.jp/s/70792.html) | 東北料理 | ○        | ？      | ？      | ○    | ？         | [○](https://supleks.jp/review/1103935.html) | [擔擔面](https://supleks.jp/review/804038.html)<br />[羊肉砂鍋面](https://supleks.jp/review/815127.html) |
 | [福養軒](https://supleks.jp/s/18957.html)   | 広東料理 | ○        | ？      | ○      | ○    | ？         | ○                                           | [豚の味噌煮そば](https://supleks.jp/review/151897.html)<br />[塩あんかけ麺](https://supleks.jp/review/687393.html) |
 | [千禧楼](https://supleks.jp/s/18690.html)| 福建料理 | ○        | ？      | ？      | ○    | ？         | ○  | [福建湯面](https://supleks.jp/review/138848.html)<br/>あさり炒飯、うなぎ炒飯 |
-| [龍江飯店](https://supleks.jp/s/76004.html) |          | ○        | ？      | ？      | ○    | ○          | ○                                           | [五目そば](https://supleks.jp/review/847502.html)            |
+| [龍江飯店](https://supleks.jp/s/76004.html) |　| ○  | ？  | ？  | ○    | ○  | ○  | [五目そば](https://supleks.jp/review/847502.html)<br>中華街大通りに移転したかも。要確認。|
 | [景珍樓](https://supleks.jp/s/16279.html)   |          | ○        | ？      | ？      | ○   | ○         | ？  | [チャーシュー麺](https://supleks.jp/review/106380.html)<br/>福建炒飯(餡かけ) |
 | [中華街大飯店](https://supleks.jp/s/76860.html) | 食べ放題| ○        | ？      | ？      | ？   | ？         | ？                                          | [担々麺](https://supleks.jp/review/854181.html)     | 
 | 錦里                                        |          |          |        |        |      |            |                                             | 未登録                                                       |
