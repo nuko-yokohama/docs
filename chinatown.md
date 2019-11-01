@@ -296,7 +296,7 @@
 | 店舗名                                           | ジャンル | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 | メモ                                                         |
 | ------------------------------------------------ | -------- | -------- | ------ | ------ | ---- | ---------- | ---- | ------------------------------------------------------------ |
 | [萬珍樓點心舗](https://supleks.jp/s/116672.html) |          | ○        | ？      | ？      | ○    | ？         | ○    | 海鮮うさぎ餃子                                               |
-| [東北人家新館](https://supleks.jp/s/113387.html) | 東北料理 | ○        | ？      | ？      | ○    | ？         | ○    | ラム肉料理が多い<br />[羊肉面](https://supleks.jp/review/1179532.html) |
+| [東北人家新館](https://supleks.jp/s/113387.html) | 東北料理 | ○        | ？      | ？      | ○    | ？         | ○    | ラム肉料理が多い<br />[羊肉面](https://supleks.jp/review/1179532.html)<br>[孜然羊肉炒飯](https://chahandb.supleks.jp/review/1274444.html) |
 | [隆蓮](https://supleks.jp/s/73869.html)          |          | ○        | ？      | ？      | ○    | ？          | ○    | [サンマー麺](https://supleks.jp/review/828603.html)          |
 | [慶華飯店](https://supleks.jp/s/73896.html)      | 広東料理 | ○        | ？      | ？      | ○    | ？          | ○    | [雲呑麺](https://supleks.jp/review/830572.html)              |
 | [山東](https://supleks.jp/s/19238.html)          |          | ○        | ？      | ？      | ○    | ？          | ○    | 水餃子が有名。<br />[什錦湯麺](https://supleks.jp/review/157746.html) |
