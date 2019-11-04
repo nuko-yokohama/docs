@@ -255,7 +255,7 @@
 | [福満園本店](https://supleks.jp/s/18575.html)     | 四川料理<br />福建料理 | ○        | ？      | ？      | ○    | ？         | ○    | [タンタンメン](https://supleks.jp/review/147591.html)        |
 | [景徳鎮酒家](https://supleks.jp/s/85954.html)     | 四川料理               | ○        | ？      | ？      | ○    | ？         | ○    | [とろーりチーズの海鮮陳マーボー麺](https://supleks.jp/review/934734.html) |
 | [金香樓](https://supleks.jp/s/19400.html)         |                        | ○        | ？      | ？      | ○    | ？         | ○    | 壺料理<br />[紅焼牛肉面（四川風牛肉そば）](https://supleks.jp/review/149250.html) |
-| [餃子伝説 総本舗](https://supleks.jp/s/121765.html) | | ○ | ○ | ✗ | ○ | ✗ | ○ | [四川什錦牛腩刀削面](https://ramendb.supleks.jp/review/1271649.html)<br/>餃子の種類多い。<br/> 刀削麺あり | 
+| [餃子伝説 総本舗](https://supleks.jp/s/121765.html) | | ○ | ○ | ✗ | ○ | ✗ | ○ | [四川什錦牛腩刀削面](https://ramendb.supleks.jp/review/1271649.html)<br/>餃子の種類多い。<br/>元祖伝説煎餃](https://kanagawa-gyouzadb.supleks.jp/review/1275067.html) | 
 | [一本家](https://supleks.jp/s/101268.html)        | 家系                   | ○        | ？      | ？      | ？    | ？          | ○    | 旧・一八家<br />[赤味噌らーめん＋ほうれん草](https://supleks.jp/review/1077895.html) |
 | [武夷点心舗](https://supleks.jp/s/71318.html)     | 点心                   | ○        | ？      | ？      | ？    | ？          | ？   | **猫耳**という菓子あり<br />[拌麺＋雲呑湯](https://supleks.jp/review/808382.html)[ |
 | [東光飯店](https://supleks.jp/s/2568.html)        |                        | ○        | ？      | ？      | ○    | ○          | ○    | [牛肉汁そば](https://supleks.jp/review/93507.html)           |
@@ -269,7 +269,6 @@
 | ------------------------------------------- | -------- | -------- | ------ | ------ | ---- | ---------- | ------------------------------------------- | ------------------------------------------------------------ |
 | [天龍菜館](https://supleks.jp/s/72995.html) | 広東料理 | ○        | ？      | ？      | ○    | ？         | ○                                           | ワンコイン！<br />[叉焼麺](https://supleks.jp/review/822378.html) |
 | [東北人家](https://supleks.jp/s/70792.html) | 東北料理 | ○        | ？      | ？      | ○    | ？         | [○](https://supleks.jp/review/1103935.html) | [擔擔面](https://supleks.jp/review/804038.html)<br />[羊肉砂鍋面](https://supleks.jp/review/815127.html) |
-| [福養軒](https://supleks.jp/s/18957.html)   | 広東料理 | ○        | ？      | ○      | ○    | ？         | ○                                           | [豚の味噌煮そば](https://supleks.jp/review/151897.html)<br />[塩あんかけ麺](https://supleks.jp/review/687393.html) |
 | [千禧楼](https://supleks.jp/s/18690.html)| 福建料理 | ○        | ？      | ？      | ○    | ？         | ○  | [福建湯面](https://supleks.jp/review/138848.html)<br/>あさり炒飯、うなぎ炒飯 |
 | [龍江飯店](https://supleks.jp/s/76004.html) |　| ○  | ？  | ？  | ○    | ○  | ○  | [五目そば](https://supleks.jp/review/847502.html)<br>中華街大通りに移転したかも。要確認。|
 | [景珍樓](https://supleks.jp/s/16279.html)   |          | ○        | ？      | ？      | ○   | ○         | ？  | [チャーシュー麺](https://supleks.jp/review/106380.html)<br/>福建炒飯(餡かけ) |
