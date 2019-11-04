@@ -89,7 +89,6 @@
 | 店舗名                                                | ジャンル | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 | メモ                                                         |
 | ----------------------------------------------------- | -------- | -------- | ------ | ------ | ---- | ---------- | ---- | ------------------------------------------------------------ |
 | [華都飯店](https://supleks.jp/s/18551.html)   |          | ○        | ○      | ？      | ○    | ？          | ○    | [坦々麺](https://supleks.jp/review/137025.html)<br />[手打ち牛筋麺](https://supleks.jp/review/845310.html) |
-| [金福楼](https://supleks.jp/s/27406.html)     |          | ○        | ？      | ？      | ○    | ？          | ○    | [排骨湯麺](https://supleks.jp/review/253462.html)<br>閉店かも？    |
 | [徳記](https://supleks.jp/s/6490.html)        |          | ○        | ？      | ？      | ○    | ？          | ○    | [豚ばらそば](https://supleks.jp/review/98453.html)<br />豚足そばが名物 |
 | [四五六菜館新館](https://supleks.jp/s/18412.html)     |          | ○        | ？      | ？      | ○    | ○          | ○    | [鶏肉細切りとネギのつゆなし麺](https://supleks.jp/review/166067.html) |
 | [興昌](https://supleks.jp/s/75108.html)               |          | ○        | ？      | ？      | ○    | ？          | ○    | [冷やしネギそばと(小)チャーシュー丼](https://supleks.jp/review/850538.html) |
