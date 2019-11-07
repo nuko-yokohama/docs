@@ -324,6 +324,7 @@
 | [双明楼](https://supleks.jp/s/17753.html)                    |          | ○        | ？      | ？      | ○    | ？         | ○    | [特製アサリそば](https://supleks.jp/review/825929.html)      |
 | [東林](https://supleks.jp/s/18400.html)                      | 北京料理 | ○        | ？      | ？      | ○    | ？         | ○    | カレー炒飯あり<br />[雲白冷麺](https://supleks.jp/review/854363.html)<br>自家製麺 |
 | [中国料理 慶福楼](https://supleks.jp/s/18758.html)           |          | ○        | ？      | ？      | ○    | ？         | ○    | [炸醤麺](https://supleks.jp/review/852656.html)<br />市場通りに移転して、跡地は別の店になってるかも。 |
+| 中国飯店 | 北京料理 | ○        | ？      | ？      | ○    | ？         | ○    | もつソバ<br>以前、北門通りにあった店かも。要確認。 |
 
 ## 開港道
 
