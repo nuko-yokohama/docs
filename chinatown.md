@@ -55,7 +55,7 @@
 | 鵬天閣酒家 | | ？ | ？ | ？| ○ | ？ | ○ | |
 | 海源酒家 | 食べ放題 | ○ | ？ | ？ | ○ | ？ | ○ ||
 | 王府井酒家 | 食べ放題 | ○ | ？ | ？ | ○ | ？ | ○ ||
-| [四川料理 京華樓別館](https://supleks.jp/s/22079.html)       | 四川料理 | ○        | ○      | ？      | ○    | ？          | ○    | [酸菜牛肉刀削麺](https://supleks.jp/review/182751.html)<br />[四川担々刀削麺（特辛）](https://supleks.jp/review/246016.html) |
+| [四川料理 京華樓別館](https://supleks.jp/s/22079.html)       | 四川料理 | ○        | ○      | ？      | ○    | ？          | ○    | [酸菜牛肉刀削麺](https://supleks.jp/review/182751.html)<br />[四川担々刀削麺（特辛）](https://supleks.jp/review/246016.html)<br>[泡菜花椒油炒飯](https://chahandb.supleks.jp/review/1277105.html) |
 | [華龍飯店](https://supleks.jp/s/74476.html)                  |          | ○        | ？      | ？      | ○    | ？          | ○    | [上海葱油麺](https://supleks.jp/review/834603.html)          |
 | [海南飯店](https://supleks.jp/s/18618.html)                  |          | ○        | ？      | ？      | ○    | ？          | ○    | [千労麺+海老餃子](https://supleks.jp/review/145907.html)     |
 | [龍門新館](https://supleks.jp/s/19370.html)                  |          | ○        | ？      | ？      | ○    | ？          | ○    | [生馬湯麺](https://supleks.jp/review/148766.html)<br />[排骨担々麺](https://supleks.jp/review/838153.html) |
