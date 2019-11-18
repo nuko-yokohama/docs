@@ -276,7 +276,7 @@
 | [龍江飯店](https://supleks.jp/s/76004.html) |　| ○  | ？  | ？  | ○    | ○  | ○  | [五目そば](https://supleks.jp/review/847502.html)<br>中華街大通りに移転したかも。要確認。|
 | [景珍樓](https://supleks.jp/s/16279.html)   |          | ○        | ？      | ？      | ○   | ○         | ？  | [チャーシュー麺](https://supleks.jp/review/106380.html)<br/>福建炒飯(餡かけ) |
 | [中華街大飯店](https://supleks.jp/s/76860.html) | 食べ放題| ○        | ？      | ？      | ？   | ？         | ？                                          | [担々麺](https://supleks.jp/review/854181.html)     | 
-| 錦里                                        |          |          |        |        |      |            |                                             | 未登録                                                       |
+| [錦里](https://www.supleks.jp/s/122453.html)  |          | ○ | ✗ | ✗ | ○ | ○  | ○| [麻婆豆花炒飯](https://chahandb.supleks.jp/review/1278593.html)  |
 
 ## 長安路
 
