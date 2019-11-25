@@ -61,7 +61,7 @@
 | [龍門新館](https://supleks.jp/s/19370.html)                  |          | ○        | ？      | ？      | ○    | ？          | ○    | [生馬湯麺](https://supleks.jp/review/148766.html)<br />[排骨担々麺](https://supleks.jp/review/838153.html) |
 | [福臨閣](https://supleks.jp/s/24931.html)                    |          | ○        | ？      | ？      | ○    | ？          | ○    | [八珍湯麺](https://supleks.jp/review/836783.html)            |
 | [中華街 桂宮](https://supleks.jp/s/100039.html)              |          | ○        | ？      | ？      | ○    | ○          | ○    | [黄金炒飯](https://chahandb.supleks.jp/review/1268317.html)  |
-| [三国演義](https://supleks.jp/s/121885.html) |  | ○ | ✗ | ✗ | ○ | ✗ | ○    |   |
+| [三国演義](https://supleks.jp/s/121885.html) |  | ○ | ✗ | ✗ | ○ | ○ | ○    | [泡菜炒飯](https://chahandb.supleks.jp/review/1280161.html)<br>[韮菜餃](https://gyouzadb.supleks.jp/review/1280165.html)  |
 | [蓮香園](https://supleks.jp/s/26288.html)                    |          | ○        | ？     | ？     | ？   | ？         | ？   | [叉焼排骨湯麺](https://supleks.jp/review/238974.html)<br>閉店したのでは？ |
 | [一楽](https://supleks.jp/s/19803.html)                      |          | ○        | ？      | ？      | ○    | ？          | ○    | [パイコー乗せ冷やしタンタン麺](https://supleks.jp/review/155320.html)<br />[正宗担々麺](https://supleks.jp/review/810727.html) |
 | [聘珍樓横浜本店](https://supleks.jp/s/25188.html)            |          | ○        | ？      | ？      | ○    | ？          | ○    | [サンマーメン](https://supleks.jp/review/224181.html)        |
