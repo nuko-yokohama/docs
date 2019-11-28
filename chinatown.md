@@ -198,8 +198,8 @@
 | [福満園別館](https://supleks.jp/s/76195.html)                | 四川料理<br />湖南料理 | ○        | ？     | ？      | ○    | ？         | ○    | [叉焼湯麺](https://supleks.jp/review/849028.html)            |
 | [四五六菜館本館](https://supleks.jp/s/75710.html)            | 上海料理               | ○        | ？      | ？      | ○    | ？         | ○    | [チャーシュー麺](https://supleks.jp/review/844994.html)      |
 | [中国料理 慶福楼市場通り店](https://supleks.jp/s/73985.html) |                        | ○        | ？      | ？      | ○    | ？         | ○    | [冬菰湯麺](https://supleks.jp/review/829729.html)            |
-| [景徳鎮](https://supleks.jp/s/18037.html)                    | 四川料理               | ○        | ？     | ？      | ○    | ？         | ○    | 麻婆豆腐推し<br />[干？牛肉麺+柱候蒸牛肚](https://supleks.jp/review/179990.html) |
-| 蓮香園 新館 | 食べ放題 |○        | ？      | ？ | ○    | ？         | ○    |  |
+| [景徳鎮](https://supleks.jp/s/18037.html)                    | 四川料理               | ○        | ？     | ？      | ○    | ？         | ○    | 麻婆豆腐推し<br />[干腩牛肉麺+柱候蒸牛肚](https://supleks.jp/review/179990.html) |
+| [蓮香園 新館](https://supleks.jp/s/122641.html) | 台湾料理<br>食べ放題 |○        | ✗      | ✗ | ○    | ○         | ○    | [台湾炒飯](https://chahandb.supleks.jp/review/1280835.html) |
 | [中国料理 永福楼](https://supleks.jp/s/55867.html)           |                        | ○        | ？     | ？      | ○    | ？         | ○    | [扣肉湯麺](https://supleks.jp/review/857293.html)<br />地図が誤っている。要修正。 |
 | [青海星](https://supleks.jp/s/72071.html)                    | 広東料理               | ○        | ？     | ？      | ○    | ？         | ○    | [叉焼湯麺](https://supleks.jp/review/814671.html)            |
 | [龍華楼新館](https://supleks.jp/s/71749.html)                |                        | ○        | ？     | ？      | ○    | ？         | ○    | [特製四川担々麺](https://supleks.jp/review/812231.html)      |
