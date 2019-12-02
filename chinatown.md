@@ -112,6 +112,7 @@
 | [謝朋酒樓](https://supleks.jp/s/29230.html)           | 四川料理 | ○        | ？      | ？      | ？   | ？         | ？   | [四川然麺](https://supleks.jp/review/277584.html)            |
 | [中国料理 東園](https://supleks.jp/s/27128.html)      |          | ○        | ？      | ？      | ？   | ？         | ？   | 排骨が有名らしい<br>[蝦仁煨麺](https://ramendb.supleks.jp/review/1273971.html) |
 | [鳳林](https://supleks.jp/s/26960.html)               |          | ○        | ？      | ？     | ○    | ○          | ○    | [アサリそば](https://supleks.jp/review/247921.html)<br />たぶん、カレーはない。 |
+| [富莚](https://www.supleks.jp/s/122726.html)               |          | ○        | ○      | ✗     | ○    | ○  | ○    | [葱油刀削麺](https://ramendb.supleks.jp/review/1281880.html) |
 | [接筵](https://supleks.jp/s/15848.html)               |          | ○        | ？      | ？      | ○    | ○          | ○    | [冷やしねぎラーメン](https://supleks.jp/review/859160.html)<br />[肉・野菜つけめん](https://supleks.jp/review/142425.html)<br />[牛肉煮込そば](https://supleks.jp/review/139557.html) |
 
 ## 中山路
