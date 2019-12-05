@@ -85,34 +85,34 @@
 
 中華街第2の大通り。地久門から天長門までつながる。
 
-| 店舗名                                                | ジャンル | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 | メモ                                                         |
-| ----------------------------------------------------- | -------- | -------- | ------ | ------ | ---- | ---------- | ---- | ------------------------------------------------------------ |
-| [華都飯店](https://supleks.jp/s/18551.html)   |          | ○        | ○      | ？      | ○    | ？          | ○    | [坦々麺](https://supleks.jp/review/137025.html)<br />[手打ち牛筋麺](https://supleks.jp/review/845310.html) |
-| [徳記](https://supleks.jp/s/6490.html)        |          | ○        | ？      | ？      | ○    | ？          | ○    | [豚ばらそば](https://supleks.jp/review/98453.html)<br />豚足そばが名物 |
-| [四五六菜館新館](https://supleks.jp/s/18412.html)     |          | ○        | ？      | ？      | ○    | ○          | ○    | [鶏肉細切りとネギのつゆなし麺](https://supleks.jp/review/166067.html) |
-| [興昌](https://supleks.jp/s/75108.html)               |          | ○        | ？      | ？      | ○    | ？          | ○    | [冷やしネギそばと(小)チャーシュー丼](https://supleks.jp/review/850538.html) |
-| [興口福](https://supleks.jp/s/77318.html)     |          | ○        | ？      | ？      | ○    | ？          | ○    | [五目麺](https://supleks.jp/review/858382.html)      |
-| [龍翔記](https://supleks.jp/s/76207.html)             | 食べ放題 | ○        | ？      | ？      | ○    | ？          | ○    | [五目そば・炒飯セット](https://supleks.jp/review/849218.html) |
-| [光龍飯店](supleks.jp/s/73951.html)                   |          | ○        | ？      | ？      | ○    | ？          | ○    | [叉焼湯麺](https://supleks.jp/review/829367.html)    |
-| [四川料理 京華樓](https://supleks.jp/s/5957.html)     | 四川料理 | ○        | ○      | ？      | ○    | ？          | ○    | [京華樓特製麻辣刀削麺](https://supleks.jp/review/88519.html)<br />[冷やし四川担々刀削麺](https://supleks.jp/review/849381.html) |
-| [品珍閣関帝廟通り店](https://supleks.jp/s/92359.html) | 食べ放題 | ○        | ？      | ？      | ○    | ？         | ？   | 未食。|
-| [翡翠楼新館](https://supleks.jp/s/73971.html)         |          | ○        | ✗      | ✗      | ○    | ○          | ○    | [牛腩湯麺](https://ramendb.supleks.jp/review/829515.html)<br>[翡翠炒飯](https://chahandb.supleks.jp/review/1282314.html) |
-| [老北京](https://supleks.jp/s/119960.html)            |          |          |        |        |      |            |      | 最近登録された店。                                           |
-| [愛群](https://supleks.jp/s/18962.html)               |          | ○        | ？      | ？      | ○    | ？          | ？   | [牛腩撈麺](https://supleks.jp/review/145407.html)    |
-| [秀味園](https://supleks.jp/s/76399.html)             |          | ○        | ？      | ？      | ○    | ？          | ？   | [揚げ茄子と豚しゃぶのおろしぶっかけそば](https://supleks.jp/review/850423.html)1<br/>[富貴炒飯](https://chahandb.supleks.jp/review/1270533.html) |
-| [金陵](https://supleks.jp/s/27060.html)               |          |          |        |        |      |            |      | ここはもう以前の業態ではなかったかも。<br>現在はご飯もののみ。|
-| [桃香園](https://supleks.jp/s/96514.html)             |          | ✗       | ✗     | ✗     | ✗   | ✗         | ○   | イートイン？点心のみか。 |
-| [清風楼](https://supleks.jp/s/50027.html)             |          | ○        | ？      | ？      | ○    | ？         | ？   | 未食。炒飯が美味いらしい、。                                 |
-| [広東料理 聚英](https://supleks.jp/s/90713.html)      | 広東料理 | ○        | ✗      | ✗      | ○    | ✗         | ○    | 蟹肉拌麺 |
-| [三和楼](https://supleks.jp/s/25552.html)             |          | ○        | ？      | ？      | ○    | ？         | ○    | 蜆ラーメン、サンマー排骨麺など。                             |
-| [大新園](https://supleks.jp/s/75119.html)             | 上海料理 | ○        | ？      | ？      | ○    | ？         | ？   | [涼風湯麺](https://supleks.jp/review/855296.html)            |
-| 鴻利 | 香港料理 | ○ | ✗ | ✗ | ○ | ✗ | ○ | 鴻利特製炒飯、大排炒飯。 |
-| [蓬莱閣](https://supleks.jp/s/58022.html)             | 北京料理 | ○        | ？      | ？      | ○    | ？         | ○    | [苳菇麺](https://supleks.jp/review/839077.html)              |
-| [謝朋酒樓](https://supleks.jp/s/29230.html)           | 四川料理 | ○        | ？      | ？      | ？   | ？         | ？   | [四川然麺](https://supleks.jp/review/277584.html)            |
-| [中国料理 東園](https://supleks.jp/s/27128.html)      |          | ○        | ？      | ？      | ？   | ？         | ？   | 排骨が有名らしい<br>[蝦仁煨麺](https://ramendb.supleks.jp/review/1273971.html) |
-| [鳳林](https://supleks.jp/s/26960.html)               |          | ○        | ？      | ？     | ○    | ○          | ○    | [アサリそば](https://supleks.jp/review/247921.html)<br />たぶん、カレーはない。 |
-| [富莚](https://www.supleks.jp/s/122726.html)               |          | ○        | ○      | ✗     | ○    | ○  | ○    | [葱油刀削麺](https://ramendb.supleks.jp/review/1281880.html) |
-| [接筵](https://supleks.jp/s/15848.html)               |          | ○        | ？      | ？      | ○    | ○          | ○    | [冷やしねぎラーメン](https://supleks.jp/review/859160.html)<br />[肉・野菜つけめん](https://supleks.jp/review/142425.html)<br />[牛肉煮込そば](https://supleks.jp/review/139557.html) |
+| 店舗名                                                | ジャンル | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 |麺咖飯餃| メモ                                                         |
+| ----------------------------------------------------- | -------- | -------- | ------ | ------ | ---- | ---------- | ---- | ---- | ------------------------------------------------------------ |
+| [華都飯店](https://supleks.jp/s/18551.html)   |          | ○        | ○      | ？      | ○    | ？          | ○    |麺　<br>　　| [坦々麺](https://supleks.jp/review/137025.html)<br />[手打ち牛筋麺](https://supleks.jp/review/845310.html) |
+| [徳記](https://supleks.jp/s/6490.html)        |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [豚ばらそば](https://supleks.jp/review/98453.html)<br />豚足そばが名物 |
+| [四五六菜館新館](https://supleks.jp/s/18412.html)     |          | ○        | ？      | ？      | ○    | ○          | ○    |麺　<br>　　| [鶏肉細切りとネギのつゆなし麺](https://supleks.jp/review/166067.html) |
+| [興昌](https://supleks.jp/s/75108.html)               |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [冷やしネギそばと(小)チャーシュー丼](https://supleks.jp/review/850538.html) |
+| [興口福](https://supleks.jp/s/77318.html)     |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [五目麺](https://supleks.jp/review/858382.html)      |
+| [龍翔記](https://supleks.jp/s/76207.html)             | 食べ放題 | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [五目そば・炒飯セット](https://supleks.jp/review/849218.html) |
+| [光龍飯店](supleks.jp/s/73951.html)                   |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [叉焼湯麺](https://supleks.jp/review/829367.html)    |
+| [四川料理 京華樓](https://supleks.jp/s/5957.html)     | 四川料理 | ○        | ○      | ？      | ○    | ？          | ○    |麺　<br>　　| [京華樓特製麻辣刀削麺](https://supleks.jp/review/88519.html)<br />[冷やし四川担々刀削麺](https://supleks.jp/review/849381.html) |
+| [品珍閣関帝廟通り店](https://supleks.jp/s/92359.html) | 食べ放題 | ○        | ？      | ？      | ○    | ？         | ？   |　　<br>　　| 未食。|
+| [翡翠楼新館](https://supleks.jp/s/73971.html)         |          | ○        | ✗      | ✗      | ○    | ○          | ○    |麺　<br>炒　| [牛腩湯麺](https://ramendb.supleks.jp/review/829515.html)<br>[翡翠炒飯](https://chahandb.supleks.jp/review/1282314.html) |
+| [老北京](https://supleks.jp/s/119960.html)            |          |          |        |        |      |            |      |　　<br>　　| 最近登録された店。                                           |
+| [愛群](https://supleks.jp/s/18962.html)               |          | ○        | ？      | ？      | ○    | ？          | ？   |麺　<br>　　| [牛腩撈麺](https://supleks.jp/review/145407.html)    |
+| [秀味園](https://supleks.jp/s/76399.html)             |          | ○        | ？      | ？      | ○    | ？          | ？   |麺　<br>炒　| [揚げ茄子と豚しゃぶのおろしぶっかけそば](https://supleks.jp/review/850423.html)1<br/>[富貴炒飯](https://chahandb.supleks.jp/review/1270533.html) |
+| [金陵](https://supleks.jp/s/27060.html)               |          |          |        |        |      |            |      |　　<br>　　| ここはもう以前の業態ではなかったかも。<br>現在はご飯もののみ。|
+| [桃香園](https://supleks.jp/s/96514.html)             |          | ✗       | ✗     | ✗     | ✗   | ✗         | ○   |　　<br>　　| イートイン？点心のみか。 |
+| [清風楼](https://supleks.jp/s/50027.html)             |          | ○        | ？      | ？      | ○    | ？         | ？   |　　<br>　　| 未食。炒飯が美味いらしい、。                                 |
+| [広東料理 聚英](https://supleks.jp/s/90713.html)      | 広東料理 | ○        | ✗      | ✗      | ○    | ✗         | ○    |　　<br>　　| 蟹肉拌麺 |
+| [三和楼](https://supleks.jp/s/25552.html)             |          | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　| 蜆ラーメン、サンマー排骨麺など。                             |
+| [大新園](https://supleks.jp/s/75119.html)             | 上海料理 | ○        | ？      | ？      | ○    | ？         | ？   |　　<br>　　| [涼風湯麺](https://supleks.jp/review/855296.html)            |
+| 鴻利 | 香港料理 | ○ | ✗ | ✗ | ○ | ✗ | ○ |　　<br>　　| 鴻利特製炒飯、大排炒飯。 |
+| [蓬莱閣](https://supleks.jp/s/58022.html)             | 北京料理 | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　| [苳菇麺](https://supleks.jp/review/839077.html)              |
+| [謝朋酒樓](https://supleks.jp/s/29230.html)           | 四川料理 | ○        | ？      | ？      | ？   | ？         | ？   |　　<br>　　| [四川然麺](https://supleks.jp/review/277584.html)            |
+| [中国料理 東園](https://supleks.jp/s/27128.html)      |          | ○        | ？      | ？      | ？   | ？         | ？   |　　<br>　　| 排骨が有名らしい<br>[蝦仁煨麺](https://ramendb.supleks.jp/review/1273971.html) |
+| [鳳林](https://supleks.jp/s/26960.html)               |          | ○        | ？      | ？     | ○    | ○          | ○    |　　<br>　　| [アサリそば](https://supleks.jp/review/247921.html)<br />たぶん、カレーはない。 |
+| [富莚](https://www.supleks.jp/s/122726.html)               |          | ○        | ○      | ✗     | ○    | ○  | ○    |　　<br>　　| [葱油刀削麺](https://ramendb.supleks.jp/review/1281880.html) |
+| [接筵](https://supleks.jp/s/15848.html)               |          | ○        | ？      | ？      | ○    | ○          | ○    |　　<br>　　| [冷やしねぎラーメン](https://supleks.jp/review/859160.html)<br />[肉・野菜つけめん](https://supleks.jp/review/142425.html)<br />[牛肉煮込そば](https://supleks.jp/review/139557.html) |
 
 ## 中山路
 
