@@ -105,14 +105,14 @@
 | [清風楼](https://supleks.jp/s/50027.html)             |          | ○        | ？      | ？      | ○    | ？         | ？   |　　<br>　　| 未食。炒飯が美味いらしい、。                                 |
 | [広東料理 聚英](https://supleks.jp/s/90713.html)      | 広東料理 | ○        | ✗      | ✗      | ○    | ✗         | ○    |　　<br>　　| 蟹肉拌麺 |
 | [三和楼](https://supleks.jp/s/25552.html)             |          | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　| 蜆ラーメン、サンマー排骨麺など。                             |
-| [大新園](https://supleks.jp/s/75119.html)             | 上海料理 | ○        | ？      | ？      | ○    | ？         | ？   |　　<br>　　| [涼風湯麺](https://supleks.jp/review/855296.html)            |
+| [大新園](https://supleks.jp/s/75119.html)             | 上海料理 | ○        | ？      | ？      | ○    | ？         | ？   |麺　<br>　　| [涼風湯麺](https://supleks.jp/review/855296.html)            |
 | 鴻利 | 香港料理 | ○ | ✗ | ✗ | ○ | ✗ | ○ |　　<br>　　| 鴻利特製炒飯、大排炒飯。 |
-| [蓬莱閣](https://supleks.jp/s/58022.html)             | 北京料理 | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　| [苳菇麺](https://supleks.jp/review/839077.html)              |
+| [蓬莱閣](https://supleks.jp/s/58022.html)             | 北京料理 | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [苳菇麺](https://supleks.jp/review/839077.html)              |
 | [謝朋酒樓](https://supleks.jp/s/29230.html)           | 四川料理 | ○        | ？      | ？      | ？   | ？         | ？   |　　<br>　　| [四川然麺](https://supleks.jp/review/277584.html)            |
-| [中国料理 東園](https://supleks.jp/s/27128.html)      |          | ○        | ？      | ？      | ？   | ？         | ？   |　　<br>　　| 排骨が有名らしい<br>[蝦仁煨麺](https://ramendb.supleks.jp/review/1273971.html) |
-| [鳳林](https://supleks.jp/s/26960.html)               |          | ○        | ？      | ？     | ○    | ○          | ○    |　　<br>　　| [アサリそば](https://supleks.jp/review/247921.html)<br />たぶん、カレーはない。 |
-| [富莚](https://www.supleks.jp/s/122726.html)               |          | ○        | ○      | ✗     | ○    | ○  | ○    |　　<br>　　| [葱油刀削麺](https://ramendb.supleks.jp/review/1281880.html) |
-| [接筵](https://supleks.jp/s/15848.html)               |          | ○        | ？      | ？      | ○    | ○          | ○    |　　<br>　　| [冷やしねぎラーメン](https://supleks.jp/review/859160.html)<br />[肉・野菜つけめん](https://supleks.jp/review/142425.html)<br />[牛肉煮込そば](https://supleks.jp/review/139557.html) |
+| [中国料理 東園](https://supleks.jp/s/27128.html)      |          | ○        | ？      | ？      | ？   | ？         | ？   |麺　<br>　　| 排骨が有名らしい<br>[蝦仁煨麺](https://ramendb.supleks.jp/review/1273971.html) |
+| [鳳林](https://supleks.jp/s/26960.html)               |          | ○        | ？      | ？     | ○    | ○          | ○    |麺　<br>　　| [アサリそば](https://supleks.jp/review/247921.html)<br />たぶん、カレーはない。 |
+| [富莚](https://www.supleks.jp/s/122726.html)               |          | ○        | ○      | ✗     | ○    | ○  | ○    |麺　<br>　　| [葱油刀削麺](https://ramendb.supleks.jp/review/1281880.html) |
+| [接筵](https://supleks.jp/s/15848.html)               |          | ○        | ？      | ？      | ○    | ○          | ○    |麺　<br>　　| [冷やしねぎラーメン](https://supleks.jp/review/859160.html)<br />[肉・野菜つけめん](https://supleks.jp/review/142425.html)<br />[牛肉煮込そば](https://supleks.jp/review/139557.html) |
 
 ## 中山路
 
