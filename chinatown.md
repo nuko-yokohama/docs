@@ -122,7 +122,7 @@
 | ------------------------------------------------------------ | ---------------------- | -------- | ------ | ------ | ---- | ---------- | ---- |---- | ------------------------------------------------------------ |
 | [龍鳳酒家](https://supleks.jp/s/58025.html)                  | 広東料理               | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [搾菜拌麺](https://supleks.jp/review/827002.html)            |
 | [茘香尊本店](https://supleks.jp/s/27052.html)                |                        | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [冬茹湯麺](https://supleks.jp/review/818604.html)            |
-| [梅蘭 金閣](https://supleks.jp/s/22673.html)                 |                        | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [生馬面](https://supleks.jp/review/189655.html)<br />梅蘭やきそばが有名 |
+| [梅蘭 金閣](https://supleks.jp/s/22673.html)                 |                        | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>飯　| [生馬面](https://supleks.jp/review/189655.html)<br>[牛腩炒飯](https://chahandb.supleks.jp/review/1283647.html)<br />梅蘭やきそばが有名 |
 | [梅林閣](https://supleks.jp/s/19553.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ？   |麺　<br>　　| [海蜆湯麺](https://supleks.jp/review/813751.html)            |
 | [四川麻婆 本館](https://supleks.jp/s/121859.html) | 四川料理 | ○ | ✗ | ✗ | ○ | ✗ | ○ |　　<br>炒　| [黒牛炒飯](https://chahandb.supleks.jp/review/1272660.html)|
 | [龍海飯店](https://supleks.jp/s/86266.html)                  | 食べ放題               | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　|  |
