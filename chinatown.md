@@ -325,7 +325,7 @@
 | [宏福楼](https://supleks.jp/s/111307.html)                   | 東北料理 | ○        | ？      | ？      | ○    | ？         | ○    | [チャーシューメン＋セット(焼き餃子)](https://supleks.jp/review/1154107.html)<br>ホルモン炒飯 |
 | [広東名菜・健康美食 一品閣](https://supleks.jp/s/70831.html) |          | ○        | ○      | ？      | ○    | ？         | ○    | 刀削麺を提供。翡翠麺はなくなった？<br />[エビほうれん草麺](https://supleks.jp/review/804301.html) |
 | [双明楼](https://supleks.jp/s/17753.html)                    |          | ○        | ？      | ？      | ○    | ？         | ○    | [特製アサリそば](https://supleks.jp/review/825929.html)      |
-| [東林](https://supleks.jp/s/18400.html)                      | 北京料理 | ○        | ？      | ？      | ○    | ？         | ○    | カレー炒飯あり<br />[雲白冷麺](https://supleks.jp/review/854363.html)<br>自家製麺 |
+| [東林](https://supleks.jp/s/18400.html)                      | 北京料理 | ○        | ？      | ？      | ○    | ？         | ○    | [雲白冷麺](https://supleks.jp/review/854363.html)<br>[咖喱炒飯](https://chahandb.supleks.jp/review/1285018.html)<br>自家製麺 |
 | [中国料理 慶福楼](https://supleks.jp/s/18758.html)           |          | ○        | ？      | ？      | ○    | ？         | ○    | [炸醤麺](https://supleks.jp/review/852656.html)<br />市場通りに移転して、跡地は別の店になってるかも。 |
 | 中国飯店 | 北京料理 | ○        | ？      | ？      | ○    | ？         | ○    | もつソバ<br>以前、北門通りにあった店かも。要確認。 |
 
