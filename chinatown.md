@@ -125,7 +125,7 @@
 | [梅蘭 金閣](https://supleks.jp/s/22673.html)                 |                        | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>飯　| [生馬面](https://supleks.jp/review/189655.html)<br>[牛腩炒飯](https://chahandb.supleks.jp/review/1283647.html)<br />梅蘭やきそばが有名 |
 | [梅林閣](https://supleks.jp/s/19553.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ？   |麺　<br>　　| [海蜆湯麺](https://supleks.jp/review/813751.html)            |
 | [四川麻婆 本館](https://supleks.jp/s/121859.html) | 四川料理 | ○ | ✗ | ✗ | ○ | ✗ | ○ |　　<br>炒　| [黒牛炒飯](https://chahandb.supleks.jp/review/1272660.html)|
-| [龍海飯店](https://supleks.jp/s/86266.html)                  | 食べ放題               | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　|  |
+| [龍海飯店](https://supleks.jp/s/86266.html)                  | 食べ放題               | ○        | ✗      | ✗      | ○    | ○         | ○    |　　<br>飯餃|[五目炒飯](https://chahandb.supleks.jp/review/1286675.html)<br>[山東水餃](https://gyouzadb.supleks.jp/review/1286677.html)  |
 | [清香園](https://supleks.jp/s/74821.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [什景湯麺](https://supleks.jp/review/843353.html)<br />[扣肉湯麺](https://supleks.jp/review/837160.html) |
 | [獅門酒楼](https://supleks.jp/s/71391.html)                  |                        | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [冬茹湯麺](https://supleks.jp/review/809235.html)            |
 | [蘭州牛肉拉麺 東珍味小籠包](https://ramendb.supleks.jp/s/104459.html) |                        | ○        | ○      | ？      | ○    | ？         | ○    |麺　<br>　　| [高菜と和牛筋肉入りビャンビャン麺](https://supleks.jp/review/1268698.html)<br />[蘭州牛肉拉面](https://supleks.jp/review/1120221.html) |
