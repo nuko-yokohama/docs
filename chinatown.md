@@ -255,17 +255,17 @@
 
 玄武門から善隣門までの道。
 
-| 店舗名                                            | ジャンル               | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 | メモ                                                         |
-| ------------------------------------------------- | ---------------------- | -------- | ------ | ------ | ---- | ---------- | ---- | ------------------------------------------------------------ |
-| [康華楼](https://supleks.jp/s/19376.html)         | 上海料理   | ○ | ✗      | ✗      | ○    | ○ | ○    | [咖哩担々麺](https://supleks.jp/review/836942.html)<br>特製あんかけチャーハンあり|
-| [福満園本店](https://supleks.jp/s/18575.html)     | 四川料理<br />福建料理 | ○        | ？      | ？      | ○    | ？         | ○    | [タンタンメン](https://supleks.jp/review/147591.html)        |
-| [景徳鎮酒家](https://supleks.jp/s/85954.html)     | 四川料理               | ○        | ？      | ？      | ○    | ？         | ○    | [とろーりチーズの海鮮陳マーボー麺](https://supleks.jp/review/934734.html) |
-| [金香樓](https://supleks.jp/s/19400.html)         |                        | ○        | ？      | ？      | ○    | ？         | ○    | 壺料理<br />[紅焼牛肉面（四川風牛肉そば）](https://supleks.jp/review/149250.html) |
-| [餃子伝説 総本舗](https://supleks.jp/s/121765.html) | | ○ | ○ | ✗ | ○ | ✗ | ○ | [四川什錦牛腩刀削面](https://ramendb.supleks.jp/review/1271649.html)<br/>餃子の種類多い。<br/>[元祖伝説煎餃](https://gyouzadb.supleks.jp/review/1275067.html)<br>[白菜猪肉大水餃](https://gyouzadb.supleks.jp/review/1275068.html)<br>[魚香炸肉餃子](https://gyouzadb.supleks.jp/review/1275070.html) | 
-| [一本家](https://supleks.jp/s/101268.html)        | 家系                   | ○        | ？      | ？      | ？    | ？          | ○    | 旧・一八家<br />[赤味噌らーめん＋ほうれん草](https://supleks.jp/review/1077895.html) |
-| [武夷点心舗](https://supleks.jp/s/71318.html)     | 点心                   | ○        | ？      | ？      | ？    | ？          | ？   | **猫耳**という菓子あり<br />[拌麺＋雲呑湯](https://supleks.jp/review/808382.html)[ |
-| [東光飯店](https://supleks.jp/s/2568.html)        |                        | ○        | ？      | ？      | ○    | ○          | ○    | [牛肉汁そば](https://supleks.jp/review/93507.html)           |
-| [四五六菜館別館](https://supleks.jp/s/18565.html) | 上海料理               | ○        | ？      | ？      | ○    | ？         | ○    | [四五六特製そば](https://supleks.jp/review/137251.html)<br />[ネギそば（スープなし）](https://supleks.jp/review/140277.html) |
+| 店舗名                                            | ジャンル               | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 |麺咖飯餃| メモ                                                         |
+| ------------------------------------------------- | ---------------------- | -------- | ------ | ------ | ---- | ---------- | ---- | ---- | ------------------------------------------------------------ |
+| [康華楼](https://supleks.jp/s/19376.html)         | 上海料理   | ○ | ✗      | ✗      | ○    | ○ | ○    |麺　<br>　　| [咖哩担々麺](https://supleks.jp/review/836942.html)<br>特製あんかけチャーハンあり|
+| [福満園本店](https://supleks.jp/s/18575.html)     | 四川料理<br />福建料理 | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [タンタンメン](https://supleks.jp/review/147591.html)        |
+| [景徳鎮酒家](https://supleks.jp/s/85954.html)     | 四川料理               | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [とろーりチーズの海鮮陳マーボー麺](https://supleks.jp/review/934734.html) |
+| [金香樓](https://supleks.jp/s/19400.html)         |                        | ○        | ？      | ？      | ○    | ？         | ○   |麺　　<br>　　| 壺料理<br />[紅焼牛肉面（四川風牛肉そば）](https://supleks.jp/review/149250.html) |
+| [餃子伝説 総本舗](https://supleks.jp/s/121765.html) | | ○ | ○ | ✗ | ○ | ✗ | ○ |麺　<br>　餃| [四川什錦牛腩刀削面](https://ramendb.supleks.jp/review/1271649.html)<br/>餃子の種類多い。<br/>[元祖伝説煎餃](https://gyouzadb.supleks.jp/review/1275067.html)<br>[白菜猪肉大水餃](https://gyouzadb.supleks.jp/review/1275068.html)<br>[魚香炸肉餃子](https://gyouzadb.supleks.jp/review/1275070.html) | 
+| [一本家](https://supleks.jp/s/101268.html)        | 家系                   | ○        | ✗      | ✗      | ○    | ✗          | ○    |麺　<br>　　| 旧・一八家<br />[赤味噌らーめん＋ほうれん草](https://supleks.jp/review/1077895.html) |
+| [武夷点心舗](https://supleks.jp/s/71318.html)     | 点心                   | ○        | ？      | ？      | ？    | ？          | ？   |麺　<br>　　| **猫耳**という菓子あり<br />[拌麺＋雲呑湯](https://supleks.jp/review/808382.html)[ |
+| [東光飯店](https://supleks.jp/s/2568.html)        |          | ○        | ？      | ？      | ○    | ○          | ○    |麺　<br>　　| [牛肉汁そば](https://supleks.jp/review/93507.html)           |
+| [四五六菜館別館](https://supleks.jp/s/18565.html) | 上海料理    | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [四五六特製そば](https://supleks.jp/review/137251.html)<br />[ネギそば（スープなし）](https://supleks.jp/review/140277.html) |
 
 ## 西門通り
 
