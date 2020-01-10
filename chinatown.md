@@ -290,7 +290,7 @@
 | [珍膳美](https://supleks.jp/s/61623.html)                 | 広東料理 | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [葱油麺](https://supleks.jp/review/814819.html)              |
 | [馬さんの店 龍仙](https://supleks.jp/s/17033.html)        |          | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [ジャジャ麺](https://supleks.jp/review/681029.html)          |
 | 双喜麺上海 | パスタ | ○ | ✗ | ✗ | ○ | ✗ | ✗ |　　<br>　　| 中華麺ではなくパスタを使ったメニュー。|
-| [鑫福隆](https://www.supleks.jp/s/121956.html) |  | ○        | ✗      | ✗      | ○    | ○ | ○  |　　<br>飯餃| [自家製ニラ挽肉炒飯](https://kanagawa-chahandb.supleks.jp/review/1273671.html)<br>[自家製焼き餃子](https://gyouzadb.supleks.jp/review/1273673.html) |
+| [鑫福隆](https://www.supleks.jp/s/121956.html) |  | ○        | ✗      | ✗      | ○    | ○ | ○  |麺　<br>飯餃|[自家製チャーシュー付きネギ麺](https://ramendb.supleks.jp/review/1290841.html) [自家製ニラ挽肉炒飯](https://kanagawa-chahandb.supleks.jp/review/1273671.html)<br>[自家製焼き餃子](https://gyouzadb.supleks.jp/review/1273673.html) |
 | [天香樓](https://supleks.jp/s/72129.html)                 |          | ○        | ？      | ？      | ○    | ○          | ○    |麺　<br>　　| 中国四大料理提供<br />[黒担々麺と半炒飯セット](https://supleks.jp/review/814991.html) |
 
 ## 広東路
