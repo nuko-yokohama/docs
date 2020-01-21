@@ -75,7 +75,7 @@
 | [珠江飯店](https://supleks.jp/s/19070.html)                  |          | ○        | ？     | ？     | ？   | ？         | ？   |麺　<br>　　 | [開港生碼麺](https://supleks.jp/review/190128.html)          |
 | [揚州飯店本店](https://supleks.jp/s/74147.html)              | 上海料理 | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　 | [鶏絲湯麺](https://supleks.jp/review/831228.html)<br />最近、蜆ラーメンを出している？ |
 | [状元樓本店](https://supleks.jp/s/18936.html)                |          | ○        | ？      | ？      | ○    | ？          | ○    |　　<br>　　 | 意外にも未食                                                 |
-| 華福飯店| 食べ放題 | ○ | ✗ | ✗ | ○ | ✗ | ○    |　　<br>　　 |   |
+| [華福飯店](https://supleks.jp/s/123593.html) | 食べ放題 | ○ | ✗ | ✗ | ○ | ✗ | ○    |　　<br>飯　 | [老干媽炒飯](https://chahandb.supleks.jp/review/1293547.html)  |
 | [華正樓 新館](https://supleks.jp/s/83393.html)               |          | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　 | そういえば食べてないかも                                     |
 | [王府井](https://supleks.jp/s/92619.html)                    |          | ○        | ？      | ？      | ○    | ？          | ○    |　　<br>　　 | ここも未食                                                   |
 
