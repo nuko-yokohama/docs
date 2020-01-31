@@ -305,7 +305,7 @@
 | [慶華飯店](https://supleks.jp/s/73896.html)      | 広東料理 | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [雲呑麺](https://supleks.jp/review/830572.html)              |
 | [山東](https://supleks.jp/s/19238.html)          |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| 水餃子が有名。<br />[什錦湯麺](https://supleks.jp/review/157746.html) |
 | [揚州麺房](https://supleks.jp/s/18413.html)      |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [チャーシュー入りもやしメン](https://supleks.jp/review/137645.html)<br />[イカスミメン](https://supleks.jp/review/162795.html) |
-| [福満園新館](https://supleks.jp/s/27017.html)    |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [豚レバー入り四川風激辛そば](https://supleks.jp/review/248217.html) |
+| [福満園新館](https://supleks.jp/s/27017.html)    |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>飯　| [豚レバー入り四川風激辛そば](https://supleks.jp/review/248217.html)<br>[海蛎黒炒飯](https://chahandb.supleks.jp/review/1296021.html) |
 |                                                  |          |          |        |        |      |            |      |                                                              |
 
 ## 北京小路
