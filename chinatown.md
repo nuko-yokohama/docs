@@ -72,7 +72,6 @@
 | [龍翔](https://supleks.jp/s/95639.html)                      |          | ○        | ？      | ？      | ○    | ？         | ？   |　　<br>　　 | 未食  |
 | [大連餃子基地 DALIAN中華街店](https://supleks.jp/s/22247.html) |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　 | [擔仔麺+香菜煎餃子](https://supleks.jp/review/184695.html)   |
 | [中華菜館 同發本館](https://supleks.jp/s/20092.html)         |          | ○        | ？      | ○      | ○    | ？          | ○    |麺　<br>　　 | [楊州湯麺](https://supleks.jp/review/158956.html)（目玉焼きが乗ったタンメン）<br />カレーを提供している店。 |
-| [珠江飯店](https://supleks.jp/s/19070.html)                  |          | ○        | ？     | ？     | ？   | ？         | ？   |麺　<br>　　 | [開港生碼麺](https://supleks.jp/review/190128.html)          |
 | [揚州飯店本店](https://supleks.jp/s/74147.html)              | 上海料理 | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　 | [鶏絲湯麺](https://supleks.jp/review/831228.html)<br />最近、蜆ラーメンを出している？ |
 | [状元樓本店](https://supleks.jp/s/18936.html)                |          | ○        | ？      | ？      | ○    | ？          | ○    |　　<br>　　 | 意外にも未食                                                 |
 | [華福飯店](https://supleks.jp/s/123593.html) | 食べ放題 | ○ | ✗ | ✗ | ○ | ✗ | ○    |　　<br>飯　 | [老干媽炒飯](https://chahandb.supleks.jp/review/1293547.html)  |
