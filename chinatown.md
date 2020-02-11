@@ -171,7 +171,7 @@
 | [美心酒家](https://supleks.jp/s/121611.html) | 香港料理 |○ | ○ | ？ | ○ | ？ | ○ |麺　<br>　　| 香港麺あり。<br/>[正宗香港風云呑麺](https://ramendb.supleks.jp/review/1270072.html) |
 | [北京](https://supleks.jp/s/24919.html)           |          | ○        | ？     | ？     | ？   | ？         | ？   |麺　<br>　　| [もやしそば](https://supleks.jp/review/221152.html)          |
 | [東珍味](https://supleks.jp/s/76158.html)         |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [高菜牛腩湯麺](https://supleks.jp/review/848869.html)        |
-| [美楽一杯新館](https://supleks.jp/s/97190.html)   | 広東料理 | ○        | ✗     | ○      | ○    | バル         | ○    |麺　<br>　餃| [牛肉酸豆角麺](https://ramendb.supleks.jp/review/1298952.html)<br>[焼き餃子](https://gyouzadb.supleks.jp/review/1298954.html) |
+| [美楽一杯新館](https://supleks.jp/s/97190.html)   | 広東料理 | ○        | ✗     | ○      | ○    | ✗         | ○    |麺　<br>　餃| [牛肉酸豆角麺](https://ramendb.supleks.jp/review/1298952.html)<br>[焼き餃子](https://gyouzadb.supleks.jp/review/1298954.html) |
 | [梅蘭新館](https://supleks.jp/s/74909.html)       |          | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [海蜆湯麺](https://supleks.jp/review/847800.html)            |
 
 
