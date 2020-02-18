@@ -275,7 +275,7 @@
 | [天龍菜館](https://supleks.jp/s/72995.html) | 広東料理 | ○        | ？      | ？      | ○    | ？         | ○                                           | 麺　<br>　　|ワンコイン！<br />[叉焼麺](https://supleks.jp/review/822378.html) |
 | [東北人家](https://supleks.jp/s/70792.html) | 東北料理 | ○        | ？      | ？      | ○    | ？         | [○](https://supleks.jp/review/1103935.html) |麺　<br>飯　| [擔擔面](https://supleks.jp/review/804038.html)<br />[羊肉砂鍋面](https://supleks.jp/review/815127.html)<br>[扣肉炒飯](https://supleks.jp/review/1276110.html) |
 | [千禧楼](https://supleks.jp/s/18690.html)| 福建料理 | ○        | ？      | ？      | ○    | ？         | ○  |麺　<br>　　| [福建湯面](https://supleks.jp/review/138848.html)<br/>あさり炒飯、うなぎ炒飯 |
-| [景珍樓](https://supleks.jp/s/16279.html)   |          | ○        | ？      | ？      | ○   | ○         | ？  | 麺　<br>　　|[チャーシュー麺](https://supleks.jp/review/106380.html)<br/>福建炒飯(餡かけ) |
+| [景珍樓](https://supleks.jp/s/16279.html)   |          | ○        | ？      | ？      | ○   | ○         | ？  | 麺　<br>飯　|[チャーシュー麺](https://supleks.jp/review/106380.html)<br/>[角煮チャーハン](https://chahandb.supleks.jp/review/1300717.html) |
 | [中華街大飯店](https://supleks.jp/s/76860.html) | 食べ放題| ○        | ？      | ？      | ？   | ？         | ？                                          |麺　<br>　　| [担々麺](https://supleks.jp/review/854181.html)     | 
 | [錦里](https://www.supleks.jp/s/122453.html)  |          | ○ | ✗ | ✗ | ○ | ○  | ○| 　　<br>飯　|[麻婆豆花炒飯](https://chahandb.supleks.jp/review/1278593.html)  |
 
