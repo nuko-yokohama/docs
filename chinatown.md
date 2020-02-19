@@ -248,9 +248,9 @@
 | [熊猫飯店](https://supleks.jp/s/74552.html)        |          | ○        | ？     | ？      | ○    | ？         | ○    |麺　<br>　　| [生馬麺](https://supleks.jp/review/835512.html)              |
 | [周苑](https://supleks.jp/s/23878.html)            |          | ？       | ？     | ？     | ？   | ？         | ？   |　　<br>　　| 公式サイトが消えている。要確認                               |
 | [客満堂三番館](https://supleks.jp/s/91760.html)    |          | ○        | ？     | ？      | ○    | ？         | ○    |　　<br>　　|  |
-| 福龍酒家                                           | 福建料理 |          |        |        |      |            |      |　　<br>　　| 未登録。  |
+| [好記園](https://supleks.jp/s/124155.html) | 台湾料理 | ○         | ○     | ✗    |  ○   | ✗  | ○    |麺　<br>　　| [椎茸野菜そば](https://ramendb.supleks.jp/review/1300916.html)  |
 
-## 北門通り
+## 北門通りsiitake 
 
 玄武門から善隣門までの道。
 
