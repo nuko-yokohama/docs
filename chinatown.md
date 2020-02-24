@@ -231,7 +231,7 @@
 | [謝甜記貮号店](https://supleks.jp/s/93259.html)      |          | ○        | ？      | ？      | ○    | ○          | ○    |　　<br>　　| 中国粥推し                                                   |
 | [広東料理 廣新楼](https://supleks.jp/s/75379.html)   | 広東料理 | ○        | ？      | ？      | ○    | ？          | ○    |　　<br>　　| 神奈川サンマーメンの会                                       |
 | 許厨房   |          | ○        | ？      | ？      | ○    | ○          | ○    |　　<br>　　| |
-| [中国料理 大中華](https://supleks.jp/s/75855.html)   |          | ○        | ？      | ？      | ○    | ○          | ○    |　　<br>　　| 閉店→許厨房？br />[牛腩面](https://supleks.jp/review/846140.html) |
+| [許厨房](https://supleks.jp/s/124258.html)   | 台湾料理 | ○        | ○      | ✗      | ○    | ✗          | ○    |麺　<br>　　| [台湾牛腩刀削麺](https://ramendb.supleks.jp/review/1302264.html) |
 
 ## 南門シルクロード
 
