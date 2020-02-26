@@ -132,7 +132,7 @@
 | [隆昌園](https://supleks.jp/s/19884.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [叉焼湯面](https://supleks.jp/review/810535.html)            |
 | [翡翠楼](https://supleks.jp/s/18616.html)                    |                        | ○        | ？      | ？      | ○    | ○          | ○    |麺　<br>　　| 翡翠炒飯が有名<br />[北京炒瑪麺（北京風ちゃんぽん麺）](https://supleks.jp/review/137883.html) |
 | [七福](https://supleks.jp/s/74941.html)                      | 食べ放題               | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [香茹湯麺](https://supleks.jp/review/837988.html) |
-| [長城飯店](https://supleks.jp/s/73107.html)                  |                        | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　|[高菜麺](https://supleks.jp/review/823108.html)              |
+| [長城飯店](https://supleks.jp/s/73107.html)                  |                        | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>飯　|[高菜麺](https://supleks.jp/review/823108.html)<br>[長城炒飯](https://chahandb.supleks.jp/review/1302800.html) |
 | [萬和樓](https://supleks.jp/s/18458.html)                    | 台湾料理               | ○        | ？      | ？      | ？   | ？         | ？   |麺　<br>　　| [台湾麻醤麺](https://supleks.jp/review/141944.html)<br />[台湾牛肉麺](https://supleks.jp/review/137248.html) |
 | [SAIGON DEP](https://supleks.jp/s/76746.html)                | ベトナム               | ○        | ？      | ○      | ○    | ？         | ？   |麺　<br>　　| [ベトナム風冷やしそば](https://supleks.jp/review/853149.html)<br />食べログ掲載保留。 |
 
