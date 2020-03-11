@@ -122,7 +122,7 @@
 | [龍鳳酒家](https://supleks.jp/s/58025.html)                  | 広東料理               | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [搾菜拌麺](https://supleks.jp/review/827002.html)            |
 | [茘香尊本店](https://supleks.jp/s/27052.html)                |                        | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [冬茹湯麺](https://supleks.jp/review/818604.html)            |
 | [梅蘭 金閣](https://supleks.jp/s/22673.html)                 |                        | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>飯　| [生馬面](https://supleks.jp/review/189655.html)<br>[牛腩炒飯](https://chahandb.supleks.jp/review/1283647.html)<br />梅蘭やきそばが有名 |
-| [梅林閣](https://supleks.jp/s/19553.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ？   |麺　<br>　　| [海蜆湯麺](https://supleks.jp/review/813751.html)            |
+| [梅林閣](https://supleks.jp/s/19553.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ？   |麺　<br>飯　| [海蜆湯麺](https://supleks.jp/review/813751.html)<br>[チキン炒飯オムライス](1306277) |
 | [四川麻婆 本館](https://supleks.jp/s/121859.html) | 四川料理 | ○ | ✗ | ✗ | ○ | ✗ | ○ |　　<br>飯　| [黒牛炒飯](https://chahandb.supleks.jp/review/1272660.html)|
 | [龍海飯店](https://supleks.jp/s/86266.html)                  | 食べ放題               | ○        | ✗      | ✗      | ○    | ○         | ○    |　　<br>飯餃|[五目炒飯](https://chahandb.supleks.jp/review/1286675.html)<br>[山東水餃](https://gyouzadb.supleks.jp/review/1286677.html)  |
 | [清香園](https://supleks.jp/s/74821.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [什景湯麺](https://supleks.jp/review/843353.html)<br />[扣肉湯麺](https://supleks.jp/review/837160.html) |
@@ -245,7 +245,6 @@
 | [招福門](https://supleks.jp/s/19207.html)          |          | ○        | ？     | ？      | ？   | ？         | ？   |　　<br>　　| ほとんど情報なし                                             |
 | [大三元酒家](https://supleks.jp/s/91143.html)      |          | ○        | ？     | ？      | ○    | ？         | ○    |　　<br>　　|                                                              |
 | [熊猫飯店](https://supleks.jp/s/74552.html)        |          | ○        | ？     | ？      | ○    | ？         | ○    |麺　<br>　　| [生馬麺](https://supleks.jp/review/835512.html)              |
-| [周苑](https://supleks.jp/s/23878.html)            |          | ？       | ？     | ？     | ？   | ？         | ？   |　　<br>　　| 公式サイトが消えている。要確認                               |
 | [客満堂三番館](https://supleks.jp/s/91760.html)    |          | ○        | ？     | ？      | ○    | ？         | ○    |　　<br>　　|  |
 | [好記園](https://supleks.jp/s/124155.html) | 台湾料理 | ○         | ○     | ✗    |  ○   | ✗  | ○    |麺　<br>　　| [椎茸野菜そば](https://ramendb.supleks.jp/review/1300916.html)  |
 
