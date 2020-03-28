@@ -150,7 +150,7 @@
 | [白鳳本館](https://supleks.jp/s/52937.html)        |          | ○        | ？      | ？ | ○    | ？         | ？   |　　<br>　　|  |
 | [順海閣本館](https://supleks.jp/s/110376.html)     |          | ○        | ？      | ？ | ○    | ？         | ○    |　　<br>　　| |
 | [海員閣](https://supleks.jp/s/15466.html)          |          | ○        | ？      | ？  | ○    | ？         | ？   |麺　<br>　　| 営業再開した？<br />[扣肉麺](https://supleks.jp/review/833224.html) |
-| [龍城飯店本館](https://supleks.jp/s/96363.html)    |          | ○        | ？      | ？  | ○    | ？         | ○    |　　<br>　　| |
+| [龍城飯店本館](https://supleks.jp/s/96363.html)    |          | ○        | ✗      | ○  | ○    | ✗         | ○    |麺　<br>　　| [扣肉湯麺](https://ramendb.supleks.jp/review/1310567.html)|
 | [山東新館](https://supleks.jp/s/73336.html)        |          | ○        | ？      | ？   | ○    | ？         | ○    |麺　<br>　　| 水餃子が有名。<br />[牛すねそば](https://supleks.jp/review/824702.html) |
 | [東光飯店別館](https://supleks.jp/s/6558.html)     |          | ○        | ？      | ？   | ○    | ○          | ○    |麺　<br>飯　| [北京炒瑪麺](https://supleks.jp/review/822532.html)<br />[東光チャーハン](https://supleks.jp/review/1207195.html) |
 | [鵬天閣](https://supleks.jp/s/115953.html)         |          | ○        | ？      | ？  | ○    | ？         | ○    |　　<br>　　|  |
