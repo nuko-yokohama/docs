@@ -275,7 +275,7 @@
 | [千禧楼](https://supleks.jp/s/18690.html)| 福建料理 | ○        | ？      | ？      | ○    | ？         | ○  |麺　<br>　　| [福建湯面](https://supleks.jp/review/138848.html)<br/>あさり炒飯、うなぎ炒飯 |
 | [景珍樓](https://supleks.jp/s/16279.html)   |          | ○        | ？      | ？      | ○   | ○         | ？  | 麺　<br>飯　|[チャーシュー麺](https://supleks.jp/review/106380.html)<br/>[角煮チャーハン](https://chahandb.supleks.jp/review/1300717.html) |
 | [中華街大飯店](https://supleks.jp/s/76860.html) | 食べ放題| ○        | ？      | ？      | ？   | ？         | ？                                          |麺　<br>　　| [担々麺](https://supleks.jp/review/854181.html)     | 
-| [錦里](https://www.supleks.jp/s/122453.html)  |          | ○ | ✗ | ✗ | ○ | ○  | ○| 　　<br>飯　|[麻婆豆花炒飯](https://chahandb.supleks.jp/review/1278593.html)  |
+| [錦里](https://www.supleks.jp/s/122453.html)  |          | ○ | ✗ | ✗ | ○ | ○  | ○|麺　<br>飯　|[麻婆豆花炒飯](https://chahandb.supleks.jp/review/1278593.html)<br>[マーラー牛バラの刀削麺](https://ramendb.supleks.jp/review/1311838.html)  |
 
 ## 長安路
 
