@@ -193,7 +193,7 @@
 | 酔楼 | | ○ | ✗ | ✗ | ○ | ？ | ○ |　　<br>　　 ||
 | [白鳳新館](https://supleks.jp/s/98945.html)        |          | ○        | ？      | ？ | ○    | ？         | ○    |　　<br>　　||
 | 北京烤鴨店 | 食べ放題 |○        | ？      | ？ | ○    | ？         | ○    |　　<br>　　| 北京ダックが売り |
-| 萬金樓 別館 | 食べ放題 |○        | ？      | ？ | ○    | ？         | ○    |　　<br>　　|  |
+| [萬金樓 別館](https://supleks.jp/s/100291.html) | 食べ放題 |○        | ？      | ？ | ○    | ？         | ○    |　　<br>　　|  |
 | [翠香園](https://supleks.jp/s/98007.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　 ||
 | [馬さんの店 龍仙市場館](https://supleks.jp/s/19236.html)     |                        | ○        | ？     | ？     | ？   | ？         | ？   |麺　<br>　　| [馬辣麺（辛さ普通）](https://supleks.jp/review/146812.html)<br />[東陽功担々麺](https://supleks.jp/review/845457.html)|
 | [彩鳳](https://supleks.jp/s/8604.html)  | | ○        | ？     | ？      | ○    | ？         | ○    |麺　<br>　　| [鮮貝湯麺](https://supleks.jp/review/846848.html)            |
