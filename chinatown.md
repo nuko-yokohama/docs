@@ -152,6 +152,7 @@
 | [順海閣本館](https://supleks.jp/s/110376.html)     |          | ○        | ？      | ？ | ○    | ？         | ○    |　　<br>　　| |
 | [海員閣](https://supleks.jp/s/15466.html)          |          | ○        | ？      | ？  | ○    | ？         | ？   |麺　<br>　　| 営業再開した？<br />[扣肉麺](https://supleks.jp/review/833224.html) |
 | [龍城飯店本館](https://supleks.jp/s/96363.html)    |          | ○        | ✗      | ○  | ○    | ✗         | ○    |麺　<br>　　| [扣肉湯麺](https://ramendb.supleks.jp/review/1310567.html)|
+| [龍興飯店](https://ramendb.supleks.jp/s/63959.html) |  | ○  | ？     | ？      | ○    | ？         | ？   |　　<br>　　| |
 | [山東新館](https://supleks.jp/s/73336.html)        |          | ○        | ？      | ？   | ○    | ？         | ○    |麺　<br>　　| 水餃子が有名。<br />[牛すねそば](https://supleks.jp/review/824702.html) |
 | [東光飯店別館](https://supleks.jp/s/6558.html)     |          | ○        | ？      | ？   | ○    | ○          | ○    |麺　<br>飯　| [北京炒瑪麺](https://supleks.jp/review/822532.html)<br />[東光チャーハン](https://supleks.jp/review/1207195.html) |
 | [鵬天閣](https://supleks.jp/s/115953.html)         |          | ○        | ？      | ？  | ○    | ？         | ○    |　　<br>　　|  |
@@ -204,7 +205,6 @@
 | [中国料理 永福楼](https://supleks.jp/s/55867.html)           |                        | ○        | ？     | ？      | ○    | ？         | ○    |麺　<br>飯餃| [扣肉湯麺](https://supleks.jp/review/857293.html)<br />[香菜魚炒飯](https://chahandb.supleks.jp/review/1286890.html)<br />[香菜水餃](https://gyouzadb.supleks.jp/review/1286898.html) |
 | [青海星](https://supleks.jp/s/72071.html)                    | 広東料理               | ○        | ？     | ？      | ○    | ？         | ○    |麺　<br>　　| [叉焼湯麺](https://supleks.jp/review/814671.html)            |
 | [龍華楼新館](https://supleks.jp/s/71749.html)                |                        | ○        | ？     | ？      | ○    | ？         | ○    |麺　<br>　　| [特製四川担々麺](https://supleks.jp/review/812231.html)      |
-| [龍興飯店](https://ramendb.supleks.jp/s/63959.html)          |                        | ○        | ？     | ？      | ○    | ？         | ？   |　　<br>　　| 閉店してないか確認<br>香港通り？ |
 | 酔龍 | 食べ放題 | ○ | ？ | ？ | ○ | ？ | ○ |　　<br>　　 ||
 | [梅蘭中華街本店](https://supleks.jp/s/18566.html)            |                        | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　| 意外にも行ってなかった・・・                                 |
 | [華錦飯店](https://supleks.jp/s/118484.html)                 |                        | ○        | ？     | ？      | ○    | ？         | ？   |　　<br>　　| ほとんど情報なし。<br />優先探索対象。                       |
