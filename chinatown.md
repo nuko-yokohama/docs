@@ -263,7 +263,7 @@
 | [一本家](https://supleks.jp/s/101268.html)        | 家系                   | ○        | ✗      | ✗      | ○    | ✗          | ○    |麺　<br>　　| 旧・一八家<br />[赤味噌らーめん＋ほうれん草](https://supleks.jp/review/1077895.html) |
 | [武夷点心舗](https://supleks.jp/s/71318.html)     | 点心                   | ○        | ？      | ？      | ？    | ？          | ？   |麺　<br>　　| **猫耳**という菓子あり<br />[拌麺＋雲呑湯](https://supleks.jp/review/808382.html)[ |
 | [東光飯店](https://supleks.jp/s/2568.html)        |          | ○        | ？      | ？      | ○    | ○          | ○    |麺　<br>　　| [牛肉汁そば](https://supleks.jp/review/93507.html)           |
-| [四五六菜館別館](https://supleks.jp/s/18565.html) | 上海料理    | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [四五六特製そば](https://supleks.jp/review/137251.html)<br />[ネギそば（スープなし）](https://supleks.jp/review/140277.html) |
+| [四五六菜館別館](https://supleks.jp/s/18565.html) | 上海料理    | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>飯　| [四五六特製そば](https://supleks.jp/review/137251.html)<br />[ネギそば（スープなし）](https://supleks.jp/review/140277.html)<br>[什錦炒飯](https://chahandb.supleks.jp/review/1314329.html) |
 
 ## 西門通り
 
