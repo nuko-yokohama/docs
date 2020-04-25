@@ -90,7 +90,7 @@
 | [徳記](https://supleks.jp/s/6490.html)        |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [豚ばらそば](https://supleks.jp/review/98453.html)<br />豚足そばが名物 |
 | [四五六菜館新館](https://supleks.jp/s/18412.html)     |          | ○        | ？      | ？      | ○    | ○          | ○    |麺　<br>　　| [鶏肉細切りとネギのつゆなし麺](https://supleks.jp/review/166067.html) |
 | [興昌](https://supleks.jp/s/75108.html)               |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [冷やしネギそばと(小)チャーシュー丼](https://supleks.jp/review/850538.html) |
-| [興口福](https://supleks.jp/s/77318.html)     |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [五目麺](https://supleks.jp/review/858382.html)      |
+| [興口福](https://supleks.jp/s/77318.html)     |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>飯　| [五目麺](https://supleks.jp/review/858382.html)<br>[叉焼炒飯](https://chahandb.supleks.jp/review/1316152.html) |
 | [龍翔記](https://supleks.jp/s/76207.html)             | 食べ放題 | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [五目そば・炒飯セット](https://supleks.jp/review/849218.html) |
 | [光龍飯店](supleks.jp/s/73951.html)                   |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [叉焼湯麺](https://supleks.jp/review/829367.html)    |
 | [四川料理 京華樓](https://supleks.jp/s/5957.html)     | 四川料理 | ○        | ○      | ？      | ○    | ？          | ○    |麺　<br>　　| [京華樓特製麻辣刀削麺](https://supleks.jp/review/88519.html)<br />[冷やし四川担々刀削麺](https://supleks.jp/review/849381.html) |
