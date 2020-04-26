@@ -45,6 +45,7 @@
 | 横浜市旭区       | [ゆで太郎鶴ヶ峰店](https://supleks.jp/s/85708.html)          |                                                              |
 | 横浜市旭区       | 白根家 フジスーパー前店 | 冷やし中華のみ。カレーは数種あり。 |
 | 横浜市旭区       | 白根家 本店 | 冷やし中華のみ。カレーは数種あり。 |
+| 横浜市旭区 | [さか本そば店](https://supleks.jp/s/123145.html) | とんちゃんラーメンが気になる。 |
 | 横浜市鶴見区     | [めん殿](https://ramendb.supleks.jp/s/90453.html)            | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/972612.html) |
 | 横浜市鶴見区     | [ゆで太郎鶴見中央店](https://ramendb.supleks.jp/s/82393.html) | [ざる中華](https://ramendb.supleks.jp/review/1171468.html)   |
 | 横浜市鶴見区     | [大村庵](https://kanagawa-ramendb.supleks.jp/s/120529.html) | [ラーメン](https://ramendb.supleks.jp/review/1260901.html)   |
