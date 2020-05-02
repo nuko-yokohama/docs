@@ -96,7 +96,7 @@
 | [四川料理 京華樓](https://supleks.jp/s/5957.html)     | 四川料理 | ○        | ○      | ？      | ○    | ？          | ○    |麺　<br>　　| [京華樓特製麻辣刀削麺](https://supleks.jp/review/88519.html)<br />[冷やし四川担々刀削麺](https://supleks.jp/review/849381.html) |
 | [品珍閣関帝廟通り店](https://supleks.jp/s/92359.html) | 食べ放題 | ○        | ？      | ？      | ○    | ？         | ？   |　　<br>　　| 未食。|
 | [翡翠楼新館](https://supleks.jp/s/73971.html)         |          | ○        | ✗      | ✗      | ○    | ○          | ○    |麺　<br>飯　| [牛腩湯麺](https://ramendb.supleks.jp/review/829515.html)<br>[翡翠炒飯](https://chahandb.supleks.jp/review/1282314.html) |
-| [老北京](https://supleks.jp/s/119960.html)            |          |          |        |        |      |            |      |　　<br>　　| 最近登録された店。                                           |
+| [老北京](https://supleks.jp/s/119960.html)            |          | ○        | ✗   | ✗  | ○ | ✗ | ○ |麺　<br>　　| [扣肉麺](https://ramendb.supleks.jp/review/1317325.html)  |
 | [愛群](https://supleks.jp/s/18962.html)               |          | ○        | ？      | ？      | ○    | ？          | ？   |麺　<br>　　| [牛腩撈麺](https://supleks.jp/review/145407.html)    |
 | [秀味園](https://supleks.jp/s/76399.html)             |          | ○        | ？      | ？      | ○    | ？          | ？   |麺　<br>飯　| [揚げ茄子と豚しゃぶのおろしぶっかけそば](https://supleks.jp/review/850423.html)1<br/>[富貴炒飯](https://chahandb.supleks.jp/review/1270533.html) |
 | [金陵](https://supleks.jp/s/27060.html)               |          |          |        |        |      |            |      |　　<br>　　| ここはもう以前の業態ではなかったかも。<br>現在はご飯もののみ。|
