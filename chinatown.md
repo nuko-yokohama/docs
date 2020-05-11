@@ -257,7 +257,7 @@
 | 店舗名                                            | ジャンル               | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 |麺咖飯餃| メモ                                                         |
 | ------------------------------------------------- | ---------------------- | -------- | ------ | ------ | ---- | ---------- | ---- | ---- | ------------------------------------------------------------ |
 | [康華楼](https://supleks.jp/s/19376.html)         | 上海料理   | ○ | ✗      | ✗      | ○    | ○ | ○    |麺　<br>　　| [咖哩担々麺](https://supleks.jp/review/836942.html)<br>特製あんかけチャーハンあり|
-| [福満園本店](https://supleks.jp/s/18575.html)     | 四川料理<br />福建料理 | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [タンタンメン](https://supleks.jp/review/147591.html)        |
+| [福満園本店](https://supleks.jp/s/18575.html)     | 四川料理<br />福建料理 | ○ | ✗ | ✗ | ○    | ○  | ○    |麺飯<br>　　| [タンタンメン](https://supleks.jp/review/147591.html) <br>[五目チャーハン](https://chahandb.supleks.jp/review/1318937.html) |
 | [景徳鎮酒家](https://supleks.jp/s/85954.html)     | 四川料理               | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [とろーりチーズの海鮮陳マーボー麺](https://supleks.jp/review/934734.html) |
 | [金香樓](https://supleks.jp/s/19400.html)         |                        | ○        | ？      | ？      | ○    | ？         | ○   |麺　　<br>　　| 壺料理<br />[紅焼牛肉面（四川風牛肉そば）](https://supleks.jp/review/149250.html) |
 | [餃子伝説 総本舗](https://supleks.jp/s/121765.html) | | ○ | ○ | ✗ | ○ | ✗ | ○ |麺　<br>　餃| [四川什錦牛腩刀削面](https://ramendb.supleks.jp/review/1271649.html)<br/>餃子の種類多い。<br/>[元祖伝説煎餃](https://gyouzadb.supleks.jp/review/1275067.html)<br>[白菜猪肉大水餃](https://gyouzadb.supleks.jp/review/1275068.html)<br>[魚香炸肉餃子](https://gyouzadb.supleks.jp/review/1275070.html) | 
