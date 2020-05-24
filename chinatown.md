@@ -337,7 +337,7 @@
 | [九州大分ラーメン 麺恋亭中華街店](https://supleks.jp/s/9377.html) | 居酒屋   | ○        | ✗      | ✗      | ○    | ？         | ○    |麺　<br>飯餃| 季節メニュー多し<br />[すっご～い野菜のたんめん](https://supleks.jp/review/1268023.html)<br />[SANTチャーハン](https://chahandb.supleks.jp/review/1275478.html) |
 | [重慶飯店横浜中華街 本店](https://supleks.jp/s/18455.html)   | 四川料理 | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　|                                                              |
 | [南粤美食](https://supleks.jp/s/106470.html)                 | 香港料理 | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　| こどグルSeason8に登場<br />雲呑？推し                        |
-| [重慶飯店新館](https://supleks.jp/s/106661.html)             | 四川料理 | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　|                                                              |
+| [重慶飯店新館](https://supleks.jp/s/106661.html)             | 四川料理 | ○ | ✗      | ✗      | ○    | ✗ | ○    |麺　<br>　　| [担担麺](https://ramendb.supleks.jp/review/1321372.html) |
 | [王朝](https://supleks.jp/s/29129.html)                      |          | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [本場担々麺（辛さ:大学生）](https://supleks.jp/review/276375.html) |
 |                                                              |          |          |        |        |      |            |      |                                                              |
 
