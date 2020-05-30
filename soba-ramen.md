@@ -70,6 +70,7 @@
 | 川崎市川崎区 | [かわさき蕎麦](https://supleks.jp/s/31290/review) 閉店 | ぬ：[チャーシューメン](https://supleks.jp/review/332635.html) |
 | 川崎市幸区       | [そば処 大むら](https://ramendb.supleks.jp/s/87237.html)     |                                                              |
 | 川崎市幸区       | [大むら](https://ramendb.supleks.jp/s/83473.html)            | [ラーメン](https://ramendb.supleks.jp/review/1041026.html)   |
+| 川崎市幸区(加瀬) | [小進庵](https://ramendb.supleks.jp/s/84687.html) | [チャーシューメン](https://ramendb.supleks.jp/review/924198.html) |
 | 川崎市中原区     | [名代 富士そば元住吉店](https://ramendb.supleks.jp/s/90102.html) | [煮干しラーメン](https://ramendb.supleks.jp/review/1030101.html) |
 | 川崎市中原区  | [さぬきうどん さいか](https://ramendb.supleks.jp/s/31608.html) | ぬ：[和風カレーラーメン](https://ramendb.supleks.jp/review/1190387.html)<br>[和風ピリ辛らーめん](https://ramendb.supleks.jp/review/1193870.html)|
 | 川原市多摩区     | [大むら](https://ramendb.supleks.jp/s/101101.html) | [タンメン](https://ramendb.supleks.jp/review/1076637.html) |
