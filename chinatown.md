@@ -73,7 +73,7 @@
 | [大連餃子基地 DALIAN中華街店](https://supleks.jp/s/22247.html) |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　 | [擔仔麺+香菜煎餃子](https://supleks.jp/review/184695.html)   |
 | [中華菜館 同發本館](https://supleks.jp/s/20092.html)         |          | ○        | ？      | ○      | ○    | ？          | ○    |麺　<br>　　 | [楊州湯麺](https://supleks.jp/review/158956.html)（目玉焼きが乗ったタンメン）<br />カレーを提供している店。 |
 | [揚州飯店本店](https://supleks.jp/s/74147.html)              | 上海料理 | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　 | [鶏絲湯麺](https://supleks.jp/review/831228.html)<br />最近、蜆ラーメンを出している？ |
-| [状元樓本店](https://supleks.jp/s/18936.html)                |          | ○        | ？      | ？      | ○    | ？          | ○    |　　<br>　　 | 意外にも未食                                                 |
+| [状元樓 本店](https://supleks.jp/s/18936.html)  | 上海料理 | ○  | ✗      | ✗      | ○    | ？  | ○  |麺　<br>　　 | [叉焼湯麺](https://ramendb.supleks.jp/review/1323014.html) |
 | [華福飯店](https://supleks.jp/s/123593.html) | 食べ放題 | ○ | ✗ | ✗ | ○ | ✗ | ○    |　　<br>飯　 | [老干媽炒飯](https://chahandb.supleks.jp/review/1293547.html)  |
 | [華正樓 新館](https://supleks.jp/s/83393.html)               |          | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　 | そういえば食べてないかも                                     |
 | [王府井](https://supleks.jp/s/92619.html)                    |          | ○        | ？      | ？      | ○    | ？          | ○    |　　<br>　　 | ここも未食                                                   |
