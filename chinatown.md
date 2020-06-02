@@ -45,7 +45,7 @@
 | [横浜大飯店](https://supleks.jp/s/21471.html)    |食べ放題 | ○        | ？      | ？      | ○    | ？          | ○    |　　<br>　　 ||
 | [SARIO 聘珍茶寮 横浜中華街店](https://supleks.jp/s/27504.html) |  | ○   | ✗      | ✗      | ○    | ✗          | ？   | 麺　<br>　　 |[激辛タンタン麺](https://supleks.jp/review/855634.html)<br />値段は安い。 |
 | [楽園](https://supleks.jp/s/18749.html)    |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　 | [牛腩湯河粉](https://supleks.jp/review/149911.html)           |
-| [中国飯店](https://supleks.jp/s/93110.html)   |          | ○        | ？      | ？      | ○    | ？          | ○    |　　<br>　　 | 食べてない                                                   |
+| [中国飯店](https://supleks.jp/s/93110.html)   |          | ○        | ✗      | ✗      | ○    | ○  | ○    |　　<br>飯　|[什錦炒飯](https://chahandb.supleks.jp/review/1323302.html)  |
 | [北京料理 慶華樓](https://supleks.jp/s/20184.html)    | 北京料理 | ○ | ？  | ？ | ○    | ？  | ○    |麺　<br>　　 | [獅子頭湯麺+餃子](https://supleks.jp/review/160192.html)     |
 | [大珍楼](https://supleks.jp/s/18018.html)   |食べ放題| ○   | ？  | ？ | ？   | ？          | ？   |　　<br>　　 | 食べてない。   |
 | [龍盛飯店](https://supleks.jp/s/71114.html)   | 食べ放題 | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　 | [牛腩湯河粉](https://supleks.jp/review/806564.html)<br />以前とはメニューを刷新。|
