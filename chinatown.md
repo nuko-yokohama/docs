@@ -162,7 +162,7 @@
 | [保昌](https://supleks.jp/s/18622.html)            |          | ○        | ？      | [○](https://supleks.jp/review/1244034.html) | ○    | ？         | ○    |麺　<br>　　| 牛バラカレーが有名<br />[骨湯麺](https://supleks.jp/review/138600.html)<br />[アサリと野菜たっぷりピリ辛タンメン](https://supleks.jp/review/859832.html) |
 | [京城飯店](https://supleks.jp/s/73700.html)        |          | ○        | ？      | ？ | ○    | ？         | ○    |麺　<br>　　| [黒担々麺](https://supleks.jp/review/827441.html)            |
 | [景徳鎮新館](https://supleks.jp/s/26332.html)      | 四川料理 | ○        | ？      | ？   | ○    | ？         | ○    |麺　<br>　　| [棒々鶏冷麺](https://supleks.jp/review/239567.html)          |
-| [上海飯店](https://supleks.jp/s/73799.html)        |          | ○        | ？      | ？  | ○    | ？         | ○    |麺　<br>　　| [椎茸ソバ](https://supleks.jp/review/828380.html)[           |
+| [上海飯店](https://supleks.jp/s/73799.html)        |          | ○        | ？      | ？  | ○    | ？         | ○    |麺　<br>　　| [椎茸ソバ](https://supleks.jp/review/828380.html)|
 | [大福林](https://supleks.jp/s/118183.html)         |          | ○        | ？      | ？  | ○    | ？         | ○    |麺　<br>　餃| 小皿料理店<br>[辛みそラーメン](https://ramendb.supleks.jp/review/1303237.html)<br>[特製焼き餃子](https://gyouzadb.supleks.jp/review/1303242.html)|
 
 ## 名無しの通り
