@@ -94,6 +94,9 @@
 | 相模原市緑区     | [おそば 満留賀](https://supleks.jp/s/121199.html) | 以前はラーメンを提供していたが、現在はメニューから消えている。(2019-09-26に確認) |
 | 相模原市緑区     | [ゆで太郎西橋本店](https://ramendb.supleks.jp/s/98903.html)  | [中華そばとり舞茸天丼セット](https://ramendb.supleks.jp/review/1130647.html) |
 | 相模原市緑区     | [増田屋](https://ramendb.supleks.jp/s/80676.html)            | [ラーメン](https://ramendb.supleks.jp/review/888139.html)    |
+| 町田市 | [富久栄楼](https://supleks.jp/s/62709.html) | 町田駅からは少し歩くけど、ぎりぎり徒歩圏内？ |
+| 町田市 | [山桜](https://supleks.jp/s/85619.html) | 自家製和風鴨肉入り　塩ラーメン<br>2017年以降、食べログのクチコミなし。|
+| 町田市 | [谷際屋製麺工場](https://supleks.jp/s/83367.html) | 古淵駅から北のほう。<br>そば・うどんはついでに提供？|
 
 ### 湘南三浦
 
