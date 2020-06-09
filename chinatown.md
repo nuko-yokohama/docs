@@ -68,7 +68,7 @@
 | 興記餃子センター|  | ○ | ✗ | ✗ | ○ | ✗ | ○    |　　<br>　　 |   |
 | [中華菜館 同發別館](https://supleks.jp/s/17771.html)         |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　 | [海鮮そば](https://supleks.jp/review/125942.html)            |
 | 龍江飯店 | 食べ放題 | ○ | ✗ | ✗ | ○ | ✗ | ○    |　　<br>　　 | 北門通りから移転したのかも。要確認。  |
-| 萬金楼| 食べ放題 | ○ | ✗ | ✗ | ○ | ✗ | ○    |　　<br>　　 |   |
+| [萬金楼](https://supleks.jp/s/126232.html)| 食べ放題 | ○ | ✗ | ✗ | ○ | ✗ | ○    |麺　<br>　　 |[五目冷やし中華](https://ramendb.supleks.jp/review/1324874.html)   |
 | [龍翔](https://supleks.jp/s/95639.html)                      |          | ○        | ？      | ？      | ○    | ？         | ？   |　　<br>　　 | 未食  |
 | [大連餃子基地 DALIAN中華街店](https://supleks.jp/s/22247.html) |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　 | [擔仔麺+香菜煎餃子](https://supleks.jp/review/184695.html)   |
 | [中華菜館 同發本館](https://supleks.jp/s/20092.html)         |          | ○        | ？      | ○      | ○    | ？          | ○    |麺　<br>　　 | [楊州湯麺](https://supleks.jp/review/158956.html)（目玉焼きが乗ったタンメン）<br />カレーを提供している店。 |
