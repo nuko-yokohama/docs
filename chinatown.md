@@ -111,7 +111,7 @@
 | [中国料理 東園](https://supleks.jp/s/27128.html)      |          | ○        | ？      | ？      | ？   | ？         | ？   |麺　<br>　　| 排骨が有名らしい<br>[蝦仁煨麺](https://ramendb.supleks.jp/review/1273971.html) |
 | [新楽](https://supleks.jp/s/124261.html)      |          | ○        | ？      | ？      | ？   | ？         | ？   |　　<br>飯　| [什景炒飯](https://chahandb.supleks.jp/review/1302367.html) |
 | [鳳林](https://supleks.jp/s/26960.html)               |          | ○        | ？      | ？     | ○    | ○          | ○    |麺　<br>　　| [アサリそば](https://supleks.jp/review/247921.html)<br />たぶん、カレーはない。 |
-| [富莚](https://www.supleks.jp/s/122726.html)               |          | ○        | ○      | ✗     | ○    | ○  | ○    |麺　<br>　　| [葱油刀削麺](https://ramendb.supleks.jp/review/1281880.html) |
+| [富莚](https://www.supleks.jp/s/122726.html)               |          | ○        | ○      | ✗     | ○    | ○  | ○    |麺　<br>飯　| [葱油刀削麺](https://ramendb.supleks.jp/review/1281880.html)<br>[炒飯青のりソース蟹肉添え](https://chahandb.supleks.jp/review/1324962.html) |
 
 ## 中山路
 
