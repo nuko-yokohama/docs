@@ -76,7 +76,7 @@
 | [状元樓 本店](https://supleks.jp/s/18936.html)  | 上海料理 | ○  | ✗      | ✗      | ○    | ？  | ○  |麺　<br>　　 | [叉焼湯麺](https://ramendb.supleks.jp/review/1323014.html) |
 | [華福飯店](https://supleks.jp/s/123593.html) | 食べ放題 | ○ | ✗ | ✗ | ○ | ✗ | ○    |　　<br>飯　 | [老干媽炒飯](https://chahandb.supleks.jp/review/1293547.html)  |
 | [華正樓 新館](https://supleks.jp/s/83393.html)               |          | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　 | そういえば食べてないかも                                     |
-| [王府井](https://supleks.jp/s/92619.html)                    |          | ○        | ？      | ？      | ○    | ？          | ○    |　　<br>　　 | ここも未食                                                   |
+| [王府井](https://supleks.jp/s/92619.html)                    |          | ○        | ✗      | ✗      | ○    | ✗  | ○    |麺　<br>　　 | [王府湯麺](https://ramendb.supleks.jp/review/1326052.html) |
 
 
 
