@@ -87,6 +87,7 @@
 | 相模原市中央区   | [ゆで太郎相模原小町通店](https://ramendb.supleks.jp/s/106482.html) | [中華そば](https://ramendb.supleks.jp/review/1119117.html)   |
 | 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/114493.html) | [味噌ラーメン](https://ramendb.supleks.jp/review/1194236.html)<br>ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1267096.html) |
 | 相模原市中央区 | [長生庵](https://supleks.jp/s/110986.html) | [ラーメン](https://supleks.jp/review/1149988.html) |
+| 相模原市中央区 | [そば処 大むら](https://supleks.jp/s/126452.html) | 冷やし中華のみ |
 | 相模原市中央区 | [山田うどん 亀井野店](https://supleks.jp/s/77215.html) |  |
 | 相模原市中央区 | [山田うどん 相模原中央店](https://supleks.jp/s/80291.html) |  |
 | 相模原市中央区 | [山田うどん 田名店](https://supleks.jp/s/111501.html) |  |
