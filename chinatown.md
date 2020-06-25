@@ -323,7 +323,7 @@
 | [沙県小吃](https://supleks.jp/s/122679.html) | | ○ | ○ | ✗ | ○    | ✗ | ○    |麺　<br>　　| 中華ファストフード店。<br>[牛腩米線セット](https://ramendb.supleks.jp/review/1281238.html)。 |
 | [宏福楼](https://supleks.jp/s/111307.html)                   | 東北料理 | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>飯　| [チャーシューメン＋セット(焼き餃子)](https://supleks.jp/review/1154107.html)<br>[肥腸炒飯](https://chahandb.supleks.jp/review/1296615.html)|
 | [広東名菜・健康美食 一品閣](https://supleks.jp/s/70831.html) | 広東料理 | ○  | ○      | ？      | ○    | ○  | ○    |麺　<br>飯　| 刀削麺を提供。翡翠麺はなくなった？<br />[エビほうれん草麺](https://supleks.jp/review/804301.html)<br>[老干媽炒飯](https://chahandb.supleks.jp/review/1323894.html) |
-| [双明楼](https://supleks.jp/s/17753.html)                    |          | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [特製アサリそば](https://supleks.jp/review/825929.html)      |
+| [双明楼](https://supleks.jp/s/17753.html)                    |          | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>飯　| [特製アサリそば](https://supleks.jp/review/825929.html)<br>[什錦炒飯](https://chahandb.supleks.jp/review/1328561.html)      |
 | [東林](https://supleks.jp/s/18400.html)                      | 北京料理 | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>飯　| [雲白冷麺](https://supleks.jp/review/854363.html)<br>[咖喱炒飯](https://chahandb.supleks.jp/review/1285018.html)<br>自家製麺 |
 | [中華飯店](https://supleks.jp/s/121613.html) | 北京料理 | ○        | ✗      | ✗      | ○    | ？         | ○    |麺　<br>　　| [カレー牛モツそば](https://ramendb.supleks.jp/review/1289327.html)<br>牛モツ料理が売り |
 
