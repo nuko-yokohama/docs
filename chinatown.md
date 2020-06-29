@@ -192,7 +192,7 @@
 | [福盛楼](https://supleks.jp/s/75863.html)                    | 四川料理<br />福建料理 | ○        | ？     | ？      | ○    | ？         | ○    |麺　<br>　　| おこげ料理<br />[四川悶麺](https://supleks.jp/review/846367.html) |
 | 横浜酒家 | 食べ放題 | ○ | ✗ | ✗ | ○ | ？ | ○ | |
 | [酔楼](https://supleks.jp/s/73292.html) | | ○ | ✗ | ✗ | ○ | ✗ | ○ |麺　<br>　　 |[排骨担担麺](https://ramendb.supleks.jp/review/1319959.html)<br>なぜか数年前から閉店扱いになっていた。|
-| [白鳳新館](https://supleks.jp/s/98945.html)        |          | ○        | ？      | ？ | ○    | ？         | ○    |　　<br>　　||
+| [白鳳新館](https://supleks.jp/s/98945.html)        |          | ○        | ✗      | ✗ | ○    | ○         | ○    |　　<br>飯　| [蝦仁炒飯](https://chahandb.supleks.jp/review/1329760.html) |
 | 北京烤鴨店 | 食べ放題 |○        | ？      | ？ | ○    | ？         | ○    |　　<br>　　| 北京ダックが売り |
 | [萬金樓 別館](https://supleks.jp/s/100291.html) | 食べ放題 |○        | ？      | ？ | ○    | ？         | ○    |　　<br>　　|  |
 | [翠香園](https://supleks.jp/s/98007.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　 ||
