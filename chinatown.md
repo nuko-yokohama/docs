@@ -54,7 +54,7 @@
 | [景珍樓新館](https://supleks.jp/s/82155.html)   |          | ○        | ？      | ？      | ○    | ？   | ○    |麺　<br>　　 | [牛腩湯麺](https://supleks.jp/review/902029.html)<br/>角煮チャーハンセット, 福建式チャーハン|
 | 鵬天閣酒家 | | ？ | ？ | ？| ○ | ？ | ○ |　　<br>　　 | |
 | 海源酒家 | 食べ放題 | ○ | ？ | ？ | ○ | ？ | ○ |　　<br>　　 ||
-| 王府井酒家 | 食べ放題 | ○ | ？ | ？ | ○ | ？ | ○ |　　<br>　　 ||
+| [王府井酒家](https://supleks.jp/s/126620.html) | 食べ放題 | ○ | ✗ | ✗ | ○ | ？ | ○ |麺　<br>　　 | [叉焼湯麺](https://ramendb.supleks.jp/review/1330244.html) |
 | [四川料理 京華樓別館](https://supleks.jp/s/22079.html)       | 四川料理 | ○        | ○      | ？      | ○    | ？  | ○    |麺　<br>飯　 | [酸菜牛肉刀削麺](https://supleks.jp/review/182751.html)<br />[四川担々刀削麺（特辛）](https://supleks.jp/review/246016.html)<br>[泡菜花椒油炒飯](https://chahandb.supleks.jp/review/1277105.html) |
 | [華龍飯店](https://supleks.jp/s/74476.html)    |   | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　 | [上海葱油麺](https://supleks.jp/review/834603.html)   |
 | [海南飯店](https://supleks.jp/s/18618.html)   |  | ○  | ✗  | ✗   | ○    | ？  | ○    |麺　<br>飯餃| [千労麺+海老餃子](https://supleks.jp/review/145907.html) <br>[チャーハン＋餃子セット](https://chahandb.supleks.jp/review/1319151.html)|
