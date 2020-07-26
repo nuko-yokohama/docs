@@ -65,7 +65,7 @@
 | [蓮香園](https://supleks.jp/s/26288.html)     |          | ○        | ？     | ？     | ？   | ？  | ？   |麺　<br>　　 | [叉焼排骨湯麺](https://supleks.jp/review/238974.html)<br>閉店したのでは？ |
 | [一楽](https://supleks.jp/s/19803.html)  |          | ○        | ？      | ？      | ○    | ？  | ○    |麺　<br>　　 | [パイコー乗せ冷やしタンタン麺](https://supleks.jp/review/155320.html)<br />[正宗担々麺](https://supleks.jp/review/810727.html) |
 | [聘珍樓横浜本店](https://supleks.jp/s/25188.html)   |          | ○  | ？  | ？      | ○    | ？   | ○    |麺　<br>　　 | [サンマーメン](https://supleks.jp/review/224181.html)        |
-| 興記餃子センター|  | ○ | ✗ | ✗ | ○ | ✗ | ○    |　　<br>　　 |   |
+| [餃子センター興記](https://supleks.jp/s/127085.html) |  | ○ | ✗ | ✗ | ○ | ○ | ○    |麺　<br>　　 | [什錦湯面](https://ramendb.supleks.jp/review/1336704.html)  |
 | [中華菜館 同發別館](https://supleks.jp/s/17771.html)         |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　 | [海鮮そば](https://supleks.jp/review/125942.html)            |
 | 龍江飯店 | 食べ放題 | ○ | ✗ | ✗ | ○ | ✗ | ○    |　　<br>　　 | 北門通りから移転したのかも。要確認。  |
 | [萬金楼](https://supleks.jp/s/126232.html)| 食べ放題 | ○ | ✗ | ✗ | ○ | ✗ | ○    |麺　<br>　　 |[五目冷やし中華](https://ramendb.supleks.jp/review/1324874.html)   |
