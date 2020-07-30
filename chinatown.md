@@ -184,7 +184,7 @@
 
 | 店舗名                                                       | ジャンル               | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 |麺咖飯餃| メモ                                                         |
 | ------------------------------------------------------------ | ---------------------- | -------- | ------ | ------ | ---- | ---------- | ---- | ---- | ------------------------------------------------------------ |
-| [広東料理 吉兆](https://supleks.jp/s/20304.html)             |                        | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| あさりそばが有名<br />[あさりそば](https://supleks.jp/review/239365.html) |
+| [広東料理 吉兆](https://supleks.jp/s/20304.html)             |                        | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>飯　| あさりそばが有名<br />[あさりそば](https://supleks.jp/review/239365.html)<br>[威魚炒飯](https://chahandb.supleks.jp/review/1337687.html) |
 | [龍門本館](https://supleks.jp/s/89523.html)                  |                        | ○        | ✗      | ✗      | ○    | ✗          | ○    |麺　<br>　餃|[担々麺](https://ramendb.supleks.jp/review/1311369.html)<br>[水餃子](https://gyouzadb.supleks.jp/review/1311370.html)|
 | [金鳳酒家](https://supleks.jp/s/87820.html)                  |                        | ○        | ✗      | ✗      | ○    | ○          | ○    |　　<br>　　| フカヒレあんかけ炒飯                                               |
 | [状元郷](https://supleks.jp/s/75593.html)                    | 台湾料理               | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| ルーロー飯<br />[激辛汁なしそば](https://supleks.jp/review/843879.html) |
