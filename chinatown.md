@@ -355,7 +355,7 @@
 
 | 店舗名 | ジャンル | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 |麺咖飯餃| メモ       |
 | ------ | -------- | -------- | ------ | ------ | ---- | ---------- | ---- | ---- | ---------- |
-| [廣翔記新館](https://supleks.jp/s/120115.html)     |          | ○        | ？     | ？      | ○    | ？         | ○    | 　<br>飯　|  [廣翔記魚翅辣味炒飯](https://kanagawa-chahandb.supleks.jp/review/1308487.html) |
+| [廣翔記新館](https://supleks.jp/s/120115.html)     |          | ○        | ？     | ？      | ○    | ？         | ○    |麺<br>飯　|  [台南担仔麺](https://ramendb.supleks.jp/review/1339021.html)<br>[廣翔記魚翅辣味炒飯](https://kanagawa-chahandb.supleks.jp/review/1308487.html) |
 | [青葉新館](https://supleks.jp/s/19300.html)        | 台湾料理 | ○        | ？     | ？      | ？   | ？         | ？   |麺　<br>　　|  薬膳料理<br />[牛肉麺](https://supleks.jp/review/1193336.html) |
 
 ## 媽祖小路
