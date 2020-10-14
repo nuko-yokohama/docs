@@ -175,6 +175,7 @@
 | 東京都目黒区 | [長寿庵](https://ramendb.supleks.jp/s/52976.html) | [味噌ラーメン](https://ramendb.supleks.jp/review/1316450.html) |
 | 東京都中央区 | [梅もと八重洲店](https://ramendb.supleks.jp/s/58520.html)    | [正油ラーメン＋おにぎり](https://ramendb.supleks.jp/review/982356.html) |
 | 東京都中央区 | [ゆで太郎 銀座5丁目店](https://ramendb.supleks.jp/s/62712.html) | [中華そば＋かき揚げ](https://ramendb.supleks.jp/review/1184642.html) |
+| 東京都千代田区 | [更科丸屋](https://supleks.jp/s/80899.html) | [ラーメン](https://ramendb.supleks.jp/review/1356551.html) |
 | 東京都新宿区 | [梅もと新宿西口店](https://ramendb.supleks.jp/s/20042.html)  | [ラーメン天丼セット](https://ramendb.supleks.jp/review/158281.html) |
 | 東京都世田谷区 |[きそば 志ら井](https://kanagawa-ramendb.supleks.jp/s/103069.html) | [みそラーメン](https://kanagawa-ramendb.supleks.jp/s/103069/review) |                                                             |                                                              |
 | 東京都足立区 | [生蕎麦 満留賀](https://supleks.jp/s/120852.html) | 本当にラーメンがあるかは不明。 |
