@@ -100,7 +100,7 @@
 | [愛群](https://supleks.jp/s/18962.html)               |          | ○        | ？      | ？      | ○    | ？          | ？   |麺　<br>　　| [牛腩撈麺](https://supleks.jp/review/145407.html)    |
 | [秀味園](https://supleks.jp/s/76399.html)             |          | ○        | ？      | ？      | ○    | ？          | ？   |麺　<br>飯　| [揚げ茄子と豚しゃぶのおろしぶっかけそば](https://supleks.jp/review/850423.html)1<br/>[富貴炒飯](https://chahandb.supleks.jp/review/1270533.html) |
 | [金陵](https://supleks.jp/s/27060.html)               |          |          |        |        |      |            |      |　　<br>　　| ここはもう以前の業態ではなかったかも。<br>現在はご飯もののみ。|
-| [桃香園](https://supleks.jp/s/96514.html)             |          | ✗       | ✗     | ✗     | ✗   | ✗         | ○   |　　<br>　　| イートイン？点心のみか。 |
+| [桃香園](https://supleks.jp/s/96514.html)             |点心 | ○ | ✗     | ✗     | ○   | ✗  | ○   |麺　<br>　　| 麺も炒飯も餃子もある。<br>[激辛牛バラらーめん](https://ramendb.supleks.jp/review/1367646.html) |
 | [清風楼](https://supleks.jp/s/50027.html)             |          | ○        | ？      | ？      | ○    | ？         | ？   |　　<br>　　| 未食。炒飯が美味いらしい、。                                 |
 | [広東料理 聚英](https://supleks.jp/s/90713.html)      | 広東料理 | ○        | ✗      | ✗      | ○    | ✗         | ○    |麺　<br>　　| [三鮮湯麺](https://ramendb.supleks.jp/review/1287054.html) |
 | [三和楼](https://supleks.jp/s/25552.html)             |          | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　| 蜆ラーメン、サンマー排骨麺など。                             |
