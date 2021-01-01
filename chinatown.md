@@ -207,7 +207,7 @@
 | [龍華楼新館](https://supleks.jp/s/71749.html)                |                        | ○        | ？     | ？      | ○    | ？         | ○    |麺　<br>　　| [特製四川担々麺](https://supleks.jp/review/812231.html)      |
 | 酔龍 | 食べ放題 | ○ | ？ | ？ | ○ | ？ | ○ |　　<br>　　 ||
 | [梅蘭中華街本店](https://supleks.jp/s/18566.html)            |                        | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　| 意外にも行ってなかった・・・                                 |
-| [華錦飯店](https://supleks.jp/s/118484.html)                 |                        | ○        | ？     | ？      | ○    | ？         | ？   |　　<br>　　| ほとんど情報なし。<br />優先探索対象。                       |
+| [華錦飯店](https://supleks.jp/s/118484.html)                 |                        | ○        | ○     | ✗      | ○    | ○         | ○   |麺　<br>　　| [海鮮焖麺](https://ramendb.supleks.jp/review/1376988.html)  |
 | [民生炒飯](https://supleks.jp/s/121880.html) | | ✗ | ✗ | ✗ | ○ | ○ | ✗ |　　<br>飯　 |炒飯専門店<br />[蛋包炒飯](https://chahandb.supleks.jp/review/1273010.html)<br>[牛肉炒飯](https://chahandb.supleks.jp/review/1315266.html) |
 | [萬来亭](https://supleks.jp/s/19923.html)                    | 上海料理               | ○        | ？     | ？      | ○    | ？          | ○    |麺　<br>　　| [牛腩湯麺](https://supleks.jp/review/156816.html)            |
 
