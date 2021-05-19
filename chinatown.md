@@ -102,7 +102,8 @@
 | [金陵](https://supleks.jp/s/27060.html)               |          |          |        |        |      |            |      |　　<br>　　| ここはもう以前の業態ではなかったかも。<br>現在はご飯もののみ。|
 | [桃香園](https://supleks.jp/s/96514.html)             |点心 | ○ | ✗     | ✗     | ○   | ✗  | ○   |麺　<br>　　| 麺も炒飯も餃子もある。<br>[激辛牛バラらーめん](https://ramendb.supleks.jp/review/1367646.html) |
 | [清風楼](https://supleks.jp/s/50027.html)             |          | ○        | ？      | ？      | ○    | ？         | ？   |　　<br>　　| 未食。炒飯が美味いらしい、。                                 |
-| [広東料理 聚英](https://supleks.jp/s/90713.html)      | 広東料理 | ○        | ✗      | ✗      | ○    | ✗         | ○    |麺　<br>　　| [三鮮湯麺](https://ramendb.supleks.jp/review/1287054.html) |
+| [台湾菜館](https://supleks.jp/s/133337.html)             |          | ○        | ○      | ✗      | ○    | ✗         | ○    |麺　<br>　　| [台灣牛肉麺](https://ramendb.supleks.jp/review/1411319.html) |
+| [広東料理 聚英(閉店)](https://supleks.jp/s/90713.html)      | 広東料理 | ○        | ✗      | ✗      | ○    | ✗         | ○    |麺　<br>　　| [三鮮湯麺](https://ramendb.supleks.jp/review/1287054.html) |
 | [三和楼](https://supleks.jp/s/25552.html)             |          | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　| 蜆ラーメン、サンマー排骨麺など。                             |
 | [大新園](https://supleks.jp/s/75119.html)             | 上海料理 | ○        | ？      | ？      | ○    | ？         | ？   |麺　<br>　　| [涼風湯麺](https://supleks.jp/review/855296.html)            |
 | [蓬莱閣](https://supleks.jp/s/58022.html)             | 北京料理 | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [苳菇麺](https://supleks.jp/review/839077.html)              |
