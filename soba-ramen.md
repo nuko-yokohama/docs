@@ -91,7 +91,7 @@
 | 相模原市中央区 | [山田うどん 亀井野店](https://supleks.jp/s/77215.html) |  |
 | 相模原市中央区 | [山田うどん 相模原中央店](https://supleks.jp/s/80291.html) |  |
 | 相模原市中央区 | [山田うどん 田名店](https://supleks.jp/s/111501.html) |  |
-| 相模原市中央区 | [増田屋](https://supleks.jp/s/124587.html) | 上溝駅近く。<br>[味噌ラーメン](https://supleks.jp/review/1306576.html) |
+| 相模原市中央区 | [増田屋](https://supleks.jp/s/124587.html) | 上溝交差点近く。<br>ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1414127.html) |
 | 相模原市緑区     | [おそば 満留賀](https://supleks.jp/s/121199.html) | 以前はラーメンを提供していたが、現在はメニューから消えている。(2019-09-26に確認) |
 | 相模原市緑区     | [ゆで太郎西橋本店](https://ramendb.supleks.jp/s/98903.html)  | [中華そばとり舞茸天丼セット](https://ramendb.supleks.jp/review/1130647.html) |
 | 相模原市緑区     | [増田屋](https://ramendb.supleks.jp/s/80676.html)            | [ラーメン](https://ramendb.supleks.jp/review/888139.html)    |
