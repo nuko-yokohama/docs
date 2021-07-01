@@ -21,10 +21,11 @@
 | 横浜市中区       | [ゆで太郎関内羽衣町店](https://ramendb.supleks.jp/s/83387.html) | ぬ：[野菜たっぷり中華そば](https://ramendb.supleks.jp/review/1135320.html) |
 | 横浜市中区       | [ゆで太郎長者町店](https://ramendb.supleks.jp/s/82376.html)  | ぬ：[ざる中華](https://ramendb.supleks.jp/review/1153871.html) |
 | 横浜市中区       | [ゆで太郎関内太田町店](https://ramendb.supleks.jp/s/84327.html) | ぬ：[野菜たっぷり中華そば](https://ramendb.supleks.jp/review/1148846.html) |
-| 横浜市中区       | [ゆで太郎関内本町通り店](https://ramendb.supleks.jp/s/104597.html) |                                                              |
-| 横浜市中区       | [ゆで太郎関内ベイスターズ通り店](https://ramendb.supleks.jp/s/84091.html) |                                                              |
+| 横浜市中区       | [ゆで太郎関内本町通り店](https://ramendb.supleks.jp/s/104597.html) | ぬ：[肉もやしあんかけ中華](https://ramendb.supleks.jp/review/1370484.html)      |
+| 横浜市中区       | [ゆで太郎関内ベイスターズ通り店](https://ramendb.supleks.jp/s/84091.html) | ぬ：[ピリ辛葱豚中華](https://ramendb.supleks.jp/review/1366726.html)   |
 | 横浜市中区       | [名代 富士そば伊勢佐木モール店](https://ramendb.supleks.jp/s/22122.html) | ぬ：[ラーメン](https://ramendb.supleks.jp/review/183092.html)<br />[ラーメンミニカレーセット](https://ramendb.supleks.jp/review/1042085.html) |
-| 横浜市西区       | [ゆで太郎横浜岡野店](https://supleks.jp/s/95433.html)        |                                                              |
+| 横浜市中区       | [松かど(https://ramendb.supleks.jp/s/84091.html) | [冷やし中華](https://ramendb.supleks.jp/review/1422090.html) |
+| 横浜市西区| [ゆで太郎横浜岡野店](https://supleks.jp/s/95433.html) （閉店）|                                                              |
 | 横浜市西区       | [山屋](https://ramendb.supleks.jp/s/30511.html)              | ぬ：[サンマーメン](https://ramendb.supleks.jp/review/654459.html) |
 | 横浜市西区       | [お食事処 満留賀](https://ramendb.supleks.jp/s/86304.html)              | ぬ：[サンマーメン](https://ramendb.supleks.jp/review/1263383.html) |
 | 横浜市西区 | 砂場（未登録、高島町） | 冷やし中華あり |
@@ -38,7 +39,7 @@
 | 横浜市栄区 | [大船軒 本郷台駅前店](https://supleks.jp/s/63400.html) | [中華そば](https://supleks.jp/review/1259142.html) |
 | 横浜市神奈川区   | [蕎麦 源](https://ramendb.supleks.jp/s/28894.html)           | ぬ：[ラーメン](https://ramendb.supleks.jp/review/1157494.html) |
 | 横浜市瀬谷区     | [志波田](https://ramendb.supleks.jp/s/106488.html)           | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1119264.html) |
-| 横浜市泉区       | [ゆで太郎横浜中田東店](https://supleks.jp/s/95785.html)      |                                                              |
+| 横浜市泉区       | [ゆで太郎横浜中田東店](https://supleks.jp/s/95785.html)      |     |
 | 横浜市泉区 | [ラーメンショップ 岡津店](https://supleks.jp/s/80664.html) | ラーショにも関わらず蕎麦の提供もある異色店 |
 | 横浜市泉区 | [栃木屋](https://supleks.jp/s/128420.html) | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1417606.html) |
 | 横浜市保土ケ谷区 | [ゆで太郎保土ヶ谷区役所前店](https://supleks.jp/s/86305.html) |                                                              |
@@ -56,9 +57,10 @@
 | 横浜市戸塚区     | [満留賀](https://ramendb.supleks.jp/s/113897.html)           | [チャーシューメン](https://ramendb.supleks.jp/review/1186750.html)<br>ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1263604.html)<br>味噌ラーメンは玉葱抜きにできないので注意 |
 | 横浜市戸塚区 | [福徳屋](https://supleks.jp/s/59819.html) | つけ麺のみ中華麺らしい。現在は提供終了？ |
 | 横浜市泉区 | 満留賀（未登録、第2、4、5日曜日、立場駅） | ラーメンあり。サンマーメンはないが、もやしそばあり |
+| 横浜市泉区 | [栃木屋](https://ramendb.supleks.jp/s/128420.html) | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1417606.html) |
 | 横浜市港北区 | [麺房 八角](https://supleks.jp/s/68119.html) | [B定食 (らーめん＋カツ丼)](https://supleks.jp/s/63073/review) |
 | 横浜市港北区 | [そば処やます家](https://supleks.jp/s/63073.html) | [ねぎらーめん](https://supleks.jp/review/782597.html) |
-| 横浜市都筑区 | [満留賀](https://supleks.jp/s/121395.html) | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1267096.html) |
+| 横浜市青葉区 | [森野庵](https://supleks.jp/s/117689.html) | [チャーシューメン](https://ramendb.supleks.jp/review/1368094.html) |
 
 ### 川崎市
 
