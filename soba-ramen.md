@@ -27,6 +27,7 @@
 | 横浜市中区       | [ゆで太郎関内ベイスターズ通り店](https://ramendb.supleks.jp/s/84091.html) | ぬ：[ピリ辛葱豚中華](https://ramendb.supleks.jp/review/1366726.html)   |
 | 横浜市中区       | 【閉店】[名代 富士そば伊勢佐木モール店](https://ramendb.supleks.jp/s/22122.html) | ぬ：[ラーメン](https://ramendb.supleks.jp/review/183092.html)<br />[ラーメンミニカレーセット](https://ramendb.supleks.jp/review/1042085.html) |
 | 横浜市中区       | [松かど](https://ramendb.supleks.jp/s/84091.html) | ぬ：[冷やし中華](https://ramendb.supleks.jp/review/1422090.html) |
+| 横浜市中区       | [名代 富士そば 日ノ出町店](https://supleks.jp/s/101716.html) | ぬ：[煮干しラーメン](https://ramendb.supleks.jp/review/1383940.html) |
 | 横浜市西区| 【閉店】[ゆで太郎横浜岡野店](https://supleks.jp/s/95433.html) |                                                              |
 | 横浜市西区       | [山屋](https://ramendb.supleks.jp/s/30511.html)              | ぬ：[サンマーメン](https://ramendb.supleks.jp/review/654459.html) |
 | 横浜市西区       | [お食事処 満留賀](https://ramendb.supleks.jp/s/86304.html)              | ぬ：[サンマーメン](https://ramendb.supleks.jp/review/1263383.html) |
