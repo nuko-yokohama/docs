@@ -25,7 +25,7 @@
 | 横浜市中区       | [ゆで太郎関内太田町店](https://ramendb.supleks.jp/s/84327.html) | ぬ：[野菜たっぷり中華そば](https://ramendb.supleks.jp/review/1148846.html) |
 | 横浜市中区       | [ゆで太郎関内本町通り店](https://ramendb.supleks.jp/s/104597.html) | ぬ：[肉もやしあんかけ中華](https://ramendb.supleks.jp/review/1370484.html)      |
 | 横浜市中区       | [ゆで太郎関内ベイスターズ通り店](https://ramendb.supleks.jp/s/84091.html) | ぬ：[ピリ辛葱豚中華](https://ramendb.supleks.jp/review/1366726.html)   |
-| 横浜市中区       | [名代 富士そば伊勢佐木モール店](https://ramendb.supleks.jp/s/22122.html) | ぬ：[ラーメン](https://ramendb.supleks.jp/review/183092.html)<br />[ラーメンミニカレーセット](https://ramendb.supleks.jp/review/1042085.html) |
+| 横浜市中区       | 【閉店】[名代 富士そば伊勢佐木モール店](https://ramendb.supleks.jp/s/22122.html) | ぬ：[ラーメン](https://ramendb.supleks.jp/review/183092.html)<br />[ラーメンミニカレーセット](https://ramendb.supleks.jp/review/1042085.html) |
 | 横浜市中区       | [松かど](https://ramendb.supleks.jp/s/84091.html) | ぬ：[冷やし中華](https://ramendb.supleks.jp/review/1422090.html) |
 | 横浜市西区| [ゆで太郎横浜岡野店](https://supleks.jp/s/95433.html) （閉店）|                                                              |
 | 横浜市西区       | [山屋](https://ramendb.supleks.jp/s/30511.html)              | ぬ：[サンマーメン](https://ramendb.supleks.jp/review/654459.html) |
@@ -59,7 +59,7 @@
 | 横浜市鶴見区 | 満留賀（未登録：定休日不明、矢向駅南） | 
 | 横浜市鶴見区 | [満留賀](https://supleks.jp/s/120954.html) | 以前はラーメンを提供していたが、現在は未提供とのこと。(2019-09-17確認) | 
 | 横浜市戸塚区     | [満留賀](https://supleks.jp/s/113897.html)           | [チャーシューメン](https://ramendb.supleks.jp/review/1186750.html)<br>ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1263604.html)<br>味噌ラーメンは玉葱抜きにできないので注意 |
-| 横浜市戸塚区 | [福徳屋](https://supleks.jp/s/59819.html) | つけ麺のみ中華麺らしい。現在は提供終了？ |
+| 横浜市戸塚区 |【提供終了】 [福徳屋](https://supleks.jp/s/59819.html) | つけ麺のみ中華麺らしい。現在は提供終了 |
 | 横浜市泉区 | 満留賀（未登録、第2、4、5日曜日、立場駅） | ラーメンあり。サンマーメンはないが、もやしそばあり |
 | 横浜市泉区 | [栃木屋](https://supleks.jp/s/128420.html) | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1417606.html) |
 | 横浜市泉区 | [広栄屋](https://supleks.jp/s/56556.html) | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1417606.html) |
