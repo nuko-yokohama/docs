@@ -28,6 +28,7 @@
 | 横浜市中区       | 【閉店】[名代 富士そば伊勢佐木モール店](https://ramendb.supleks.jp/s/22122.html) | ぬ：[ラーメン](https://ramendb.supleks.jp/review/183092.html)<br />[ラーメンミニカレーセット](https://ramendb.supleks.jp/review/1042085.html) |
 | 横浜市中区       | [松かど](https://ramendb.supleks.jp/s/84091.html) | ぬ：[冷やし中華](https://ramendb.supleks.jp/review/1422090.html) |
 | 横浜市中区       | [名代 富士そば 日ノ出町店](https://supleks.jp/s/101716.html) | ぬ：[煮干しラーメン](https://ramendb.supleks.jp/review/1383940.html) |
+| 横浜市西区| [濱そば 横浜店](https://supleks.jp/s/82476.html) | ぬ：[中華そば](https://ramendb.supleks.jp/review/1062538.html)  |
 | 横浜市西区| 【閉店】[ゆで太郎横浜岡野店](https://supleks.jp/s/95433.html) |                                                              |
 | 横浜市西区       | [山屋](https://ramendb.supleks.jp/s/30511.html)              | ぬ：[サンマーメン](https://ramendb.supleks.jp/review/654459.html) |
 | 横浜市西区       | [お食事処 満留賀](https://ramendb.supleks.jp/s/86304.html)              | ぬ：[サンマーメン](https://ramendb.supleks.jp/review/1263383.html) |
@@ -113,7 +114,9 @@
 
 | 場所   | 店名        | 備考        |
 | ------| --------- | ------- |
+| 鎌倉市 | [湘南鎌倉 大船軒 JR鎌倉駅内]( https://supleks.jp/s/74278.html) | [中華そば](https://ramendb.supleks.jp/review/832436.html) |
 | 鎌倉市 | [酒場・山形そば ふくや](https://supleks.jp/s/72796.html) | 山形の鳥中華あり |
+| 藤沢市 | [大船軒 藤沢そば店](https://supleks.jp/s/92616.html) | [中華そば](https://ramendb.supleks.jp/review/1180508.html) |
 | 藤沢市 | [山田うどん 亀井野店](https://supleks.jp/s/62817.html) |  |
 | 藤沢市 | [山田うどん 藤沢田方町店](https://supleks.jp/s/89871.html) |  |
 | 茅ヶ崎市         | [大むら](https://ramendb.supleks.jp/s/111269.html) （本当に蕎麦店か要確認） |                                                              |
