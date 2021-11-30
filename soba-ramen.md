@@ -65,7 +65,7 @@
 | 横浜市戸塚区 |【提供終了】 [福徳屋](https://supleks.jp/s/59819.html) | つけ麺のみ中華麺らしい。現在は提供終了 |
 | 横浜市泉区 | 満留賀（未登録、第2、4、5日曜日、立場駅） | ラーメンあり。サンマーメンはないが、もやしそばあり |
 | 横浜市泉区 | [栃木屋](https://supleks.jp/s/128420.html) | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1417606.html) |
-| 横浜市泉区 | [広栄屋](https://supleks.jp/s/56556.html) | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1417606.html) |
+| 横浜市泉区 | [広栄屋](https://supleks.jp/s/56556.html) | [チャーシューメン](https://ramendb.supleks.jp/review/1347128.html) |
 | 横浜市港北区 | [麺房 八角](https://supleks.jp/s/68119.html) | [B定食 (らーめん＋カツ丼)](https://supleks.jp/s/63073/review) |
 | 横浜市港北区 | [そば処やます家](https://supleks.jp/s/63073.html) | [ねぎらーめん](https://supleks.jp/review/782597.html) |
 | 横浜市青葉区 | [森野庵](https://supleks.jp/s/117689.html) | [チャーシューメン](https://ramendb.supleks.jp/review/1368094.html) |
@@ -195,6 +195,7 @@
 | 東京都世田谷区 |[きそば 志ら井](https://kanagawa-ramendb.supleks.jp/s/103069.html) | [みそラーメン](https://kanagawa-ramendb.supleks.jp/s/103069/review) |
 | 東京都足立区 | [生蕎麦 満留賀](https://supleks.jp/s/120852.html) | 本当にラーメンがあるかは不明。 |
 | 東京都日野市 | [そば処 豊年屋](https://supleks.jp/s/129777.html) | [中華そば（590円）](https://ramendb.supleks.jp/review/1371703.html) |
+| 東京都武蔵野市 | [しなのや](https://supleks.jp/s/89740.html) | [ラーメン 600円](https://ramendb.supleks.jp/review/1460676.html) |
 
 
 ## その他
