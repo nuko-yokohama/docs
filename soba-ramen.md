@@ -182,6 +182,7 @@
 | 東京都品川区 | [ゆで太郎大崎広小路店](https://ramendb.supleks.jp/s/62281.html) | [カレーざる中華](https://ramendb.supleks.jp/review/1164206.html) |
 | 東京都品川区 | [ゆで太郎東五反田店](https://ramendb.supleks.jp/s/62110.html) | [野菜たっぷり中華そば＋コロッケ](https://ramendb.supleks.jp/review/1135730.html) |
 | 東京都品川区 | [楓庵](https://supleks.jp/s/89701.html) | 大井町駅近く。ラーメン、ちゃんぽん、冷やし中華あり。 |
+| 東京都品川区 | [道中そば](https://supleks.jp/s/56493.html) | 五反田駅山手線ホーム上。<br>[中華そば](https://ramendb.supleks.jp/review/1464455.html) |
 | 東京都港区   | [ゆで太郎芝大門店](https://ramendb.supleks.jp/s/61812.html)  | [鬼おろしざる中華](https://ramendb.supleks.jp/review/1158578.html) |
 | 東京都港区   | [ゆで太郎高輪店](https://ramendb.supleks.jp/s/60648.html)    | [野菜たっぷり中華そば](https://ramendb.supleks.jp/review/1132716.html) |
 | 東京都港区   | [ゆで太郎 竹芝店](https://ramendb.supleks.jp/s/62932.html)   | [ダブルワカメラーメン](https://ramendb.supleks.jp/review/1123178.html) |
