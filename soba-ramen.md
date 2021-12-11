@@ -197,6 +197,7 @@
 | 東京都足立区 | [生蕎麦 満留賀](https://supleks.jp/s/120852.html) | 本当にラーメンがあるかは不明。 |
 | 東京都日野市 | [そば処 豊年屋](https://supleks.jp/s/129777.html) | [中華そば（590円）](https://ramendb.supleks.jp/review/1371703.html) |
 | 東京都武蔵野市 | [しなのや](https://supleks.jp/s/89740.html) | [ラーメン 600円](https://ramendb.supleks.jp/review/1460676.html) |
+| 東京都立川市 | [生そば 満留賀](https://supleks.jp/s/103149.html) | [タンメン（700円）](https://ramendb.supleks.jp/review/1467335.html) |
 
 
 ## その他
