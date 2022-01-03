@@ -61,6 +61,7 @@
 | [龍門新館](https://supleks.jp/s/19370.html)   |  | ○   | ？  | ？      | ○    | ？          | ○    |麺　<br>　　 | [生馬湯麺](https://supleks.jp/review/148766.html)<br />[排骨担々麺](https://supleks.jp/review/838153.html) |
 | [福臨閣](https://supleks.jp/s/24931.html)    |          | ○        | ？      | ？      | ○    | ？   | ○    |麺　<br>　　 | [八珍湯麺](https://supleks.jp/review/836783.html)            |
 | [三国演義](https://supleks.jp/s/121885.html)(閉店) |  | ○ | ✗ | ✗ | ○ | ○ | ○    |　　<br>飯餃 | [泡菜炒飯](https://chahandb.supleks.jp/review/1280161.html)<br>[韮菜餃](https://gyouzadb.supleks.jp/review/1280165.html)  |
+| [香港大飯店](https://supleks.jp/s/138401.html) |  | ○ | ✗ | ✗ | ○ | ○ | ○    |　　<br |   |
 | [中華街 桂宮](https://supleks.jp/s/100039.html)   |          | ○        | ？      | ？      | ○    | ○   | ○    |麺　<br>飯　 | [黄金炒飯](https://chahandb.supleks.jp/review/1268317.html)<br>[ワンタン麺](https://ramendb.supleks.jp/review/1313225.html)  |
 | [蓮香園](https://supleks.jp/s/26288.html)     |          | ○        | ？     | ？     | ？   | ？  | ？   |麺　<br>　　 | [叉焼排骨湯麺](https://supleks.jp/review/238974.html)<br>閉店したのでは？ |
 | [一楽](https://supleks.jp/s/19803.html)  |          | ○        | ？      | ？      | ○    | ？  | ○    |麺　<br>　　 | [パイコー乗せ冷やしタンタン麺](https://supleks.jp/review/155320.html)<br />[正宗担々麺](https://supleks.jp/review/810727.html) |
@@ -149,7 +150,7 @@
 | -------------------------------------------------- | -------- | -------- | ------ | ------------------------------------------- | ---- | ---------- | ---- | ---- | ------------------------------------------------------------ |
 | [安記](https://supleks.jp/s/18958.html)            | 広東料理 | ○        | ？      | ？ | ○    | ？          | ○    |麺　<br>　　| 中華粥の老舗<br />[牛肚麺](https://supleks.jp/review/810877.html) |
 | [四川麻婆新館](https://supleks.jp/s/113566.html)   | 四川料理 | ○        | ？      | ？  | ○    | ？         | ○    |麺　<br>　　| [担々麺セット](https://supleks.jp/review/1182279.html)       |
-| [川味](https://supleks.jp/s/122793.html)【閉店】 |四川料理 | ○        | ○      | ✗  | ○    | ✗         | ○    |麺　<br>　　| 刀削麺の店<br>[泡椒羊肉面・青汁刀削麺変更](https://ramendb.supleks.jp/review/1282483.html) |
+| [川味](https://supleks.jp/s/122793.html)【休業中】 |四川料理 | ○        | ○      | ✗  | ○    | ✗         | ○    |麺　<br>　　| 刀削麺の店<br>[泡椒羊肉面・青汁刀削麺変更](https://ramendb.supleks.jp/review/1282483.html) |
 | [順海閣酒家](https://supleks.jp/s/73204.html)      |          | ○        | ？      | ？  | ○    | ？         | ○    |麺　<br>　　| 元祖シウマイの店<br />[牛バラ麺セット](https://supleks.jp/review/823769.html) |
 | [白鳳本館](https://supleks.jp/s/52937.html)        |          | ○        | ？      | ？ | ○    | ？         | ？   |　　<br>　　|  |
 | [順海閣本館](https://supleks.jp/s/110376.html)     |          | ○        | ？      | ？ | ○    | ？         | ○    |麺　<br>　　|[扣肉湯麺](https://ramendb.supleks.jp/review/1315807.html) |
@@ -163,6 +164,7 @@
 | [牡丹園](https://supleks.jp/s/26320.html)          | 広東料理 | ○        | ？      | [○](https://supleks.jp/review/1018290.html) | ○    | ○          | ○    |麺　<br>飯　| [牛喃湯麺](https://supleks.jp/review/239362.html)<br />[牛腩炒飯](https://supleks.jp/review/1212829.html)<br>[うなぎチャーハン](https://kanagawa-chahandb.supleks.jp/review/1317163.html) |
 | 七福堂 | 食べ放題 | ○ | ？ | ？ | ○ | ？ | ○ |　　<br>　　| |                                                |
 | [保昌](https://supleks.jp/s/18622.html)            |          | ○        | ？      | [○](https://supleks.jp/review/1244034.html) | ○    | ？         | ○    |麺　<br>　　| 牛バラカレーが有名<br />[骨湯麺](https://supleks.jp/review/138600.html)<br />[アサリと野菜たっぷりピリ辛タンメン](https://supleks.jp/review/859832.html) |
+| [星陽飯店](https://supleks.jp/s/137477.html)        |          | ○        | ？      | ？ | ○    | ？         | ○    |　<br>　　|  |
 | [京城飯店](https://supleks.jp/s/73700.html)        |          | ○        | ？      | ？ | ○    | ？         | ○    |麺　<br>　　| [黒担々麺](https://supleks.jp/review/827441.html)            |
 | [景徳鎮新館](https://supleks.jp/s/26332.html)      | 四川料理 | ○        | ？      | ？   | ○    | ？         | ○    |麺　<br>　　| [棒々鶏冷麺](https://supleks.jp/review/239567.html)          |
 | [上海飯店](https://supleks.jp/s/73799.html)        |          | ○        | ？      | ？  | ○    | ？         | ○    |麺　<br>　　| [椎茸ソバ](https://supleks.jp/review/828380.html)|
@@ -235,7 +237,7 @@
 | [中国料理 翠鳳本店](https://supleks.jp/s/76349.html) |          | ○        | ？     | ？      | ○    | ？         | ？   |麺　<br>　　| [叉焼湯麺](https://supleks.jp/review/850094.html)            |
 | [謝甜記貮号店](https://supleks.jp/s/93259.html)      |          | ○        | ？      | ？      | ○    | ○          | ○    |　　<br>　　| 中国粥推し                                                   |
 | [広東料理 廣新楼](https://supleks.jp/s/75379.html)   | 広東料理 | ○        | ✗      | ✗      | ○    | ✗          | ○    |麺　<br>　餃| 神奈川サンマーメンの会<br>[ロー麺](https://ramendb.supleks.jp/review/1304741.html)<br>[水餃子](https://gyouzadb.supleks.jp/review/1304746.html) |
-| [許厨房](https://supleks.jp/s/124258.html)   | 台湾料理 | ○        | ○      | ✗      | ○    | ✗          | ○    |麺　<br>　　| [台湾牛腩刀削麺](https://ramendb.supleks.jp/review/1302264.html) |
+| [許厨房](https://supleks.jp/s/124258.html) 【休業中】  | 台湾料理 | ○        | ○      | ✗      | ○    | ✗          | ○    |麺　<br>　　| [台湾牛腩刀削麺](https://ramendb.supleks.jp/review/1302264.html) |
 
 ## 南門シルクロード
 
@@ -250,9 +252,9 @@
 | [招福門](https://supleks.jp/s/19207.html)          |          | ○        | ？     | ？      | ？   | ？         | ？   |　　<br>　　| ほとんど情報なし                                             |
 | [大三元酒家](https://supleks.jp/s/91143.html)      |          | ○  | ✗  | ✗  | ○    | ✗  | ○    |麺　<br>　　|[叉焼湯麺](https://ramendb.supleks.jp/review/1313668.html) |
 | [熊猫飯店](https://supleks.jp/s/74552.html)        |          | ○        | ？     | ？      | ○    | ？         | ○    |麺　<br>　　| [生馬麺](https://supleks.jp/review/835512.html)              |
-| [客満堂三番館](https://supleks.jp/s/91760.html)    |          | ○        | ？     | ？      | ○    | ？         | ○    |　　<br>　　|  |
+| [客満堂三番館](https://supleks.jp/s/91760.html)【閉店】    |          | ○        | ？     | ？      | ○    | ？         | ○    |　　<br>　　|  |
 | [好記園](https://supleks.jp/s/124155.html) | 台湾料理 | ○         | ○     | ✗    |  ○   | ✗  | ○    |麺　<br>　　| [椎茸野菜そば](https://ramendb.supleks.jp/review/1300916.html)  |
-
+| [福龍酒家](https://supleks.jp/s/130932.html) |  | ○         | ✗     | ✗    |  ○   | ○  | ○    |　　<br>　　|   |
 ## 北門通り ##
 
 玄武門から善隣門までの道。
