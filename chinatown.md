@@ -203,6 +203,7 @@
 | [萬金樓 別館](https://supleks.jp/s/100291.html) | 食べ放題 |○        | ？      | ？ | ○    | ？         | ○    |　　<br>　　|  |
 | [翠香園](https://supleks.jp/s/98007.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　 ||
 | [馬さんの店 龍仙市場館](https://supleks.jp/s/19236.html)(閉店) |  | ○        | ？     | ？     | ？   | ？         | ？   |麺　<br>飯　| [馬辣麺（辛さ普通）](https://supleks.jp/review/146812.html)<br />[東陽功担々麺](https://supleks.jp/review/845457.html)<br>[海老チャーハン](https://chahandb.supleks.jp/review/1322118.html)|
+| [青海星 新館](https://supleks.jp/s/139796.html)  | | ○        | ☓     | ☓      | ○    | ○         | ○    |麺　<br>　　| [叉焼湯麺]()            |
 | [彩鳳](https://supleks.jp/s/8604.html)  | | ○        | ？     | ？      | ○    | ？         | ○    |麺　<br>　　| [鮮貝湯麺](https://supleks.jp/review/846848.html)            |
 | [福満園別館](https://supleks.jp/s/76195.html)                | 四川料理<br />湖南料理 | ○        | ？     | ？      | ○    | ？         | ○    |麺　<br>　　|[叉焼湯麺](https://supleks.jp/review/849028.html)            |
 | [四五六菜館本館](https://supleks.jp/s/75710.html)            | 上海料理               | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [チャーシュー麺](https://supleks.jp/review/844994.html)      |
