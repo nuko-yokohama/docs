@@ -251,6 +251,7 @@
 | 金龍飯店         |食べ放題          | ○        | ？     | ？      | ？   | ？         | ？   |　　<br>　　| ほとんど情報なし  |
 | [五福臨](https://supleks.jp/s/27361.html)          | | ○  | ？  | ？  | ？ | ？ | ？  |麺　<br>　　| [排骨担々麺](https://supleks.jp/review/252829.html)<br/>福建スープ炒飯、海鮮炒飯 |
 | [華錦飯店 新館](https://supleks.jp/s/122479.html) | 魚系 | ○ | ✗ | ✗ | ○ | ○ | ○ |　　<br>飯　| [海鮮炒飯](https://chahandb.supleks.jp/review/1278839.html)<br>海鮮煮込みそば、海鮮入り油そば |
+| 成都百味         |四川料理 | ？        | ？     | ？   | ？         | ？   | ？ |　　<br>　　|  |
 | 萬源酒家         |食べ放題          | ○        | ？     | ？   | ？         | ？   | ？ |　　<br>　　| ほとんど情報なし  |
 | [招福門](https://supleks.jp/s/19207.html)          |          | ○        | ？     | ？      | ？   | ？         | ？   |　　<br>　　| ほとんど情報なし                                             |
 | [大三元酒家](https://supleks.jp/s/91143.html)      |          | ○  | ✗  | ✗  | ○    | ✗  | ○    |麺　<br>　　|[叉焼湯麺](https://ramendb.supleks.jp/review/1313668.html) |
