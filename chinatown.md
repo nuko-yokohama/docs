@@ -111,7 +111,7 @@
 | [謝朋酒樓](https://supleks.jp/s/29230.html)           | 四川料理 | ○        | ？      | ？      | ？   | ？         | ？   |麺　<br>飯餃| [四川然麺](https://supleks.jp/review/277584.html)<br>[野山椒鴨肉炒飯](https://chahandb.supleks.jp/review/1283456.html)<br>[煎餃子](https://gyouzadb.supleks.jp/review/1283460.html)|
 | [中国料理 東園](https://supleks.jp/s/27128.html)      |          | ○        | ？      | ？      | ？   | ？         | ？   |麺　<br>　　| 排骨が有名らしい<br>[蝦仁煨麺](https://ramendb.supleks.jp/review/1273971.html) |
 | [新楽](https://supleks.jp/s/124261.html)      |          | ○        | ？      | ？      | ？   | ？         | ？   |麺　<br>飯　| [什景炒飯](https://chahandb.supleks.jp/review/1302367.html)<br>[回鍋肉麺](https://ramendb.supleks.jp/review/1497362.html) |
-| [四川飯店]| 四川料理？  | ？        | ？      | ？      | ？   | ？         | ？   |　　<br>　　| 鳳林の跡地？要確認 |
+| [四川飯店](https://supleks.jp/s/137117.html)| 四川料理 | ○        | ✗      | ✗      | ○   | ○          | ○   |　　<br>　　| [麻辣肉絲面](https://ramendb.supleks.jp/review/1502274.html) |
 | [鳳林](https://supleks.jp/s/26960.html)               |          | ○        | ？      | ？     | ○    | ○          | ○    |麺　<br>　　| [アサリそば](https://supleks.jp/review/247921.html)<br />たぶん、カレーはない。 |
 | [富莚](https://www.supleks.jp/s/122726.html)               |          | ○        | ○      | ✗     | ○    | ○  | ○    |麺　<br>飯　| [葱油刀削麺](https://ramendb.supleks.jp/review/1281880.html)<br>[炒飯青のりソース蟹肉添え](https://chahandb.supleks.jp/review/1324962.html) |
 
