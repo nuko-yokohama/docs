@@ -61,7 +61,7 @@
 | [龍門新館](https://supleks.jp/s/19370.html)   |  | ○   | ？  | ？      | ○    | ？          | ○    |麺　<br>　　 | [生馬湯麺](https://supleks.jp/review/148766.html)<br />[排骨担々麺](https://supleks.jp/review/838153.html) |
 | [福臨閣](https://supleks.jp/s/24931.html)    |          | ○        | ？      | ？      | ○    | ？   | ○    |麺　<br>　　 | [八珍湯麺](https://supleks.jp/review/836783.html)            |
 | 【閉店】[三国演義](https://supleks.jp/s/121885.html) |  | ○ | ✗ | ✗ | ○ | ○ | ○    |　　<br>飯餃 | [泡菜炒飯](https://chahandb.supleks.jp/review/1280161.html)<br>[韮菜餃](https://gyouzadb.supleks.jp/review/1280165.html)  |
-| [香港大飯店](https://supleks.jp/s/138401.html) |  | ○ | ✗ | ✗ | ○ | ○ | ○    |　　<br |   |
+| [香港大飯店](https://supleks.jp/s/138401.html) |  | ○ | ✗ | ✗ | ○ | ○ | ○    |麺　<br |[叉焼面](https://ramendb.supleks.jp/review/1515471.html)   |
 | [中華街 桂宮](https://supleks.jp/s/100039.html)   |          | ○        | ？      | ？      | ○    | ○   | ○    |麺　<br>飯　 | [黄金炒飯](https://chahandb.supleks.jp/review/1268317.html)<br>[ワンタン麺](https://ramendb.supleks.jp/review/1313225.html)  |
 | [蓮香園](https://supleks.jp/s/26288.html)     |          | ○        | ？     | ？     | ？   | ？  | ？   |麺　<br>　　 | [叉焼排骨湯麺](https://supleks.jp/review/238974.html)<br>閉店したのでは？ |
 | [一楽](https://supleks.jp/s/19803.html)  |          | ○        | ？      | ？      | ○    | ？  | ○    |麺　<br>　　 | [パイコー乗せ冷やしタンタン麺](https://supleks.jp/review/155320.html)<br />[正宗担々麺](https://supleks.jp/review/810727.html) |
