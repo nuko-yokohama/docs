@@ -390,4 +390,4 @@
 | -------------------- | -------- | -------- | ------ | -------- | ---- | ---------- | ---- | ---- | ---- |
 | [横浜中華街 北京飯店](https://supleks.jp/s/80026.html) |          | ○        | ？      | [○]([牛ヒレ肉の中華カレーライス](https://kanagawa-currydb.supleks.jp/review/976739.html)) | ○    | ？         | ？   |麺　<br>　　| [叉焼麺](https://supleks.jp/review/1096530.html)    |
 | [麺王翔記](https://supleks.jp/s/86302.html)            | 四川料理 | ○        | ○      | ？                                                            | ？   | ？         | ？   |麺　<br>　　| [担担刀削麺](https://supleks.jp/review/938058.html) |
-| [上海料理 張記小籠包](https://supleks.jp/s/91558.html) |          | ○        | ？     | ？                                                            | ○    | ？         | ○    |　　<br>　　| バンメンあり                                        |
+| 【移転】[上海料理 張記小籠包](https://supleks.jp/s/91558.html) |          | ○        | ？     | ？                                                            | ○    | ？         | ○    |　　<br>　　| バンメンあり                                        |
