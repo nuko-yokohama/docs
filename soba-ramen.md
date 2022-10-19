@@ -33,7 +33,7 @@
 | 横浜市西区       | [山屋](https://ramendb.supleks.jp/s/30511.html)              | ぬ：[サンマーメン](https://ramendb.supleks.jp/review/654459.html) |
 | 横浜市西区       | [お食事処 満留賀](https://ramendb.supleks.jp/s/86304.html)              | ぬ：[サンマーメン](https://ramendb.supleks.jp/review/1263383.html) |
 | 横浜市西区 | 砂場（未登録、高島町） | 冷やし中華あり |
-| 横浜市西区 | [ソバキチ ルミネ横浜店](https://supleks.jp/s/116396.html) | 最近、支那そばの提供を始めた？<br>ぬ：[煮玉子入り 支那そば](https://ramendb.supleks.jp/review/1460789.html) |
+| 横浜市西区 | [ソバキチ ルミネ横浜店](https://supleks.jp/s/116396.html) | ぬ：[煮玉子入り 支那そば](https://ramendb.supleks.jp/review/1460789.html) |
 | 横浜市南区       | 【閉店】[八十一 別所店](https://ramendb.supleks.jp/s/112801.html)| ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1172302.html) |
 | 横浜市南区       | [やぶ忠 六ツ川店](https://ramendb.supleks.jp/s/110326.html)  | ぬ：[けんちんラーメン](https://ramendb.supleks.jp/review/1142065.html) |
 | 横浜市南区       | [大むら](https://ramendb.supleks.jp/s/111738.html) (弘明寺)  | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1159952.html) |
@@ -193,6 +193,7 @@
 | 東京都中央区 | [ゆで太郎 銀座5丁目店](https://ramendb.supleks.jp/s/62712.html) | [中華そば＋かき揚げ](https://ramendb.supleks.jp/review/1184642.html) |
 | 東京都千代田区 | [更科丸屋](https://supleks.jp/s/80899.html) | [ラーメン](https://ramendb.supleks.jp/review/1356551.html) |
 | 東京都新宿区 | [梅もと新宿西口店](https://ramendb.supleks.jp/s/20042.html)  | [ラーメン天丼セット](https://ramendb.supleks.jp/review/158281.html) |
+| 東京都新宿区 | [そば処 更科](https://supleks.jp/s/15260.html)  | |
 | 東京都世田谷区 |[きそば 志ら井](https://kanagawa-ramendb.supleks.jp/s/103069.html) | [みそラーメン](https://kanagawa-ramendb.supleks.jp/s/103069/review) |
 | 東京都足立区 | [生蕎麦 満留賀](https://supleks.jp/s/120852.html) | 本当にラーメンがあるかは不明。 |
 | 東京都日野市 | [そば処 豊年屋](https://supleks.jp/s/129777.html) | [中華そば（590円）](https://ramendb.supleks.jp/review/1371703.html) |
