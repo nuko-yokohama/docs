@@ -152,7 +152,8 @@
 | [安記](https://supleks.jp/s/18958.html)            | 広東料理 | ○        | ？      | ？ | ○    | ？          | ○    |麺　<br>　　| 中華粥の老舗<br />[牛肚麺](https://supleks.jp/review/810877.html) |
 | [四川麻婆新館](https://supleks.jp/s/113566.html)   | 四川料理 | ○        | ？      | ？  | ○    | ？         | ○    |麺　<br>　　| [担々麺セット](https://supleks.jp/review/1182279.html)       |
 | [川味](https://supleks.jp/s/122793.html)【閉店】 |四川料理 | ○        | ○      | ✗  | ○    | ✗         | ○    |麺　<br>　　| 刀削麺の店<br>[泡椒羊肉面・青汁刀削麺変更](https://ramendb.supleks.jp/review/1282483.html) |
-| [広州美食](https://supleks.jp/s/138403.html) |広州料理 | ○        | ○      | ✗  | ☓    | ✗         | ○    |麺　<br>　　| [牛杂捞面・香港麺指定](https://ramendb.supleks.jp/review/1473729.html) |
+| [広州美食](https://supleks.jp/s/138403.html)【閉店】 |広州料理 | ○        | ○      | ✗  | ☓    | ✗         | ○    |麺　<br>　　| [牛杂捞面・香港麺指定](https://ramendb.supleks.jp/review/1473729.html) |
+| [湖南人家](https://supleks.jp/s/145235.html) |湖南料理 | ○        | ✗      | ✗  | ○    | ✗         | ○    |麺　<br>　　| [酸菜鱼面](https://ramendb.supleks.jp/review/1566384.html) |
 | [順海閣酒家](https://supleks.jp/s/73204.html)      |          | ○        | ？      | ？  | ○    | ？         | ○    |麺　<br>　　| 元祖シウマイの店<br />[牛バラ麺セット](https://supleks.jp/review/823769.html) |
 | [白鳳本館](https://supleks.jp/s/52937.html)        |          | ○        | ？      | ？ | ○    | ？         | ？   |　　<br>　　|  |
 | [順海閣本館](https://supleks.jp/s/110376.html)     |          | ○        | ？      | ？ | ○    | ？         | ○    |麺　<br>　　|[扣肉湯麺](https://ramendb.supleks.jp/review/1315807.html) |
