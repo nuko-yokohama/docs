@@ -204,7 +204,7 @@
 | [白鳳新館](https://supleks.jp/s/98945.html)        |          | ○        | ✗      | ✗ | ○    | ○         | ○    |　　<br>飯　| [蝦仁炒飯](https://chahandb.supleks.jp/review/1329760.html) |
 | 北京烤鴨店 | 食べ放題 |○        | ？      | ？ | ○    | ？         | ○    |　　<br>　　| 北京ダックが売り |
 | [萬金樓 別館](https://supleks.jp/s/100291.html) | 食べ放題 |○        | ？      | ？ | ○    | ？         | ○    |　　<br>　　|  |
-| [翠香園](https://supleks.jp/s/98007.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　 ||
+| [翠香園](https://supleks.jp/s/98007.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　 |[牛肉湯麺](https://ramendb.supleks.jp/review/1577307.html)|
 |【閉店】 [馬さんの店 龍仙市場館](https://supleks.jp/s/19236.html) |  | ○        | ？     | ？     | ？   | ？         | ？   |麺　<br>飯　| [馬辣麺（辛さ普通）](https://supleks.jp/review/146812.html)<br />[東陽功担々麺](https://supleks.jp/review/845457.html)<br>[海老チャーハン](https://chahandb.supleks.jp/review/1322118.html)|
 | [青海星 新館](https://supleks.jp/s/139796.html)  | | ○        | ☓     | ☓      | ○    | ○         | ○    |麺　<br>　　| [叉焼湯麺](https://ramendb.supleks.jp/review/1491791.html) |
 | [彩鳳](https://supleks.jp/s/8604.html)  | | ○        | ？     | ？      | ○    | ？         | ○    |麺　<br>　　| [鮮貝湯麺](https://supleks.jp/review/846848.html)            |
