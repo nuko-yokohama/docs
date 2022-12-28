@@ -244,7 +244,7 @@
 | [中国料理 翠鳳本店](https://supleks.jp/s/76349.html) |          | ○        | ？     | ？      | ○    | ？         | ？   |麺　<br>　　| [叉焼湯麺](https://supleks.jp/review/850094.html)            |
 | [謝甜記貮号店](https://supleks.jp/s/93259.html)      |          | ○        | ？      | ？      | ○    | ○          | ○    |　　<br>　　| 中国粥推し                                                   |
 | [広東料理 廣新楼](https://supleks.jp/s/75379.html)   | 広東料理 | ○        | ✗      | ✗      | ○    | ✗          | ○    |麺　<br>　餃| 神奈川サンマーメンの会<br>[ロー麺](https://ramendb.supleks.jp/review/1304741.html)<br>[水餃子](https://gyouzadb.supleks.jp/review/1304746.html) |
-| [許厨房](https://supleks.jp/s/124258.html) 【休業中】  | 台湾料理 | ○        | ○      | ✗      | ○    | ✗          | ○    |麺　<br>　　| [台湾牛腩刀削麺](https://ramendb.supleks.jp/review/1302264.html) |
+| [許厨房](https://supleks.jp/s/124258.html)  | 台湾料理 | ○        | ○      | ✗      | ○    | ✗          | ○    |麺　<br>　　| [台湾牛腩刀削麺](https://ramendb.supleks.jp/review/1302264.html) |
 
 ## 南門シルクロード
 
