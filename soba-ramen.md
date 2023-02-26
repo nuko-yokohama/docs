@@ -67,6 +67,7 @@
 | 横浜市泉区 | [栃木屋](https://supleks.jp/s/128420.html) | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1417606.html) |
 | 横浜市泉区 | [広栄屋](https://supleks.jp/s/56556.html) | [チャーシューメン](https://ramendb.supleks.jp/review/1347128.html) |
 | 横浜市港北区 | [麺房 八角 本店](https://supleks.jp/s/68119.html) | ぬ：[ねぎらーめん](https://supleks.jp/review/782597.html) |
+| 横浜市港北区 | [扇家](https://supleks.jp/s/148058.html) | ぬ：[中華ソバ](https://supleks.jp/review/1601308.html) |
 | 横浜市都筑区 | [そば処やます家](https://supleks.jp/s/63073.html) | ぬ：[ラーメン弁当](https://ramendb.supleks.jp/review/1593076.html) |
 | 横浜市青葉区 | [森野庵](https://supleks.jp/s/117689.html) | [チャーシューメン](https://ramendb.supleks.jp/review/1368094.html) |
 
