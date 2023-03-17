@@ -124,7 +124,7 @@
 | 藤沢市 | [山田うどん 亀井野店](https://supleks.jp/s/62817.html) |  |
 | 藤沢市 | [山田うどん 藤沢田方町店](https://supleks.jp/s/89871.html) |  |
 | 茅ヶ崎市         | [大むら](https://ramendb.supleks.jp/s/111269.html) （本当に蕎麦店か要確認） |                                                              |
-| 平塚市           | [大黒庵 本店](https://ramendb.supleks.jp/s/12062.html) | [ラーメン](https://ramendb.supleks.jp/review/942657.html) |
+| 平塚市           | [大黒庵 本店](https://ramendb.supleks.jp/s/12062.html) | [ラーメン](https://ramendb.supleks.jp/review/942657.html)<br>ぬ：[ラーメン定食](https://ramendb.supleks.jp/review/1526842.html) |
 | 平塚市           | [ゆで太郎平塚桜ヶ丘店](https://ramendb.supleks.jp/s/107868.html) |                                                              |
 | 平塚市 | [山田うどん食堂](https://supleks.jp/s/121171.html) | |
 | 三浦市           | [そば処 三崎](https://supleks.jp/s/67786.html)            | [味噌とんこつチャーシューメン](https://supleks.jp/review/797789.html) |
