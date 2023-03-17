@@ -19,7 +19,7 @@
 
 | 場所             | 店名                                                         | 備考                                                         |
 | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 横浜市中区       | [ゆで太郎伊勢佐木長者町店](https://ramendb.supleks.jp/s/94466.html) | ぬ：[中華そばセット・チャーシュー丼](https://ramendb.supleks.jp/review/1121045.html) |
+| 横浜市中区       | [ゆで太郎伊勢佐木長者町店](https://ramendb.supleks.jp/s/94466.html) | ぬ：[中華そばセット・チャーシュー丼](https://ramendb.supleks.jp/review/1121045.html)<br>ぬ：[もつ鍋ら～めんセット](https://ramendb.supleks.jp/review/1603304.html) |
 | 横浜市中区       | [ゆで太郎関内羽衣町店](https://ramendb.supleks.jp/s/83387.html) | ぬ：[野菜たっぷり中華そば](https://ramendb.supleks.jp/review/1135320.html) |
 | 横浜市中区       | [ゆで太郎長者町店](https://ramendb.supleks.jp/s/82376.html)  | ぬ：[ざる中華](https://ramendb.supleks.jp/review/1153871.html) |
 | 横浜市中区       | [ゆで太郎関内太田町店](https://ramendb.supleks.jp/s/84327.html) | ぬ：[野菜たっぷり中華そば](https://ramendb.supleks.jp/review/1148846.html) |
