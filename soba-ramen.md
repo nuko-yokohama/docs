@@ -80,6 +80,7 @@
 | 川崎市川崎区     | [名代 富士そば（川崎駅東口）](https://supleks.jp/s/90236.html)  | |
 | 川崎市川崎区     |【閉店？】 [そば処 満留賀](https://supleks.jp/s/106516.html)  | [ラーメンとチャーハンセット](https://ramendb.supleks.jp/review/1134744.html)<br>[もやしラーメン](https://ramendb.supleks.jp/review/1134745.html)|
 | 川崎市川崎区 | 【閉店】[かわさき蕎麦](https://supleks.jp/s/31290/review)  | ぬ：[チャーシューメン](https://supleks.jp/review/332635.html) |
+| 川崎市川崎区 | [美好屋](https://supleks.jp/s/148609.html) | [ラーメン](https://ramendb.supleks.jp/review/1606241.html) |
 | 川崎市幸区       | [そば処 大むら](https://supleks.jp/s/87237.html)     |                                                              |
 | 川崎市幸区       | [大むら](https://ramendb.supleks.jp/s/83473.html)            | [ラーメン](https://ramendb.supleks.jp/review/1041026.html)   |
 | 川崎市幸区(加瀬) | [小進庵](https://supleks.jp/s/84687.html) | [チャーシューメン](https://ramendb.supleks.jp/review/924198.html) |
