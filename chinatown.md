@@ -166,6 +166,7 @@
 | [鵬天閣](https://supleks.jp/s/115953.html)【閉店】  |          | ○        | ？      | ？  | ○    | ？         | ○    |　　<br>　　|  |
 | [牡丹園](https://supleks.jp/s/26320.html)          | 広東料理 | ○        | ？      | [○](https://supleks.jp/review/1018290.html) | ○    | ○          | ○    |麺　<br>飯　| [牛喃湯麺](https://supleks.jp/review/239362.html)<br />[牛腩炒飯](https://supleks.jp/review/1212829.html)<br>[うなぎチャーハン](https://kanagawa-chahandb.supleks.jp/review/1317163.html) |
 | 七福堂 | 食べ放題 | ○ | ？ | ？ | ○ | ？ | ○ |　　<br>　　| |                                                |
+| [台湾商店 唐獅子](https://supleks.jp/s/149204.html) | 食べ放題 | ○ | ○ | ✗ | ✗ | ✗ | ✗ |麺　<br>　　|[烏龍麺](https://ramendb.supleks.jp/review/1616167.html) |                                                |
 | [保昌](https://supleks.jp/s/18622.html)            |          | ○        | ？      | [○](https://supleks.jp/review/1244034.html) | ○    | ？         | ○    |麺　<br>　　| 牛バラカレーが有名<br />[骨湯麺](https://supleks.jp/review/138600.html)<br />[アサリと野菜たっぷりピリ辛タンメン](https://supleks.jp/review/859832.html) |
 | [星陽飯店](https://supleks.jp/s/137477.html)        |          | ○        | ✗      | ✗ | ○    | ？         | ○    |麺　<br>飯　| [四川風タンタンメン定食・麺](https://ramendb.supleks.jp/review/1521582.html)<br>[四川風タンタンメン定食・半炒飯](https://chahandb.supleks.jp/review/1521584.html) |
 | [京城飯店](https://supleks.jp/s/73700.html)        |          | ○        | ？      | ？ | ○    | ？         | ○    |麺　<br>　　| [黒担々麺](https://supleks.jp/review/827441.html)            |
