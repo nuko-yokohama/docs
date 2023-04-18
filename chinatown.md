@@ -88,7 +88,7 @@
 | 店舗名                                                | ジャンル | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 |麺咖<br>飯餃| メモ                                                         |
 | ----------------------------------------------------- | -------- | -------- | ------ | ------ | ---- | ---------- | ---- | ---- | ------------------------------------------------------------ |
 | [華都飯店](https://supleks.jp/s/18551.html)   |          | ○        | ○      | ？      | ○    | ？          | ○    |麺　<br>　　| [坦々麺](https://supleks.jp/review/137025.html)<br />[手打ち牛筋麺](https://supleks.jp/review/845310.html) |
-| [徳記](https://supleks.jp/s/6490.html)        |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [豚ばらそば](https://supleks.jp/review/98453.html)<br />豚足そばが名物 |
+| [徳記](https://supleks.jp/s/6490.html)        |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>飯　　| [豚ばらそば](https://supleks.jp/review/98453.html)<br>[广东XO醤炒饭](https://chahandb.supleks.jp/review/1613063.html)<br />豚足そばが名物 |
 | [四五六菜館新館](https://supleks.jp/s/18412.html)     |          | ○        | ？      | ？      | ○    | ○          | ○    |麺　<br>　　| [鶏肉細切りとネギのつゆなし麺](https://supleks.jp/review/166067.html) |
 | [興昌](https://supleks.jp/s/75108.html)               |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [冷やしネギそばと(小)チャーシュー丼](https://supleks.jp/review/850538.html) |
 | [興口福](https://supleks.jp/s/77318.html)     |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>飯　| [五目麺](https://supleks.jp/review/858382.html)<br>[叉焼炒飯](https://chahandb.supleks.jp/review/1316152.html) |
