@@ -51,7 +51,7 @@
 | [龍盛飯店](https://supleks.jp/s/71114.html)   | 食べ放題 | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　 | [牛腩湯河粉](https://supleks.jp/review/806564.html)<br />以前とはメニューを刷新。|
 | [萬珍樓本店](https://.supleks.jp/s/87640.html)   |          | ○ | ？      | ？      | ○    | ？          | ○    |　　<br>　　 | 老舗店。お値段高め。   |
 | [廣東飯店](https://supleks.jp/s/8092.html)  |          | ○        | ✗      | ✗     | ○    | ○          | ○    |麺　<br>飯　| [蕃茄牛肉伴麺](https://supleks.jp/review/854619.html)<br />[扣肉面](https://supleks.jp/review/198204.html)<br>[パクチーソースで炒めた牛肉炒飯](https://chahandb.supleks.jp/review/1328222.html) |
-| [景珍樓新館](https://supleks.jp/s/82155.html)   |          | ○        | ✗      | ✗      | ○    | ○   | ○    |麺　<br>　　 | [牛腩湯麺](https://supleks.jp/review/902029.html)<br/>[ランチ5・豚バラ肉の角煮チャーハン](https://chahandb.supleks.jp/review/1622950.html)|
+| [景珍樓新館](https://supleks.jp/s/82155.html)   |          | ○        | ✗      | ✗      | ○    | ○   | ○    |麺　<br>飯　 | [牛腩湯麺](https://supleks.jp/review/902029.html)<br/>[ランチ5・豚バラ肉の角煮チャーハン](https://chahandb.supleks.jp/review/1622950.html)|
 | 鵬天閣酒家 | | ？ | ？ | ？| ○ | ？ | ○ |　　<br>　　 | |
 | [海源酒家](https://supleks.jp/s/126859.html) | 食べ放題 | ○ | ✗ | ✗ | ○ | ✗ | ○ |麺　<br>　　|[チャーシュー麺](https://ramendb.supleks.jp/review/1333680.html)|
 | [王府井酒家](https://supleks.jp/s/126620.html) | 食べ放題 | ○ | ✗ | ✗ | ○ | ？ | ○ |麺　<br>　　 | [叉焼湯麺](https://ramendb.supleks.jp/review/1330244.html) |
