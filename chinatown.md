@@ -136,7 +136,7 @@
 | [心龍](https://supleks.jp/s/20260.html)    | 香港料理<br />上海料理 | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [香辣牛モツ麺](https://supleks.jp/review/843806.html)<br />[生馬麺](https://supleks.jp/review/161320.html) |
 | [隆昌園](https://supleks.jp/s/19884.html)                    |                        | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [叉焼湯面](https://supleks.jp/review/810535.html)            |
 | [翡翠楼](https://supleks.jp/s/18616.html)                    |                        | ○        | ？      | ？      | ○    | ○          | ○    |麺　<br>　　| 翡翠炒飯が有名<br />[北京炒瑪麺（北京風ちゃんぽん麺）](https://supleks.jp/review/137883.html) |
-| [七福](https://supleks.jp/s/74941.html)                      | 食べ放題               | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [香茹湯麺](https://supleks.jp/review/837988.html) |
+| [黄山飯店](https://supleks.jp/s/149364.html)   |食べ放題 | ○ | ✗ | ✗      | ○    | ✗          | ○    |麺　<br>　　|[台湾風中華麺](https://ramendb.supleks.jp/review/1625141.html) |
 | [長城飯店](https://supleks.jp/s/73107.html)                  |                        | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>飯　|[高菜麺](https://supleks.jp/review/823108.html)<br>[長城炒飯](https://chahandb.supleks.jp/review/1302800.html) |
 | [萬和樓](https://supleks.jp/s/18458.html)                    | 台湾料理               | ○        | ？      | ？      | ？   | ？         | ？   |麺　<br>　　| [台湾麻醤麺](https://supleks.jp/review/141944.html)<br />[台湾牛肉麺](https://supleks.jp/review/137248.html) |
 | [上海豫園 小籠包館](https://supleks.jp/s/125742.html) | 上海料理<br>広東料理 | ○   | ✗ | ✗ | ○   | ○ | ○   |麺　<br>　　| [拉麺](https://ramendb.supleks.jp/review/1318589.html)|
@@ -165,6 +165,7 @@
 | [鼎鑫飯店](https://supleks.jp/s/133470.html)         | 台湾料理   | ○        | ？      | ✗   | ○    | ？         | ？○    |麺　<br>　　| [東光飯店別館](https://supleks.jp/s/6558.html)のリニューアル<br>[台湾まぜそば](https://ramendb.supleks.jp/review/1440425.html)   |
 | [鵬天閣](https://supleks.jp/s/115953.html)【閉店】  |          | ○        | ？      | ？  | ○    | ？         | ○    |　　<br>　　|  |
 | [牡丹園](https://supleks.jp/s/26320.html)          | 広東料理 | ○        | ？      | [○](https://supleks.jp/review/1018290.html) | ○    | ○          | ○    |麺　<br>飯　| [牛喃湯麺](https://supleks.jp/review/239362.html)<br />[牛腩炒飯](https://supleks.jp/review/1212829.html)<br>[うなぎチャーハン](https://kanagawa-chahandb.supleks.jp/review/1317163.html) |
+| [七福](https://supleks.jp/s/74941.html)                      | 食べ放題               | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [香茹湯麺](https://supleks.jp/review/837988.html) |
 | 七福堂 | 食べ放題 | ○ | ？ | ？ | ○ | ？ | ○ |　　<br>　　| |                                                |
 | [台湾商店 唐獅子](https://supleks.jp/s/149204.html) | 台湾料理 | ○ | ○ | ✗ | ✗ | ✗ | ✗ |麺　<br>　　|[烏龍麺](https://ramendb.supleks.jp/review/1616167.html) |                                                |
 | [保昌](https://supleks.jp/s/18622.html)            |          | ○        | ？      | [○](https://supleks.jp/review/1244034.html) | ○    | ？         | ○    |麺　<br>　　| 牛バラカレーが有名<br />[骨湯麺](https://supleks.jp/review/138600.html)<br />[アサリと野菜たっぷりピリ辛タンメン](https://supleks.jp/review/859832.html) |
