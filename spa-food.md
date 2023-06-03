@@ -19,6 +19,7 @@
 | 横浜市南区       |営業中| [みうら湯](https://www.miurayu.com/) | [みうら亭](https://supleks.jp/s/91445.html)    |ラカ　ぎうそ|ぬ：[味噌らーめん](https://supleks.jp/review/981118.html) |
 | 横浜市南区       |営業中| [横浜天然温泉くさつ](https://yokohama-kusatu.com/) | 横浜天然温泉くさつ    |ラカチぎうそ||
 | 横浜市港南区      |営業中| [おふろの王様 港南台店](https://www.ousama2603.com/shop/kounandai/) |[なみなみ汀](https://supleks.jp/s/112181.html)     |ラカ　　うそ|ぬ：[野菜タンメン](https://supleks.jp/review/1164596.html)|
+| 横浜市港南区 |営業中| [極楽湯 芹が谷店](https://www.gokurakuyu.ne.jp/tempo/serigaya/) | [極楽湯芹が谷店内食事処](https://supleks.jp/s/52010.html)    |ラカチぎうそ|ぬ：[極楽スタミナラーメン・旨辛](https://supleks.jp/review/1629968.html)|
 | 横浜市栄区       |営業中|湯快爽快 田谷店 |[温泉食堂 ねむの季](https://supleks.jp/s/144157.html)     |ラカ　　うそ||
 | 横浜市保土ケ谷区  |営業中| [満天の湯](https://mantennoyu.com/) | [旬のご馳走ごはん 山水草木](https://supleks.jp/s/103608.html)    |ラカ　ぎう　||
 | 横浜市旭区  |営業中| 竜泉寺の湯 鶴ヶ峰店 | [お食事処 一休](https://supleks.jp/s/94373.html)    |ラカ　ぎうそ|ぬ：[和風らーめん極み](https://supleks.jp/review/1009399.html)|
