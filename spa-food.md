@@ -23,6 +23,7 @@
 | 横浜市港南区      |営業中| [おふろの王様 港南台店](https://www.ousama2603.com/shop/kounandai/) |[なみなみ汀](https://supleks.jp/s/112181.html)     |ラカ　　うそ|ぬ：[野菜タンメン](https://supleks.jp/review/1164596.html)|
 | 横浜市港南区 |営業中| [極楽湯 芹が谷店](https://www.gokurakuyu.ne.jp/tempo/serigaya/) | [極楽湯芹が谷店内食事処](https://supleks.jp/s/52010.html)    |ラカチぎうそ|ぬ：[極楽スタミナラーメン・旨辛](https://supleks.jp/review/1629968.html)|
 | 横浜市栄区       |営業中|湯快爽快 田谷店 |[温泉食堂 ねむの季](https://supleks.jp/s/144157.html)     |ラカ　　うそ||
+| 横浜市金沢区 |営業中| [シーサイド・スパ 八景島](http://www.seaside-spa.com/) | レストラン あおみ    |ラカ　　うそ||
 | 横浜市保土ケ谷区  |営業中| [満天の湯](https://mantennoyu.com/) | [旬のご馳走ごはん 山水草木](https://supleks.jp/s/103608.html)    |ラカ　ぎう　||
 | 横浜市旭区  |営業中| 竜泉寺の湯 鶴ヶ峰店 | [お食事処 一休](https://supleks.jp/s/94373.html)    |ラカ　ぎうそ|ぬ：[和風らーめん極み](https://supleks.jp/review/1009399.html)|
 | 横浜市瀬谷区   |営業中| [おふろの王様 瀬谷店](https://www.ousama2603.com/shop/seya/) | お食事処王寿庵     |ラカ　　うそ||
@@ -31,9 +32,11 @@
 | 横浜市鶴見区  |営業中|RAKU SPA |[WA Dining 楽](https://supleks.jp/s/121031.html)     |ラカ　ぎう　|ぬ：[台湾ラーメン](https://supleks.jp/review/1265266.html)|
 | 横浜市鶴見区  |営業中|[おふろの国](http://ofuronokuni.co.jp/)  |サウナ食堂     |ラ？？？？？||
 | 横浜市鶴見区  |営業中|[いやさか湯](https://www.iyasakayu.com/)  | いやさか湯 食事処 |　カ　　う　||
+| 横浜市港北区  |営業中| [港北の湯](https://kohokunoyu.com/) |港北の湯 お食事処 |ラ？？？？？||
 | 横浜市緑区    |営業中| ユーランド緑 | くつろぎ処    |ラカ　　うそ||
 | 横浜市都筑区  |営業中|[センター南温泉　湯もみの里](https://www.yumominosato.jp/)  | [食事処ゆもみ庵](https://supleks.jp/s/131745.html)     |ラカチぎうそ||
 | 横浜市都筑区  |営業中|[港北天然温泉 ゆったりCOco](https://www.sportsoasis.co.jp/coco/)  |ごはん処 お和んや |ラカ　ぎうそ||
+| 横浜市青葉区  |営業中| [湯けむりの里 すすき野](https://www.yukemurinosato.com/susukino/)  | 湯けむりの里 すすき野 レストラン |ラカ　　うそ||
 |        |営業中|  |     |ラカチぎうそ||
 
 
