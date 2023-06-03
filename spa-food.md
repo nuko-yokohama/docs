@@ -89,6 +89,9 @@
 
 | 場所             |状態| 施設名 | 食堂名  | 種別         | 食べたもの  |
 | :--             |:-- | :--   | :------ |:----------- |:--|
+| 神奈川県秦野市   |営業中| [弘法の里湯](https://www.city.hadano.kanagawa.jp/www/contents/1001000001157/index.html)  | [食事処 一の屋鶴寿庵](https://supleks.jp/s/111709.html)    |　カ　　うそ||
+| 神奈川県秦野市   |営業中| [湯遊三昧 湯花楽 秦野店](https://www.yukaraku.com/hadano/) | 湯遊三昧 湯花楽 秦野店 お食事処     |ラカチぎうそ||
+| 神奈川県秦野市   |営業中| [名水はだの富士見の湯](https://www.hadanofujiminoyu.jp/) | お食事処・富士見テラス |ラカ ぎうそ||
 | 神奈川県南足柄市 |営業中| おんり～ゆ～  |[守破離](https://supleks.jp/s/133915.html) |　カ　　　そ|ぬ：[夏野菜カレー](https://supleks.jp/review/1417598.html)|
 |        |営業中|  |     |ラカチぎうそ||
 
