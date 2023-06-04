@@ -82,6 +82,8 @@
 | 神奈川県海老名市  |営業中| [OYUGIWA 海老名]([https://www.fantasy.co.jp/oyugiwa/](https://www.fantasy.co.jp/oyugiwa/ebina/)) | おゆぎわレストラン     |ラカ　　うそ||
 | 神奈川県座間市   |営業中|日帰り温泉 野天湯元 湯快爽快 ざま店  | [日帰り温泉 野天湯元 湯快爽快 ざま店](https://supleks.jp/s/62184.html)     |ラ　　　　　||
 | 神奈川県座間市   |閉店|相模健康センター  | [相模健康センター](https://supleks.jp/s/92017.html)     |ラカチぎうそ|ぬ：[特製もやしラーメン](https://supleks.jp/review/985188.html)|
+| 神奈川県厚木市   |営業中| [湯花楽 厚木店](https://www.yukaraku.com/atsugi/)  | レストラン華  |ラカチ　うそ||
+| 神奈川県厚木市   |営業中| [湯乃泉 東名厚木健康センター](https://yunoizumi.com/atsugi/) | 湯乃泉 東名厚木健康センター    |ラカチぎうそ||
 |        |営業中|  |     |ラカチぎうそ||
 
 
