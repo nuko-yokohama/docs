@@ -121,7 +121,7 @@
 | 福島県須賀川市    |営業中|[ひばり温泉](https://www.hibari-land.jp/)  | レストラン夢ひばり |ラカチぎうそ||
 | 福島県西白河郡    |営業中| [スパホテルあぶくま](https://spahotel-abukuma.jp/) | スパホテルあぶくまレストラン    |ラカチ うそ||
 | 栃木県宇都宮市    |営業中|南大門  | [南大門グランドレストラン 和囲輪囲](https://supleks.jp/s/117668.html)     |ラカチぎうそ|ぬ：[味噌タンメン・玉葱抜き](https://supleks.jp/review/1230016.html)|
-| 埼玉県幸手市      |営業中| [極楽湯 幸手店](https://www.gokurakuyu.ne.jp/tempo/satte/) | 極楽湯 幸手店 お食事処](https://supleks.jp/s/105380.html)     |ラカ　ぎうそ||
+| 埼玉県幸手市      |営業中| [極楽湯 幸手店](https://www.gokurakuyu.ne.jp/tempo/satte/) | [極楽湯 幸手店 お食事処](https://supleks.jp/s/105380.html)     |ラカ　ぎうそ||
 | 山梨県北都留郡    |営業中| [のめこいの湯](https://nomekoiyu.com/)  | のめこいの湯 お食事処  |　カ　　うそ||
 | 長野県諏訪郡     |営業中|[道の駅 信州蔦木宿](http://www.tsutakijuku.jp/index.html) | てのひら館 |ラ　チ　うそ||
 | 大阪市北区       |営業中| [サウナ＆スパ カプセルホテル 大東洋](https://www.daitoyo.co.jp/spa/mens/)  |[サウナ&カプセルホテル 大東洋](https://supleks.jp/s/127822.html)     |ラ  ぎう　|[ちゃんぽん](https://supleks.jp/review/1545288.html)|
