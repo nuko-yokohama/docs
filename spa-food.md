@@ -33,7 +33,8 @@
 | 横浜市鶴見区  |営業中|RAKU SPA |[WA Dining 楽](https://supleks.jp/s/121031.html)     |ラカ　ぎう　|ぬ：[台湾ラーメン](https://supleks.jp/review/1265266.html)|
 | 横浜市鶴見区  |営業中|[おふろの国](http://ofuronokuni.co.jp/)  |サウナ食堂     |ラ？？？？？||
 | 横浜市鶴見区  |営業中|[いやさか湯](https://www.iyasakayu.com/)  | いやさか湯 食事処 |　カ　　う　||
-| 横浜市港北区  |営業中| [港北の湯](https://kohokunoyu.com/) |港北の湯 お食事処 |ラ？？？？？||
+| 横浜市港北区  |営業中| [港北の湯](https://kohokunoyu.com/) |港北の湯 お食事処 |ラカチぎうそ||
+| 横浜市港北区  |営業中| [綱島源泉 湯けむりの庄](http://www.yukemurinosato.com/tsunashima/) | お食事処 心音  |ラ　　　　そ||
 | 横浜市緑区    |営業中| ユーランド緑 | くつろぎ処    |ラカ　　うそ||
 | 横浜市都筑区  |営業中|[センター南温泉　湯もみの里](https://www.yumominosato.jp/)  | [食事処ゆもみ庵](https://supleks.jp/s/131745.html)     |ラカチぎうそ||
 | 横浜市都筑区  |営業中|[港北天然温泉 ゆったりCOco](https://www.sportsoasis.co.jp/coco/)  |ごはん処 お和んや |ラカ　ぎうそ||
