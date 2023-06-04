@@ -45,6 +45,7 @@
 | 場所             |状態| 施設名 | 食堂名  | 種別         | 食べたもの  |
 | :--             |:-- | :--   | :------ |:----------- |:--|
 | 川崎市川崎区      |営業中| 川崎ビッグ | [川崎ビッグ](https://supleks.jp/s/147714.html)    |ラカチぎうそ|ぬ：[タンメン塩](https://supleks.jp/review/1597201.html)<br>ぬ：[手作り羽根つき餃子](https://supleks.jp/review/1597205.html) |
+| 川崎市川崎区     |営業中|[朝日湯温源泉ゆいる](https://yuiru.net/)  | 朝日湯温源泉ゆいる レストラン    |　カ　ぎ　そ||
 | 川崎市幸区       |営業中|[志楽の湯](https://www.shiraku.jp/)  |志楽亭     |　　　　　そ||
 | 川崎市高津区     |営業中| [喜楽里](https://www.yurakirari.com/kirari/mizonokuchi/) |お食事処 ごちそう屋 |ラカ　ぎうそ||
 | 川崎市宮前区    |営業中|[宮前平源泉 湯けむりの庄](https://www.yukemurinosato.com/miyamaedaira/)  | 心音(KOKONE)    |ラカ　　うそ||
@@ -59,6 +60,7 @@
 | 相模原市中央区   |閉店| JNファミリー | [四季レストラン 旬菜](https://supleks.jp/s/72723.html)    |ラカチぎうそ|ぬ：[たっぷり旬彩塩タンメン](https://supleks.jp/review/985188.html)<br>ぬ：[ひれかつカレー](https://supleks.jp/review/1266825.html)|
 | 相模原市南区 |営業中| [おふろの王様 町田店](https://www.ousama2603.com/shop/machida/) | [お食事処 王寿庵](https://supleks.jp/s/118741.html)    |ラカ  うそ||
 | 相模原市緑区  |営業中| [相模・下九沢温泉 湯楽の里](https://www.yurakirari.com/yura/sagamihara/)  |相模・下九沢温泉 湯楽の里|ラカ　　うそ||
+| 東京都町田市 |営業中| [多摩境天然温泉 森乃彩](https://morinoirodori.com/)  | [季乃彩 食事処 旬菜亭](https://supleks.jp/s/90076.html)    |ラカチぎうそ||
 |        |営業中|  |     |ラカチぎうそ||
 
 ### 湘南三浦
@@ -106,6 +108,8 @@
 | 大田区       |営業中| [天然温泉平和島](https://www.heiwajima-onsen.jp/) |[レストラン ゆらり](https://supleks.jp/s/147867.html)|ラカチぎうそ|[もやしたっぷりサンマーメン](https://supleks.jp/review/1598839.html)|
 | 大田区       |営業中| [蒲田温泉](http://kamataonsen.on.coocan.jp/) | 蒲田温泉    |　カ　　　そ||
 | 品川区       |営業中| [おふろの王様 大井町店](https://www.ousama2603.com/shop/ooimachi/) |お食事処【天風】|ラ　　　うそ|
+| 調布市       |営業中| [深大寺天然温泉 湯守の里](https://www.yumorinosato.com/)  | 1Fカフェ/2F お食事処    |ラカ　　　そ||
+|        |営業中|  |     |ラカチぎうそ||
 
 
 ## その他
