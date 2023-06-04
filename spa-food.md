@@ -27,6 +27,7 @@
 | 横浜市保土ケ谷区  |営業中| [満天の湯](https://mantennoyu.com/) | [旬のご馳走ごはん 山水草木](https://supleks.jp/s/103608.html)    |ラカ　ぎう　||
 | 横浜市旭区  |営業中| 竜泉寺の湯 鶴ヶ峰店 | [お食事処 一休](https://supleks.jp/s/94373.html)    |ラカ　ぎうそ|ぬ：[和風らーめん極み](https://supleks.jp/review/1009399.html)|
 | 横浜市瀬谷区   |営業中| [おふろの王様 瀬谷店](https://www.ousama2603.com/shop/seya/) | お食事処王寿庵     |ラカ　　うそ||
+| 横浜市泉区     |営業中| [葛の湯](https://kuzunoyu.wixsite.com/kuzunoyu) | 葛の湯    |ラカ？ぎ？そ||
 | 横浜市神奈川区 |営業中| [鷲の湯](https://washinoyu.com/)  | 鷲の湯喫茶コーナー    |ラカチぎうそ||
 | 横浜市鶴見区  |営業中|[ヨコヤマ・ユーランド鶴見](https://www.yu-land.com/) | [ヨコヤマ・ユーランド鶴見 お食事処](https://supleks.jp/s/102081.html)    |ラカチぎうそ|ぬ：[味噌ラーメン](https://supleks.jp/review/1085168.html)|
 | 横浜市鶴見区  |営業中|RAKU SPA |[WA Dining 楽](https://supleks.jp/s/121031.html)     |ラカ　ぎう　|ぬ：[台湾ラーメン](https://supleks.jp/review/1265266.html)|
