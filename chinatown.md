@@ -99,7 +99,7 @@
 | [翡翠楼新館](https://supleks.jp/s/73971.html)         |          | ○        | ✗      | ✗      | ○    | ○          | ○    |麺　<br>飯　| [牛腩湯麺](https://ramendb.supleks.jp/review/829515.html)<br>[翡翠炒飯](https://chahandb.supleks.jp/review/1282314.html) |
 | [老北京](https://supleks.jp/s/119960.html)            |          | ○        | ✗   | ✗  | ○ | ✗ | ○ |麺　<br>　　| [扣肉麺](https://ramendb.supleks.jp/review/1317325.html)  |
 | [愛群](https://supleks.jp/s/18962.html)               |          | ○        | ？      | ？      | ○    | ？          | ？   |麺　<br>　　| [牛腩撈麺](https://supleks.jp/review/145407.html)    |
-| [秀味園](https://supleks.jp/s/76399.html)             |          | ○        | ？      | ？      | ○    | ？          | ？   |麺　<br>飯　| [揚げ茄子と豚しゃぶのおろしぶっかけそば](https://supleks.jp/review/850423.html)1<br/>[富貴炒飯](https://chahandb.supleks.jp/review/1270533.html) |
+| [秀味園](https://supleks.jp/s/76399.html)             |          | ○        | ？      | ？      | ○    | ？          | ？   |麺　<br>飯　| [揚げ茄子と豚しゃぶのおろしぶっかけそば](https://supleks.jp/review/850423.html)<br/>[富貴炒飯](https://chahandb.supleks.jp/review/1270533.html) |
 | [金陵](https://supleks.jp/s/27060.html)               |          |          |        |        |      |            |      |　　<br>　　| ここはもう以前の業態ではなかったかも。<br>現在はご飯もののみ。|
 | [桃香園](https://supleks.jp/s/96514.html)             |点心 | ○ | ✗     | ✗     | ○   | ✗  | ○   |麺　<br>　　| 麺も炒飯も餃子もある。<br>[激辛牛バラらーめん](https://ramendb.supleks.jp/review/1367646.html) |
 | [清風楼](https://supleks.jp/s/50027.html)             |          | ○        | ？      | ？      | ○    | ？         | ？   |　　<br>　　| 未食。炒飯が美味いらしい、。                                 |
@@ -108,7 +108,7 @@
 | [三和楼](https://supleks.jp/s/25552.html)             |          | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　| 蜆ラーメン、サンマー排骨麺など。                             |
 | [大新園](https://supleks.jp/s/75119.html)             | 上海料理 | ○        | ？      | ？      | ○    | ？         | ？   |麺　<br>　　| [涼風湯麺](https://supleks.jp/review/855296.html)            |
 | [蓬莱閣](https://supleks.jp/s/58022.html)             | 北京料理 | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [苳菇麺](https://supleks.jp/review/839077.html)              |
-| [謝朋酒樓](https://supleks.jp/s/29230.html)           | 四川料理 | ○        | ？      | ？      | ？   | ？         | ？   |麺　<br>飯餃| [四川然麺](https://supleks.jp/review/277584.html)<br>[野山椒鴨肉炒飯](https://chahandb.supleks.jp/review/1283456.html)<br>[煎餃子](https://gyouzadb.supleks.jp/review/1283460.html)|
+| [謝朋酒樓](https://supleks.jp/s/29230.html)           | 四川料理 | ○        | ？      | ？      | ？   | ？         | ？   |麺　<br>飯餃| [四川然麺](https://supleks.jp/review/277584.html)<br>[タンタン刀削麺](https://ramendb.supleks.jp/review/1631239.html)<br>[野山椒鴨肉炒飯](https://chahandb.supleks.jp/review/1283456.html)<br>[煎餃子](https://gyouzadb.supleks.jp/review/1283460.html)|
 | [中国料理 東園](https://supleks.jp/s/27128.html)      |          | ○        | ？      | ？      | ？   | ？         | ？   |麺　<br>　　| 排骨が有名らしい<br>[蝦仁煨麺](https://ramendb.supleks.jp/review/1273971.html) |
 | [新楽](https://supleks.jp/s/124261.html)      |          | ○        | ？      | ？      | ？   | ？         | ？   |麺　<br>飯　| [什景炒飯](https://chahandb.supleks.jp/review/1302367.html)<br>[回鍋肉麺](https://ramendb.supleks.jp/review/1497362.html) |
 | [四川飯店](https://supleks.jp/s/137117.html)| 四川料理 | ○        | ✗      | ✗      | ○   | ○          | ○   |　　<br>　　| [麻辣肉絲面](https://ramendb.supleks.jp/review/1502274.html) |
