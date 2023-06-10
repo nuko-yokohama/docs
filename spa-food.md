@@ -113,7 +113,7 @@
 | 大田区       |営業中| [カプセルイン蒲田](https://www.rexinn.co.jp/kamata/) |     |？？？？？？||
 | 大田区       |営業中| [天然温泉平和島](https://www.heiwajima-onsen.jp/) |[レストラン ゆらり](https://supleks.jp/s/147867.html)|ラカチぎうそ|[もやしたっぷりサンマーメン](https://supleks.jp/review/1598839.html)|
 | 大田区       |営業中| [蒲田温泉](http://kamataonsen.on.coocan.jp/) | 蒲田温泉    |　カ　　　そ||
-| 品川区       |営業中| [おふろの王様 大井町店](https://www.ousama2603.com/shop/ooimachi/) |[お食事処 天風](https://supleks.jp/s/143675.html)|ラ　　　うそ|
+| 品川区       |営業中| [おふろの王様 大井町店](https://www.ousama2603.com/shop/ooimachi/) |[お食事処 天風](https://supleks.jp/s/143675.html)|ラ　　　うそ|[豚骨焼き味噌ラーメン](https://ramendb.supleks.jp/review/1631905.html)|
 | 調布市       |営業中| [深大寺天然温泉 湯守の里](https://www.yumorinosato.com/)  | 1Fカフェ/2F お食事処    |ラカ　　　そ||
 |        |営業中|  |     |ラカチぎうそ||
 
