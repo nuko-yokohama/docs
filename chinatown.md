@@ -256,15 +256,17 @@
 | -------------------------------------------------- | -------- | -------- | ------ | ------ | ---- | ---------- | ---- | ---- | ------------------------------------------------------------ |
 | 金龍飯店         |食べ放題          | ○        | ？     | ？      | ？   | ？         | ？   |　　<br>　　| ほとんど情報なし  |
 | [五福臨](https://supleks.jp/s/27361.html)          | | ○  | ？  | ？  | ？ | ？ | ？  |麺　<br>　　| [排骨担々麺](https://supleks.jp/review/252829.html)<br/>福建スープ炒飯、海鮮炒飯 |
-| [華錦飯店 新館](https://supleks.jp/s/122479.html) | 魚系 | ○ | ✗ | ✗ | ○ | ○ | ○ |　　<br>飯　| [海鮮炒飯](https://chahandb.supleks.jp/review/1278839.html)<br>海鮮煮込みそば、海鮮入り油そば |
-| [成都百味](https://supleks.jp/s/140694.html) |四川料理 | ○  | ✗  | ✗ | ○  | ○   | ○ |麺　<br>　　|[酸菜牛肉麺・太麺](https://ramendb.supleks.jp/review/1500907.html)  |
+|【閉店】[華錦飯店 新館](https://supleks.jp/s/122479.html) | 魚系 | ○ | ✗ | ✗ | ○ | ○ | ○ |　　<br>飯　| [海鮮炒飯](https://chahandb.supleks.jp/review/1278839.html)<br>海鮮煮込みそば、海鮮入り油そば |
+| [華香源](https://supleks.jp/s/152572.html) | 四川料理 | ○ | ✗ | ✗ | ○ | ？ | ○ |　　<br>　　|  |
+|【閉店】 [成都百味](https://supleks.jp/s/140694.html) |四川料理 | ○  | ✗  | ✗ | ○  | ○   | ○ |麺　<br>　　|[酸菜牛肉麺・太麺](https://ramendb.supleks.jp/review/1500907.html)  |
 | 萬源酒家         |食べ放題          | ○        | ？     | ？   | ？         | ？   | ？ |　　<br>　　| ほとんど情報なし  |
-| [招福門](https://supleks.jp/s/19207.html)          |          | ○        | ？     | ？      | ？   | ？         | ？   |　　<br>　　| ほとんど情報なし                                             |
+|【閉店】 [招福門](https://supleks.jp/s/19207.html)          |          | ○        | ？     | ？      | ？   | ？         | ？   |　　<br>　　| ほとんど情報なし                                             |
 | [大三元酒家](https://supleks.jp/s/91143.html)      |          | ○  | ✗  | ✗  | ○    | ✗  | ○    |麺　<br>　　|[叉焼湯麺](https://ramendb.supleks.jp/review/1313668.html) |
 | [熊猫飯店](https://supleks.jp/s/74552.html)        |          | ○        | ？     | ？      | ○    | ？         | ○    |麺　<br>　　| [生馬麺](https://supleks.jp/review/835512.html)              |
 | [客満堂三番館](https://supleks.jp/s/91760.html)【閉店】    |          | ○        | ？     | ？      | ○    | ？         | ○    |　　<br>　　|  |
 | [好記園](https://supleks.jp/s/124155.html) | 台湾料理 | ○         | ○     | ✗    |  ○   | ✗  | ○    |麺　<br>　　| [椎茸野菜そば](https://ramendb.supleks.jp/review/1300916.html)  |
 | [福龍酒家](https://supleks.jp/s/130932.html) |  | ○         | ✗     | ✗    |  ○   | ○  | ○    |麺　<br>飯　|[豆乳担々麺セット・冷](https://ramendb.supleks.jp/review/1527912.html)<br>[福建炒飯](https://chahandb.supleks.jp/review/1523011.html)   |
+
 ## 北門通り ##
 
 玄武門から善隣門までの道。
