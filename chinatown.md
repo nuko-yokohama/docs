@@ -121,7 +121,7 @@
 
 | 店舗名                                                       | ジャンル               | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 |麺咖<br>飯餃| メモ                                                         |
 | ------------------------------------------------------------ | ---------------------- | -------- | ------ | ------ | ---- | ---------- | ---- |---- | ------------------------------------------------------------ |
-| [家族ラーメン はやし家](https://supleks.jp/s/134467.html)                  | 家系               | ○        | ✗      | ✗      | ○    | ✗          | ○    |麺　<br>　　| [豚骨ラーメン＋キャベツ](https://ramendb.supleks.jp/review/1426063.html)            |
+| [家族ラーメン はやし家](https://supleks.jp/s/134467.html) 【閉店】  | 家系               | ○        | ✗      | ✗      | ○    | ✗          | ○    |麺　<br>　　| [豚骨ラーメン＋キャベツ](https://ramendb.supleks.jp/review/1426063.html)            |
 | [龍鳳酒家](https://supleks.jp/s/58025.html)                  | 広東料理               | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [搾菜拌麺](https://supleks.jp/review/827002.html)            |
 | [茘香尊本店](https://supleks.jp/s/27052.html)                |                        | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [冬茹湯麺](https://supleks.jp/review/818604.html)            |
 | [梅蘭 金閣](https://supleks.jp/s/22673.html)                 |                        | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>飯　| [生馬面](https://supleks.jp/review/189655.html)<br>[牛腩炒飯](https://chahandb.supleks.jp/review/1283647.html)<br />梅蘭やきそばが有名 |
@@ -278,7 +278,7 @@
 | [福満園本店](https://supleks.jp/s/18575.html)     | 四川料理<br />福建料理 | ○ | ✗ | ✗ | ○    | ○  | ○    |麺飯<br>　　| [タンタンメン](https://supleks.jp/review/147591.html) <br>[五目チャーハン](https://chahandb.supleks.jp/review/1318937.html) |
 | [景徳鎮酒家](https://supleks.jp/s/85954.html)     | 四川料理               | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [とろーりチーズの海鮮陳マーボー麺](https://supleks.jp/review/934734.html) |
 | [金香樓](https://supleks.jp/s/19400.html)         |                        | ○        | ？      | ？      | ○    | ？         | ○   |麺　　<br>　　| 壺料理<br />[紅焼牛肉面（四川風牛肉そば）](https://supleks.jp/review/149250.html) |
-| [餃子伝説 総本舗](https://supleks.jp/s/121765.html) | | ○ | ○ | ✗ | ○ | ✗ | ○ |麺　<br>　餃| [四川什錦牛腩刀削面](https://ramendb.supleks.jp/review/1271649.html)<br/>餃子の種類多い。<br/>[元祖伝説煎餃](https://gyouzadb.supleks.jp/review/1275067.html)<br>[白菜猪肉大水餃](https://gyouzadb.supleks.jp/review/1275068.html)<br>[魚香炸肉餃子](https://gyouzadb.supleks.jp/review/1275070.html) | 
+| [餃子伝説 総本舗](https://supleks.jp/s/121765.html) 【閉店】| | ○ | ○ | ✗ | ○ | ✗ | ○ |麺　<br>　餃| [四川什錦牛腩刀削面](https://ramendb.supleks.jp/review/1271649.html)<br/>餃子の種類多い。<br/>[元祖伝説煎餃](https://gyouzadb.supleks.jp/review/1275067.html)<br>[白菜猪肉大水餃](https://gyouzadb.supleks.jp/review/1275068.html)<br>[魚香炸肉餃子](https://gyouzadb.supleks.jp/review/1275070.html) | 
 | [一本家](https://supleks.jp/s/101268.html)        | 家系                   | ○        | ✗      | ✗      | ○    | ✗          | ○    |麺　<br>　　| 旧・一八家<br />[赤味噌らーめん＋ほうれん草](https://supleks.jp/review/1077895.html) |
 | [武夷点心舗](https://supleks.jp/s/71318.html)     | 点心                   | ○        | ？      | ？      | ？    | ？          | ？   |麺　<br>　　| **猫耳**という菓子あり<br />[拌麺＋雲呑湯](https://supleks.jp/review/808382.html)|
 | [東光飯店](https://supleks.jp/s/2568.html) |  | ○ | ✗  | ✗      | ○    | ○          | ○    |麺　<br>飯　| [牛肉汁そば](https://supleks.jp/review/93507.html)<br>[台湾風炒飯](https://chahandb.supleks.jp/review/1398327.html)<br>[東光炒飯](https://chahandb.supleks.jp/review/1498002.html)|
