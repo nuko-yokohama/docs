@@ -136,3 +136,5 @@
 | 長野県諏訪市     |営業中| [すわっこランド](https://suwakko-land.com/) | すわっこランド    |ラカ　　うそ||
 | 大阪市北区       |営業中| [サウナ＆スパ カプセルホテル 大東洋](https://www.daitoyo.co.jp/spa/mens/)  |[サウナ&カプセルホテル 大東洋](https://supleks.jp/s/127822.html)     |ラ  ぎう　|[ちゃんぽん](https://supleks.jp/review/1545288.html)|
 |        |営業中|  |     |ラカチぎうそ||
+| 堺市北区       |営業中| [蔵前温泉 さらさのゆ](https://www.sarasanoyu.com/)  |[お食事処 笹味楽](https://supleks.jp/s/154504.html)     |ラカチぎうそ|[広東麺](https://ramendb.supleks.jp/review/1682704.html)|
+|        |営業中|  |     |ラカチぎうそ||
