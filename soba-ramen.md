@@ -52,7 +52,7 @@
 | 横浜市保土ケ谷区 | [ゆで太郎保土ヶ谷区役所前店](https://supleks.jp/s/86305.html) |                                                              |
 | 横浜市保土ケ谷区 | [長寿庵](https://supleks.jp/s/91364.html) | 時期によりラーメン提供不可のこともある(食べログ) |
 | 横浜市旭区       | 【閉店】[ゆで太郎鶴ヶ峰店](https://supleks.jp/s/85708.html)          |    |
-| 横浜市旭区       | 白根家 フジスーパー前店 | 冷やし中華のみ。カレーは数種あり。 |
+| 横浜市旭区       | 【提供終了】[白根家 フジスーパー前店](https://supleks.jp/s/151747.html) | 冷やし中華は2023年から提供中止 |
 | 横浜市旭区       | 白根家 本店 | 冷やし中華のみ。カレーは数種あり。 |
 | 横浜市旭区 | [さか本そば店](https://supleks.jp/s/123145.html) | とんちゃんラーメンが気になる。 |
 | 横浜市鶴見区     | [めん殿](https://supleks.jp/s/90453.html)            | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/972612.html) |
@@ -65,7 +65,7 @@
 | 横浜市戸塚区 |【提供終了】 [福徳屋](https://supleks.jp/s/59819.html) | つけ麺のみ中華麺らしい。現在は提供終了 |
 | 横浜市泉区 | 満留賀（未登録、第2、4、5日曜日、立場駅） | ラーメンあり。サンマーメンはないが、もやしそばあり |
 | 横浜市泉区 | [栃木屋](https://supleks.jp/s/128420.html) | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1417606.html) |
-| 横浜市泉区 | [広栄屋](https://supleks.jp/s/56556.html) | [チャーシューメン](https://ramendb.supleks.jp/review/1347128.html) |
+| 横浜市泉区 | [広栄屋](https://supleks.jp/s/56556.html) | [チャーシューメン](https://ramendb.supleks.jp/review/1347128.html) <br>ぬ：[冷やし中華](https://ramendb.supleks.jp/review/1651840.html)|
 | 横浜市港北区 | [麺房 八角 本店](https://supleks.jp/s/68119.html) | ぬ：[ねぎらーめん](https://supleks.jp/review/782597.html) |
 | 横浜市港北区 | [扇家](https://supleks.jp/s/148058.html) | ぬ：[中華ソバ](https://supleks.jp/review/1601308.html) |
 | 横浜市都筑区 | [そば処やます家](https://supleks.jp/s/63073.html) | ぬ：[ラーメン弁当](https://ramendb.supleks.jp/review/1593076.html) |
