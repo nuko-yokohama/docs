@@ -243,7 +243,8 @@
 | [皇朝茶樓](https://supleks.jp/s/18756.html)          | 点心 | ○        | ✗      | ✗      | ○    | ✗         | ○    |麺　<br>　　| [什錦湯麺](https://ramendb.supleks.jp/review/1583480.html)        |
 | [菜香新館](https://supleks.jp/s/18756.html)          | 広東料理 | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [蟹肉韮黄撈麺](https://supleks.jp/review/851203.html)        |
 | [886食堂](https://supleks.jp/s/141323.html)          | 台湾料理 | ○  | ○ | ✗      | ✗    | ✗         | ○    |麺　<br>　　| [紅焼三宝牛肉麺](https://ramendb.supleks.jp/review/1509081.html)        |
-| [中国料理 翠鳳本店](https://supleks.jp/s/76349.html) |          | ○        | ？     | ？      | ○    | ？         | ？   |麺　<br>　　| [叉焼湯麺](https://supleks.jp/review/850094.html)            |
+| [中国料理 翠鳳本店](https://supleks.jp/s/76349.html) |          | ○        | ✗     | ✗      | ○    | ✗         | ✗   |麺　<br>　　| [たまり醤油中華そば](https://ramendb.supleks.jp/review/1687837.html)            |
+| [麺屋 香暖](https://supleks.jp/s/154454.html)      |          | ○        | ？      | ？      | ○    | ○          | ○    |　　<br>　　| 中国粥推し                                                   |
 | [謝甜記貮号店](https://supleks.jp/s/93259.html)      |          | ○        | ？      | ？      | ○    | ○          | ○    |　　<br>　　| 中国粥推し                                                   |
 | [広東料理 廣新楼](https://supleks.jp/s/75379.html)   | 広東料理 | ○        | ✗      | ✗      | ○    | ✗          | ○    |麺　<br>　餃| 神奈川サンマーメンの会<br>[ロー麺](https://ramendb.supleks.jp/review/1304741.html)<br>[水餃子](https://gyouzadb.supleks.jp/review/1304746.html) |
 | [許厨房](https://supleks.jp/s/124258.html)  | 台湾料理 | ○        | ○      | ✗      | ○    | ✗          | ○    |麺　<br>　　| [台湾牛腩刀削麺](https://ramendb.supleks.jp/review/1302264.html) |
