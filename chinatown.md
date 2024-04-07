@@ -140,6 +140,7 @@
 | [黄山飯店](https://supleks.jp/s/149364.html)   |食べ放題 | ○ | ✗ | ✗      | ○    | ✗          | ○    |麺　<br>　　|[台湾風中華麺](https://ramendb.supleks.jp/review/1625141.html) |
 | [長城飯店](https://supleks.jp/s/73107.html)                  |                        | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>飯　|[高菜麺](https://supleks.jp/review/823108.html)<br>[長城炒飯](https://chahandb.supleks.jp/review/1302800.html) |
 | [萬和樓](https://supleks.jp/s/18458.html)                    | 台湾料理               | ○        | ？      | ？      | ？   | ？         | ？   |麺　<br>　　| [台湾麻醤麺](https://supleks.jp/review/141944.html)<br />[台湾牛肉麺](https://supleks.jp/review/137248.html) |
+| 上海麺館 |  | ○        | ✗      | ✗      | ○   | ✗         | ○   |　　<br>　　|　|
 | [上海豫園 小籠包館](https://supleks.jp/s/125742.html) | 上海料理<br>広東料理 | ○   | ✗ | ✗ | ○   | ○ | ○   |麺　<br>　　| [拉麺](https://ramendb.supleks.jp/review/1318589.html)|
 | [SAIGON DEP](https://supleks.jp/s/76746.html)                | ベトナム               | ○        | ？      | ○      | ○    | ？         | ？   |麺　<br>　　| [ベトナム風冷やしそば](https://supleks.jp/review/853149.html)<br />食べログ掲載保留。 |
 
