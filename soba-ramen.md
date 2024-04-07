@@ -42,7 +42,7 @@
 | 横浜市港南区     | [やぶ忠](https://ramendb.supleks.jp/s/57246.html)(閉店)      | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1084150.html) |
 | 横浜市港南区     | [増田屋](https://ramendb.supleks.jp/s/112962.html)           | ぬ：[冷やしラーメン](https://ramendb.supleks.jp/review/1174139.html) |
 | 横浜市港南区     | [やぶ忠 丸山台店](https://supleks.jp/s/134596.html)   | もつラーメンが気になる・・・ |
-| 横浜市栄区 | [大船軒 本郷台駅前店](https://supleks.jp/s/63400.html) | [中華そば](https://supleks.jp/review/1259142.html) |
+| 横浜市栄区 |【閉店】 [大船軒 本郷台駅前店](https://supleks.jp/s/63400.html) | [中華そば](https://supleks.jp/review/1259142.html) |
 | 横浜市栄区 | [増田屋 本郷台店](https://supleks.jp/s/136094.html) |  |
 | 横浜市神奈川区   | [蕎麦 源](https://ramendb.supleks.jp/s/28894.html)           | ぬ：[ラーメン](https://ramendb.supleks.jp/review/1157494.html) |
 | 横浜市瀬谷区     | [志波田](https://ramendb.supleks.jp/s/106488.html)           | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1119264.html) |
