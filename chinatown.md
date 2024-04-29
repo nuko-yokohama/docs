@@ -105,7 +105,7 @@
 | [清風楼](https://supleks.jp/s/50027.html)             |          | ○        | ？      | ？      | ○    | ？         | ？   |　　<br>　　| 未食。炒飯が美味いらしい、。                                 |
 | [台湾菜館](https://supleks.jp/s/133337.html)             |          | ○        | ○      | ✗      | ○    | ✗         | ○    |麺　<br>　　| [台灣牛肉麺](https://ramendb.supleks.jp/review/1411319.html) |
 | 【閉店】[広東料理 聚英](https://supleks.jp/s/90713.html) | 広東料理 | ○        | ✗      | ✗      | ○    | ✗         | ○    |麺　<br>　　| [三鮮湯麺](https://ramendb.supleks.jp/review/1287054.html) |
-| [三和楼](https://supleks.jp/s/25552.html)             |          | ○        | ？      | ？      | ○    | ？         | ○    |　　<br>　　| 蜆ラーメン、サンマー排骨麺など。                             |
+| [三和楼](https://supleks.jp/s/25552.html)             |          | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [サンマー排骨麺](https://ramendb.supleks.jp/review/1719841.html)  |
 | [大新園](https://supleks.jp/s/75119.html)             | 上海料理 | ○        | ？      | ？      | ○    | ？         | ？   |麺　<br>　　| [涼風湯麺](https://supleks.jp/review/855296.html)            |
 | [蓬莱閣](https://supleks.jp/s/58022.html)             | 北京料理 | ○        | ？      | ？      | ○    | ？         | ○    |麺　<br>　　| [苳菇麺](https://supleks.jp/review/839077.html)              |
 | [謝朋酒樓](https://supleks.jp/s/29230.html)           | 四川料理 | ○        | ？      | ？      | ？   | ？         | ？   |麺　<br>飯餃| [四川然麺](https://supleks.jp/review/277584.html)<br>[タンタン刀削麺](https://ramendb.supleks.jp/review/1631239.html)<br>[野山椒鴨肉炒飯](https://chahandb.supleks.jp/review/1283456.html)<br>[煎餃子](https://gyouzadb.supleks.jp/review/1283460.html)|
