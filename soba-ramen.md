@@ -43,7 +43,7 @@
 | 横浜市港南区     | [増田屋](https://ramendb.supleks.jp/s/112962.html)           | ぬ：[冷やしラーメン](https://ramendb.supleks.jp/review/1174139.html) |
 | 横浜市港南区     | [やぶ忠 丸山台店](https://supleks.jp/s/134596.html)   | もつラーメンが気になる・・・ |
 | 横浜市栄区 |【閉店】 [大船軒 本郷台駅前店](https://supleks.jp/s/63400.html) | [中華そば](https://supleks.jp/review/1259142.html) |
-| 横浜市栄区 | [増田屋 本郷台店](https://supleks.jp/s/136094.html) |  |
+| 横浜市栄区 |【閉店】 [増田屋 本郷台店](https://supleks.jp/s/136094.html) |  |
 | 横浜市神奈川区   | [蕎麦 源](https://ramendb.supleks.jp/s/28894.html)           | ぬ：[ラーメン](https://ramendb.supleks.jp/review/1157494.html) |
 | 横浜市瀬谷区     | [志波田](https://ramendb.supleks.jp/s/106488.html)           | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1119264.html) |
 | 横浜市泉区       | [ゆで太郎横浜中田東店](https://supleks.jp/s/95785.html)      |     |
@@ -55,6 +55,7 @@
 | 横浜市旭区       | 【提供終了】[白根家 フジスーパー前店](https://supleks.jp/s/151747.html) | 冷やし中華は2023年から提供中止 |
 | 横浜市旭区       | 白根家 本店 | 冷やし中華のみ。カレーは数種あり。 |
 | 横浜市旭区 | [さか本そば店](https://supleks.jp/s/123145.html) | とんちゃんラーメンが気になる。 |
+| 横浜市旭区 | [梅の木 若葉台店](https://supleks.jp/s/161434.html) | ぬ：[醤油ラーメン](https://ramendb.supleks.jp/review/1763861.html)|
 | 横浜市鶴見区     | [めん殿](https://supleks.jp/s/90453.html)            | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/972612.html) |
 | 横浜市鶴見区     | [ゆで太郎鶴見中央店](https://supleks.jp/s/82393.html) | [ざる中華](https://ramendb.supleks.jp/review/1171468.html)   |
 | 横浜市鶴見区     | [大村庵](https://https://supleks.jp/s/120529.html) | [ラーメン](https://ramendb.supleks.jp/review/1260901.html)   |
