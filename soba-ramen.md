@@ -195,7 +195,7 @@
 | 東京都港区   | [ゆで太郎 竹芝店](https://ramendb.supleks.jp/s/62932.html)   | [ダブルワカメラーメン](https://ramendb.supleks.jp/review/1123178.html) |
 | 東京都港区   | 【閉店】[梅もと品川店](https://ramendb.supleks.jp/s/32642.html) | ぬ：[みそラーメン](https://ramendb.supleks.jp/review/323621.html) |
 | 東京都港区   | [ゆで太郎 南青山一丁目店](https://ramendb.supleks.jp/s/56069.html) | [月見中華](https://ramendb.supleks.jp/review/1120205.html)   |
-| 東京都目黒区 | [長寿庵](https://ramendb.supleks.jp/s/52976.html) | [味噌ラーメン](https://ramendb.supleks.jp/review/1316450.html) |
+| 東京都目黒区 | [長寿庵](https://ramendb.supleks.jp/s/52976.html) | [味噌ラーメン](https://ramendb.supleks.jp/review/1316450.html) <br>[ラーメン](https://ramendb.supleks.jp/review/1776184.html)|
 | 東京都中央区 | [梅もと八重洲店](https://ramendb.supleks.jp/s/58520.html)    | [正油ラーメン＋おにぎり](https://ramendb.supleks.jp/review/982356.html) |
 | 東京都中央区 | [ゆで太郎 銀座5丁目店](https://ramendb.supleks.jp/s/62712.html) | [中華そば＋かき揚げ](https://ramendb.supleks.jp/review/1184642.html) |
 | 東京都千代田区 | [更科丸屋](https://supleks.jp/s/80899.html) | [ラーメン](https://ramendb.supleks.jp/review/1356551.html) |
