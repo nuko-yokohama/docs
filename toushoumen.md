@@ -41,26 +41,26 @@
 | 横浜市中区    | 四川天富園      |         |           |                  |                     |
 | 横浜市中区    | 飲茶食坊 萬華郷     |         |           |                  |                     |
 | 横浜市保土ケ谷区  | [玲瓏](https://ramendb.supleks.jp/s/140808.html)         |         |           | ぬ：[西安刀削面](https://ramendb.supleks.jp/review/1688970.html)   |     |
-| 横浜市保土ケ谷区  | [中華料理 天王軒](https://ramendb.supleks.jp/s/141519.html)    | ぬ：[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1511557.html)       |           |                  |                     |
+| 横浜市保土ケ谷区  | [中華料理 天王軒](https://ramendb.supleks.jp/s/141519.html)    |       |           | ぬ：[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1511557.html)  |                     |
 | 横浜市南区    | 松林         | ？        |           |                  | 以前は刀削麺の幟があったが今はなさそう。|
 | 横浜市南区    | 味香苑         | ？      |           |                  |                     |
 | 横浜市南区    | [壱龍釜](https://ramendb.supleks.jp/s/105465.html)         |         |           | ぬ：[什錦湯麺・刀削麺変更](https://ramendb.supleks.jp/review/1792488.html)   | 麺類を刀削麺に変更可能。 |
-| 横浜市南区    | [味香苑 東橋店](https://ramendb.supleks.jp/s/84328.html)  | ✗ |     |[ジャージャー麺＋刀削麺変更](https://ramendb.supleks.jp/review/1085940.html)      |                     |
+| 横浜市南区    | [味香苑 東橋店](https://ramendb.supleks.jp/s/84328.html)  | ✗ |     | ぬ：[ジャージャー麺＋刀削麺変更](https://ramendb.supleks.jp/review/1085940.html)      |  |
 | 横浜市南区    | [餃子伝説本舗 吉野町店](https://ramendb.supleks.jp/s/130834.html) |         |     |  ぬ：[四川風担々刀削麺](https://ramendb.supleks.jp/review/1398122.html)        |                     |
 | 横浜市南区 | [楽小厨](https://ramendb.supleks.jp/s/137765.html)       | ✗      |           | ぬ：[酸辣刀削面](https://ramendb.supleks.jp/review/1495140.html)                 |                     |
 | 横浜市戸塚区 | [華香閣](https://ramendb.supleks.jp/s/113352.html)       |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1571656.html) |                     |
 | 横浜市戸塚区 | [向陽飯店 戸塚店](https://ramendb.supleks.jp/s/130812.html)     |         |           | ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1725023.html)  |                     |
-| 横浜市旭区 | [向陽飯店 上白根店](https://ramendb.supleks.jp/s/110851.html)    |         |           | [サンラー刀削麺](https://ramendb.supleks.jp/review/1518667.html)        |                     |
+| 横浜市旭区 | [向陽飯店 上白根店](https://ramendb.supleks.jp/s/110851.html)    |         |           | ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1518667.html)        |                     |
 | 横浜市泉区 | バーミヤン 泉弥生台店 |－    |           |                  |                     |
-| 横浜市泉区 | 中国料理 旬香菜館 |         |           |                  |                     |
+| 横浜市泉区 | [中国料理 旬香菜館](https://ramendb.supleks.jp/s/76697.html) |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1459706.html)                 |                     |
 | 横浜市港北区  | 清宏楼          |         |           |                  |                     |
 | 横浜市港北区  | 中華料理 北京亭   |         |           |                  |                     |
 | 横浜市港北区  | 向陽飯店 大倉山店   |         |           |                  |                     |
-| 横浜市港南区  | [刀削麺屋 港南店](https://ramendb.supleks.jp/s/89843.html)    |         | ◯       | [角煮担々刀削麺](https://ramendb.supleks.jp/review/982516.html)    |                     |
+| 横浜市港南区  | [刀削麺屋 港南店](https://ramendb.supleks.jp/s/89843.html)    |         | ◯       | ぬ：[角煮担々刀削麺](https://ramendb.supleks.jp/review/982516.html)    |                     |
 | 横浜市港南区  | 匠味         |         |           |                  |                     |
 | 横浜市港南区  | 中華料理 瀋陽         | ✗       |           |                  |                     |
-| 横浜市磯子区  | 向陽飯店 磯子店    |         |           |                  |                     |
-| 横浜市神奈川区  | 京華楼 鶴屋町店   |         | ◯         |                  |                     |
+| 横浜市磯子区  | [向陽飯店 磯子店](https://ramendb.supleks.jp/s/140347.html)    |         |           | ぬ：[向陽五目麺・刀削麺変更](https://ramendb.supleks.jp/review/1496964.html)                 |                     |
+| 横浜市神奈川区  | [京華楼 鶴屋町店](https://ramendb.supleks.jp/s/22677.html)   |         | ◯         | ぬ：[四川担担刀削麺](https://ramendb.supleks.jp/review/737223.html)                 |                     |
 | 横浜市神奈川区  | 龍上海            |         |           |                  |                     |
 | 横浜市神奈川区  | 大連食府 神奈川新町店 |         |           |                  |                     |
 | 横浜市西区 |  観悟雲          |         |           |                  |                     |
