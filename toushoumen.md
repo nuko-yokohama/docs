@@ -104,13 +104,13 @@
 
 | 場所         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 茅ヶ崎市     | 華満楼 イオン茅ヶ崎中央店 |         |           |                  |                     |
-| 藤沢市       | 萬福楼 新館       |         |           |                  |                     |
-| 藤沢市       | バーミヤン 長後店 |         |           |                  |                     |本厚木店
-| 藤沢市       | 萬福酒楼          |         |           |                  |                     |
-| 藤沢市       | 渓源              |         |           |                  |                     |
-| 藤沢市       | 台湾料理 百鮮味 2号店  |         |           |                  |                     |
-| 藤沢市       | 西安餃子          |         |           |                  |                     |
+| 茅ヶ崎市     | [華満楼 イオン茅ヶ崎中央店](https://ramendb.supleks.jp/s/137212.html) |         |           |[牛肉刀削麺](https://ramendb.supleks.jp/review/1460174.html)                  |                     |
+| 藤沢市       | [萬福楼 新館](https://ramendb.supleks.jp/s/28672.html)       |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1659473.html)                 |                     |
+| 藤沢市       | [バーミヤン 長後店](https://ramendb.supleks.jp/s/29887.html) | －      |           |                  |                     |
+| 藤沢市       | [萬福酒楼](https://ramendb.supleks.jp/s/60110.html)          |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1726822.html)<br>[高菜入り牛バラ肉刀削麺](https://ramendb.supleks.jp/review/1497286.html) |                     |
+| 藤沢市       | [渓源](https://ramendb.supleks.jp/s/112456.html)              |        |  | ぬ：[麻辣牛肉ラーメン・刀削麺変更](https://ramendb.supleks.jp/review/1788449.html)          |                  |
+| 藤沢市       | [台湾料理 百鮮味 2号店](https://ramendb.supleks.jp/s/115215.html)  |         |           | ぬ：[天津刀削麺](https://ramendb.supleks.jp/review/1785262.html)   |                     |
+| 藤沢市       | [西安餃子 テラスモール湘南店](https://ramendb.supleks.jp/s/130010.html)          |        |   | [麻辣刀削湯麺](https://ramendb.supleks.jp/review/1374814.html)          |                  |
 
 ### 県央
 
