@@ -131,9 +131,9 @@
 
 | 場所         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 小田原市     | 福満園 小田原店   | ？        |           |                  |                     |
-| 小田原市     | 台湾料理 興福順   |         |           |                  |                     |
-| 小田原市     | 家庭料理 富久     |         |           |                  |                     |
+| 小田原市     | [福満園 小田原店](https://ramendb.supleks.jp/s/124851/review)   | ？     |    |  [担々刀削麺](https://ramendb.supleks.jp/review/1310947.html)  |    |
+| 小田原市     | [台湾料理 興福順](https://ramendb.supleks.jp/s/128858.html)   |    |     | [五目 刀削麺](https://ramendb.supleks.jp/review/1359511.html)  | 興福順は関東各地に点在している。  |
+| 小田原市     | [家庭料理 富久](https://ramendb.supleks.jp/s/143635.html)     |    |     | ぬ：[マーラー刀削麺](https://ramendb.supleks.jp/review/1542549.html)  | |
 
 
 
