@@ -87,7 +87,7 @@
 | 川崎市川崎区 | [海月飯店](https://ramendb.supleks.jp/s/157516.html)          |         |           | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1730245.html)  |        |
 | 川崎市川崎区 | [中華料理 市民食堂大黒家](https://ramendb.supleks.jp/s/158766.html) |         |           |ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1730583.html)  |  |
 | 川崎市幸区   | [金麟](https://ramendb.supleks.jp/s/124603.html)              |         |           | |                     |
-| 川崎市高津区 | [龍華飯店 溝ノ口店](https://ramendb.supleks.jp/s/134901.html)          |         |           | ぬ：[酸辣刀削麺・玉葱抜き]()https://ramendb.supleks.jp/review/1783796.html |                     |
+| 川崎市高津区 | [龍華飯店 溝ノ口店](https://ramendb.supleks.jp/s/134901.html)          |         |           | ぬ：[酸辣刀削麺・玉葱抜き](https://ramendb.supleks.jp/review/1783796.html) |                     |
 
 
 
