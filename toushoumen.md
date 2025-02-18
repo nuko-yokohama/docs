@@ -19,24 +19,26 @@
 
 | 場所         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 横浜市中区    | [華隆餐館](https://ramendb.supleks.jp/s/3609.html)        |         | ◯        | ぬ：[大腸刀削麺](https://ramendb.supleks.jp/review/1122575.html)                 |                     |
-| 横浜市中区    |  [四川料理 京華樓 本館](https://ramendb.supleks.jp/s/5957.html)   |       | ◯        | ぬ：[麻婆豆腐刀削麺](https://ramendb.supleks.jp/review/1323678.html)    |                     |
-| 横浜市中区    | [中華第一家 杜記](https://ramendb.supleks.jp/s/19114.html) |        | ◯        |  ぬ：[四川燃麺](https://ramendb.supleks.jp/review/844789.html)   |                     |
-| 横浜市中区    | [杜記 海鮮火鍋菜館](https://ramendb.supleks.jp/s/22023.html) |        | ◯        | ぬ：[牛雑麺](https://ramendb.supleks.jp/review/1054255.html)   |                     |
-| 横浜市中区    |  [四川料理 京華樓 別館](https://ramendb.supleks.jp/s/22079.html)  |        | ◯        |  ぬ：[刀削麺ランチ・四川タンタン刀削麺](https://ramendb.supleks.jp/review/817709.html)     |                   |
-| 横浜市中区    |  [謝朋酒樓](https://ramendb.supleks.jp/s/29230.html)  |      | [タンタン刀削麺](https://ramendb.supleks.jp/review/1631239.html) |    |
-| 横浜市中区    |  [福楼](https://ramendb.supleks.jp/s/33222.html)  |   |    | [麻辛麺+刀削麺変更](https://ramendb.supleks.jp/review/1688485.html) |     |
-| 横浜市中区    |  [広東名菜・健康美食 一品閣](https://ramendb.supleks.jp/s/70831.html)   |   | ◯ | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1589834.html)   |                     |
-| 横浜市中区    | [唐家村](https://ramendb.supleks.jp/s/84080.html)   |     |   | [青菜と牛肉刀削麺](https://ramendb.supleks.jp/review/1561368.html) |                     |
-| 横浜市中区    | 麺王翔記          |         |           |                  |                     |
-| 横浜市中区    | 和記食坊           |         |           |                  |                     |
-| 横浜市中区    | 中国郷土料理 錦里   |         |           |                  |                     |
-| 横浜市中区    | 楊家菜館        |         |           |                  |                     |
-| 横浜市中区    | 富莚              |         |           |                  |                     |
-| 横浜市中区    | 一碗雲呑          |         |           |                  |                     |
-| 横浜市中区    | 刀削麺館 IPPINKAKU     |         |           |                  |                     |
-| 横浜市中区    | 四川天富園      |         |           |                  |                     |
-| 横浜市中区    | 飲茶食坊 萬華郷     |         |           |                  |                     |
+| 横浜市中区    | [華隆餐館](https://ramendb.supleks.jp/s/3609.html)        |         | ◯        | ぬ：[大腸刀削麺](https://ramendb.supleks.jp/review/1122575.html)                 |  伊勢佐木  |
+| 横浜市中区    |  [四川料理 京華樓 本館](https://ramendb.supleks.jp/s/5957.html)   |       | ◯        | ぬ：[麻婆豆腐刀削麺](https://ramendb.supleks.jp/review/1323678.html)    |  中華街  |
+| 横浜市中区    | [中華第一家 杜記](https://ramendb.supleks.jp/s/19114.html) |        | ◯        |  ぬ：[四川燃麺](https://ramendb.supleks.jp/review/844789.html)   |  中華街   |
+| 横浜市中区    | [杜記 海鮮火鍋菜館](https://ramendb.supleks.jp/s/22023.html) |        | ◯        | ぬ：[牛雑麺](https://ramendb.supleks.jp/review/1054255.html)   |  伊勢佐木  |
+| 横浜市中区    |  [四川料理 京華樓 別館](https://ramendb.supleks.jp/s/22079.html)  |        | ◯        |  ぬ：[刀削麺ランチ・四川タンタン刀削麺](https://ramendb.supleks.jp/review/817709.html)     | 中華街  |
+| 横浜市中区    |  [謝朋酒樓](https://ramendb.supleks.jp/s/29230.html)  |      | | [タンタン刀削麺](https://ramendb.supleks.jp/review/1631239.html) | 中華街|
+| 横浜市中区    |  [福楼](https://ramendb.supleks.jp/s/33222.html)  |   |    | [麻辛麺+刀削麺変更](https://ramendb.supleks.jp/review/1688485.html) |中華街 |
+| 横浜市中区    |  [広東名菜・健康美食 一品閣](https://ramendb.supleks.jp/s/70831.html)   |   | ◯ | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1589834.html)   |  中華街 |
+| 横浜市中区    | [唐家村](https://ramendb.supleks.jp/s/84080.html)   |     |   | [青菜と牛肉刀削麺](https://ramendb.supleks.jp/review/1561368.html) |  関内  |
+| 横浜市中区    | [麺王翔記](https://ramendb.supleks.jp/s/86302.html)   |         | ◯  | ぬ：[担担刀削麺](https://ramendb.supleks.jp/review/938058.html) | 中華街 |
+| 横浜市中区    | [和記食坊](https://ramendb.supleks.jp/s/115781.html)  |         |           | [マーボー刀削麺](https://ramendb.supleks.jp/review/1569689.html) | 伊勢佐木 |
+| 横浜市中区    | [中国郷土料理 錦里](https://ramendb.supleks.jp/s/122453.html) |   |    | ぬ：[マーラー牛バラの刀削麺](https://ramendb.supleks.jp/review/1311838.html)  | 中華街<br>グランドメニューにはない  |
+| 横浜市中区    | [楊家菜館](https://ramendb.supleks.jp/s/122628.html)   |         |           | ぬ：[麻辣牛肉刀削面](https://ramendb.supleks.jp/review/1280645.html)                 | 伊勢佐木                    |
+| 横浜市中区    | [富莚](https://ramendb.supleks.jp/s/122726.html)  |         |    |ぬ：[葱油刀削麺](https://ramendb.supleks.jp/review/1281880.html)   |  中華街 |
+| 横浜市中区    | [四川料理 九彩苑](https://ramendb.supleks.jp/s/123262.html)          | ✗    |           | [麻辣刀削麺](https://ramendb.supleks.jp/review/1452283.html)|野毛 |
+| 横浜市中区    | [一碗雲呑](https://ramendb.supleks.jp/s/130392.html )          |         |    | [ぬ：牛肉刀削面](https://ramendb.supleks.jp/review/1380729.html)  | 野毛  |
+| 横浜市中区    | [刀削麺館 IPPINKAKU](https://ramendb.supleks.jp/s/135702.html)  |         |           | ぬ：[タンタン刀削麺](https://ramendb.supleks.jp/review/1438957.html)                 | 元町 |
+| 横浜市中区    | [楊國福 麻辣烫 横浜中華街店](https://ramendb.supleks.jp/s/147861.html) |   |  | ぬ：[トマトスープ牛肉麺](https://ramendb.supleks.jp/review/1599680.html)   | 中華街 |
+| 横浜市中区    | [四川天富園](https://ramendb.supleks.jp/s/158536.html)   |         |           | ぬ：[牛すじ入り刀削麺](https://ramendb.supleks.jp/review/1731542.html)   |  関内  |
+| 横浜市中区    | [飲茶食坊 萬華郷](https://ramendb.supleks.jp/s/161819.html)     |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1768313.html)  | 伊勢佐木   |
 | 横浜市保土ケ谷区  | [玲瓏](https://ramendb.supleks.jp/s/140808.html)         |         |           | ぬ：[西安刀削面](https://ramendb.supleks.jp/review/1688970.html)   |     |
 | 横浜市保土ケ谷区  | [中華料理 天王軒](https://ramendb.supleks.jp/s/141519.html)    |       |           | ぬ：[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1511557.html)  |                     |
 | 横浜市南区    | [松林](https://ramendb.supleks.jp/s/20876.html)  | ？        |           |                  | 以前は刀削麺の幟があったが今はないかも。|
