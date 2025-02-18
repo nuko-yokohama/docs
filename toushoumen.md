@@ -63,9 +63,9 @@
 | 横浜市神奈川区  | [京華楼 鶴屋町店](https://ramendb.supleks.jp/s/22677.html)   |         | ◯         | ぬ：[四川担担刀削麺](https://ramendb.supleks.jp/review/737223.html)                 |                     |
 | 横浜市神奈川区  | 龍上海            |         |           |                  |                     |
 | 横浜市神奈川区  | 大連食府 神奈川新町店 |         |           |                  |                     |
-| 横浜市西区 |  観悟雲          |         |           |                  |                     |
+| 横浜市西区 |  [観悟雲](https://ramendb.supleks.jp/s/24860.html)  |     | ◯ | ぬ：[牛肉高菜刀削麺](https://ramendb.supleks.jp/review/1276292.html)                 |                     |
 | 横浜市西区 | [天府城](https://ramendb.supleks.jp/s/65027.html)          |         | ◯        | ぬ：[生馬刀削麺](https://ramendb.supleks.jp/review/1157386.html)   | 平日ランチタイムには刀削麺提供はない。   |
-| 横浜市西区 |  中国料理 西安刀削麺  |         |           |                  |                     |
+| 横浜市西区 |  [中国料理 西安刀削麺](https://ramendb.supleks.jp/s/115943.html)  |         |           | ぬ：[牛肉刀削面](https://ramendb.supleks.jp/review/1298383.html)   |                     |
 | 横浜市都筑区  | [中華料理 金色大地](https://ramendb.supleks.jp/s/140569.html)  |   |    | ぬ：[牛肉刀削麺](https://ramendb.supleks.jp/review/1499389.html)   |     |
 | 横浜市都筑区  | [向陽飯店 都筑店](https://ramendb.supleks.jp/s/162291.html) |  |   | ぬ：[担々刀削麺セット・餃子](162291)                 |                     |
 | 横浜市鶴見区  | 美食苑            |         |           | [坦々刀削面](https://ramendb.supleks.jp/review/1460569.html)                 |                     |
