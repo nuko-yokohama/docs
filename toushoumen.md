@@ -122,9 +122,9 @@
 
 | 場所         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 厚木市       | 西安刀削麺酒楼 本厚木店 |         |           |                  |                     |
-| 大和市       | 向陽飯店 鶴間店   |         |           |                  |                     |
-| 座間市       | 上海料理 梅林園   |         |           |                  |                     |
+| 厚木市       | [西安刀削麺酒楼 本厚木店](https://ramendb.supleks.jp/s/67251.html) |   | ◯  | ぬ：[排骨刀削麺・中](https://ramendb.supleks.jp/review/1753162.html) |        |
+| 大和市       | [向陽飯店 鶴間店](https://ramendb.supleks.jp/s/154890.html)   |         |           |  [マーラー刀削麺](https://ramendb.supleks.jp/review/1688078.html)  |      |
+| 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |         |           | [刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    |      |
 
 
 ### 県西
