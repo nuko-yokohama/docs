@@ -66,8 +66,8 @@
 | 横浜市西区 |  観悟雲          |         |           |                  |                     |
 | 横浜市西区 | [天府城](https://ramendb.supleks.jp/s/65027.html)          |         | ◯        | ぬ：[生馬刀削麺](https://ramendb.supleks.jp/review/1157386.html)   | 平日ランチタイムには刀削麺提供はない。   |
 | 横浜市西区 |  中国料理 西安刀削麺  |         |           |                  |                     |
-| 横浜市都筑区  | 中華料理 金色大地  |         |           |                  |                     |
-| 横浜市都筑区  | 向陽飯店 都筑店    |         |           |                  |                     |
+| 横浜市都筑区  | [中華料理 金色大地](https://ramendb.supleks.jp/s/140569.html)  |   |    | ぬ：[牛肉刀削麺](https://ramendb.supleks.jp/review/1499389.html)   |     |
+| 横浜市都筑区  | [向陽飯店 都筑店](https://ramendb.supleks.jp/s/162291.html) |  |   | ぬ：[担々刀削麺セット・餃子](162291)                 |                     |
 | 横浜市鶴見区  | 美食苑            |         |           | [坦々刀削面](https://ramendb.supleks.jp/review/1460569.html)                 |                     |
 | 横浜市鶴見区  | 蓬莱春飯店 鶴見東口店 |      |  ◯        | ぬ：[麻辣刀削麺・辛め](https://ramendb.supleks.jp/review/1770017.html)   |                     |
 | 横浜市鶴見区  | 西安厨房 唐華       | ✗      | ？         | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/974149.html)                 |                     |
@@ -288,7 +288,7 @@
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
 | 吹田市       | バーミヤン 北千里店  | －    |           |                  |                     |
 | 大阪市北区   | 瑞豊苑          |         |           |                  |                     |
-| 大阪市北区   | [裕華楼](https://ramendb.supleks.jp/s/163264.html)            |         |           | [麻辣牛肉刀削面](https://ramendb.supleks.jp/review/1786766.html)    |          |
+| 大阪市北区   | [裕華楼](https://ramendb.supleks.jp/s/163264.html)            |         |           | ぬ：[麻辣牛肉刀削面](https://ramendb.supleks.jp/review/1786766.html)    |          |
 | 大阪市北区   | CHINA ROOM 華    |         |           |                  |                     |
 
 ### 奈良県
