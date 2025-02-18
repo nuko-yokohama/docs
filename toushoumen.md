@@ -24,10 +24,10 @@
 | 横浜市中区    | [中華第一家 杜記](https://ramendb.supleks.jp/s/19114.html) |        | ◯        |  ぬ：[四川燃麺](https://ramendb.supleks.jp/review/844789.html)   |                     |
 | 横浜市中区    | [杜記 海鮮火鍋菜館](https://ramendb.supleks.jp/s/22023.html) |        | ◯        | ぬ：[牛雑麺](https://ramendb.supleks.jp/review/1054255.html)   |                     |
 | 横浜市中区    |  [四川料理 京華樓 別館](https://ramendb.supleks.jp/s/22079.html)  |        | ◯        |  ぬ：[刀削麺ランチ・四川タンタン刀削麺](https://ramendb.supleks.jp/review/817709.html)     |                   |
-| 横浜市中区    |  謝朋酒樓  |         |           |                  |                     |
-| 横浜市中区    |  福楼                 |         |           |                  |                     |
-| 横浜市中区    |  広東名菜・健康美食 一品閣   |         |           |                  |                     |
-| 横浜市中区    | 唐家村            |         |           |                  |                     |
+| 横浜市中区    |  [謝朋酒樓](https://ramendb.supleks.jp/s/29230.html)  |      | [タンタン刀削麺](https://ramendb.supleks.jp/review/1631239.html) |    |
+| 横浜市中区    |  [福楼](https://ramendb.supleks.jp/s/33222.html)  |   |    | [麻辛麺+刀削麺変更](https://ramendb.supleks.jp/review/1688485.html) |     |
+| 横浜市中区    |  [広東名菜・健康美食 一品閣](https://ramendb.supleks.jp/s/70831.html)   |   | ◯ | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1589834.html)   |                     |
+| 横浜市中区    | [唐家村](https://ramendb.supleks.jp/s/84080.html)   |     |   | [青菜と牛肉刀削麺](https://ramendb.supleks.jp/review/1561368.html) |                     |
 | 横浜市中区    | 麺王翔記          |         |           |                  |                     |
 | 横浜市中区    | 和記食坊           |         |           |                  |                     |
 | 横浜市中区    | 中国郷土料理 錦里   |         |           |                  |                     |
