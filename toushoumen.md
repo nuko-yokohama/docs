@@ -53,9 +53,9 @@
 | 横浜市旭区 | [向陽飯店 上白根店](https://ramendb.supleks.jp/s/110851.html)    |         |           | ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1518667.html)        |                     |
 | 横浜市泉区 | バーミヤン 泉弥生台店 |－    |           |                  |                     |
 | 横浜市泉区 | [中国料理 旬香菜館](https://ramendb.supleks.jp/s/76697.html) |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1459706.html)                 |                     |
-| 横浜市港北区  | 清宏楼          |         |           |                  |                     |
-| 横浜市港北区  | 中華料理 北京亭   |         |           |                  |                     |
-| 横浜市港北区  | 向陽飯店 大倉山店   |         |           |                  |                     |
+| 横浜市港北区  | [清宏楼](https://ramendb.supleks.jp/s/82771.html)    |   |    |  [タンタン刀削麺](https://ramendb.supleks.jp/review/1716272.html)   |    |
+| 横浜市港北区  | [中華料理 北京亭](https://ramendb.supleks.jp/s/94524.html)   |         |           | ぬ：[湖南刀削麺](https://ramendb.supleks.jp/review/1703016.html) |                     |
+| 横浜市港北区  | [向陽飯店 大倉山店](https://ramendb.supleks.jp/s/126463.html)   |  |  | ぬ：[マーラー刀削麺](https://ramendb.supleks.jp/review/1539923.html)    |                     |
 | 横浜市港南区  | [刀削麺屋 港南店](https://ramendb.supleks.jp/s/89843.html)    |         | ◯       | ぬ：[角煮担々刀削麺](https://ramendb.supleks.jp/review/982516.html)    |                     |
 | 横浜市港南区  | 匠味         |         |           |                  |                     |
 | 横浜市港南区  | 中華料理 瀋陽         | ✗       |           |                  |                     |
