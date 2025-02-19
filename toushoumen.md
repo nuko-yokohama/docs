@@ -19,7 +19,7 @@
 
 | 場所         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 横浜市中区    | [華隆餐館](https://ramendb.supleks.jp/s/3609.html)        |         | ◯        | ぬ：[大腸刀削麺](https://ramendb.supleks.jp/review/1122575.html)                 |  伊勢佐木  |
+| 横浜市中区    | [華隆餐館](https://ramendb.supleks.jp/s/3609.html)        |         | ◯        | ぬ：[青花椒牛肉麺](https://ramendb.supleks.jp/review/1793203.html)<br>ぬ：[大腸刀削麺](https://ramendb.supleks.jp/review/1122575.html)                 |  伊勢佐木  |
 | 横浜市中区    |  [四川料理 京華樓 本館](https://ramendb.supleks.jp/s/5957.html)   |       | ◯        | ぬ：[麻婆豆腐刀削麺](https://ramendb.supleks.jp/review/1323678.html)    |  中華街  |
 | 横浜市中区    | [中華第一家 杜記](https://ramendb.supleks.jp/s/19114.html) |        | ◯        |  ぬ：[四川燃麺](https://ramendb.supleks.jp/review/844789.html)   |  中華街   |
 | 横浜市中区    | [杜記 海鮮火鍋菜館](https://ramendb.supleks.jp/s/22023.html) |        | ◯        | ぬ：[牛雑麺](https://ramendb.supleks.jp/review/1054255.html)   |  伊勢佐木  |
