@@ -49,8 +49,9 @@
 | 横浜市保土ケ谷区  | [中華料理 天王軒](https://ramendb.supleks.jp/s/141519.html)    |   |  | ぬ：[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1511557.html)  |  天王町  |
 | 横浜市南区    | [松林](https://ramendb.supleks.jp/s/20876.html)  | ？        |           |                  | 以前は刀削麺の幟があったが今はないかも。|
 | 横浜市南区    | [味香苑](https://ramendb.supleks.jp/s/31819.html)    |       |           | [マーボー刀削麺](https://ramendb.supleks.jp/review/1478296.html)  |                     |
+| 横浜市南区    | [味香苑 東橋店](https://ramendb.supleks.jp/s/84328.html)    | ✗  |           | ぬ：[ジャージャー麺＋刀削麺変更](https://ramendb.supleks.jp/review/1085940.html)  | 横浜橋 |
+| 横浜市南区    | [味天](https://ramendb.supleks.jp/s/93595.html)    | ✗ |  | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1001474.html)  | 弘明寺 |
 | 横浜市南区    | [壱龍釜](https://ramendb.supleks.jp/s/105465.html)         |         |           | ぬ：[什錦湯麺・刀削麺変更](https://ramendb.supleks.jp/review/1792488.html)   | 麺類を刀削麺に変更可能。 |
-| 横浜市南区    | [味香苑 東橋店](https://ramendb.supleks.jp/s/84328.html)  | ✗ |     | ぬ：[ジャージャー麺＋刀削麺変更](https://ramendb.supleks.jp/review/1085940.html)      |  |
 | 横浜市南区    | [餃子伝説本舗 吉野町店](https://ramendb.supleks.jp/s/130834.html) |         |     |  ぬ：[四川風担々刀削麺](https://ramendb.supleks.jp/review/1398122.html)        |                     |
 | 横浜市南区 | [楽小厨](https://ramendb.supleks.jp/s/137765.html)       | ✗      |           | ぬ：[酸辣刀削面](https://ramendb.supleks.jp/review/1495140.html)                 |                     |
 | 横浜市戸塚区 | [華香閣](https://ramendb.supleks.jp/s/113352.html)       |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1571656.html) |                     |
