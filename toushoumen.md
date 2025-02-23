@@ -118,22 +118,23 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 茅ヶ崎市     | [華満楼 イオン茅ヶ崎中央店](https://ramendb.supleks.jp/s/137212.html) |         |           |[牛肉刀削麺](https://ramendb.supleks.jp/review/1460174.html)                  |                     |
-| 藤沢市       | [萬福楼 新館](https://ramendb.supleks.jp/s/28672.html)       |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1659473.html)                 |                     |
-| 藤沢市       | [バーミヤン 長後店](https://ramendb.supleks.jp/s/29887.html) | －      |           |                  |                     |
-| 藤沢市       | [萬福酒楼](https://ramendb.supleks.jp/s/60110.html)          |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1726822.html)<br>[高菜入り牛バラ肉刀削麺](https://ramendb.supleks.jp/review/1497286.html) |                     |
-| 藤沢市       | [渓源](https://ramendb.supleks.jp/s/112456.html)              |        |  | ぬ：[麻辣牛肉ラーメン・刀削麺変更](https://ramendb.supleks.jp/review/1788449.html)          |                  |
-| 藤沢市       | [台湾料理 百鮮味 2号店](https://ramendb.supleks.jp/s/115215.html)  |         |           | ぬ：[天津刀削麺](https://ramendb.supleks.jp/review/1785262.html)   |                     |
-| 藤沢市       | [西安餃子 テラスモール湘南店](https://ramendb.supleks.jp/s/130010.html)          |        |   | [麻辣刀削湯麺](https://ramendb.supleks.jp/review/1374814.html)          |                  |
+| 茅ヶ崎市     | [華満楼 イオン茅ヶ崎中央店](https://ramendb.supleks.jp/s/137212.html) |         |           |[牛肉刀削麺](https://ramendb.supleks.jp/review/1460174.html)    | 北茅ヶ崎  |
+| 藤沢市       | [萬福楼 新館](https://ramendb.supleks.jp/s/28672.html)       |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1659473.html)                 | 藤沢   |
+| 藤沢市       | [バーミヤン 長後店](https://ramendb.supleks.jp/s/29887.html) | －      |           |                  | 長後 |
+| 藤沢市       | [萬福酒楼](https://ramendb.supleks.jp/s/60110.html)          |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1726822.html)<br>[高菜入り牛バラ肉刀削麺](https://ramendb.supleks.jp/review/1497286.html) |  藤沢  |
+| 藤沢市       | [渓源](https://ramendb.supleks.jp/s/112456.html)              |        |  | ぬ：[麻辣牛肉ラーメン・刀削麺変更](https://ramendb.supleks.jp/review/1788449.html)          | 藤沢 |
+| 藤沢市       | [台湾料理 百鮮味 2号店](https://ramendb.supleks.jp/s/115215.html)  |         |           | ぬ：[天津刀削麺](https://ramendb.supleks.jp/review/1785262.html)   | 長後 |
+| 藤沢市       | [西安餃子 テラスモール湘南店](https://ramendb.supleks.jp/s/130010.html)          |        |   | [麻辣刀削湯麺](https://ramendb.supleks.jp/review/1374814.html)          | 本鵠沼 |
+| 藤沢市 | 向陽飯店 長後店 |  |  |  | 長後 |
 
 ### 県央
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 厚木市       | [西安刀削麺酒楼 本厚木店](https://ramendb.supleks.jp/s/67251.html) |   | ◯  | ぬ：[排骨刀削麺・中](https://ramendb.supleks.jp/review/1753162.html) |        |
-| 大和市       | [百味鮮](https://ramendb.supleks.jp/s/105933.html) |   |     |     |      |
-| 大和市       | [向陽飯店 鶴間店](https://ramendb.supleks.jp/s/154890.html)   |         |           |  [マーラー刀削麺](https://ramendb.supleks.jp/review/1688078.html)  |      |
-| 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |         |           | ぬ：[刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    |      |
+| 厚木市       | [西安刀削麺酒楼 本厚木店](https://ramendb.supleks.jp/s/67251.html) |   | ◯  | ぬ：[排骨刀削麺・中](https://ramendb.supleks.jp/review/1753162.html) | 本厚木 |
+| 大和市       | [百味鮮](https://ramendb.supleks.jp/s/105933.html) |   |     |     | 大和 |
+| 大和市       | [向陽飯店 鶴間店](https://ramendb.supleks.jp/s/154890.html)   |         |           |  [マーラー刀削麺](https://ramendb.supleks.jp/review/1688078.html)  | 鶴間|
+| 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |         |           | ぬ：[刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    | さがみ野 |
 
 
 ### 県西
