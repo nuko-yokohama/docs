@@ -41,8 +41,8 @@
 | 横浜市中区    | [楊國福 麻辣烫 横浜中華街店](https://ramendb.supleks.jp/s/147861.html) |   |  | ぬ：[トマトスープ牛肉麺](https://ramendb.supleks.jp/review/1599680.html)   | 中華街 |
 | 横浜市中区    | [四川天富園](https://ramendb.supleks.jp/s/158536.html)   |         |           | ぬ：[牛すじ入り刀削麺](https://ramendb.supleks.jp/review/1731542.html)   |  関内  |
 | 横浜市中区    | [飲茶食坊 萬華郷](https://ramendb.supleks.jp/s/161819.html)     |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1768313.html)  | 伊勢佐木   |
-| 横浜市保土ケ谷区  | [玲瓏](https://ramendb.supleks.jp/s/140808.html)         |         |           | ぬ：[西安刀削面](https://ramendb.supleks.jp/review/1688970.html)   |     |
-| 横浜市保土ケ谷区  | [中華料理 天王軒](https://ramendb.supleks.jp/s/141519.html)    |       |           | ぬ：[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1511557.html)  |                     |
+| 横浜市保土ケ谷区  | [玲瓏](https://ramendb.supleks.jp/s/140808.html)         |   |    | ぬ：[西安刀削面](https://ramendb.supleks.jp/review/1688970.html)   | 天王町 |
+| 横浜市保土ケ谷区  | [中華料理 天王軒](https://ramendb.supleks.jp/s/141519.html)    |   |  | ぬ：[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1511557.html)  |  天王町  |
 | 横浜市南区    | [松林](https://ramendb.supleks.jp/s/20876.html)  | ？        |           |                  | 以前は刀削麺の幟があったが今はないかも。|
 | 横浜市南区    | [味香苑](https://ramendb.supleks.jp/s/31819.html)    |       |           | [マーボー刀削麺](https://ramendb.supleks.jp/review/1478296.html)  |                     |
 | 横浜市南区    | [壱龍釜](https://ramendb.supleks.jp/s/105465.html)         |         |           | ぬ：[什錦湯麺・刀削麺変更](https://ramendb.supleks.jp/review/1792488.html)   | 麺類を刀削麺に変更可能。 |
@@ -65,9 +65,10 @@
 | 横浜市神奈川区  | [龍上海](https://ramendb.supleks.jp/s/95197.html)  |  |  | ぬ：[担々刀削麺](https://ramendb.supleks.jp/review/1204014.html) | [龍上海 赤湯本店](https://ramendb.supleks.jp/s/2440.html)との関連はない。  |
 | 横浜市神奈川区  | [大連食府 神奈川新町店](https://ramendb.supleks.jp/s/135942.html) |         | ◯  | ぬ：[四川風牛バラ肉入り刀削麺](https://ramendb.supleks.jp/review/1441373.html)  |                     |
 | 横浜市神奈川区  | [劉家麺屋 刀削麺](https://ramendb.supleks.jp/s/156183.html) | ✗      | ◯    | ぬ：[麻辣牛肉刀削麺・辛口](https://ramendb.supleks.jp/review/1699626.html) | |
-| 横浜市西区 |  [観悟雲](https://ramendb.supleks.jp/s/24860.html)  |     | ◯ | ぬ：[牛肉高菜刀削麺](https://ramendb.supleks.jp/review/1276292.html)                 |                     |
-| 横浜市西区 | [天府城](https://ramendb.supleks.jp/s/65027.html)          |         | ◯        | ぬ：[生馬刀削麺](https://ramendb.supleks.jp/review/1157386.html)   | 平日ランチタイムには刀削麺提供はない。   |
-| 横浜市西区 |  [中国料理 西安刀削麺](https://ramendb.supleks.jp/s/115943.html)  |         |           | ぬ：[牛肉刀削面](https://ramendb.supleks.jp/review/1298383.html)   |                     |
+| 横浜市西区 |  [刀削麺荘](https://ramendb.supleks.jp/s/5958.html)  | ✗  | ◯ | ぬ：[麻辣麺](https://ramendb.supleks.jp/review/772442.html)                 | 横浜駅 |
+| 横浜市西区 |  [観悟雲](https://ramendb.supleks.jp/s/24860.html)  |     | ◯ | ぬ：[牛肉高菜刀削麺](https://ramendb.supleks.jp/review/1276292.html)                 | 横浜駅 |
+| 横浜市西区 | [天府城](https://ramendb.supleks.jp/s/65027.html)          |         | ◯        | ぬ：[生馬刀削麺](https://ramendb.supleks.jp/review/1157386.html)   | みなとみらい<br>平日ランチタイムには刀削麺提供はない。   |
+| 横浜市西区 |  [西安健菜キッチン MARK IS みなとみらい店](https://ramendb.supleks.jp/s/101038.html)  | ✗  |  | ぬ：[豆乳ごまスープの刀削担々麺](https://ramendb.supleks.jp/review/1285174.html)                 | 横浜駅 || 横浜市西区 |  [中国料理 西安刀削麺](https://ramendb.supleks.jp/s/115943.html)  |         |           | ぬ：[牛肉刀削面](https://ramendb.supleks.jp/review/1298383.html)   | 横浜駅 |
 | 横浜市都筑区  | [中華料理 金色大地](https://ramendb.supleks.jp/s/140569.html)  |   |    | ぬ：[牛肉刀削麺](https://ramendb.supleks.jp/review/1499389.html)   |     |
 | 横浜市都筑区  | [向陽飯店 都筑店](https://ramendb.supleks.jp/s/162291.html) |  |   | ぬ：[担々刀削麺セット・餃子](162291)                 |                     |
 | 横浜市鶴見区  | [美食苑](https://ramendb.supleks.jp/s/67193.html)            |         |           | [坦々刀削面](https://ramendb.supleks.jp/review/1460569.html)                 |                     |
