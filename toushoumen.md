@@ -94,6 +94,7 @@
 | 川崎市川崎区 | [家系らーめん 横崎家 川崎店](https://ramendb.supleks.jp/s/87231.html)   |         |           |  | 川崎<br>家系＆刀削麺 |
 | 川崎市川崎区 | [多福楼 川崎店](https://ramendb.supleks.jp/s/30984.html)     |         |           | ぬ：[牛バラ麺・汁あり・刀削麺](https://ramendb.supleks.jp/review/1336390.html) | 川崎 |
 | 川崎市川崎区 | [満園](https://ramendb.supleks.jp/s/34460.html)    |         |◯         | ぬ：[高菜麺・刀削麺変更](https://ramendb.supleks.jp/review/1783460.html) | 八丁畷 |
+| 川崎市川崎区 | [香蘭](https://ramendb.supleks.jp/s/137924.html)    |         |  |  | 川崎<br>最近、刀削麺を提供開始した。 |
 | 川崎市川崎区 | [一龍 餃子亭](https://ramendb.supleks.jp/s/138773.html)          |         |           |ぬ：[豚角煮刀削麺](https://ramendb.supleks.jp/review/1756604.html)  | 八丁畷 |
 | 川崎市川崎区 | [多福菜香](https://ramendb.supleks.jp/s/141657.html)          |         |    | ぬ：[ランチセット・薬膳牛バラ角煮刀削麺](https://ramendb.supleks.jp/review/1626542.html)  | 川崎 |
 | 川崎市川崎区 | [海月飯店](https://ramendb.supleks.jp/s/157516.html)          |         |           | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1730245.html)  | 京急川崎 |
