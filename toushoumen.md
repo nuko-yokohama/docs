@@ -119,6 +119,7 @@
 | 相模原市南区 | [バーミヤン 小田急相模原駅前店](https://ramendb.supleks.jp/s/69031.html)  | －         |           |                  |                     |
 | 相模原市緑区 | [台湾料理 幸楽園](https://ramendb.supleks.jp/s/87353.html)   |         |           |[台湾刀削麺](1437088)| 相模湖周辺・R20沿い        |
 | 町田市       | [中国酒家 十年 2号店](https://ramendb.supleks.jp/s/125541.html) | ✗   |           |                  |                     |
+| 町田市       | [香港厨房 風香園](https://ramendb.supleks.jp/s/140274.html) |   |    |       |  町田  |
 
 
 
