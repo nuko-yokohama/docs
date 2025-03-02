@@ -92,6 +92,7 @@
 | 川崎市中原区  | [さぬきうどん さいか](https://ramendb.supleks.jp/s/31608.html) | ぬ：[和風カレーラーメン](https://ramendb.supleks.jp/review/1190387.html)<br>[和風ピリ辛らーめん](https://ramendb.supleks.jp/review/1193870.html)|
 | 川原市多摩区     | [大むら](https://ramendb.supleks.jp/s/101101.html) | [タンメン](https://ramendb.supleks.jp/review/1076637.html) |
 | 川原市多摩区     | [星川製麺 彩](https://supleks.jp/s/81300.html) | ラーメン300円、チャーシューメン500円など |
+| 川原市多摩区     | [丸花 京王駅前店](https://ramendb.supleks.jp/s/164072.html) | |
 | 川崎市高津区     | [梅もと溝の口店](https://ramendb.supleks.jp/s/62799.html)    | [正油ラーメン](https://ramendb.supleks.jp/review/918706.html) |
 | 川崎市高津区 | [松月庵](https://supleks.jp/s/58391.html) 水曜定休？| |
 
