@@ -100,23 +100,23 @@
 
 あたりまえですが、町田も含みます。町田は神奈川なので。
 
-| 場所         | 店名                                                         | 備考                                                         |
-| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/75975.html)     | ぬ：[味噌チャーシューメン](https://ramendb.supleks.jp/review/1135004.html) |
-| 相模原市中央区   | [ゆで太郎相模原小町通店](https://ramendb.supleks.jp/s/106482.html) | [中華そば](https://ramendb.supleks.jp/review/1119117.html)   |
-| 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/114493.html) | [味噌ラーメン](https://ramendb.supleks.jp/review/1194236.html)<br>ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1267096.html) |
-| 相模原市中央区 | [長生庵](https://supleks.jp/s/110986.html) | [ラーメン](https://supleks.jp/review/1149988.html) |
-| 相模原市中央区 | [そば処 大むら](https://supleks.jp/s/126452.html) | 冷やし中華のみ |
-| 相模原市中央区 | [山田うどん 亀井野店](https://supleks.jp/s/77215.html) |  |
-| 相模原市中央区 | [山田うどん 相模原中央店](https://supleks.jp/s/80291.html) |  |
-| 相模原市中央区 | [山田うどん 田名店](https://supleks.jp/s/111501.html) |  |
-| 相模原市中央区 | [増田屋](https://supleks.jp/s/124587.html) | 上溝交差点近く。<br>ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1414127.html) |
-| 相模原市緑区     | 【提供終了】[おそば 満留賀](https://supleks.jp/s/121199.html) | 以前はラーメンを提供していたが、現在はメニューから消えている。(2019-09-26に確認) |
-| 相模原市緑区     | [ゆで太郎西橋本店](https://ramendb.supleks.jp/s/98903.html)  | [中華そばとり舞茸天丼セット](https://ramendb.supleks.jp/review/1130647.html) |
-| 相模原市緑区     | [増田屋](https://ramendb.supleks.jp/s/80676.html)            | [ラーメン](https://ramendb.supleks.jp/review/888139.html)    |
-| 町田市 | [富久栄楼](https://supleks.jp/s/62709.html) | 町田駅からは少し歩くけど、ぎりぎり徒歩圏内？ |
-| 町田市 | [山桜](https://supleks.jp/s/85619.html) | 自家製和風鴨肉入り　塩ラーメン<br>2017年以降、食べログのクチコミなし。|
-| 町田市 | [谷際屋製麺工場](https://supleks.jp/s/83367.html) | 古淵駅から北のほう。<br>そば・うどんはついでに提供？|
+| 場所         | 店名                                                         | 状態 | 備考                                                         |
+| ------------ | ------------------------------------------------------------ | --- | --------------------------------------------------------- |
+| 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/75975.html)     | | ぬ：[味噌チャーシューメン](https://ramendb.supleks.jp/review/1135004.html) |
+| 相模原市中央区   | [ゆで太郎相模原小町通店](https://ramendb.supleks.jp/s/106482.html) | | [中華そば](https://ramendb.supleks.jp/review/1119117.html)   |
+| 相模原市中央区   | [おそば 増田屋](https://ramendb.supleks.jp/s/114493.html) | | [味噌ラーメン](https://ramendb.supleks.jp/review/1194236.html)<br>ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1267096.html) |
+| 相模原市中央区 | [長生庵](https://supleks.jp/s/110986.html) | | [ラーメン](https://supleks.jp/review/1149988.html) |
+| 相模原市中央区 | [そば処 大むら](https://supleks.jp/s/126452.html) | | 冷やし中華のみ |
+| 相模原市中央区 | [山田うどん 亀井野店](https://supleks.jp/s/77215.html) |  | |
+| 相模原市中央区 | [山田うどん 相模原中央店](https://supleks.jp/s/80291.html) |  | |
+| 相模原市中央区 | [山田うどん 田名店](https://supleks.jp/s/111501.html) |  | |
+| 相模原市中央区 | [増田屋](https://supleks.jp/s/124587.html) | | 上溝交差点近く。<br>ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1414127.html) |
+| 相模原市緑区     | [おそば 満留賀](https://supleks.jp/s/121199.html) | 終了 | 以前はラーメンを提供していたが、現在はメニューから消えている。(2019-09-26に確認) |
+| 相模原市緑区     | [ゆで太郎西橋本店](https://ramendb.supleks.jp/s/98903.html)  | | [中華そばとり舞茸天丼セット](https://ramendb.supleks.jp/review/1130647.html) |
+| 相模原市緑区     | [増田屋](https://ramendb.supleks.jp/s/80676.html)            | | [ラーメン](https://ramendb.supleks.jp/review/888139.html)    |
+| 町田市 | [富久栄楼](https://supleks.jp/s/62709.html) | | 町田駅からは少し歩くけど、ぎりぎり徒歩圏内？ |
+| 町田市 | [山桜](https://supleks.jp/s/85619.html) | | 自家製和風鴨肉入り　塩ラーメン<br>2017年以降、食べログのクチコミなし。|
+| 町田市 | [谷際屋製麺工場](https://supleks.jp/s/83367.html) | | 古淵駅から北のほう。<br>そば・うどんはついでに提供？|
 
 ### 湘南三浦
 このページにおける湘南は「葉山、逗子、鎌倉、藤沢、茅ヶ崎、平塚、大磯」とします。
