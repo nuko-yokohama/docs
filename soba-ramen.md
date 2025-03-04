@@ -77,24 +77,24 @@
 
 ### 川崎市
 
-| 場所         | 店名                                                         | 備考                                                         |
-| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 川崎市川崎区     | [増田屋](https://supleks.jp/s/64218.html)            | ぬ：[ラーメン定食](https://ramendb.supleks.jp/review/1089655.html) |
-| 川崎市川崎区     | [ゆで太郎川崎砂子店](https://supleks.jp/s/67785.html) | [中華そば＋わかめ](https://ramendb.supleks.jp/review/1139034.html) |
-| 川崎市川崎区     | [名代 富士そば（川崎駅東口）](https://supleks.jp/s/90236.html)  | |
-| 川崎市川崎区     |【閉店？】 [そば処 満留賀](https://supleks.jp/s/106516.html)  | [ラーメンとチャーハンセット](https://ramendb.supleks.jp/review/1134744.html)<br>[もやしラーメン](https://ramendb.supleks.jp/review/1134745.html)|
-| 川崎市川崎区 | 【閉店】[かわさき蕎麦](https://supleks.jp/s/31290/review)  | ぬ：[チャーシューメン](https://supleks.jp/review/332635.html) |
-| 川崎市川崎区 | [美好屋](https://supleks.jp/s/148609.html) | [ラーメン](https://ramendb.supleks.jp/review/1606241.html) |
-| 川崎市幸区       | [そば処 大むら](https://supleks.jp/s/87237.html)     |                                                              |
-| 川崎市幸区       | [大むら](https://ramendb.supleks.jp/s/83473.html)            | [ラーメン](https://ramendb.supleks.jp/review/1041026.html)   |
-| 川崎市幸区(加瀬) | [小進庵](https://supleks.jp/s/84687.html) | [チャーシューメン](https://ramendb.supleks.jp/review/924198.html) |
-| 川崎市中原区     | [名代 富士そば元住吉店](https://ramendb.supleks.jp/s/90102.html) | [煮干しラーメン](https://ramendb.supleks.jp/review/1030101.html) |
-| 川崎市中原区  | [さぬきうどん さいか](https://ramendb.supleks.jp/s/31608.html) | ぬ：[和風カレーラーメン](https://ramendb.supleks.jp/review/1190387.html)<br>[和風ピリ辛らーめん](https://ramendb.supleks.jp/review/1193870.html)|
-| 川原市多摩区     | [大むら](https://ramendb.supleks.jp/s/101101.html) | [タンメン](https://ramendb.supleks.jp/review/1076637.html) |
-| 川原市多摩区     | [星川製麺 彩](https://supleks.jp/s/81300.html) | ラーメン300円、チャーシューメン500円など |
-| 川原市多摩区     | [丸花 京王駅前店](https://ramendb.supleks.jp/s/164072.html) | ぬ：[自家製チャーシュー麺](https://ramendb.supleks.jp/review/1795949.html)|
-| 川崎市高津区     | [梅もと溝の口店](https://ramendb.supleks.jp/s/62799.html)    | [正油ラーメン](https://ramendb.supleks.jp/review/918706.html) |
-| 川崎市高津区 | [松月庵](https://supleks.jp/s/58391.html) 水曜定休？| |
+| 場所         | 店名                                                         |  状態 | 備考                                                         |
+| ------------ | ------------------------------------------------------------ | ------ | ------------------------------------------------------ |
+| 川崎市川崎区     | [増田屋](https://supleks.jp/s/64218.html)            | | ぬ：[ラーメン定食](https://ramendb.supleks.jp/review/1089655.html) |
+| 川崎市川崎区     | [ゆで太郎川崎砂子店](https://supleks.jp/s/67785.html) | | ぬ：[朝ら～・温＋海老](https://ramendb.supleks.jp/review/1770509.html) |
+| 川崎市川崎区     | [名代 富士そば（川崎駅東口）](https://supleks.jp/s/90236.html)  | | |
+| 川崎市川崎区     | [そば処 満留賀](https://supleks.jp/s/106516.html)  |閉店| [ラーメンとチャーハンセット](https://ramendb.supleks.jp/review/1134744.html)<br>[もやしラーメン](https://ramendb.supleks.jp/review/1134745.html)|
+| 川崎市川崎区 | [かわさき蕎麦](https://supleks.jp/s/31290/review)  |閉店| ぬ：[チャーシューメン](https://supleks.jp/review/332635.html) |
+| 川崎市川崎区 | [美好屋](https://supleks.jp/s/148609.html) | | [ラーメン](https://ramendb.supleks.jp/review/1606241.html) |
+| 川崎市幸区       | [そば処 大むら](https://supleks.jp/s/87237.html)     | | |
+| 川崎市幸区       | [大むら](https://ramendb.supleks.jp/s/83473.html)| | [ラーメン](https://ramendb.supleks.jp/review/1041026.html)   |
+| 川崎市幸区(加瀬) | [小進庵](https://supleks.jp/s/84687.html) | | [チャーシューメン](https://ramendb.supleks.jp/review/924198.html) |
+| 川崎市中原区     | [名代 富士そば元住吉店](https://ramendb.supleks.jp/s/90102.html) | | [煮干しラーメン](https://ramendb.supleks.jp/review/1030101.html) |
+| 川崎市中原区  | [さぬきうどん さいか](https://ramendb.supleks.jp/s/31608.html) | | ぬ：[和風カレーラーメン](https://ramendb.supleks.jp/review/1190387.html)<br>[和風ピリ辛らーめん](https://ramendb.supleks.jp/review/1193870.html)|
+| 川原市多摩区     | [大むら](https://ramendb.supleks.jp/s/101101.html) |  | [タンメン](https://ramendb.supleks.jp/review/1076637.html) |
+| 川原市多摩区     | [星川製麺 彩](https://supleks.jp/s/81300.html) | |  ラーメン300円、チャーシューメン500円など |
+| 川原市多摩区     | [丸花 京王駅前店](https://ramendb.supleks.jp/s/164072.html) | | ぬ：[自家製チャーシュー麺](https://ramendb.supleks.jp/review/1795949.html)|
+| 川崎市高津区     | [梅もと溝の口店](https://ramendb.supleks.jp/s/62799.html)    |閉店| [正油ラーメン](https://ramendb.supleks.jp/review/918706.html) |
+| 川崎市高津区 | [松月庵](https://supleks.jp/s/58391.html) | | 水曜定休？|
 
 ### 相模原市
 
