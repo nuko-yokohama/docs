@@ -89,7 +89,7 @@
 | 川崎市幸区       | [大むら](https://ramendb.supleks.jp/s/83473.html)| | [ラーメン](https://ramendb.supleks.jp/review/1041026.html)   |
 | 川崎市幸区(加瀬) | [小進庵](https://supleks.jp/s/84687.html) | | [チャーシューメン](https://ramendb.supleks.jp/review/924198.html) |
 | 川崎市中原区     | [名代 富士そば元住吉店](https://ramendb.supleks.jp/s/90102.html) | | [煮干しラーメン](https://ramendb.supleks.jp/review/1030101.html) |
-| 川崎市中原区  | [さぬきうどん さいか](https://ramendb.supleks.jp/s/31608.html) | | ぬ：[和風カレーラーメン](https://ramendb.supleks.jp/review/1190387.html)<br>[和風ピリ辛らーめん](https://ramendb.supleks.jp/review/1193870.html)|
+| 川崎市中原区  | [さぬきうどん さいか](https://ramendb.supleks.jp/s/31608.html) |閉店 | ぬ：[和風カレーラーメン](https://ramendb.supleks.jp/review/1190387.html)<br>[和風ピリ辛らーめん](https://ramendb.supleks.jp/review/1193870.html)|
 | 川原市多摩区     | [大むら](https://ramendb.supleks.jp/s/101101.html) |  | [タンメン](https://ramendb.supleks.jp/review/1076637.html) |
 | 川原市多摩区     | [星川製麺 彩](https://supleks.jp/s/81300.html) | |  ラーメン300円、チャーシューメン500円など |
 | 川原市多摩区     | [丸花 京王駅前店](https://ramendb.supleks.jp/s/164072.html) | | ぬ：[自家製チャーシュー麺](https://ramendb.supleks.jp/review/1795949.html)|
