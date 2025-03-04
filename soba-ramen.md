@@ -121,45 +121,45 @@
 ### 湘南三浦
 このページにおける湘南は「葉山、逗子、鎌倉、藤沢、茅ヶ崎、平塚、大磯」とします。
 
-| 場所   | 店名        | 備考        |
-| ------| --------- | ------- |
-| 鎌倉市 | [湘南鎌倉 大船軒 JR鎌倉駅内]( https://supleks.jp/s/74278.html) | [中華そば](https://ramendb.supleks.jp/review/832436.html) |
-| 鎌倉市 | [酒場・山形そば ふくや](https://supleks.jp/s/72796.html) | 山形の鳥中華あり |
-| 藤沢市 | [大船軒 藤沢そば店](https://supleks.jp/s/92616.html) | [中華そば](https://ramendb.supleks.jp/review/1180508.html) |
-| 藤沢市 | [山田うどん 亀井野店](https://supleks.jp/s/62817.html) |  |
-| 藤沢市 | [山田うどん 藤沢田方町店](https://supleks.jp/s/89871.html) |  |
-| 茅ヶ崎市         | [大むら](https://ramendb.supleks.jp/s/111269.html) （本当に蕎麦店か要確認） |                                                              |
-| 平塚市           | [大黒庵 本店](https://ramendb.supleks.jp/s/12062.html) | [ラーメン](https://ramendb.supleks.jp/review/942657.html)<br>ぬ：[ラーメン定食](https://ramendb.supleks.jp/review/1526842.html) |
-| 平塚市           | [ゆで太郎平塚桜ヶ丘店](https://ramendb.supleks.jp/s/107868.html) |                                                              |
-| 平塚市 | [山田うどん食堂](https://supleks.jp/s/121171.html) | |
-| 三浦市           | [そば処 三崎](https://supleks.jp/s/67786.html)            | [味噌とんこつチャーシューメン](https://supleks.jp/review/797789.html) |
-| 三浦市(城ヶ島) | [そば新](https://ramendb.supleks.jp/s/60578.html)            | ぬ：[天ラーメン](https://ramendb.supleks.jp/review/725439.html) |
-| 三浦市(城ヶ島) | [梅一](https://supleks.jp/s/72351.html) | [わかめラーメン](https://supleks.jp/review/877845.html) |
+| 場所   | 店名        | 状態 | 備考        |
+| ------| --------- | --- | ---- |
+| 鎌倉市 | [湘南鎌倉 大船軒 JR鎌倉駅内]( https://supleks.jp/s/74278.html) | | [中華そば](https://ramendb.supleks.jp/review/832436.html) |
+| 鎌倉市 | [酒場・山形そば ふくや](https://supleks.jp/s/72796.html) | | 山形の鳥中華あり |
+| 藤沢市 | [大船軒 藤沢そば店](https://supleks.jp/s/92616.html) | | [中華そば](https://ramendb.supleks.jp/review/1180508.html) |
+| 藤沢市 | [山田うどん 亀井野店](https://supleks.jp/s/62817.html) |  | |
+| 藤沢市 | [山田うどん 藤沢田方町店](https://supleks.jp/s/89871.html) |  | |
+| 茅ヶ崎市         | [大むら](https://ramendb.supleks.jp/s/111269.html) | | （本当に蕎麦店か要確認） |                                                              |
+| 平塚市           | [大黒庵 本店](https://ramendb.supleks.jp/s/12062.html) | |  [ラーメン](https://ramendb.supleks.jp/review/942657.html)<br>ぬ：[ラーメン定食](https://ramendb.supleks.jp/review/1526842.html) |
+| 平塚市           | [ゆで太郎平塚桜ヶ丘店](https://ramendb.supleks.jp/s/107868.html) | | |
+| 平塚市 | [山田うどん食堂](https://supleks.jp/s/121171.html) | | |
+| 三浦市           | [そば処 三崎](https://supleks.jp/s/67786.html)            | |  [味噌とんこつチャーシューメン](https://supleks.jp/review/797789.html) |
+| 三浦市(城ヶ島) | [そば新](https://ramendb.supleks.jp/s/60578.html)            | | ぬ：[天ラーメン](https://ramendb.supleks.jp/review/725439.html) |
+| 三浦市(城ヶ島) | [梅一](https://supleks.jp/s/72351.html) | | [わかめラーメン](https://supleks.jp/review/877845.html) |
 
 
 ### 県央
 
-| 場所         | 店名                                                         | 備考                                                         |
-| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 厚木市           | [ゆで太郎厚木下依知店](https://ramendb.supleks.jp/s/86515.html) |                                                              |
-| 厚木市           | [ゆで太郎厚木西インター店](https://supleks.jp/s/100563.html) |                                                              |
-| 大和市           | [ゆで太郎大和下鶴間店](https://ramendb.supleks.jp/s/84839.html) |                                                              |
-| 大和市           | [増田屋](https://ramendb.supleks.jp/s/112813.html)           | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1177856.html) |
-| 大和市 | [食事処 兎月庵](https://supleks.jp/s/56662.html)　| 桜ヶ丘駅近く。<br>焼肉ラーメン(850円) |
-| 座間市 | [さか本そば店](https://sobadb.supleks.jp/s/107935.html)　|  |
-| 座間市 | [大さ和](https://supleks.jp/s/148526.html)　| [サンマーメン](https://ramendb.supleks.jp/review/1605861.html) |
-| 座間市 | 尾張屋| 中華そば等あり<br>[相模線途中下車散歩 - 相武台下～入谷](https://togetter.com/li/2483811)参照 |
-| 綾瀬市 | [綾瀬やぶ久](https://supleks.jp/s/103794.html) | 中華ソバ、カレータンメン！ |
-| 高座郡 | [ゆで太郎 寒川店](https://supleks.jp/s/138096.html) |  |
-| 秦野市  | 満留賀（未登録、読みはマルカ） | ラーメン数種あり。サンマーメンはなし。 |
-| 秦野市  | [お食事処 いろは食堂](https://supleks.jp/s/58711.html) | ラーメンのみ？食べログ5年以上口コミなし。 |
+| 場所         | 店名                                                         | 状態 | 備考                                                         |
+| ------------ | ------------------------------------------------------------ | ----- | ------------------------------------------------------- |
+| 厚木市           | [ゆで太郎厚木下依知店](https://ramendb.supleks.jp/s/86515.html) | | |
+| 厚木市           | [ゆで太郎厚木西インター店](https://supleks.jp/s/100563.html) | | |
+| 大和市           | [ゆで太郎大和下鶴間店](https://ramendb.supleks.jp/s/84839.html) | | |
+| 大和市           | [増田屋](https://ramendb.supleks.jp/s/112813.html)           | | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1177856.html) |
+| 大和市 | [食事処 兎月庵](https://supleks.jp/s/56662.html)　| | 桜ヶ丘駅近く。<br>焼肉ラーメン(850円) |
+| 座間市 | [さか本そば店](https://sobadb.supleks.jp/s/107935.html)　|  |  |
+| 座間市 | [大さ和](https://supleks.jp/s/148526.html)　| |  [サンマーメン](https://ramendb.supleks.jp/review/1605861.html) |
+| 座間市 | 尾張屋|  | 中華そば等あり<br>[相模線途中下車散歩 - 相武台下～入谷](https://togetter.com/li/2483811)参照 |
+| 綾瀬市 | [綾瀬やぶ久](https://supleks.jp/s/103794.html) |  | 中華ソバ、カレータンメン！ |
+| 高座郡 | [ゆで太郎 寒川店](https://supleks.jp/s/138096.html) |  | |
+| 秦野市  | 満留賀（未登録、読みはマルカ） | | ラーメン数種あり。サンマーメンはなし。 |
+| 秦野市  | [お食事処 いろは食堂](https://supleks.jp/s/58711.html) |？| ラーメンのみ？食べログ5年以上口コミなし。 |
 
 ### 県西
 
 | 場所             | 店名             | 備考               |
 | -------- | ------------------ | ----------- |
-| 小田原市 | [御食事処 大雅](https://supleks.jp/s/92467.html) | チキンラーメン、チャーシューメン<br>食べログ最終Rv 2020-11 |
-| 小田原市 | [ゆで太郎小田原飯泉店](https://supleks.jp/s/114286.html) | |
+| 小田原市 | [御食事処 大雅](https://supleks.jp/s/92467.html) | | チキンラーメン、チャーシューメン<br>食べログ最終Rv 2020-11 |
+| 小田原市 | [ゆで太郎小田原飯泉店](https://supleks.jp/s/114286.html) | | |
 
 ## 東京都
 
