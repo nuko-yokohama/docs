@@ -29,7 +29,7 @@
 | 横浜市中区 | [聚香閣](https://ramendb.supleks.jp/s/19664.html) | ✗ | ◯ |ぬ： [聚香閣刀削麺](https://ramendb.supleks.jp/review/1007083.html) | 中華街 |
 | 横浜市中区    | [杜記 海鮮火鍋菜館](https://ramendb.supleks.jp/s/22023.html) |        | ◯        | ぬ：[牛雑麺](https://ramendb.supleks.jp/review/1054255.html)   |  伊勢佐木  |
 | 横浜市中区    |  [四川料理 京華樓 別館](https://ramendb.supleks.jp/s/22079.html)  |        | ◯        |  ぬ：[刀削麺ランチ・四川タンタン刀削麺](https://ramendb.supleks.jp/review/817709.html)     | 中華街  |
-| 横浜市中区    |  [謝朋酒樓](https://ramendb.supleks.jp/s/29230.html)  |      | | [タンタン刀削麺](https://ramendb.supleks.jp/review/1631239.html) | 中華街|
+| 横浜市中区    |  [謝朋酒樓](https://ramendb.supleks.jp/s/29230.html)  |      | | ぬ：[タンタン刀削麺](https://ramendb.supleks.jp/review/1631239.html) | 中華街|
 | 横浜市中区    |  [福楼](https://ramendb.supleks.jp/s/33222.html)  |   |    | [麻辛麺+刀削麺変更](https://ramendb.supleks.jp/review/1688485.html) |中華街 |
 | 横浜市中区    |  [広東名菜・健康美食 一品閣](https://ramendb.supleks.jp/s/70831.html)   |   | ◯ | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1589834.html)   |  中華街 |
 | 横浜市中区    | [唐家村](https://ramendb.supleks.jp/s/84080.html)   |     |   | [青菜と牛肉刀削麺](https://ramendb.supleks.jp/review/1561368.html) |  関内  |
@@ -38,7 +38,7 @@
 | 横浜市中区    | [中国郷土料理 錦里](https://ramendb.supleks.jp/s/122453.html) |   |    | ぬ：[マーラー牛バラの刀削麺](https://ramendb.supleks.jp/review/1311838.html)  | 中華街<br>グランドメニューにはない  |
 | 横浜市中区    | [楊家菜館](https://ramendb.supleks.jp/s/122628.html)   |         |           | ぬ：[麻辣牛肉刀削面](https://ramendb.supleks.jp/review/1280645.html)                 | 伊勢佐木                    |
 | 横浜市中区    | [富莚](https://ramendb.supleks.jp/s/122726.html)  |         |    |ぬ：[葱油刀削麺](https://ramendb.supleks.jp/review/1281880.html)   |  中華街 |
-| 横浜市中区    | [川味](https://ramendb.supleks.jp/s/122793.html)   | ✗    |           | [泡椒羊肉面＋青汁刀削麺変更](https://ramendb.supleks.jp/review/1282483.html)| 中華街 |
+| 横浜市中区    | [川味](https://ramendb.supleks.jp/s/122793.html)   | ✗    |           | ぬ：[泡椒羊肉面＋青汁刀削麺変更](https://ramendb.supleks.jp/review/1282483.html)| 中華街 |
 | 横浜市中区    | [四川料理 九彩苑](https://ramendb.supleks.jp/s/123262.html)          | ✗    |           | [麻辣刀削麺](https://ramendb.supleks.jp/review/1452283.html)|野毛 |
 | 横浜市中区    | [一碗雲呑](https://ramendb.supleks.jp/s/130392.html )          |         |    | [ぬ：牛肉刀削面](https://ramendb.supleks.jp/review/1380729.html)  | 野毛  |
 | 横浜市中区    | [刀削麺館 IPPINKAKU](https://ramendb.supleks.jp/s/135702.html)  |         |           | ぬ：[タンタン刀削麺](https://ramendb.supleks.jp/review/1438957.html)                 | 元町 |
@@ -82,7 +82,7 @@
 | 横浜市鶴見区  | [蓬莱春飯店 鶴見東口店](https://ramendb.supleks.jp/s/82130.html) |      |  ◯        | ぬ：[麻辣刀削麺・辛め](https://ramendb.supleks.jp/review/1770017.html)   |京急鶴見|
 | 横浜市鶴見区  | [西安厨房 唐華](https://ramendb.supleks.jp/s/86636.html)       | ✗      | ？         | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/974149.html)                 |京急鶴見|
 | 横浜市鶴見区  | [福盈門 別館](https://ramendb.supleks.jp/s/129210.html)         |         |   ◯    | ぬ：[香辣刀削湯麺](https://ramendb.supleks.jp/review/1465324.html)                 |京急鶴見|
-| 横浜市鶴見区  | [天府人家](https://ramendb.supleks.jp/s/158872.html)       |         |           | +100円で刀削麺変更<br>ぬ：[ランチ8 红烧牛肉面＋半炒飯(1080円)＋刀削麺変](https://ramendb.supleks.jp/review/1795681.html)   |京急鶴見|
+| 横浜市鶴見区  | [天府人家](https://ramendb.supleks.jp/s/158872.html)       |         |           | +100円で刀削麺変更<br>ぬ：[ランチ8 红烧牛肉面＋半炒飯(1080円)＋刀削麺変更](https://ramendb.supleks.jp/review/1795681.html)   |京急鶴見|
 | 横浜市鶴見区  | [川味坊 鶴見店](https://ramendb.supleks.jp/s/163287.html)       |         |           | ぬ：[味噌刀削麺＋半炒飯セット](https://ramendb.supleks.jp/review/1790372.html)                 |鶴見|
 ,
 ### 川崎市
@@ -176,12 +176,12 @@
 | 中央区    | 四川料理刀削麺 川府 日本橋店 |  |           |                  |                     |
 | 中央区    | 四川名菜 川府 |         |           |                  |                     |
 | 中央区    | 天然居  |         |           |                  |                     |
-| 中央区    | [餃子酒場 勝どき店](https://ramendb.supleks.jp/s/112534.html) |         |           | ぬ：[チャーシュー刀削麺](https://ramendb.supleks.jp/review/1295709.html)                 |                     |
+| 中央区    | [餃子酒場 勝どき店](https://ramendb.supleks.jp/s/112534.html) |         |           |ぬ：[チャーシュー刀削麺](https://ramendb.supleks.jp/review/1295709.html)|勝どき|
 | 中央区    | 江南酒家 西安刀削麺 |         |           |                  |                     |
 | 中央区    | 香港料理 食旅  |         |           |                  |                     |
-| 中央区    | [麻辣大学 晴海トリトン店](https://ramendb.supleks.jp/s/123969.html) |         |           | ぬ：[四川燃面・大辛・普通盛](https://ramendb.supleks.jp/review/1406139.html)        |                     |
+| 中央区    | [麻辣大学 晴海トリトン店](https://ramendb.supleks.jp/s/123969.html) |         |           | ぬ：[四川燃面・大辛・普通盛](https://ramendb.supleks.jp/review/1406139.html)        |勝どき|
 | 中央区    | 麻辣川府 銀座インズ店 |         |           |                  |                     |
-| 中央区    | [刀削麺房 回味 日本橋店](https://ramendb.supleks.jp/s/145495.html)  |         |           | ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1569389.html) |                     |
+| 中央区    | [刀削麺房 回味 日本橋店](https://ramendb.supleks.jp/s/145495.html)  |         |           | ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1569389.html) |東京駅|
 | 中央区    | 本格四川料理 麻辣先生 日本橋2号店 |         |           |                  |                     |
 | 中野区    | 青山一品 中野坂上店 |         |           |                  |                     |
 | 中野区    | 中華特色料理 櫻花 |         |           |                  |                     |
@@ -237,7 +237,7 @@
 | 品川区    | 香港料理 炎屋 | | |    |   |
 | 品川区    | 陳家私菜 五反田店 | | |    |   |
 | 品川区    | バーミヤン 大井町店 | － | |    |   |
-| 品川区    | [西安料理 張家 大崎店](https://ramendb.supleks.jp/s/82571.html) | | |ぬ：[油撥刀削麺](https://ramendb.supleks.jp/review/999744.html)    |   |
+| 品川区    | [西安料理 張家 大崎店](https://ramendb.supleks.jp/s/82571.html) | | |ぬ：[油撥刀削麺](https://ramendb.supleks.jp/review/999744.html)    |大崎|
 | 品川区    | 朝霞 天王洲店 | | |    |   |
 | 品川区    | 香辛中華 來來羊 | | |    |   |
 | 品川区    | 刀削麺・火鍋・西安料理 XI’AN 五反田店 | | |    |   |
@@ -305,7 +305,7 @@
 | 渋谷区 | 中華ダイニング 馨 | | |    |   |
 | 渋谷区 | [チャ～ボン 多福楼 渋谷宮下公園前店](https://ramendb.supleks.jp/s/134354/review) | | |    |   |
 | 港区  | [長安 刀削麺](https://ramendb.supleks.jp/s/4572.html) | | ◯ |    | 虎ノ門 |
-| 港区  | [西安料理 刀削麺 火鍋 XI’AN 新橋店](https://ramendb.supleks.jp/s/14705.html) | | ◯ | ぬ：[油撥刀削麺](https://ramendb.supleks.jp/review/1657967.html)  | |
+| 港区  | [西安料理 刀削麺 火鍋 XI’AN 新橋店](https://ramendb.supleks.jp/s/14705.html) | | ◯ | ぬ：[油撥刀削麺](https://ramendb.supleks.jp/review/1657967.html)  |新橋|
 | 港区  | 中国家庭菜 湧の台所 | | |    |   |
 | 港区  | 四季坊 | | |    |   |
 | 港区  | 西安刀削麺酒楼 三田店 | | |    |   |
@@ -314,10 +314,10 @@
 | 港区  | 本格中華料理 味覚 | | |    |   |
 | 港区  | 歩高里 六本木店 | | |    |   |
 | 港区  | 味覚 三号店 | | |    |   |
-| 港区  | [張家 大門店](https://ramendb.supleks.jp/s/116100.html) | | ◯ | ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1308185.html)   |   |
+| 港区  | [張家 大門店](https://ramendb.supleks.jp/s/116100.html) | | ◯ | ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1308185.html)   |大門|
 | 港区  | 陳記 田町店 | | |    |   |
 | 港区  | 中国酒家 大天門 浜松町店 | | |    |   |
-| 港区  | [龍盛園 品川高輪口店](https://ramendb.supleks.jp/s/122396.html) | | | ぬ：[マーラー牛肉刀削麺](https://ramendb.supleks.jp/review/1277768.html)   |   |
+| 港区  | [龍盛園 品川高輪口店](https://ramendb.supleks.jp/s/122396.html) | | | ぬ：[マーラー牛肉刀削麺](https://ramendb.supleks.jp/review/1277768.html)   |品川|
 | 港区  | 西安刀削麺酒楼 虎ノ門店| | |    |   |
 | 港区  | 榮晟刀削麺 西安私菜坊 芝店 | | |    |   |
 | 港区  | 中国家庭料理 好 | | |    |   |
@@ -352,7 +352,7 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 八王子市     | [精華樓](https://ramendb.supleks.jp/s/23028.html)  | ✗     |           |  ぬ：[油溌刀削麺](https://ramendb.supleks.jp/review/194223.html)               |                     |
+| 八王子市     | [精華樓](https://ramendb.supleks.jp/s/23028.html)  | ✗     |           |  ぬ：[油溌刀削麺](https://ramendb.supleks.jp/review/194223.html)               |八王子|
 | 八王子市     | 萬福飯店 八王子店  |         |           |                  |                     |
 | 八王子市     | 喜楽宴            |         |           |                  |                     |
 | 八王子市     | 台湾料理 新台北    |         |           |                  |                     |
@@ -393,7 +393,7 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 神戸市中央区  | [小肥牛 南京町](https://ramendb.supleks.jp/s/136700.html)           |         |           |ぬ： [刀削麺](https://ramendb.supleks.jp/review/1449471.html)   | ハーフサイズ提供。 |
+| 神戸市中央区  | [小肥牛 南京町](https://ramendb.supleks.jp/s/136700.html)           |         |           |ぬ： [刀削麺](https://ramendb.supleks.jp/review/1449471.html)   | 南京街<br>ハーフサイズ提供。 |
 | 西脇市       | 笑仁。           |         |           |                  |                     |
 
 ### 北海道
@@ -477,7 +477,7 @@
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
 | 吹田市       | バーミヤン 北千里店  | －    |           |                  |                     |
 | 大阪市北区   | 瑞豊苑          |         |           |                  |                     |
-| 大阪市北区   | [裕華楼](https://ramendb.supleks.jp/s/163264.html)            |         |           | ぬ：[麻辣牛肉刀削面](https://ramendb.supleks.jp/review/1786766.html)    |          |
+| 大阪市北区   | [裕華楼](https://ramendb.supleks.jp/s/163264.html)            |         |           | ぬ：[麻辣牛肉刀削面](https://ramendb.supleks.jp/review/1786766.html)    |中崎町駅|
 | 大阪市北区   | CHINA ROOM 華    |         |           |                  |                     |
 
 ### 奈良県
