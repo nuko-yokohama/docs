@@ -165,52 +165,52 @@
 
 東京都では自分はほとんど食べていないので、今後、[あかいら！](https://ramendb.supleks.jp/u/10254.html)さんのレポート等を中心に追加予定。
 
-| 場所         | 店名                                                         | 備考                                                         |
-| ------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 東京都大田区 | [そば処 岡村家](https://ramendb.supleks.jp/s/102649.html)    | [中華もり](https://ramendb.supleks.jp/review/1172348.html)   |
-| 東京都大田区 | [生そば 一力](https://ramendb.supleks.jp/s/61058.html)       | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1140145.html) |
-| 東京都大田区 | [恵比寿庵](https://ramendb.supleks.jp/s/53425.html)          | [ラーメン](https://ramendb.supleks.jp/review/1168821.html)   |
-| 東京都大田区 | [そば処 藤寿庵](https://ramendb.supleks.jp/s/102607.html)    | [冷し中華](https://ramendb.supleks.jp/review/1164617.html)   |
-| 東京都大田区 | [そば処 双葉家本店](https://ramendb.supleks.jp/s/102665.html) | [味噌ラーメン](https://ramendb.supleks.jp/review/1152950.html) |
-| 東京都大田区 | [おそば 池田屋](https://ramendb.supleks.jp/s/102664.html)    | [もやしそば](https://ramendb.supleks.jp/review/1148527.html) |
-| 東京都大田区 | [手打蕎麦処 やぶ久羽田総本店](https://ramendb.supleks.jp/s/102657.html) | [芽かぶラーメン](https://ramendb.supleks.jp/review/1144355.html) |
-| 東京都大田区 | [そば処 さか本](https://ramendb.supleks.jp/s/107949.html)    | [ラーメン](https://ramendb.supleks.jp/review/1131741.html)   |
-| 東京都大田区 | [きそば 美かわ家](https://ramendb.supleks.jp/s/102589.html)  | [中華そば](https://ramendb.supleks.jp/review/1127137.html)   |
-| 東京都大田区 | [名代 富士そば大岡山店](https://ramendb.supleks.jp/s/106170.html) | [昔ながらの醤油ラーメン](https://ramendb.supleks.jp/review/1126202.html) |
-| 東京都大田区 | [火の見庵](https://ramendb.supleks.jp/s/71017.html)          | [ラーメン](https://ramendb.supleks.jp/review/1125301.html)   |
-| 東京都大田区 | [さか本そば店](https://ramendb.supleks.jp/s/102667.html)     | [ラーメン](https://ramendb.supleks.jp/review/1124106.html)   |
-| 東京都大田区 | [梅もと多摩川店](https://ramendb.supleks.jp/s/23864.html)    | [ラーメン＋大盛り＋唐揚げ](https://ramendb.supleks.jp/review/655855.html) |
-| 東京都大田区 | [そば処 やぶ久](https://ramendb.supleks.jp/s/102651.html)    | [ラーメン](https://ramendb.supleks.jp/review/1122601.html)   |
-| 東京都大田区 | [そば処 廣栄屋](https://ramendb.supleks.jp/s/102656.html)    | [タンメン](https://ramendb.supleks.jp/review/1120734.html)   |
-| 東京都大田区 | [そば処 朝日屋](https://ramendb.supleks.jp/s/102627.html)    | [ラーメン](https://ramendb.supleks.jp/review/1119449.html)   |
-| 東京都大田区 | [そば処 双葉家 赤松支店](https://ramendb.supleks.jp/s/102666.html) | [中華そば](https://ramendb.supleks.jp/review/1186073.html)   |
-| 東京都大田区 | [そば処 吉岡家 本店](https://ramendb.supleks.jp/s/102591.html) | [もやしそば](https://ramendb.supleks.jp/review/1254975.html)   |
-| 東京都大田区 | [そば処 旭庵](https://ramendb.supleks.jp/s/102629.html) | [冷やし中華](https://ramendb.supleks.jp/review/1261912.html)   |
-| 東京都大田区 | [お食事美味めん処 竹家](https://supleks.jp/s/52052.html) | [和風白ラーメン](https://supleks.jp/review/1021747.html) |
-| 東京都大田区 | [お食事美味めん処 竹家](https://supleks.jp/s/52052.html) | [和風白ラーメン](https://supleks.jp/review/1021747.html) |
-| 東京都大田区 | [きそば つねや](https://ramendb.supleks.jp/s/102586.html)      | [チャンポンメン](https://ramendb.supleks.jp/review/1316095.html)   |
-| 東京都品川区 | [ゆで太郎大崎広小路店](https://ramendb.supleks.jp/s/62281.html) | [カレーざる中華](https://ramendb.supleks.jp/review/1164206.html) |
-| 東京都品川区 | [ゆで太郎東五反田店](https://ramendb.supleks.jp/s/62110.html) | [野菜たっぷり中華そば＋コロッケ](https://ramendb.supleks.jp/review/1135730.html) |
-| 東京都品川区 | [楓庵](https://supleks.jp/s/89701.html) | 大井町駅近く。ラーメン、ちゃんぽん、冷やし中華あり。 |
-| 東京都品川区 | [道中そば](https://supleks.jp/s/56493.html) | 五反田駅山手線ホーム上。<br>[中華そば](https://ramendb.supleks.jp/review/1464455.html) |
-| 東京都品川区 | [そば処 亀屋](https://supleks.jp/s/112948.html) | [中華そば](https://ramendb.supleks.jp/review/1173936.html)<br>[天丼中華セット](https://ramendb.supleks.jp/review/1732162.html) |
-| 東京都港区   | [ゆで太郎芝大門店](https://ramendb.supleks.jp/s/61812.html)  | [鬼おろしざる中華](https://ramendb.supleks.jp/review/1158578.html) |
-| 東京都港区   | [ゆで太郎高輪店](https://ramendb.supleks.jp/s/60648.html)    | [野菜たっぷり中華そば](https://ramendb.supleks.jp/review/1132716.html) |
-| 東京都港区   | [ゆで太郎 竹芝店](https://ramendb.supleks.jp/s/62932.html)   | [ダブルワカメラーメン](https://ramendb.supleks.jp/review/1123178.html) |
-| 東京都港区   | 【閉店】[梅もと品川店](https://ramendb.supleks.jp/s/32642.html) | ぬ：[みそラーメン](https://ramendb.supleks.jp/review/323621.html) |
-| 東京都港区   | [ゆで太郎 南青山一丁目店](https://ramendb.supleks.jp/s/56069.html) | [月見中華](https://ramendb.supleks.jp/review/1120205.html)   |
-| 東京都目黒区 | [長寿庵](https://ramendb.supleks.jp/s/52976.html) | [味噌ラーメン](https://ramendb.supleks.jp/review/1316450.html) <br>[ラーメン](https://ramendb.supleks.jp/review/1776184.html)|
-| 東京都中央区 | [梅もと八重洲店](https://ramendb.supleks.jp/s/58520.html)    | [正油ラーメン＋おにぎり](https://ramendb.supleks.jp/review/982356.html) |
-| 東京都中央区 | [ゆで太郎 銀座5丁目店](https://ramendb.supleks.jp/s/62712.html) | [中華そば＋かき揚げ](https://ramendb.supleks.jp/review/1184642.html) |
-| 東京都千代田区 | [更科丸屋](https://supleks.jp/s/80899.html) | [ラーメン](https://ramendb.supleks.jp/review/1356551.html) |
-| 東京都新宿区 | [梅もと新宿西口店](https://ramendb.supleks.jp/s/20042.html)  | [ラーメン天丼セット](https://ramendb.supleks.jp/review/158281.html) |
-| 東京都新宿区 | [そば処 更科](https://supleks.jp/s/15260.html)  | |
-| 東京都世田谷区 |[きそば 志ら井](https://kanagawa-ramendb.supleks.jp/s/103069.html) | [みそラーメン](https://kanagawa-ramendb.supleks.jp/s/103069/review) |
-| 東京都足立区 | [生蕎麦 満留賀](https://supleks.jp/s/120852.html) | 本当にラーメンがあるかは不明。 |
-| 東京都江東区 | [ゆで太郎 Tokyo-Bay 東雲駅前店](https://supleks.jp/s/72509.html)| [味噌ラーメン 高菜ごはんセット](https://ramendb.supleks.jp/review/1681096.html) |
-| 東京都日野市 | [そば処 豊年屋](https://supleks.jp/s/129777.html) | [中華そば（590円）](https://ramendb.supleks.jp/review/1371703.html) |
-| 東京都武蔵野市 | [しなのや](https://supleks.jp/s/89740.html) | [ラーメン 600円](https://ramendb.supleks.jp/review/1460676.html) |
-| 東京都立川市 | [生そば 満留賀](https://supleks.jp/s/103149.html) | [タンメン（700円）](https://ramendb.supleks.jp/review/1467335.html) |
+| 場所         | 店名                                                         | 状態 | 備考                                                         |
+| ------------ | ------------------------------------------------------------ | ----- | ------------------------------------------------------- |
+| 東京都大田区 | [そば処 岡村家](https://ramendb.supleks.jp/s/102649.html)    | | [中華もり](https://ramendb.supleks.jp/review/1172348.html)   |
+| 東京都大田区 | [生そば 一力](https://ramendb.supleks.jp/s/61058.html)       | | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1140145.html) |
+| 東京都大田区 | [恵比寿庵](https://ramendb.supleks.jp/s/53425.html)          | | [ラーメン](https://ramendb.supleks.jp/review/1168821.html)   |
+| 東京都大田区 | [そば処 藤寿庵](https://ramendb.supleks.jp/s/102607.html)    | | [冷し中華](https://ramendb.supleks.jp/review/1164617.html)   |
+| 東京都大田区 | [そば処 双葉家本店](https://ramendb.supleks.jp/s/102665.html) | | [味噌ラーメン](https://ramendb.supleks.jp/review/1152950.html) |
+| 東京都大田区 | [おそば 池田屋](https://ramendb.supleks.jp/s/102664.html)    | | [もやしそば](https://ramendb.supleks.jp/review/1148527.html) |
+| 東京都大田区 | [手打蕎麦処 やぶ久羽田総本店](https://ramendb.supleks.jp/s/102657.html) | | [芽かぶラーメン](https://ramendb.supleks.jp/review/1144355.html) |
+| 東京都大田区 | [そば処 さか本](https://ramendb.supleks.jp/s/107949.html)    | | [ラーメン](https://ramendb.supleks.jp/review/1131741.html)   |
+| 東京都大田区 | [きそば 美かわ家](https://ramendb.supleks.jp/s/102589.html)  | | [中華そば](https://ramendb.supleks.jp/review/1127137.html)   |
+| 東京都大田区 | [名代 富士そば大岡山店](https://ramendb.supleks.jp/s/106170.html) | |[昔ながらの醤油ラーメン](https://ramendb.supleks.jp/review/1126202.html) |
+| 東京都大田区 | [火の見庵](https://ramendb.supleks.jp/s/71017.html)          | | [ラーメン](https://ramendb.supleks.jp/review/1125301.html)   |
+| 東京都大田区 | [さか本そば店](https://ramendb.supleks.jp/s/102667.html)     | | [ラーメン](https://ramendb.supleks.jp/review/1124106.html)   |
+| 東京都大田区 | [梅もと多摩川店](https://ramendb.supleks.jp/s/23864.html)    | | [ラーメン＋大盛り＋唐揚げ](https://ramendb.supleks.jp/review/655855.html) |
+| 東京都大田区 | [そば処 やぶ久](https://ramendb.supleks.jp/s/102651.html)    | | [ラーメン](https://ramendb.supleks.jp/review/1122601.html)   |
+| 東京都大田区 | [そば処 廣栄屋](https://ramendb.supleks.jp/s/102656.html)    | | [タンメン](https://ramendb.supleks.jp/review/1120734.html)   |
+| 東京都大田区 | [そば処 朝日屋](https://ramendb.supleks.jp/s/102627.html)    | | [ラーメン](https://ramendb.supleks.jp/review/1119449.html)   |
+| 東京都大田区 | [そば処 双葉家 赤松支店](https://ramendb.supleks.jp/s/102666.html) | | [中華そば](https://ramendb.supleks.jp/review/1186073.html)   |
+| 東京都大田区 | [そば処 吉岡家 本店](https://ramendb.supleks.jp/s/102591.html) | | [もやしそば](https://ramendb.supleks.jp/review/1254975.html)   |
+| 東京都大田区 | [そば処 旭庵](https://ramendb.supleks.jp/s/102629.html) | | [冷やし中華](https://ramendb.supleks.jp/review/1261912.html)   |
+| 東京都大田区 | [お食事美味めん処 竹家](https://supleks.jp/s/52052.html) | | [和風白ラーメン](https://supleks.jp/review/1021747.html) |
+| 東京都大田区 | [お食事美味めん処 竹家](https://supleks.jp/s/52052.html) | | [和風白ラーメン](https://supleks.jp/review/1021747.html) |
+| 東京都大田区 | [きそば つねや](https://ramendb.supleks.jp/s/102586.html)      | | [チャンポンメン](https://ramendb.supleks.jp/review/1316095.html)   |
+| 東京都品川区 | [ゆで太郎大崎広小路店](https://ramendb.supleks.jp/s/62281.html) | | [カレーざる中華](https://ramendb.supleks.jp/review/1164206.html) |
+| 東京都品川区 | [ゆで太郎東五反田店](https://ramendb.supleks.jp/s/62110.html) | | [野菜たっぷり中華そば＋コロッケ](https://ramendb.supleks.jp/review/1135730.html) |
+| 東京都品川区 | [楓庵](https://supleks.jp/s/89701.html) | | 大井町駅近く。ラーメン、ちゃんぽん、冷やし中華あり。 |
+| 東京都品川区 | [道中そば](https://supleks.jp/s/56493.html) | | 五反田駅山手線ホーム上。<br>[中華そば](https://ramendb.supleks.jp/review/1464455.html) |
+| 東京都品川区 | [そば処 亀屋](https://supleks.jp/s/112948.html) | | [中華そば](https://ramendb.supleks.jp/review/1173936.html)<br>[天丼中華セット](https://ramendb.supleks.jp/review/1732162.html) |
+| 東京都港区   | [ゆで太郎芝大門店](https://ramendb.supleks.jp/s/61812.html)  | | [鬼おろしざる中華](https://ramendb.supleks.jp/review/1158578.html) |
+| 東京都港区   | [ゆで太郎高輪店](https://ramendb.supleks.jp/s/60648.html)    | | [野菜たっぷり中華そば](https://ramendb.supleks.jp/review/1132716.html) |
+| 東京都港区   | [ゆで太郎 竹芝店](https://ramendb.supleks.jp/s/62932.html)   | | [ダブルワカメラーメン](https://ramendb.supleks.jp/review/1123178.html) |
+| 東京都港区   | [梅もと品川店](https://ramendb.supleks.jp/s/32642.html) |閉店| ぬ：[みそラーメン](https://ramendb.supleks.jp/review/323621.html) |
+| 東京都港区   | [ゆで太郎 南青山一丁目店](https://ramendb.supleks.jp/s/56069.html) | | [月見中華](https://ramendb.supleks.jp/review/1120205.html)   |
+| 東京都目黒区 | [長寿庵](https://ramendb.supleks.jp/s/52976.html) | | [味噌ラーメン](https://ramendb.supleks.jp/review/1316450.html) <br>[ラーメン](https://ramendb.supleks.jp/review/1776184.html)|
+| 東京都中央区 | [梅もと八重洲店](https://ramendb.supleks.jp/s/58520.html)    | | [正油ラーメン＋おにぎり](https://ramendb.supleks.jp/review/982356.html) |
+| 東京都中央区 | [ゆで太郎 銀座5丁目店](https://ramendb.supleks.jp/s/62712.html) | | [中華そば＋かき揚げ](https://ramendb.supleks.jp/review/1184642.html) |
+| 東京都千代田区 | [更科丸屋](https://supleks.jp/s/80899.html) | | [ラーメン](https://ramendb.supleks.jp/review/1356551.html) |
+| 東京都新宿区 | [梅もと新宿西口店](https://ramendb.supleks.jp/s/20042.html)  | | [ラーメン天丼セット](https://ramendb.supleks.jp/review/158281.html) |
+| 東京都新宿区 | [そば処 更科](https://supleks.jp/s/15260.html)  | | |
+| 東京都世田谷区 |[きそば 志ら井](https://kanagawa-ramendb.supleks.jp/s/103069.html) | | [みそラーメン](https://kanagawa-ramendb.supleks.jp/s/103069/review) |
+| 東京都足立区 | [生蕎麦 満留賀](https://supleks.jp/s/120852.html) | | 本当にラーメンがあるかは不明。 |
+| 東京都江東区 | [ゆで太郎 Tokyo-Bay 東雲駅前店](https://supleks.jp/s/72509.html)| | ぬ：[味噌ラーメン 高菜ごはんセット](https://ramendb.supleks.jp/review/1681096.html) |
+| 東京都日野市 | [そば処 豊年屋](https://supleks.jp/s/129777.html) | | [中華そば（590円）](https://ramendb.supleks.jp/review/1371703.html) |
+| 東京都武蔵野市 | [しなのや](https://supleks.jp/s/89740.html) |  |[ラーメン 600円](https://ramendb.supleks.jp/review/1460676.html) |
+| 東京都立川市 | [生そば 満留賀](https://supleks.jp/s/103149.html) |  |[タンメン（700円）](https://ramendb.supleks.jp/review/1467335.html) |
 
 
 ## その他
