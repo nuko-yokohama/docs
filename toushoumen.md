@@ -48,12 +48,13 @@
 | 横浜市保土ケ谷区  | [玲瓏](https://ramendb.supleks.jp/s/140808.html)         |   |    | ぬ：[西安刀削面](https://ramendb.supleks.jp/review/1688970.html)   | 天王町 |
 | 横浜市保土ケ谷区  | [中華料理 天王軒](https://ramendb.supleks.jp/s/141519.html)    |   |  | ぬ：[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1511557.html)  |  天王町  |
 | 横浜市南区    | [松林](https://ramendb.supleks.jp/s/20876.html)  | ？        |           |                  | 以前は刀削麺の幟があったが今はないかも。|
-| 横浜市南区    | [味香苑](https://ramendb.supleks.jp/s/31819.html)    |       |           | [マーボー刀削麺](https://ramendb.supleks.jp/review/1478296.html)  |   南太田  |
+| 横浜市南区    | [味香苑 南太田店](https://ramendb.supleks.jp/s/31819.html)    |       |           | [マーボー刀削麺](https://ramendb.supleks.jp/review/1478296.html)  |   南太田  |
 | 横浜市南区    | [味香苑 東橋店](https://ramendb.supleks.jp/s/84328.html)    | ✗  |           | ぬ：[ジャージャー麺＋刀削麺変更](https://ramendb.supleks.jp/review/1085940.html)  | 横浜橋 |
 | 横浜市南区    | [味天](https://ramendb.supleks.jp/s/93595.html)    | ✗ |  | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1001474.html)  | 弘明寺 |
 | 横浜市南区    | [壱龍釜](https://ramendb.supleks.jp/s/105465.html)         |         |           | ぬ：[什錦湯麺・刀削麺変更](https://ramendb.supleks.jp/review/1792488.html)   | 横浜橋<br>麺類を刀削麺に変更可能。 |
 | 横浜市南区    | [餃子伝説本舗 吉野町店](https://ramendb.supleks.jp/s/130834.html) |         |     |  ぬ：[四川風担々刀削麺](https://ramendb.supleks.jp/review/1398122.html)        |吉野町|
 | 横浜市南区 | [楽小厨](https://ramendb.supleks.jp/s/137765.html)       | ✗      |           | ぬ：[酸辣刀削面](https://ramendb.supleks.jp/review/1495140.html)                 |                     |
+| 横浜市南区 | [味香苑 蒔田店](https://ramendb.supleks.jp/s/163237.html)       |    | | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1797273.html)|蒔田|
 | 横浜市戸塚区 | [華香閣](https://ramendb.supleks.jp/s/113352.html)       |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1571656.html) |戸塚|
 | 横浜市戸塚区 | [向陽飯店 戸塚店](https://ramendb.supleks.jp/s/130812.html)     |         |           | ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1725023.html)  |戸塚|
 | 横浜市旭区 | [向陽飯店 上白根店](https://ramendb.supleks.jp/s/110851.html)    |         |           | ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1518667.html)        |                     |
@@ -84,7 +85,7 @@
 | 横浜市鶴見区  | [福盈門 別館](https://ramendb.supleks.jp/s/129210.html)         |         |   ◯    | ぬ：[香辣刀削湯麺](https://ramendb.supleks.jp/review/1465324.html)                 |京急鶴見|
 | 横浜市鶴見区  | [天府人家](https://ramendb.supleks.jp/s/158872.html)       |         |           | +100円で刀削麺変更<br>ぬ：[ランチ8 红烧牛肉面＋半炒飯(1080円)＋刀削麺変更](https://ramendb.supleks.jp/review/1795681.html)   |京急鶴見|
 | 横浜市鶴見区  | [川味坊 鶴見店](https://ramendb.supleks.jp/s/163287.html)       |         |           | ぬ：[味噌刀削麺＋半炒飯セット](https://ramendb.supleks.jp/review/1790372.html)                 |鶴見|
-,
+
 ### 川崎市
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
