@@ -315,14 +315,14 @@
 | 港区  | [西安料理 刀削麺 火鍋 XI’AN 新橋店](https://ramendb.supleks.jp/s/14705.html) | | ◯ | ぬ：[油撥刀削麺](https://ramendb.supleks.jp/review/1657967.html)  |新橋|
 | 港区  | 中国家庭菜 湧の台所 | | |    |   |
 | 港区  | 四季坊 | | |    |   |
-| 港区  | 西安刀削麺酒楼 三田店 | | |    |   |
+| 港区  | [西安刀削麺酒楼 三田店](https://ramendb.supleks.jp/s/69708.html) | | |    |田町|
 | 港区  | [西安刀削麺酒楼 本店](https://ramendb.supleks.jp/s/70787.html) | | |    | 虎ノ門ヒルズ |
 | 港区  | [栄華楼 品川グランドセントラルタワー店](https://ramendb.supleks.jp/s/79007.html) | | |    |   |
 | 港区  | 本格中華料理 味覚 | | |    |   |
 | 港区  | 歩高里 六本木店 | | |    |   |
 | 港区  | 味覚 三号店 | | |    |   |
 | 港区  | [張家 大門店](https://ramendb.supleks.jp/s/116100.html) | | ◯ | ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1308185.html)   |大門|
-| 港区  | 陳記 田町店 | | |    |   |
+| 港区  | [陳記 田町店](https://ramendb.supleks.jp/s/116690.html) | | |    |三田|
 | 港区  | 中国酒家 大天門 浜松町店 | | |    |   |
 | 港区  | [龍盛園 品川高輪口店](https://ramendb.supleks.jp/s/122396.html) | | | ぬ：[マーラー牛肉刀削麺](https://ramendb.supleks.jp/review/1277768.html)   |品川|
 | 港区  | 西安刀削麺酒楼 虎ノ門店| | |    |   |
