@@ -71,6 +71,7 @@
 | 横浜市神奈川区  | [龍上海](https://ramendb.supleks.jp/s/95197.html)  |  |  | ぬ：[担々刀削麺](https://ramendb.supleks.jp/review/1204014.html) |東白楽<be>[龍上海 赤湯本店](https://ramendb.supleks.jp/s/2440.html)との関連はない。  |
 | 横浜市神奈川区  | [大連食府 神奈川新町店](https://ramendb.supleks.jp/s/135942.html) |         | ◯  | ぬ：[四川風牛バラ肉入り刀削麺](https://ramendb.supleks.jp/review/1441373.html)  |                     |
 | 横浜市神奈川区  | [劉家麺屋 刀削麺](https://ramendb.supleks.jp/s/156183.html) | ✗      | ◯    | ぬ：[麻辣牛肉刀削麺・辛口](https://ramendb.supleks.jp/review/1699626.html) |子安|
+| 横浜市緑区  | [華の星](https://ramendb.supleks.jp/s/132013.html) |  | |  |中山|
 | 横浜市西区 |  [刀削麺荘](https://ramendb.supleks.jp/s/5958.html)  | ✗  | ◯ | ぬ：[麻辣麺](https://ramendb.supleks.jp/review/772442.html)                 | 横浜駅 |
 | 横浜市西区 |  [観悟雲](https://ramendb.supleks.jp/s/24860.html)  |     | ◯ | ぬ：[牛肉高菜刀削麺](https://ramendb.supleks.jp/review/1276292.html)                 | 横浜駅 |
 | 横浜市西区 | [天府城](https://ramendb.supleks.jp/s/65027.html)          |         | ◯        | ぬ：[生馬刀削麺](https://ramendb.supleks.jp/review/1157386.html)   | みなとみらい<br>平日ランチタイムには刀削麺提供はない。   |
