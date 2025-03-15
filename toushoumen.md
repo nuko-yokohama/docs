@@ -135,7 +135,7 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 横須賀市 | 龍昇飯店 | ？ |  |  |堀ノ内|
+| 横須賀市 | [龍昇飯店](https://ramendb.supleks.jp/s/164441.html) |  |  |[火龍刀削麺](https://ramendb.supleks.jp/review/1799097.htm) |堀ノ内|
 | 三浦市     | 中華料理 桂林 |？| |  |三浦海岸|
 | 茅ヶ崎市     | [華満楼 イオン茅ヶ崎中央店](https://ramendb.supleks.jp/s/137212.html) |         |           |[牛肉刀削麺](https://ramendb.supleks.jp/review/1460174.html)    | 北茅ヶ崎  |
 | 藤沢市       | [萬福楼 新館](https://ramendb.supleks.jp/s/28672.html)       |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1659473.html)                 | 藤沢   |
