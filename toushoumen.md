@@ -262,10 +262,10 @@
 | 墨田区    | 刀削麺荘 唐家 錦糸町店 | | |    |   |
 | 墨田区    | 天福 | | |    |   |
 | 大田区    | [パンダ炭火串焼 蒲田本店](https://ramendb.supleks.jp/s/147213.html) | | |    | 蒲田北西 |
-| 大田区    | 沁香苑 大森店 | | |    |   |
+| 大田区    | [沁香苑 大森店](https://ramendb.supleks.jp/s/149503.html) | | |[牛バラ刀削麺](https://ramendb.supleks.jp/review/1616715.html)|大森|
 | 大田区    | [珍満](https://ramendb.supleks.jp/s/150396.html) | | |    |大田市場内   |
 | 大田区    | 中華酒場 多来福 | 閉店 | |    |   |
-| 大田区    | 味之家 | | |    |   |
+| 大田区    | [味之家](https://ramendb.supleks.jp/s/153581.html) | | |[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1731120.html)|蒲田(東)|
 | 文京区    | [西安刀削麺酒樓 本郷店](https://ramendb.supleks.jp/s/12631.html)  | | |    |本郷三丁目|
 | 文京区    | 萬福餃子房 | | |    |   |
 | 文京区    | 西安料理 刀削麺・火鍋 XI’AN 後楽園店| | |    |   |
