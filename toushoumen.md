@@ -366,12 +366,12 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 八王子市     | [精華樓](https://ramendb.supleks.jp/s/23028.html)  | 閉店     |           |  ぬ：[油溌刀削麺](https://ramendb.supleks.jp/review/194223.html)               |八王子|
-| 八王子市     | 萬福飯店 八王子店  |         |           |                  |                     |
-| 八王子市     | 喜楽宴            |         |           |                  |                     |
-| 八王子市     | 台湾料理 新台北    |         |           |                  |                     |
-| 八王子市     | 中華居酒屋 義萬    |         |           |                  |                     |
-| 八王子市     | 奇まぐれダンジョン  |         |           |                  |                     |
+| 八王子市     | [精華樓](https://ramendb.supleks.jp/s/23028.html)  | 閉店     |           |  ぬ：[油溌刀削麺](https://ramendb.supleks.jp/review/194223.html)|八王子|
+| 八王子市     | [萬福飯店 八王子店](https://ramendb.supleks.jp/s/129695.html)  | | |[ユーポー刀削麺](https://ramendb.supleks.jp/review/1485432.html)|八王子|
+| 八王子市     | [喜楽宴](https://ramendb.supleks.jp/s/141481.html)            | | |[担々刀削麺](https://ramendb.supleks.jp/review/1699108.html)|西八王子|
+| 八王子市     | [台湾料理 新台北](https://ramendb.supleks.jp/s/152343.html)    |閉店| | |西八王子|
+| 八王子市     | [中華居酒屋 義萬](https://ramendb.supleks.jp/s/153071.html)    | | |[醤油刀削麺](https://ramendb.supleks.jp/review/1663056.html)|八王子<br>ランチ営業あり|
+| 八王子市     | [奇まぐれダンジョン](https://ramendb.supleks.jp/s/162746.html)  | | |[白湯牛肉麺・刀削麺変更](https://ramendb.supleks.jp/review/1784353.html)|八王子|
 | 小平市       | 傑作               |         |           |                  |                     |
 | 小平市       | 台湾風味 満福楼     |         |           |                  |                     |
 | 小金井市     | 中華料理 高園      |         |           |                  |                     |
