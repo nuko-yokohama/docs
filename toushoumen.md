@@ -45,6 +45,7 @@
 | 横浜市中区    | [飲茶食坊 萬華郷](https://ramendb.supleks.jp/s/161819.html)     |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1768313.html)  | 伊勢佐木   |
 | 横浜市保土ケ谷区  | [玲瓏](https://ramendb.supleks.jp/s/140808.html)         |   |    | ぬ：[西安刀削面](https://ramendb.supleks.jp/review/1688970.html)   | 天王町 |
 | 横浜市保土ケ谷区  | [中華料理 天王軒](https://ramendb.supleks.jp/s/141519.html)    |   |  | ぬ：[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1511557.html)  |  天王町  |
+| 横浜市保土ケ谷区  | [鴻運来](https://ramendb.supleks.jp/s/88420.html)    |？|  |  |  西谷<br>R16沿い  |
 | 横浜市南区    | [松林](https://ramendb.supleks.jp/s/20876.html)  | ？        |           |                  | 以前は刀削麺の幟があったが今はないかも。|
 | 横浜市南区    | [味香苑 南太田店](https://ramendb.supleks.jp/s/31819.html)    |       |           | [マーボー刀削麺](https://ramendb.supleks.jp/review/1478296.html)  |   南太田  |
 | 横浜市南区    | [味香苑 東橋店](https://ramendb.supleks.jp/s/84328.html)    | 閉店  |           | ぬ：[ジャージャー麺＋刀削麺変更](https://ramendb.supleks.jp/review/1085940.html)  | 横浜橋 |
@@ -132,6 +133,7 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
+| 中郡 | [鴻運来 大磯店](https://ramendb.supleks.jp/s/148114.html) |  |  |  | 大磯（遠い）<br>R1沿い |
 | 横須賀市 | [龍昇飯店](https://ramendb.supleks.jp/s/164441.html) |  |  |ぬ：[火龍刀削麺](https://ramendb.supleks.jp/review/1799097.htm) |堀ノ内<br>麺類+100円で刀削麺変更|
 | 三浦市     | 中華料理 桂林 |？| |  |三浦海岸|
 | 茅ヶ崎市     | [華満楼 イオン茅ヶ崎中央店](https://ramendb.supleks.jp/s/137212.html) |         |           |[牛肉刀削麺](https://ramendb.supleks.jp/review/1460174.html)    | 北茅ヶ崎  |
