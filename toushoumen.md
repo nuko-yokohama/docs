@@ -136,6 +136,7 @@
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
 | 中郡 | [鴻運来 大磯店](https://ramendb.supleks.jp/s/148114.html) |  |  |  | 大磯（遠い）<br>R1沿い |
 | 横須賀市 | [龍昇飯店](https://ramendb.supleks.jp/s/164441.html) |  |  |ぬ：[火龍刀削麺](https://ramendb.supleks.jp/review/1799097.htm) |堀ノ内<br>麺類+100円で刀削麺変更|
+| 横須賀市 | 中華料理 龍昇 |？| |  |北久里浜<br>[龍昇飯店](https://ramendb.supleks.jp/s/164441.html)の系列かも|
 | 三浦市     | 中華料理 桂林 |？| |  |三浦海岸|
 | 茅ヶ崎市     | [華満楼 イオン茅ヶ崎中央店](https://ramendb.supleks.jp/s/137212.html) |         |           |[牛肉刀削麺](https://ramendb.supleks.jp/review/1460174.html)    | 北茅ヶ崎  |
 | 藤沢市       | [萬福楼 新館](https://ramendb.supleks.jp/s/28672.html)       |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1659473.html)                 | 藤沢   |
