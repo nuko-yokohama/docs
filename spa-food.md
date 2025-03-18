@@ -76,7 +76,7 @@
 | 神奈川県藤沢市   |営業中| 湯乃市 柄沢店 |[湯乃市 柄沢店 お食事処](https://supleks.jp/s/150355.html)     |ラカチ　うそ|ぬ：[ざるラーメン](https://supleks.jp/review/1628045.html)|
 | 神奈川県茅ヶ崎市 |営業中| [湯快爽快 ちがさき](https://www.yukaisoukai.com/chi/)  | 湯快爽快 ちがさき お食事処 |ラカ　ぎうそ|サンマーメンあり|
 | 神奈川県茅ヶ崎市 |営業中| [竜泉寺の湯 湘南 茅ヶ崎店]() | 湯上がりキッチン なみまくら |ラカ　　うそ||
-| 神奈川県平塚市   |営業中| 3S HOTEL HIRATSUKA |3S HOTEL HIRATSUKA|　カ　　　　||
+| 神奈川県平塚市   |営業中| 3S HOTEL HIRATSUKA |3S HOTEL HIRATSUKA|　カ　　　　|朝食のみ|
 | 神奈川県平塚市   |営業中|[湯乃蔵ガーデン](https://www.yunokura.com/)  |[湘南天然温泉 湯乃蔵ガーデン お食事処](https://supleks.jp/s/40303.html)     |ラカ？？？？||
 |        |営業中|  |     |ラカチぎうそ||
 
