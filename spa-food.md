@@ -127,7 +127,7 @@
 | 福島県須賀川市    |営業中|[ひばり温泉](https://www.hibari-land.jp/)  | レストラン夢ひばり |ラカチぎうそ||
 | 福島県西白河郡    |営業中| [スパホテルあぶくま](https://spahotel-abukuma.jp/) | スパホテルあぶくまレストラン    |ラカチ うそ||
 | 栃木県宇都宮市    |営業中|南大門  | [南大門グランドレストラン 和囲輪囲](https://supleks.jp/s/117668.html)     |ラカチぎうそ|ぬ：[味噌タンメン・玉葱抜き](https://supleks.jp/review/1230016.html)|
-| 埼玉県幸手市      |営業中| [極楽湯 幸手店](https://www.gokurakuyu.ne.jp/tempo/satte/) | [極楽湯 幸手店 お食事処](https://supleks.jp/s/105380.html)     |ラカ　ぎうそ||
+| 埼玉県幸手市      |閉店| [極楽湯 幸手店](https://www.gokurakuyu.ne.jp/tempo/satte/) | [極楽湯 幸手店 お食事処](https://supleks.jp/s/105380.html)     |ラカ　ぎうそ||
 | 山梨県北都留郡    |営業中| [のめこいの湯](https://nomekoiyu.com/)  | のめこいの湯 お食事処  |　カ　　うそ||
 | 山梨県南都留郡    |営業中| [道志の湯](https://www.doshinoyu.jp/) | [道志の湯](https://supleks.jp/s/66561.html)    |ラカ　　　そ|ぬ：[ジャージャー麺](https://supleks.jp/review/987019.html)|
 | 山梨県南都留郡    |営業中| [富士眺望の湯 ゆらり](https://www.fuji-yurari.jp/) | お狩場 |　　　　う　||
