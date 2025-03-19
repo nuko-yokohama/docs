@@ -150,7 +150,7 @@
 | 藤沢市       | [西安餃子 テラスモール湘南店](https://ramendb.supleks.jp/s/130010.html)          |        |   | [麻辣刀削湯麺](https://ramendb.supleks.jp/review/1374814.html)          | 本鵠沼 |
 | 藤沢市 | 向陽飯店 長後店 |  |  |  | 長後<br>R467沿い |
 | 藤沢市 | 向陽飯店 大庭店 |  |  |  | 善行（遠い） |
-| 藤沢市 | 向陽飯店 辻堂店 |  |  |  | 辻堂 |
+| 藤沢市 | [向陽飯店 辻堂店](https://ramendb.supleks.jp/s/98979.html) |  |  |  | 辻堂 |
 | 藤沢市 | 興福順 |  |  |  | 長後（遠い） |
 | 平塚市 | [向陽飯店 平塚駅前店](https://ramendb.supleks.jp/s/124398.html) |閉店|  |  | 平塚 |
 | 平塚市 | [向陽飯店 平塚店](https://ramendb.supleks.jp/s/130996.html) |？|  |  | 大磯（遠い）<br>Google Mapでは営業中 |
@@ -165,6 +165,7 @@
 | 愛甲郡     | [台湾料理 興福順 半原店](https://ramendb.supleks.jp/s/79102.html)     |    |     |  | R412沿い |
 | 厚木市       | [西安刀削麺酒楼 本厚木店](https://ramendb.supleks.jp/s/67251.html) |   | ◯  | ぬ：[排骨刀削麺・中](https://ramendb.supleks.jp/review/1753162.html) | 本厚木 |
 | 厚木市       | [台湾料理 興福順](https://ramendb.supleks.jp/s/67251.html) |   |   |  | 下溝（遠い） |
+| 厚木市       | [向陽飯店 本厚木店](https://ramendb.supleks.jp/s/130819.html) | | | | 本厚木（やや遠い） |
 | 厚木市       | [台湾料理 福満園](https://ramendb.supleks.jp/s/142726.html) |   |   |  | R412沿い |
 | 大和市       | [百味鮮](https://ramendb.supleks.jp/s/105933.html) |   |     |     | 大和 |
 | 大和市       | [向陽飯店 鶴間店](https://ramendb.supleks.jp/s/154890.html)   |         |           |  [マーラー刀削麺](https://ramendb.supleks.jp/review/1688078.html)  | 鶴間|
