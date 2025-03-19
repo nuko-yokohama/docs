@@ -134,6 +134,8 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
+| 中郡 | [香港県 二宮店](https://ramendb.supleks.jp/s/63413.html) | |  |  | 二宮（遠い）<br>R1沿い |
+| 中郡 | [台湾料理 鴻翔](https://ramendb.supleks.jp/s/127032.html) |  |  |  | 二宮（遠い）<br>県道71号沿い |
 | 中郡 | [鴻運来 大磯店](https://ramendb.supleks.jp/s/148114.html) |  |  |  | 大磯（遠い）<br>R1沿い |
 | 横須賀市 | [台湾料理 鴻翔 粟田店](https://ramendb.supleks.jp/s/67714.html) |？| |  |YRP野比（遠い）|
 | 横須賀市 | [龍昇飯店](https://ramendb.supleks.jp/s/164441.html) |  |  |ぬ：[火龍刀削麺](https://ramendb.supleks.jp/review/1799097.htm) |堀ノ内<br>麺類+100円で刀削麺変更|
@@ -150,19 +152,25 @@
 | 藤沢市 | 向陽飯店 大庭店 |  |  |  | 善行（遠い） |
 | 藤沢市 | 向陽飯店 辻堂店 |  |  |  | 辻堂 |
 | 藤沢市 | 興福順 |  |  |  | 長後（遠い） |
+| 平塚市 | [向陽飯店 平塚駅前店](https://ramendb.supleks.jp/s/124398.html) |閉店|  |  | 平塚 |
+| 平塚市 | [向陽飯店 平塚店](https://ramendb.supleks.jp/s/130996.html) |？|  |  | 大磯（遠い）<br>Google Mapでは営業中 |
 | 平塚市 | 台湾料理 鴻運来 |  |  |  | 寒川（遠い） |
+| 藤沢市 | 台湾料理 興福順 東中原店 |  |  |  | 平塚（遠い） |
 | 高座郡 | 中華レストラン 品源 寒川店 |？|  |  | 寒川<br>2023年4月時点では提供 |
 
 ### 県央
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
+| 愛甲郡     | [台湾料理 興福順 半原店](https://ramendb.supleks.jp/s/79102.html)     |    |     |  | R412沿い |
 | 厚木市       | [西安刀削麺酒楼 本厚木店](https://ramendb.supleks.jp/s/67251.html) |   | ◯  | ぬ：[排骨刀削麺・中](https://ramendb.supleks.jp/review/1753162.html) | 本厚木 |
 | 厚木市       | [台湾料理 興福順](https://ramendb.supleks.jp/s/67251.html) |   |   |  | 下溝（遠い） |
 | 厚木市       | [台湾料理 福満園](https://ramendb.supleks.jp/s/142726.html) |   |   |  | R412沿い |
 | 大和市       | [百味鮮](https://ramendb.supleks.jp/s/105933.html) |   |     |     | 大和 |
 | 大和市       | [向陽飯店 鶴間店](https://ramendb.supleks.jp/s/154890.html)   |         |           |  [マーラー刀削麺](https://ramendb.supleks.jp/review/1688078.html)  | 鶴間|
 | 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |終了？|           | ぬ：[刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    | さがみ野 |
+| 座間市       | [台湾料理 興福順 小田急相模原店](https://ramendb.supleks.jp/s/130874.html)   | |           |   | 小田急相模原 |
+| 秦野市     | [台湾料理 鴻翔 秦野店](https://ramendb.supleks.jp/s/86951.html)     |    |     |  | 渋沢 |
 
 
 ### 県西
@@ -170,8 +178,10 @@
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
 | 小田原市     | [福満園 小田原店](https://ramendb.supleks.jp/s/124851/review)   | ？     |    |  [担々刀削麺](https://ramendb.supleks.jp/review/1310947.html)  |鴨宮|
-| 小田原市     | [台湾料理 興福順](https://ramendb.supleks.jp/s/128858.html)   |    |     | [五目 刀削麺](https://ramendb.supleks.jp/review/1359511.html)  | 緑町<br>興福順は関東各地に点在している。  |
+| 小田原市     | [	美食生](https://ramendb.supleks.jp/s/127193/review)   |  |  |    |   |国府津（遠い）<br>R1沿い|
+| 小田原市     | [台湾料理 興福順 寿町店](https://ramendb.supleks.jp/s/128858.html)   |    |     | [五目 刀削麺](https://ramendb.supleks.jp/review/1359511.html)  | 緑町（遠い） |
 | 小田原市     | [家庭料理 富久](https://ramendb.supleks.jp/s/143635.html)     |    |     | ぬ：[マーラー刀削麺](https://ramendb.supleks.jp/review/1542549.html)  | 国府津 |
+| 小田原市     | [	台湾料理 興福順 小田原店](https://ramendb.supleks.jp/s/160600.html)   |    |     |  | 箱根板橋<br>R135沿い |
 
 
 
