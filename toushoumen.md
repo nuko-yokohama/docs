@@ -334,23 +334,23 @@
 | 渋谷区 | [チャ～ボン 多福楼 渋谷宮下公園前店](https://ramendb.supleks.jp/s/134354/review) | | |    |渋谷|
 | 港区  | [長安 刀削麺](https://ramendb.supleks.jp/s/4572.html) | | ◯ |    | 虎ノ門 |
 | 港区  | [西安料理 刀削麺 火鍋 XI’AN 新橋店](https://ramendb.supleks.jp/s/14705.html) | | ◯ | ぬ：[油撥刀削麺](https://ramendb.supleks.jp/review/1657967.html)  |新橋|
-| 港区  | 中国家庭菜 湧の台所 | | |    |   |
-| 港区  | 四季坊 | | |    |   |
+| 港区  | [中国家庭菜 湧の台所](https://ramendb.supleks.jp/s/15603.html) | | |[麻辣刀削麺](https://ramendb.supleks.jp/review/97285.html)|赤坂見附|
+| 港区  | [四季煲坊](https://ramendb.supleks.jp/s/34551.html) | | |[坦々刀削麺](https://ramendb.supleks.jp/review/1570579.html)|新橋|
 | 港区  | [西安刀削麺酒楼 三田店](https://ramendb.supleks.jp/s/69708.html) | | |    |田町|
 | 港区  | [西安刀削麺酒楼 本店](https://ramendb.supleks.jp/s/70787.html) | | |    | 虎ノ門ヒルズ |
 | 港区  | [栄華楼 品川グランドセントラルタワー店](https://ramendb.supleks.jp/s/79007.html) | | |    |   |
-| 港区  | 本格中華料理 味覚 | | |    |   |
-| 港区  | 歩高里 六本木店 | | |    |   |
-| 港区  | 味覚 三号店 | | |    |   |
+| 港区  | [本格中華料理 味覚](https://ramendb.supleks.jp/s/82435.html) | | |[石焼麻婆刀削麺](https://ramendb.supleks.jp/review/1785605.html)|内幸町|
+| 港区  | [歩高里 六本木店](https://ramendb.supleks.jp/s/82772.html) | | |[蒸し鶏と茄子のシビレ冷やし刀削麺](https://ramendb.supleks.jp/review/1656683.html)|六本木|
+| 港区  | [味覚 三号店](https://ramendb.supleks.jp/s/106332.html) | | | [有頂天石焼麻婆刀削麺](https://ramendb.supleks.jp/review/1786679.html)   |虎ノ門ヒルズ|
 | 港区  | [張家 大門店](https://ramendb.supleks.jp/s/116100.html) | | ◯ | ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1308185.html)   |大門|
 | 港区  | [陳記 田町店](https://ramendb.supleks.jp/s/116690.html) | | |    |三田|
-| 港区  | 中国酒家 大天門 浜松町店 | | |    |   |
+| 港区  | [中国酒家 大天門 浜松町店](https://ramendb.supleks.jp/s/119147.html) | | |[汁なし担々刀削麺御膳](https://ramendb.supleks.jp/review/1641712.html)|   |
 | 港区  | [龍盛園 品川高輪口店](https://ramendb.supleks.jp/s/122396.html) | | | ぬ：[マーラー牛肉刀削麺](https://ramendb.supleks.jp/review/1277768.html)   |品川|
-| 港区  | 西安刀削麺酒楼 虎ノ門店| | |    |   |
-| 港区  | 榮晟刀削麺 西安私菜坊 芝店 | | |    |   |
-| 港区  | 中国家庭料理 好 | | |    |   |
-| 港区  | 中華料理 品香斎 | | |    |   |
-| 港区  | 健康中華 青蓮 |？| |    |   |
+| 港区  | [西安刀削麺酒楼 虎ノ門店](https://ramendb.supleks.jp/s/123875.html)| | |[麻辣刀削麺](https://ramendb.supleks.jp/review/1624111.html)|虎ノ門ヒルズ|
+| 港区  | [榮晟刀削麺 西安私菜坊 芝店](https://ramendb.supleks.jp/s/124539.html)| | |[濃厚ボリューム豚肉麺](https://ramendb.supleks.jp/review/1704977.html)|芝公園|
+| 港区  | [中国家庭料理 你好 田町店](https://ramendb.supleks.jp/s/158364.html) | | |[ラーメン＋刀削麺変更](https://ramendb.supleks.jp/review/1791953.html)|三田|
+| 港区  | [中華料理 品香斎](https://ramendb.supleks.jp/s/159584.html) | | |[牛肉刀削麺](https://ramendb.supleks.jp/review/1740987.html)|神谷町|
+| 港区  | [健康中華 青蓮 浜松町店](https://ramendb.supleks.jp/s/162686.html) | | |[麻婆刀削麺](https://ramendb.supleks.jp/review/1778483.html)|浜松町|
 | 目黒区 | 天竺屋台 | |    |   |
 | 目黒区 | 梅山飯店 自由が丘店 | |    |   |
 | 練馬区 | [祥龍刀背削麺荘 中村橋店](https://ramendb.supleks.jp/s/24491.html) |         |           |豚角煮刀削麺|中村橋|
