@@ -198,14 +198,14 @@
 | 世田谷区    |  楊國福          |         |           |                  |                     |
 | 中央区    | 西安料理刀削麺 園 |         |           |                  |                     |
 | 中央区    | 刀削麺酒家 茅場町店 |         |           |                  |                     |
-| 中央区    | 刀削麺の王様 茅場町店 |         |           |                  |                     |
+| 中央区    | [刀削麺の王様 茅場町店](https://ramendb.supleks.jp/s/34136.html) |         |           |[釜揚げ刀削麺](https://ramendb.supleks.jp/review/681210.html)|茅場町<br>日・祝休み|
 | 中央区    | 台湾料理 小星星 八丁堀店|         |           |                  |                     |
 | 中央区    | 中華料理 美味軒 小伝馬町店 |         |           |                  |                     |
 | 中央区    | 四川料理刀削麺 川府 日本橋店 |  |           |                  |                     |
 | 中央区    | 四川名菜 川府 |         |           |                  |                     |
 | 中央区    | 天然居  |         |           |                  |                     |
 | 中央区    | [餃子酒場 勝どき店](https://ramendb.supleks.jp/s/112534.html) |         |           |ぬ：[チャーシュー刀削麺](https://ramendb.supleks.jp/review/1295709.html)|勝どき|
-| 中央区    | [江南酒家 西安刀削麺 京橋店](https://ramendb.supleks.jp/s/114491.htm)l | | |[坦々刀削麺](https://ramendb.supleks.jp/review/1758253.html)|宝町|
+| 中央区    | [江南酒家 西安刀削麺 京橋店](https://ramendb.supleks.jp/s/114491.html) | | |[坦々刀削麺](https://ramendb.supleks.jp/review/1758253.html)|宝町|
 | 中央区    | 香港料理 食旅  |         |           |                  |                     |
 | 中央区    | [麻辣大学 晴海トリトン店](https://ramendb.supleks.jp/s/123969.html) |         |           | ぬ：[担々麺・スープあり・刀削麺](https://ramendb.supleks.jp/review/1404158.html)  |勝どき|
 | 中央区    | 麻辣川府 銀座インズ店 |         |           |                  |                     |
