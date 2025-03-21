@@ -164,9 +164,10 @@
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
 | 愛甲郡     | [台湾料理 興福順 半原店](https://ramendb.supleks.jp/s/79102.html)     |    |     |  | R412沿い |
 | 厚木市       | [西安刀削麺酒楼 本厚木店](https://ramendb.supleks.jp/s/67251.html) |   | ◯  | ぬ：[排骨刀削麺・中](https://ramendb.supleks.jp/review/1753162.html) | 本厚木 |
-| 厚木市       | [台湾料理 興福順](https://ramendb.supleks.jp/s/67251.html) |   |   |  | 下溝（遠い） |
+| 厚木市       | [台湾料理 興福順](https://ramendb.supleks.jp/s/77306.html) |   |   |  | 下溝（遠い） |
 | 厚木市       | [向陽飯店 本厚木店](https://ramendb.supleks.jp/s/130819.html) | | | | 本厚木（やや遠い） |
 | 厚木市       | [台湾料理 福満園](https://ramendb.supleks.jp/s/142726.html) |   |   |  | R412沿い |
+| 厚木市       | 台湾料理 興福順上依知2店 |   |   |  | 下溝（遠い） |
 | 大和市       | [百味鮮](https://ramendb.supleks.jp/s/105933.html) |   |     |     | 大和 |
 | 大和市       | [向陽飯店 鶴間店](https://ramendb.supleks.jp/s/154890.html)   |         |           |  [マーラー刀削麺](https://ramendb.supleks.jp/review/1688078.html)  | 鶴間|
 | 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |終了？|           | ぬ：[刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    | さがみ野 |
