@@ -55,8 +55,9 @@
 | 横浜市旭区       | [白根家 フジスーパー前店](https://supleks.jp/s/151747.html) |終了| 冷やし中華は2023年から提供中止 |
 | 横浜市旭区       | 白根家 本店 | | 冷やし中華のみ。カレーは数種あり。 |
 | 横浜市旭区 | [さか本そば店](https://supleks.jp/s/123145.html) | | とんちゃんラーメンが気になる。 |
-| 横浜市旭区 | 蕎麦屋 藤家 |  | サンマーメンや餃子もある。<br>四季の森近く。|
 | 横浜市旭区 | [梅の木 若葉台店](https://supleks.jp/s/161434.html) | | ぬ：[醤油ラーメン](https://ramendb.supleks.jp/review/1763861.html)|
+| 横浜市旭区 | 蕎麦屋 藤家 |  | サンマーメンや餃子もある。<br>四季の森近く。|
+| 横浜市旭区 | そば処 師岡 |  | 四季の森近く。|
 | 横浜市鶴見区     | [めん殿](https://supleks.jp/s/90453.html)            | | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/972612.html) |
 | 横浜市鶴見区     | [ゆで太郎鶴見中央店](https://supleks.jp/s/82393.html) | | [ざる中華](https://ramendb.supleks.jp/review/1171468.html)   |
 | 横浜市鶴見区     | [大村庵](https://https://supleks.jp/s/120529.html) | | [ラーメン](https://ramendb.supleks.jp/review/1260901.html)   |
