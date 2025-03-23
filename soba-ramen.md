@@ -47,17 +47,16 @@
 | 横浜市神奈川区   | [蕎麦 源](https://ramendb.supleks.jp/s/28894.html)           | | ぬ：[ラーメン](https://ramendb.supleks.jp/review/1157494.html) |
 | 横浜市瀬谷区     | [志波田](https://ramendb.supleks.jp/s/106488.html)           |閉店| ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1119264.html) |
 | 横浜市泉区       | [ゆで太郎横浜中田東店](https://supleks.jp/s/95785.html)      | |    |
-| 横浜市泉区 | [ラーメンショップ 岡津店](https://supleks.jp/s/80664.html) |  | ラーショにも関わらず蕎麦の提供もある異色店 |
 | 横浜市泉区 | [栃木屋](https://supleks.jp/s/128420.html) |  | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1417606.html) |
 | 横浜市保土ケ谷区 | [ゆで太郎保土ヶ谷区役所前店](https://supleks.jp/s/86305.html) | | ぬ：[豚バラ葱中華そば](https://ramendb.supleks.jp/review/1655714.html)　|
 | 横浜市保土ケ谷区 | [長寿庵](https://supleks.jp/s/91364.html) | | 時期によりラーメン提供不可のこともある(食べログ) |
 | 横浜市旭区       | [ゆで太郎鶴ヶ峰店](https://supleks.jp/s/85708.html)   |閉店|    |
 | 横浜市旭区       | [白根家 フジスーパー前店](https://supleks.jp/s/151747.html) |終了| 冷やし中華は2023年から提供中止 |
-| 横浜市旭区       | 白根家 本店 | | 冷やし中華のみ。カレーは数種あり。 |
 | 横浜市旭区 | [さか本そば店](https://supleks.jp/s/123145.html) | | とんちゃんラーメンが気になる。 |
 | 横浜市旭区 | [梅の木 若葉台店](https://supleks.jp/s/161434.html) | | ぬ：[醤油ラーメン](https://ramendb.supleks.jp/review/1763861.html)|
 | 横浜市旭区 | [生そば・中華 藤家](https://supleks.jp/s/164611.html) |  | ぬ：[ラーメン・餃子セット](https://ramendb.supleks.jp/review/1800895.html)<br>サンマーメンや餃子もある。<br>四季の森近く。|
 | 横浜市旭区 | そば処 師岡 |  | 四季の森近く。|
+| 横浜市旭区       | 白根家 本店 | | 冷やし中華のみ。カレーは数種あり。 |
 | 横浜市鶴見区     | [めん殿](https://supleks.jp/s/90453.html)            | | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/972612.html) |
 | 横浜市鶴見区     | [ゆで太郎鶴見中央店](https://supleks.jp/s/82393.html) | | [ざる中華](https://ramendb.supleks.jp/review/1171468.html)   |
 | 横浜市鶴見区     | [大村庵](https://https://supleks.jp/s/120529.html) | | [ラーメン](https://ramendb.supleks.jp/review/1260901.html)   |
@@ -74,7 +73,7 @@
 | 横浜市港北区 | [麺房 八角 本店](https://supleks.jp/s/68119.html) | |  ぬ：[ねぎらーめん](https://supleks.jp/review/782597.html) |
 | 横浜市港北区 | [扇家](https://supleks.jp/s/148058.html) |  | ぬ：[中華ソバ](https://supleks.jp/review/1601308.html) |
 | 横浜市都筑区 | [そば処やます家](https://supleks.jp/s/63073.html) |  | ぬ：[ラーメン弁当](https://ramendb.supleks.jp/review/1593076.html) |
-| 横浜市青葉区 | [森野庵](https://supleks.jp/s/117689.html) | | [チャーシューメン](https://ramendb.supleks.jp/review/1368094.html) |
+| 横浜市青葉区 | [森野庵](https://supleks.jp/s/117689.html) |閉店| [チャーシューメン](https://ramendb.supleks.jp/review/1368094.html) |
 
 ### 川崎市
 
