@@ -36,12 +36,12 @@
 | 横浜市西区 | [ソバキチ ルミネ横浜店](https://supleks.jp/s/116396.html) | | ぬ：[煮玉子入り 支那そば](https://ramendb.supleks.jp/review/1460789.html) |
 | 横浜市南区       | 【閉店】[八十一 別所店](https://ramendb.supleks.jp/s/112801.html)| | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1172302.html) |
 | 横浜市南区       | [やぶ忠 六ツ川店](https://ramendb.supleks.jp/s/110326.html)  | | ぬ：[けんちんラーメン](https://ramendb.supleks.jp/review/1142065.html) |
-| 横浜市南区       | [大むら](https://ramendb.supleks.jp/s/111738.html) (弘明寺)  | | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1159952.html) |
-| 横浜市南区       | [大むら](https://ramendb.supleks.jp/s/55486.html) (井土ヶ谷) |  |ぬ：[チャーシューワンタンメン](https://ramendb.supleks.jp/review/1180752.html) |
+| 横浜市南区       | [大むら](https://ramendb.supleks.jp/s/111738.html)   | | 弘明寺<br>ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1159952.html) |
+| 横浜市南区       | [大むら](https://ramendb.supleks.jp/s/55486.html) |  |井土ヶ谷<br>ぬ：[チャーシューワンタンメン](https://ramendb.supleks.jp/review/1180752.html) |
 | 横浜市南区 | 鶴岡そば | | 六ツ川<br>冷やし中華のみ。カレーは数種あり |
-| 横浜市港南区     | [やぶ忠](https://ramendb.supleks.jp/s/57246.html)(閉店)      | | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1084150.html) |
+| 横浜市港南区     | [やぶ忠](https://ramendb.supleks.jp/s/57246.html)      |閉店 | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1084150.html) |
 | 横浜市港南区     | [増田屋](https://ramendb.supleks.jp/s/112962.html)           | | ぬ：[冷やしラーメン](https://ramendb.supleks.jp/review/1174139.html) |
-| 横浜市港南区     | [やぶ忠 丸山台店](https://supleks.jp/s/134596.html)   | | もつラーメンが気になる・・・ |
+| 横浜市港南区     | [やぶ忠 丸山台店](https://supleks.jp/s/134596.html)   |閉店 | 上永谷<br>もつラーメンが気になる・・・ |
 | 横浜市栄区 | [大船軒 本郷台駅前店](https://supleks.jp/s/63400.html) |閉店 | [中華そば](https://supleks.jp/review/1259142.html) |
 | 横浜市栄区 | [増田屋 本郷台店](https://supleks.jp/s/136094.html) |閉店|  |
 | 横浜市神奈川区   | [蕎麦 源](https://ramendb.supleks.jp/s/28894.html)           | | ぬ：[ラーメン](https://ramendb.supleks.jp/review/1157494.html) |
