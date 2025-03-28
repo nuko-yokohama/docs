@@ -90,7 +90,7 @@
 | 横浜市鶴見区  | [蓬莱春飯店 鶴見東口店](https://ramendb.supleks.jp/s/82130.html) |      |  ◯        | ぬ：[麻辣刀削麺・辛め](https://ramendb.supleks.jp/review/1770017.html)   |京急鶴見|
 | 横浜市鶴見区  | [西安厨房 唐華](https://ramendb.supleks.jp/s/86636.html)       | 閉店      | ？         | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/974149.html)                 |京急鶴見|
 | 横浜市鶴見区  | [福盈門 別館](https://ramendb.supleks.jp/s/129210.html)         |         |   ◯    | ぬ：[香辣刀削湯麺](https://ramendb.supleks.jp/review/1465324.html)                 |京急鶴見|
-| 横浜市鶴見区  | [天府人家](https://ramendb.supleks.jp/s/158872.html)       |         |           | +100円で刀削麺変更<br>ぬ：[ランチ8 红烧牛肉面＋半炒飯(1080円)＋刀削麺変更](https://ramendb.supleks.jp/review/1795681.html)   |京急鶴見|
+| 横浜市鶴見区  | [天府人家](https://ramendb.supleks.jp/s/158872.html)       |         |           | ぬ：[ランチ8 红烧牛肉面＋半炒飯(1080円)＋刀削麺変更](https://ramendb.supleks.jp/review/1795681.html)   |+100円で刀削麺変更<br>京急鶴見|
 | 横浜市鶴見区  | [川味坊 鶴見店](https://ramendb.supleks.jp/s/163287.html)       |         |           | ぬ：[味噌刀削麺＋半炒飯セット](https://ramendb.supleks.jp/review/1790372.html)                 |鶴見|
 
 ### 川崎市
@@ -151,7 +151,7 @@
 | 藤沢市       | [萬福酒楼](https://ramendb.supleks.jp/s/60110.html)          |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1726822.html)<br>[高菜入り牛バラ肉刀削麺](https://ramendb.supleks.jp/review/1497286.html) |  藤沢  |
 | 藤沢市       | [渓源](https://ramendb.supleks.jp/s/112456.html)              |        |  | ぬ：[麻辣牛肉ラーメン・刀削麺変更](https://ramendb.supleks.jp/review/1788449.html)          | 藤沢 |
 | 藤沢市       | [台湾料理 百鮮味 2号店](https://ramendb.supleks.jp/s/115215.html)  |         |           | ぬ：[天津刀削麺](https://ramendb.supleks.jp/review/1785262.html)   | 長後<br>R467沿い |
-| 藤沢市       | [西安餃子 テラスモール湘南店](https://ramendb.supleks.jp/s/130010.html)          |        |   | [麻辣刀削湯麺](https://ramendb.supleks.jp/review/1374814.html)          | 本鵠沼 |
+| 藤沢市       | [西安餃子 テラスモール湘南店](https://ramendb.supleks.jp/s/130010.html)          |        |   | [麻辣刀削湯麺](https://ramendb.supleks.jp/review/1374814.html)          | 辻堂 |
 | 藤沢市 | 向陽飯店 長後店 |  |  |  | 長後<br>R467沿い |
 | 藤沢市 | 向陽飯店 大庭店 |  |  |  | 善行（遠い） |
 | 藤沢市 | [向陽飯店 辻堂店](https://ramendb.supleks.jp/s/98979.html) |  |  |  | 辻堂 |
