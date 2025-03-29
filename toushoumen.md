@@ -126,7 +126,7 @@
 | 町田市       | [中国酒家 十年 2号店](https://ramendb.supleks.jp/s/125541.html) | 閉店   |           |                  |                     |
 | 町田市       | [蜀味軒](https://ramendb.supleks.jp/s/125856.html) |   |    |       |  町田  |
 | 町田市       | [香港厨房 風香園](https://ramendb.supleks.jp/s/140274.html) |   |    |       |  町田  |
-| 町田市       | 蜀味軒 別館|   |    |       |  町田  |
+| 町田市       | [蜀味軒 別館](https://ramendb.supleks.jp/s/161071.html) |   |    |       |  町田  |
 
 
 
