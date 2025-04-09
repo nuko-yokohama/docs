@@ -55,7 +55,7 @@
 | 横浜市旭区 | [さか本そば店](https://supleks.jp/s/123145.html) | | とんちゃんラーメンが気になる。 |
 | 横浜市旭区 | [梅の木 若葉台店](https://supleks.jp/s/161434.html) | | ぬ：[醤油ラーメン](https://ramendb.supleks.jp/review/1763861.html)|
 | 横浜市旭区 | [生そば・中華 藤家](https://supleks.jp/s/164611.html) |  | ぬ：[ラーメン・餃子セット](https://ramendb.supleks.jp/review/1800895.html)<br>サンマーメンや餃子もある。<br>四季の森近く。|
-| 横浜市旭区 | そば処 師岡 |未登録| 四季の森近く。|
+| 横浜市旭区 | [そば処 つる岡](https://supleks.jp/s/164877.html) || 四季の森近く。<br>モヤシソバ、炒飯、餃子あり。|
 | 横浜市旭区       | 白根家 本店 |未登録| 冷やし中華のみ。カレーは数種あり。 |
 | 横浜市鶴見区     | [めん殿](https://supleks.jp/s/90453.html)            | | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/972612.html) |
 | 横浜市鶴見区     | [ゆで太郎鶴見中央店](https://supleks.jp/s/82393.html) | | [ざる中華](https://ramendb.supleks.jp/review/1171468.html)   |
