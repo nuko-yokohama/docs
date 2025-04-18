@@ -249,7 +249,7 @@
 | 千代田区  | 刀削麺 張家 麹町店 |         |           |                  |                     |
 | 千代田区  | 錦秀菜館 |         |           |                  |                     |
 | 千代田区  | [隆盛軒](https://ramendb.supleks.jp/s/118909.html)   |         |           | ぬ：[炸醤刀削面](https://ramendb.supleks.jp/review/1242247.html)  |  市ヶ谷  |
-| 千代田区  | [刀削麺酒坊 東京駅店](https://ramendb.supleks.jp/s/129264.html)  | |◯|ぬ[サンラー刀削麺](https://ramendb.supleks.jp/review/1806624.html)<br>[マーラー刀削麺＋牛肉](https://ramendb.supleks.jp/review/1570821.html) |東京駅(八重洲口)|
+| 千代田区  | [刀削麺酒坊 東京駅店](https://ramendb.supleks.jp/s/129264.html)  | |◯|ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1806624.html)<br>[マーラー刀削麺＋牛肉](https://ramendb.supleks.jp/review/1570821.html) |東京駅(八重洲口)|
 | 千代田区  | 四川厨房 隨苑 |         |           |                  |                     |
 | 千代田区  | 四川料理 秋 神保町店  |         |           |                  |                     |
 | 千代田区  | [四川厨房 随苑 淡路町店](https://ramendb.supleks.jp/s/135983.html) |         |           |青椒肉絲刀削麺|淡路町|
@@ -345,7 +345,7 @@
 | 港区  | [中国家庭菜 湧の台所](https://ramendb.supleks.jp/s/15603.html) | | |[麻辣刀削麺](https://ramendb.supleks.jp/review/97285.html)|赤坂見附|
 | 港区  | [四季煲坊](https://ramendb.supleks.jp/s/34551.html) | | |[坦々刀削麺](https://ramendb.supleks.jp/review/1570579.html)|新橋|
 | 港区  | [西安刀削麺酒楼 三田店](https://ramendb.supleks.jp/s/69708.html) | | |    |田町|
-| 港区  | [西安刀削麺酒楼 本店](https://ramendb.supleks.jp/s/70787.html) | | |    | 虎ノ門ヒルズ |
+| 港区  | [西安刀削麺酒楼 本店](https://ramendb.supleks.jp/s/70787.html) | | |[五目野菜刀削麺](https://ramendb.supleks.jp/review/1806482.html) | 虎ノ門ヒルズ |
 | 港区  | [栄華楼 品川グランドセントラルタワー店](https://ramendb.supleks.jp/s/79007.html) | | |    |   |
 | 港区  | [本格中華料理 味覚](https://ramendb.supleks.jp/s/82435.html) | | |[石焼麻婆刀削麺](https://ramendb.supleks.jp/review/1785605.html)|内幸町|
 | 港区  | [歩高里 六本木店](https://ramendb.supleks.jp/s/82772.html) | | |[蒸し鶏と茄子のシビレ冷やし刀削麺](https://ramendb.supleks.jp/review/1656683.html)|六本木|
