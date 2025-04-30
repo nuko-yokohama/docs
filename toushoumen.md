@@ -90,7 +90,7 @@
 | 横浜市都筑区  | [芳香園 センター南店](https://ramendb.supleks.jp/s/148211.html)  |   |    |   |センター南<br>2年前に刀削麺提供のログあり|
 | 横浜市都筑区  | [向陽飯店 都筑店](https://ramendb.supleks.jp/s/162291.html) |  |   | ぬ：[担々刀削麺セット・餃子](https://ramendb.supleks.jp/review/1773759.html) |中川|
 | 横浜市青葉区  | [大連餃子](https://ramendb.supleks.jp/s/120901.html)|         |           | ぬ：[牛バラタンメン（辛口）](https://ramendb.supleks.jp/review/1701624.html)|市が尾|
-| 横浜市鶴見区  | [美食苑](https://ramendb.supleks.jp/s/67193.html)            |         |           | [坦々刀削面](https://ramendb.supleks.jp/review/1460569.html)                 |京急鶴見|
+| 横浜市鶴見区  | [美食苑](https://ramendb.supleks.jp/s/67193.html)            |         |           | [坦々刀削面](https://ramendb.supleks.jp/review/1460569.html)<br>ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1809819.html)|京急鶴見|
 | 横浜市鶴見区  | [蓬莱春飯店 鶴見東口店](https://ramendb.supleks.jp/s/82130.html) |      |  ◯        | ぬ：[麻辣刀削麺・辛め](https://ramendb.supleks.jp/review/1770017.html)   |京急鶴見|
 | 横浜市鶴見区  | [西安厨房 唐華](https://ramendb.supleks.jp/s/86636.html)       | 閉店      | ？         | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/974149.html)                 |京急鶴見|
 | 横浜市鶴見区  | [福盈門 別館](https://ramendb.supleks.jp/s/129210.html)         |         |   ◯    | ぬ：[香辣刀削湯麺](https://ramendb.supleks.jp/review/1465324.html)                 |京急鶴見|
