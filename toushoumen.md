@@ -179,7 +179,7 @@
 | 厚木市       | [向陽飯店 本厚木店](https://ramendb.supleks.jp/s/130819.html) | | | | 本厚木（やや遠い） |
 | 厚木市       | [台湾料理 福満園](https://ramendb.supleks.jp/s/142726.html) |   |   |  | R412沿い |
 | 厚木市       | 台湾料理 興福順上依知2店 |   |   |  | 下溝（遠い） |
-| 大和市       | [百味鮮](https://ramendb.supleks.jp/s/105933.html) |   |     |     | 大和 |
+| 大和市       | [百味鮮](https://ramendb.supleks.jp/s/105933.html) |   |     | ぬ：[麻辣刀削面セット](https://ramendb.supleks.jp/review/1812628.html)    | 大和 |
 | 大和市       | [向陽飯店 鶴間店](https://ramendb.supleks.jp/s/154890.html)   |         |           |  [マーラー刀削麺](https://ramendb.supleks.jp/review/1688078.html)  | 鶴間|
 | 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |終了？|           | ぬ：[刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    | さがみ野 |
 | 座間市       | [台湾料理 興福順 小田急相模原店](https://ramendb.supleks.jp/s/130874.html)   | |           |   | 小田急相模原 |
