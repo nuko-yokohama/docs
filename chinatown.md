@@ -95,7 +95,7 @@
 | [龍翔記](https://supleks.jp/s/76207.html)             | 食べ放題 | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [五目そば・炒飯セット](https://supleks.jp/review/849218.html) |
 | [光龍飯店](supleks.jp/s/73951.html)                   |          | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| [叉焼湯麺](https://supleks.jp/review/829367.html)    |
 | [四川料理 京華樓](https://supleks.jp/s/5957.html)     | 四川料理 | ○        | ○      | ✗      | ○    | ？          | ○    |麺　<br>　　| [京華樓特製麻辣刀削麺](https://supleks.jp/review/88519.html)<br />[冷やし四川担々刀削麺](https://supleks.jp/review/849381.html)<br>[麻婆豆腐刀削麺](https://ramendb.supleks.jp/review/1323678.html) |
-| [品珍閣関帝廟通り店](https://supleks.jp/s/92359.html) | 食べ放題 | ○        | ？      | ？      | ○    | ？         | ？   |　　<br>　　| 未食。|
+| [品珍閣関帝廟通り店](https://supleks.jp/s/92359.html) | 食べ放題 | ○        | ？      | ？      | ○    | ？         | ？   |麺　<br>　　| [ランチ8 パイコー麺](https://ramendb.supleks.jp/review/1815592.html) |
 | [翡翠楼新館](https://supleks.jp/s/73971.html)         |          | ○        | ✗      | ✗      | ○    | ○          | ○    |麺　<br>飯　| [牛腩湯麺](https://ramendb.supleks.jp/review/829515.html)<br>[翡翠炒飯](https://chahandb.supleks.jp/review/1282314.html) |
 | [老北京](https://supleks.jp/s/119960.html)            |          | ○        | ✗   | ✗  | ○ | ✗ | ○ |麺　<br>　　| [扣肉麺](https://ramendb.supleks.jp/review/1317325.html)  |
 | [愛群](https://supleks.jp/s/18962.html)               |          | ○        | ✗      | ✗      | ○    | ✗          | ○   |麺　<br>　　|[牛腩撈麺](https://ramendb.supleks.jp/review/1672530.html)   |
