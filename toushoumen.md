@@ -58,6 +58,7 @@
 | 横浜市南区 | [楽小厨](https://ramendb.supleks.jp/s/137765.html)       | 閉店      |           | ぬ：[酸辣刀削面](https://ramendb.supleks.jp/review/1495140.html)                 |                     |
 | 横浜市南区 | [味香苑 蒔田店](https://ramendb.supleks.jp/s/163237.html)       |    | | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1797273.html)|蒔田|
 | 横浜市南区 | [弘中](https://ramendb.supleks.jp/s/160081.html)       |    | | ぬ：[本格ら～ら～麺・普通辛い](https://ramendb.supleks.jp/review/1807915.html)|弘明寺|
+| 横浜市南区 | [味香園](https://ramendb.supleks.jp/s/165922.html) |    | | ぬ：[ランチA・みそ刀削麺](https://ramendb.supleks.jp/review/1815960.html)|弘明寺|
 | 横浜市戸塚区 | [華香閣](https://ramendb.supleks.jp/s/113352.html)       |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1571656.html) |戸塚|
 | 横浜市戸塚区 | [向陽飯店 戸塚店](https://ramendb.supleks.jp/s/130812.html)     |         |           | ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1725023.html)  |戸塚（遠い）|
 | 横浜市戸塚区 | [北京飯店 戸塚店](https://ramendb.supleks.jp/s/144163.html)     |         |           |  |戸塚（遠い）|
