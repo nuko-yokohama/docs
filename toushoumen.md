@@ -88,7 +88,7 @@
 | 横浜市西区 |  [西安健菜キッチン MARK IS みなとみらい店](https://ramendb.supleks.jp/s/101038.html)  | 閉店  |  | ぬ：[豆乳ごまスープの刀削担々麺](https://ramendb.supleks.jp/review/1285174.html)                 | みなとみらい |
 | 横浜市西区 |  [中国料理 西安刀削麺](https://ramendb.supleks.jp/s/115943.html)  |         |           | ぬ：[牛肉刀削面](https://ramendb.supleks.jp/review/1298383.html)   | 横浜駅 |
 | 横浜市都筑区  | [中華料理 金色大地](https://ramendb.supleks.jp/s/140569.html)  |   |    | ぬ：[牛肉刀削麺](https://ramendb.supleks.jp/review/1499389.html)   |センター南|
-| 横浜市都筑区  | [芳香園 センター南店](https://ramendb.supleks.jp/s/148211.html)  |   |    |   |センター南<br>2年前に刀削麺提供のログあり|
+| 横浜市都筑区  | [芳香園 センター南店](https://ramendb.supleks.jp/s/148211.html)  |   |    |ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1816218.html)   |センター南|
 | 横浜市都筑区  | [向陽飯店 都筑店](https://ramendb.supleks.jp/s/162291.html) |  |   | ぬ：[担々刀削麺セット・餃子](https://ramendb.supleks.jp/review/1773759.html) |中川|
 | 横浜市青葉区  | [大連餃子](https://ramendb.supleks.jp/s/120901.html)|         |           | ぬ：[牛バラタンメン（辛口）](https://ramendb.supleks.jp/review/1701624.html)|市が尾|
 | 横浜市鶴見区  | [美食苑](https://ramendb.supleks.jp/s/67193.html)            |         |           | [坦々刀削面](https://ramendb.supleks.jp/review/1460569.html)<br>ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1809819.html)|京急鶴見|
