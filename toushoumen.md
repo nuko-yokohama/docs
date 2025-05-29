@@ -503,7 +503,7 @@
 |川越市|台湾料理  三福源 小ケ谷店|閉店||||
 |川越市|裕福来|閉店||||
 |川越市|[磨味坊](https://ramendb.supleks.jp/s/148476.html)|         |           |                  |最寄り駅から遠い。|
-|川越市|[台湾料理パンダ](https://ramendb.supleks.jp/s/149328.html)|         |           |                  |本川越<br>川越市立博物館近く|
+|川越市|[台湾料理パンダ](https://ramendb.supleks.jp/s/149328.html)|         |           |[台湾刀削麺セット](https://ramendb.supleks.jp/review/1614422.html)|本川越<br>川越市立博物館近く|
 |所沢市|[餃子市 新所沢店](https://ramendb.supleks.jp/s/18140.html)|    |   |                  |新所沢<br>麺類は刀削麺変更可能|
 |所沢市|龍福亭|         |           |                  |                     |
 |所沢市|中国料理 火麒麟 東所沢店|         |           |                  |                     |
