@@ -321,6 +321,7 @@
 | 新宿区 | 大碗蘭州拉麺・刀削麺 | | |    |   |
 | 新宿区 | 川芙蓉 | | |    |   |
 | 新宿区 | [鴻運 西安刀削麺](https://ramendb.supleks.jp/s/165391.html) | |◯？ | [西安焼き刀削麺](https://kanagawa-ramendb.supleks.jp/s/165391.html)   |高田馬場|
+| 新宿区 | [福餃子](https://ramendb.supleks.jp/s/166036.html) | | | [四川麻辣刀削麺](https://kanagawa-ramendb.supleks.jp/s/1817180.html)   |曙橋|
 | 杉並区 | 成都 東高円寺店 | | |    |   |
 | 杉並区 | 香港料理 萬来 | | |    |   |
 | 江戸川区 | 珍膳坊 平井本店 | | |    |   |
@@ -407,6 +408,7 @@
 | 八王子市     | [台湾料理 新台北](https://ramendb.supleks.jp/s/152343.html)    |閉店| | |西八王子|
 | 八王子市     | [中華居酒屋 義萬](https://ramendb.supleks.jp/s/153071.html)    | | |[醤油刀削麺](https://ramendb.supleks.jp/review/1663056.html)|八王子<br>ランチ営業あり|
 | 八王子市     | [奇まぐれダンジョン](https://ramendb.supleks.jp/s/162746.html)  | | |[白湯牛肉麺・刀削麺変更](https://ramendb.supleks.jp/review/1784353.html)|八王子|
+| 八王子市     | [台湾料理 祥瑞 八王子店](https://ramendb.supleks.jp/s/164519.html)  | | |[台湾刀削麺セット](https://ramendb.supleks.jp/review/1817106.html)|西八王子(遠い)|
 | 小平市       | 傑作               |         |           |                  |                     |
 | 小平市       | 台湾風味 満福楼     |         |           |                  |                     |
 | 小金井市     | 中華料理 高園      |         |           |                  |                     |
