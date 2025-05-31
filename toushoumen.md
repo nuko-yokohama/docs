@@ -136,6 +136,7 @@
 | 相模原市緑区 | [台湾料理 龍福園](https://ramendb.supleks.jp/s/75744.html)   |         |           |  |相原(遠い)  |
 | 相模原市緑区 | [台湾料理 幸楽園](https://ramendb.supleks.jp/s/87353.html)   |         |           |[台湾刀削麺](https://ramendb.supleks.jp/review/1437088.html)| 相模湖周辺・R20沿い        |
 | 相模原市緑区 | 相模原 台湾料理 龍華  | | | |橋本(西・遠い) |
+| 相模原市緑区 | 楽楽中華 | | | |橋本/相原(西・遠い) |
 | 町田市       | [中国酒家 十年 2号店](https://ramendb.supleks.jp/s/125541.html) | 閉店   | | | |
 | 町田市       | [蜀味軒](https://ramendb.supleks.jp/s/125856.html) |   |    |       |  町田  |
 | 町田市       | [香港厨房 風香園](https://ramendb.supleks.jp/s/140274.html) |   |    |       |  町田  |
@@ -402,6 +403,7 @@
 | 八王子市     | [萬福飯店 八王子店](https://ramendb.supleks.jp/s/129695.html)  | | |[ユーポー刀削麺](https://ramendb.supleks.jp/review/1485432.html)|八王子|
 | 八王子市     | [台湾料理 龍福園](https://ramendb.supleks.jp/s/135429.html)  | | | |八王子みなみ野(遠い)|
 | 八王子市     | [喜楽宴](https://ramendb.supleks.jp/s/141481.html)            | | |[担々刀削麺](https://ramendb.supleks.jp/review/1699108.html)|西八王子|
+| 八王子市     | [楽楽中華 本店](https://ramendb.supleks.jp/s/145973.html)            | | | |めじろ台|
 | 八王子市     | [台湾料理 新台北](https://ramendb.supleks.jp/s/152343.html)    |閉店| | |西八王子|
 | 八王子市     | [中華居酒屋 義萬](https://ramendb.supleks.jp/s/153071.html)    | | |[醤油刀削麺](https://ramendb.supleks.jp/review/1663056.html)|八王子<br>ランチ営業あり|
 | 八王子市     | [奇まぐれダンジョン](https://ramendb.supleks.jp/s/162746.html)  | | |[白湯牛肉麺・刀削麺変更](https://ramendb.supleks.jp/review/1784353.html)|八王子|
