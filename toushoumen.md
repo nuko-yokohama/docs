@@ -74,7 +74,7 @@
 | 横浜市港南区  | [中華料理 瀋陽](https://ramendb.supleks.jp/s/116197.html)   | 閉店       |  | ぬ：[高菜牛肉刀削面](https://ramendb.supleks.jp/review/1706896.html)   |上大岡|
 | 横浜市港南区  | [福濱](https://ramendb.supleks.jp/s/136606.html)   | 閉店       |  | ぬ：[マーラー牛肉刀削麺](https://ramendb.supleks.jp/review/1475683.html)   |上大岡<br>鎌倉街道沿い|
 | 横浜市磯子区  | [向陽飯店 磯子店](https://ramendb.supleks.jp/s/140347.html)    |         |           | ぬ：[向陽五目麺・刀削麺変更](https://ramendb.supleks.jp/review/1496964.html)                 |笹下釜利谷道路沿い|
-| 横浜市磯子区  | [中華料理 楽軒](https://ramendb.supleks.jp/s/163418.html)    | |◯|[坦々刀削麺](https://ramendb.supleks.jp/review/1817614.html) |屏風ヶ浦<br>R16沿い|
+| 横浜市磯子区  | [中華料理 楽軒](https://ramendb.supleks.jp/s/163418.html)    | |◯|ぬ：[坦々刀削麺](https://ramendb.supleks.jp/review/1817614.html) |屏風ヶ浦<br>R16沿い|
 | 横浜市神奈川区  | [京華楼 鶴屋町店](https://ramendb.supleks.jp/s/22677.html)   |         | ◯         | ぬ：[四川担担刀削麺](https://ramendb.supleks.jp/review/737223.html)                 |横浜駅|
 | 横浜市神奈川区  | [龍上海](https://ramendb.supleks.jp/s/95197.html)  |  |  | ぬ：[担々刀削麺](https://ramendb.supleks.jp/review/1204014.html) |東白楽<br>[龍上海 赤湯本店](https://ramendb.supleks.jp/s/2440.html)との関連はない。  |
 | 横浜市神奈川区  | [安源楼 本店](https://ramendb.supleks.jp/s/102363.html) |         |   |  |神奈川新町<br>R15沿い|
