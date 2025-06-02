@@ -84,6 +84,7 @@
 | 横浜市西区 |  [刀削麺荘](https://ramendb.supleks.jp/s/5958.html)  | 閉店  | ◯ | ぬ：[麻辣麺](https://ramendb.supleks.jp/review/772442.html)                 | 横浜駅 |
 | 横浜市西区 |  [観悟雲](https://ramendb.supleks.jp/s/24860.html)  |     | ◯ | ぬ：[牛肉高菜刀削麺](https://ramendb.supleks.jp/review/1276292.html)                 | 横浜駅 |
 | 横浜市西区 | [天府城](https://ramendb.supleks.jp/s/65027.html)          |         | ◯        | ぬ：[生馬刀削麺](https://ramendb.supleks.jp/review/1157386.html)   | みなとみらい<br>平日ランチタイムには刀削麺提供はない。   |
+| 横浜市西区 |  [夜来香](https://ramendb.supleks.jp/s/69500.html)  | 閉店 | ◯？ | ぬ：[牛肉の四川刀削麺](https://ramendb.supleks.jp/review/791816.html)                 | 平沼橋(遠い) |
 | 横浜市西区 |  [小尾羊 横浜西口店](https://ramendb.supleks.jp/s/81810.html)  |   |  |   | 横浜駅 |
 | 横浜市西区 |  [西安健菜キッチン MARK IS みなとみらい店](https://ramendb.supleks.jp/s/101038.html)  | 閉店  |  | ぬ：[豆乳ごまスープの刀削担々麺](https://ramendb.supleks.jp/review/1285174.html)                 | みなとみらい |
 | 横浜市西区 |  [中国料理 西安刀削麺](https://ramendb.supleks.jp/s/115943.html)  |         |           | ぬ：[牛肉刀削面](https://ramendb.supleks.jp/review/1298383.html)   | 横浜駅 |
