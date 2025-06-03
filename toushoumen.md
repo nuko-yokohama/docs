@@ -172,6 +172,7 @@
 | 藤沢市 | 興福順 |  |  |  | 長後（遠い） |
 | 平塚市 | [向陽飯店 平塚駅前店](https://ramendb.supleks.jp/s/124398.html) |閉店|  |  | 平塚 |
 | 平塚市 | [向陽飯店 平塚店](https://ramendb.supleks.jp/s/130996.html) |？|  |  | 大磯（遠い）<br>Google Mapでは営業中 |
+| 平塚市 | [台湾料理 天成源](https://ramendb.supleks.jp/s/166069.html) |  |  |[五目刀削麺](https://ramendb.supleks.jp/review/1817494.html)| 東海大学（遠い） |
 | 平塚市 | 台湾料理 鴻運来 |  |  |  | 寒川（遠い） |
 | 平塚市 | 台湾料理 興福順 東中原店 |  |  |  | 平塚（遠い） |
 | 高座郡 | 中華レストラン 品源 寒川店 |？|  |  | 寒川<br>2023年4月時点では提供 |
