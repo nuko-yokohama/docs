@@ -83,7 +83,7 @@
 | 横浜市緑区  | [華の星](https://ramendb.supleks.jp/s/132013.html) |  | | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1800332.html) |中山|
 | 横浜市西区 |  [刀削麺荘](https://ramendb.supleks.jp/s/5958.html)  | 閉店  | ◯ | ぬ：[麻辣麺](https://ramendb.supleks.jp/review/772442.html)                 | 横浜駅 |
 | 横浜市西区 |  [観悟雲](https://ramendb.supleks.jp/s/24860.html)  |     | ◯ | ぬ：[牛肉高菜刀削麺](https://ramendb.supleks.jp/review/1276292.html)                 | 横浜駅 |
-| 横浜市西区 | [天府城](https://ramendb.supleks.jp/s/65027.html)          |         | ◯        | ぬ：[生馬刀削麺](https://ramendb.supleks.jp/review/1157386.html)<br>[ランチメニュー 五目刀削麺](https://ramendb.supleks.jp/review/1820577.html)   | みなとみらい |
+| 横浜市西区 | [天府城](https://ramendb.supleks.jp/s/65027.html)          |         | ◯        | ぬ：[生馬刀削麺](https://ramendb.supleks.jp/review/1157386.html)<br>ぬ：[ランチメニュー 五目刀削麺](https://ramendb.supleks.jp/review/1820577.html)   | みなとみらい |
 | 横浜市西区 |  [夜来香](https://ramendb.supleks.jp/s/69500.html)  | 閉店 | ◯？ | ぬ：[牛肉の四川刀削麺](https://ramendb.supleks.jp/review/791816.html)                 | 平沼橋(遠い) |
 | 横浜市西区 |  [小尾羊 横浜西口店](https://ramendb.supleks.jp/s/81810.html)  |   |  |   | 横浜駅 |
 | 横浜市西区 |  [西安健菜キッチン MARK IS みなとみらい店](https://ramendb.supleks.jp/s/101038.html)  | 閉店  |  | ぬ：[豆乳ごまスープの刀削担々麺](https://ramendb.supleks.jp/review/1285174.html)                 | みなとみらい |
@@ -151,7 +151,7 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 中郡 | [香港県 二宮店](https://ramendb.supleks.jp/s/63413.html) | |  |  | 二宮（遠い）<br>R1沿い |
+| 中郡 | [香港軒 二宮店](https://ramendb.supleks.jp/s/63413.html) | |  |  | 二宮（遠い）<br>R1沿い |
 | 中郡 | [台湾料理 鴻翔](https://ramendb.supleks.jp/s/127032.html) |  |  |  | 二宮（遠い）<br>県道71号沿い |
 | 中郡 | [鴻運来 大磯店](https://ramendb.supleks.jp/s/148114.html) |  |  |  | 大磯（遠い）<br>R1沿い |
 | 横須賀市 | [台湾料理 鴻翔 粟田店](https://ramendb.supleks.jp/s/67714.html) |？| |  |YRP野比（遠い）|
@@ -269,6 +269,7 @@
 | 千代田区  | 四川厨房 隨苑 |         |           |                  |                     |
 | 千代田区  | 四川料理 秋 神保町店  |         |           |                  |                     |
 | 千代田区  | [四川厨房 随苑 淡路町店](https://ramendb.supleks.jp/s/135983.html) |         |           |青椒肉絲刀削麺|淡路町|
+| 千代田区  | [刀削麺房 回味 日本橋店](https://ramendb.supleks.jp/s/145495.html) | | ◯？ |ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1569389.html)|                      |
 | 千代田区  | 明記 中華酒場 |         |           |                  |                     |
 | 千代田区  | 張家 虎ノ門店 |         |           |                  |                     |
 | 台東区    | 馥香         |          |         |                    |                    |
@@ -291,7 +292,7 @@
 | 品川区    | 陳家私菜 五反田店 | | |    |   |
 | 品川区    | [西安料理 張家 大崎店](https://ramendb.supleks.jp/s/82571.html) | | |ぬ：[油撥刀削麺](https://ramendb.supleks.jp/review/999744.html)    |大崎|
 | 品川区    | 朝霞 天王洲店 | | |    |   |
-| 品川区    | 香辛中華 來來羊 | | |    |   |
+| 品川区    | [香辛中華 來來羊](https://ramendb.supleks.jp/s/132020.html) | | | [羊肉刀削面（ラム肉入り刀削麺）ハーフ](https://ramendb.supleks.jp/review/1411599.html)   |   |
 | 品川区    | 刀削麺・火鍋・西安料理 XI’AN 五反田店 | | |    |   |
 | 墨田区    | 中華料理 谷記 3号店 | | |    |   |
 | 墨田区    | 中国料理 祥龍房 刀削麺荘 | | |    |   |
@@ -299,11 +300,13 @@
 | 墨田区    | 刀削麺荘 唐家 錦糸町店 | | |    |   |
 | 墨田区    | 天福 | | |    |   |
 | 大田区    | [四川餃子房](https://ramendb.supleks.jp/s/30835.html) | | |    | 糀谷 |
+| 大田区    | [中国家庭料理 你好 大森駅前店](https://ramendb.supleks.jp/s/103713.html) | | |    | 大森 |
 | 大田区    | [パンダ炭火串焼 蒲田本店](https://ramendb.supleks.jp/s/147213.html) | | |    | 蒲田北西 |
 | 大田区    | [沁香苑 大森店](https://ramendb.supleks.jp/s/149503.html) | | |[牛バラ刀削麺](https://ramendb.supleks.jp/review/1616715.html)|大森|
 | 大田区    | [珍満](https://ramendb.supleks.jp/s/150396.html) | | |    |大田市場内   |
 | 大田区    | 中華酒場 多来福 | 閉店 | |    |   |
 | 大田区    | [味之家](https://ramendb.supleks.jp/s/153581.html) | | |[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1731120.html)|蒲田(東)|
+| 大田区    | 盛和餃子酒場 | 未登録 | |    |   |
 | 文京区    | [西安刀削麺酒樓 本郷店](https://ramendb.supleks.jp/s/12631.html)  | | |    |本郷三丁目|
 | 文京区    | 萬福餃子房 | | |    |   |
 | 文京区    | 西安料理 刀削麺・火鍋 XI’AN 後楽園店| | |    |   |
