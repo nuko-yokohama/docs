@@ -506,7 +506,7 @@
 |さいたま市大宮区 |[XI'AN刀削麺 大宮店](https://ramendb.supleks.jp/s/78864.html)|         |           |  |大宮|
 |さいたま市浦和区 |刀削麺酒家 浦和|閉店||||
 |さいたま市浦和区 |[龍勝麺館](https://ramendb.supleks.jp/s/118655.html)|         |           |                  |北浦和|
-|さいたま市浦和区 |[中華料理 牡丹亭 浦和店](https://ramendb.supleks.jp/s/159142.html)|         |           |                  |浦和|
+|さいたま市浦和区 |[中華料理 牡丹亭 浦和店](https://ramendb.supleks.jp/s/159142.html)|         |           |[担々刀削麺]|(https://ramendb.supleks.jp/review/1773164.html)浦和|
 |さいたま市見沼区|[台湾料理 太和菜工坊](https://ramendb.supleks.jp/s/98654.html)|         |           ||大和田|
 |ふじみ野市|横浜中華 王記厨房 ふじみ野店|         |           |                  |                     |
 |上尾市|上尾飯店|         |           |                  |                     |
