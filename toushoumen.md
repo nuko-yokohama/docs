@@ -292,7 +292,7 @@
 | 品川区    | 陳家私菜 五反田店 | | |    |   |
 | 品川区    | [西安料理 張家 大崎店](https://ramendb.supleks.jp/s/82571.html) | | |ぬ：[油撥刀削麺](https://ramendb.supleks.jp/review/999744.html)    |大崎|
 | 品川区    | 朝霞 天王洲店 | | |    |   |
-| 品川区    | [香辛中華 來來羊](https://ramendb.supleks.jp/s/132020.html) | | | [羊肉刀削面（ラム肉入り刀削麺）ハーフ](https://ramendb.supleks.jp/review/1411599.html)   |   |
+| 品川区    | [香辛中華 來來羊](https://ramendb.supleks.jp/s/132020.html) | | | [羊肉刀削面（ラム肉入り刀削麺）ハーフ](https://ramendb.supleks.jp/review/1411599.html)<br>ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1820902.html)   |   |
 | 品川区    | 刀削麺・火鍋・西安料理 XI’AN 五反田店 | | |    |   |
 | 墨田区    | 中華料理 谷記 3号店 | | |    |   |
 | 墨田区    | 中国料理 祥龍房 刀削麺荘 | | |    |   |
