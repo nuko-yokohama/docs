@@ -164,6 +164,7 @@
 | 茅ヶ崎市     | [中国料理 宏福楼 茅ヶ崎店](https://ramendb.supleks.jp/s/163386.html) | | |   | 茅ヶ崎<br>R1沿い  |
 | 藤沢市       | [萬福楼 新館](https://ramendb.supleks.jp/s/28672.html)       |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1659473.html)                 | 藤沢   |
 | 藤沢市       | [萬福酒楼](https://ramendb.supleks.jp/s/60110.html)          |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1726822.html)<br>[高菜入り牛バラ肉刀削麺](https://ramendb.supleks.jp/review/1497286.html) |  藤沢  |
+| 藤沢市 | [台湾料理 百味鮮](https://ramendb.supleks.jp/s/81043.html) | |  |  | 長後（遠い） |
 | 藤沢市       | [渓源](https://ramendb.supleks.jp/s/112456.html)              |        |  | ぬ：[麻辣牛肉ラーメン・刀削麺変更](https://ramendb.supleks.jp/review/1788449.html)          | 藤沢 |
 | 藤沢市       | [台湾料理 百鮮味 2号店](https://ramendb.supleks.jp/s/115215.html)  |         |           | ぬ：[天津刀削麺](https://ramendb.supleks.jp/review/1785262.html)   | 長後<br>R467沿い |
 | 藤沢市       | [西安餃子 テラスモール湘南店](https://ramendb.supleks.jp/s/130010.html)          |        |   | [麻辣刀削湯麺](https://ramendb.supleks.jp/review/1374814.html)          | 辻堂 |
@@ -176,6 +177,7 @@
 | 平塚市 | [台湾料理 天成源](https://ramendb.supleks.jp/s/166069.html) |  |  |[五目刀削麺](https://ramendb.supleks.jp/review/1817494.html)| 東海大学（遠い） |
 | 平塚市 | 台湾料理 鴻運来 |  |  |  | 寒川（遠い） |
 | 平塚市 | 台湾料理 興福順 東中原店 |  |  |  | 平塚（遠い） |
+| 高座郡 | [台湾料理 百味鮮](https://ramendb.supleks.jp/s/81043.html) |  |  |  | 寒川 |
 | 高座郡 | 中華レストラン 品源 寒川店 |？|  |  | 寒川<br>2023年4月時点では提供 |
 
 ### 県央
@@ -192,7 +194,8 @@
 | 厚木市       | 台湾料理 興福順上依知2店 |   |   |  | 下溝（遠い） |
 | 大和市       | [百味鮮](https://ramendb.supleks.jp/s/105933.html) |   |     | ぬ：[麻辣刀削面セット](https://ramendb.supleks.jp/review/1812628.html)    | 大和 |
 | 大和市       | [向陽飯店 鶴間店](https://ramendb.supleks.jp/s/154890.html)   |         |           |  [マーラー刀削麺](https://ramendb.supleks.jp/review/1688078.html)  | 鶴間|
-| 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |終了？|           | ぬ：[刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    | さがみ野 |
+| 大和市       | 台湾料理 祥瑞 大和店 |  |  |  |中央林間|
+| 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |終了？| | ぬ：[刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    | さがみ野 |
 | 座間市       | [台湾料理 興福順 小田急相模原店](https://ramendb.supleks.jp/s/130874.html)   | |           |   | 小田急相模原 |
 | 秦野市     | [台湾料理 鴻翔 秦野店](https://ramendb.supleks.jp/s/86951.html)     |    |     |  | 渋沢 |
 | 秦野市     | 中国味道 金記    |    |     |  | 渋沢 |
