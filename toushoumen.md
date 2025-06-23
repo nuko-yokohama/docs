@@ -131,7 +131,7 @@
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
 | 相模原市中央区 | [台湾料理 昇龍](https://ramendb.supleks.jp/s/111599.html) | | | |矢部(南 少し遠い)|
-| 相模原市中央区 | [中華料理 香郷源](https://ramendb.supleks.jp/s/146635.html) | | | |相模原|
+| 相模原市中央区 | [中華料理 香郷源](https://ramendb.supleks.jp/s/146635.html) | | | [タンタン刀削麺](https://ramendb.supleks.jp/review/1821448.html) |相模原|
 | 相模原市南区 | [中華家庭料理 宋将](https://ramendb.supleks.jp/s/33648.html) |         |           |[五目野菜刀削麺](https://ramendb.supleks.jp/review/1272935.html)|小田急相模原（少し遠い）|
 | 相模原市緑区 | [香港厨房 橋本店](https://ramendb.supleks.jp/s/24139.html)   |         |           |  |橋本<br>2022年時点のメニューに刀削麺あり |
 | 相模原市緑区 | [台湾料理 龍福園](https://ramendb.supleks.jp/s/75744.html)   |         |           |  |相原(遠い)  |
@@ -511,7 +511,7 @@
 |さいたま市大宮区 |[XI'AN刀削麺 大宮店](https://ramendb.supleks.jp/s/78864.html)|         |           |  |大宮|
 |さいたま市浦和区 |刀削麺酒家 浦和|閉店||||
 |さいたま市浦和区 |[龍勝麺館](https://ramendb.supleks.jp/s/118655.html)|         |           |                  |北浦和|
-|さいたま市浦和区 |[中華料理 牡丹亭 浦和店](https://ramendb.supleks.jp/s/159142.html)|         |           |[担々刀削麺](https://ramendb.supleks.jp/review/1773164.html)|浦和|
+|さいたま市浦和区 |[中華料理 牡丹亭 浦和店](https://ramendb.supleks.jp/s/159142.html)|         |           |[担々刀削麺](https://ramendb.supleks.jp/review/1773164.html)<br>[牛肉刀削麺](https://ramendb.supleks.jp/review/1820154.html)|浦和|
 |さいたま市見沼区|[台湾料理 太和菜工坊](https://ramendb.supleks.jp/s/98654.html)|         |           ||大和田|
 |ふじみ野市|横浜中華 王記厨房 ふじみ野店|         |           |                  |                     |
 |上尾市|上尾飯店|         |           |                  |                     |
@@ -530,7 +530,7 @@
 |所沢市|中国料理 火麒麟 東所沢店|         |           |                  |                     |
 |所沢市|台湾料理 福味居|         |           |                  |                     |
 |新座市|一球酒場|         |           |                  |                     |
-|春日部市|中華菜館 林海餃子酒場|         |           |                  |                     |
+|春日部市| [中華菜館 林海餃子酒場](https://ramendb.supleks.jp/s/130524.html) |         |           | [【ランチセット】台湾風刀削麺](https://ramendb.supleks.jp/review/1821213.html) |春日部|
 |行田市|台湾料理 福府|         |           |                  |                     |
 |行田市|台湾料理 雪梅園|         |           |                  |                     |
 |越谷市|七左食堂|         |           |                  |                     |
