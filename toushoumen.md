@@ -157,7 +157,7 @@
 | 中郡 | [鴻運来 大磯店](https://ramendb.supleks.jp/s/148114.html) |  |  |  | 大磯（遠い）<br>R1沿い |
 | 横須賀市 | [台湾料理 鴻翔 粟田店](https://ramendb.supleks.jp/s/67714.html) |？| |  |YRP野比（遠い）|
 | 横須賀市 | [龍昇飯店](https://ramendb.supleks.jp/s/164441.html) |  |  |ぬ：[火龍刀削麺](https://ramendb.supleks.jp/review/1799097.htm) |堀ノ内<br>麺類+100円で刀削麺変更|
-| 横須賀市 | [中華料理 龍昇 北久里浜店](https://ramendb.supleks.jp/s/166591.html) | | | [火龍刀削麺・玉葱抜き](https://ramendb.supleks.jp/review/1824248.html) |北久里浜<br>[龍昇飯店](https://ramendb.supleks.jp/s/164441.html)の系列|
+| 横須賀市 | [中華料理 龍昇 北久里浜店](https://ramendb.supleks.jp/s/166591.html) | | | ぬ：[火龍刀削麺・玉葱抜き](https://ramendb.supleks.jp/review/1824248.html) |北久里浜<br>[龍昇飯店](https://ramendb.supleks.jp/s/164441.html)の系列|
 | 横須賀市 | 台湾料理 幸楽園 |？| |  |衣笠(遠い)<br>NTT横須賀通研の西側<br>相模原の[台湾料理 幸楽園](https://ramendb.supleks.jp/s/87353.html)と同系列かも|
 | 横須賀市 | 土鍋餃子酒場 |？|  |  |衣笠<br>2022年4月時点では提供 |
 | 三浦市     | 中華料理 桂林 |？| |  |三浦海岸|
