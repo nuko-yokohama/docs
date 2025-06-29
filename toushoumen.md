@@ -211,7 +211,7 @@
 | 小田原市     | [台湾料理 興福順 寿町店](https://ramendb.supleks.jp/s/128858.html)   |    |     | [五目 刀削麺](https://ramendb.supleks.jp/review/1359511.html)  | 緑町（遠い） |
 | 小田原市     | [家庭料理 富久](https://ramendb.supleks.jp/s/143635.html)     |    |     | ぬ：[マーラー刀削麺](https://ramendb.supleks.jp/review/1542549.html)  | 国府津 |
 | 小田原市     | [	台湾料理 興福順 小田原店](https://ramendb.supleks.jp/s/160600.html)   |    |     |  | 箱根板橋<br>R135沿い |
-| 小田原市     | [食香居](https://ramendb.supleks.jp/s/166447.html)   |    |     |  | 小田原 |
+| 小田原市     | [食香居](https://ramendb.supleks.jp/s/166447.html)   |    |     | [鶏刀削麺セット](https://ramendb.supleks.jp/review/1824056.html) | 小田原 |
 
 
 
@@ -386,6 +386,7 @@
 | 港区  | [中国家庭料理 你好 田町店](https://ramendb.supleks.jp/s/158364.html) | | |[ラーメン＋刀削麺変更](https://ramendb.supleks.jp/review/1791953.html)|三田|
 | 港区  | [中華料理 品香斎](https://ramendb.supleks.jp/s/159584.html) | | |[牛肉刀削麺](https://ramendb.supleks.jp/review/1740987.html)|神谷町|
 | 港区  | [健康中華 青蓮 浜松町店](https://ramendb.supleks.jp/s/162686.html) | | |[麻婆刀削麺](https://ramendb.supleks.jp/review/1778483.html)|浜松町|
+| 港区  | [陳家私菜 新橋店](https://ramendb.supleks.jp/s/166472.html) |  | ◯ | [頂天石焼麻婆刀削麺](https://ramendb.supleks.jp/review/1823496.html) | 内幸町 |
 | 目黒区 | 天竺屋台 | |    |   |
 | 目黒区 | 梅山飯店 自由が丘店 | |    |   |
 | 練馬区 | [祥龍刀背削麺荘 中村橋店](https://ramendb.supleks.jp/s/24491.html) |         |           |豚角煮刀削麺|中村橋|
@@ -534,7 +535,7 @@
 |行田市|台湾料理 福府|         |           |                  |                     |
 |行田市|台湾料理 雪梅園|         |           |                  |                     |
 |越谷市|七左食堂|         |           |                  |                     |
-|飯能市|中国料理 祥龍房 飯能南口店|         |           |                  |                     |
+|飯能市|[中国料理 祥龍房 飯能南口店](https://ramendb.supleks.jp/s/21625.html) | | | [四川担々刀削麺](https://ramendb.supleks.jp/review/1824141.html) | 飯能 |
 |飯能市|台湾料理 龍香 飯能店|         |           |                  |                     |
 |飯能市|中国料理 王記|         |           |                  |                     |
 |鶴ヶ島市|利来|         |           |                  |                     |
