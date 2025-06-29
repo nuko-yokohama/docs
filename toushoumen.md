@@ -166,12 +166,12 @@
 | 藤沢市       | [萬福楼 新館](https://ramendb.supleks.jp/s/28672.html)       |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1659473.html)                 | 藤沢   |
 | 藤沢市       | [萬福酒楼](https://ramendb.supleks.jp/s/60110.html)          |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1726822.html)<br>[高菜入り牛バラ肉刀削麺](https://ramendb.supleks.jp/review/1497286.html) |  藤沢  |
 | 藤沢市 | [台湾料理 百味鮮](https://ramendb.supleks.jp/s/81043.html) | |  |  | 長後（遠い） |
-| 藤沢市       | [渓源](https://ramendb.supleks.jp/s/112456.html)              |        |  | ぬ：[麻辣牛肉ラーメン・刀削麺変更](https://ramendb.supleks.jp/review/1788449.html)          | 藤沢 |
-| 藤沢市       | [台湾料理 百鮮味 2号店](https://ramendb.supleks.jp/s/115215.html)  |         |           | ぬ：[天津刀削麺](https://ramendb.supleks.jp/review/1785262.html)   | 長後<br>R467沿い |
-| 藤沢市       | [西安餃子 テラスモール湘南店](https://ramendb.supleks.jp/s/130010.html)          |        |   | [麻辣刀削湯麺](https://ramendb.supleks.jp/review/1374814.html)          | 辻堂 |
-| 藤沢市 | 向陽飯店 長後店 |  |  |  | 長後<br>R467沿い |
-| 藤沢市 | 向陽飯店 大庭店 |  |  |  | 善行（遠い） |
 | 藤沢市 | [向陽飯店 辻堂店](https://ramendb.supleks.jp/s/98979.html) |  |  |  | 辻堂 |
+| 藤沢市 | [渓源](https://ramendb.supleks.jp/s/112456.html)              |        |  | ぬ：[麻辣牛肉ラーメン・刀削麺変更](https://ramendb.supleks.jp/review/1788449.html)          | 藤沢 |
+| 藤沢市 | [台湾料理 百鮮味 2号店](https://ramendb.supleks.jp/s/115215.html)  |         |           | ぬ：[天津刀削麺](https://ramendb.supleks.jp/review/1785262.html)   | 長後<br>R467沿い |
+| 藤沢市 | [西安餃子 テラスモール湘南店](https://ramendb.supleks.jp/s/130010.html)          |        |   | [麻辣刀削湯麺](https://ramendb.supleks.jp/review/1374814.html)          | 辻堂 |
+| 藤沢市 | [向陽飯店 長後店](https://ramendb.supleks.jp/s/166612.html) |  |  | ぬ：[向陽五目麺・刀削麺変更](https://ramendb.supleks.jp/review/1824501.html) | 長後(少し遠い)<br>R467沿い |
+| 藤沢市 | 向陽飯店 大庭店 |  |  |  | 善行（遠い） |
 | 藤沢市 | 興福順 |  |  |  | 長後（遠い） |
 | 平塚市 | [向陽飯店 平塚駅前店](https://ramendb.supleks.jp/s/124398.html) |閉店|  |  | 平塚 |
 | 平塚市 | [向陽飯店 平塚店](https://ramendb.supleks.jp/s/130996.html) |？|  |  | 大磯（遠い）<br>Google Mapでは営業中 |
