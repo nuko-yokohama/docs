@@ -172,7 +172,7 @@
 | 藤沢市 | [西安餃子 テラスモール湘南店](https://ramendb.supleks.jp/s/130010.html)          |        |   | [麻辣刀削湯麺](https://ramendb.supleks.jp/review/1374814.html)          | 辻堂 |
 | 藤沢市 | [向陽飯店 長後店](https://ramendb.supleks.jp/s/166612.html) |  |  | ぬ：[向陽五目麺・刀削麺変更](https://ramendb.supleks.jp/review/1824501.html) | 長後(少し遠い)<br>R467沿い |
 | 藤沢市 | [向陽飯店 大庭店](https://ramendb.supleks.jp/s/166663.html) |  |  | [葱チャーシュー刀削麺](https://ramendb.supleks.jp/review/1827309.html) | 善行（遠い） |
-| 藤沢市 | 興福順 |  |  |  | 長後（遠い） |
+| 藤沢市 | [興福順 長後店](https://ramendb.supleks.jp/s/166875.html) |  |  | [牛肉刀削麺](https://ramendb.supleks.jp/review/1827401.html) | 長後（遠い） |
 | 平塚市 | [向陽飯店 平塚駅前店](https://ramendb.supleks.jp/s/124398.html) |閉店|  |  | 平塚 |
 | 平塚市 | [向陽飯店 平塚店](https://ramendb.supleks.jp/s/130996.html) |？|  |  | 大磯（遠い）<br>Google Mapでは営業中 |
 | 平塚市 | [台湾料理 天成源](https://ramendb.supleks.jp/s/166069.html) |  |  |[五目刀削麺](https://ramendb.supleks.jp/review/1817494.html)| 東海大学（遠い） |
