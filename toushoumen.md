@@ -263,7 +263,7 @@
 | 千代田区  | [中華居酒屋 佳陽](https://ramendb.supleks.jp/s/75581.html) |    |       | ぬ：[元祖麻辣刀削麺](https://ramendb.supleks.jp/review/1100634.html)   | 市ヶ谷 |
 | 千代田区  | 朝霞 |         |           |                  |                     |
 | 千代田区  | [本格四川料理 刀削麺 川府 神保町店](https://ramendb.supleks.jp/s/82912.html) |         |           |                  |神保町|
-| 千代田区  | 四川西安料理 餃子の郷 神田店 |         |           |                  |                     |
+| 千代田区  | [四川西安料理 餃子の郷 神田店](https://ramendb.supleks.jp/s/83616.html) | | | [元祖麻辣刀削麺](https://ramendb.supleks.jp/review/1827020.html) | 神田 |
 | 千代田区  | 台南担仔麺 水道橋本店  |         |           |                  |                     |
 | 千代田区  | [XIAN 市ヶ谷店](https://ramendb.supleks.jp/s/94298.html)  |         |           |                  |市ヶ谷|
 | 千代田区  | 純中国伝統料理四川料理 品香 |         |           |                  |                     |
