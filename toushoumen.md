@@ -70,6 +70,7 @@
 | 横浜市港北区  | [向陽飯店 大倉山店](https://ramendb.supleks.jp/s/126463.html)   |閉店|  | ぬ：[マーラー刀削麺](https://ramendb.supleks.jp/review/1539923.html)    |大倉山<br>環状2号沿い|
 | 横浜市港北区  | [ニーハオ 新横浜店](https://ramendb.supleks.jp/s/153898.html)   |  |  | |新横浜<br>2023年時点ではメニューに牛肉刀削麺あり|
 | 横浜市港北区  | [楽宴](https://ramendb.supleks.jp/s/161967.html)   |  |  |ぬ：[担々刀削面](https://ramendb.supleks.jp/review/1807030.html)  |大倉山<br>綱島街道沿い|
+| 横浜市港北区  | [ボウセン](https://ramendb.supleks.jp/s/167167.html)   |  |  |ぬ：牛肉刀削麺](https://ramendb.supleks.jp/review/.html1831049)  |新綱島（遠い）<br>環2沿い|
 | 横浜市港南区  | [刀削麺屋 港南店](https://ramendb.supleks.jp/s/89843.html)    |         | ◯       | ぬ：[角煮担々刀削麺](https://ramendb.supleks.jp/review/982516.html)    |港南中央|
 | 横浜市港南区  | [匠味](https://ramendb.supleks.jp/s/118920.html)   |  |    |ぬ：[四川担々刀削麺](https://ramendb.supleks.jp/review/1312358.html)|上大岡<br>鎌倉街道沿い|
 | 横浜市港南区  | [中華料理 瀋陽](https://ramendb.supleks.jp/s/116197.html)   | 閉店       |  | ぬ：[高菜牛肉刀削面](https://ramendb.supleks.jp/review/1706896.html)   |上大岡|
