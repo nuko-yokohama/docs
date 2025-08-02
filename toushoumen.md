@@ -177,12 +177,12 @@
 | 藤沢市 | [興福順 長後店](https://ramendb.supleks.jp/s/166875.html) |  |  | ぬ：[牛肉刀削麺](https://ramendb.supleks.jp/review/1827401.html) | 長後（遠い） |
 | 平塚市 | [向陽飯店 平塚駅前店](https://ramendb.supleks.jp/s/124398.html) |閉店|  |  | 平塚 |
 | 平塚市 | [向陽飯店 平塚店](https://ramendb.supleks.jp/s/130996.html) |？|  |  | 大磯（遠い）<br>Google Mapでは営業中 |
-| 平塚市 | [台湾料理 佳佳紅](https://ramendb.supleks.jp/s/146319.html) |  |  | | 2023年2月にはメニューにあり。平塚（遠い） |
+| 平塚市 | [台湾料理 佳佳紅](https://ramendb.supleks.jp/s/146319.html) |  |  | | 2023年2月にはメニューにあり。<br>平塚（遠い） |
 | 平塚市 | [台湾料理 天成源](https://ramendb.supleks.jp/s/166069.html) |  |  |[五目刀削麺](https://ramendb.supleks.jp/review/1817494.html)| 東海大学（遠い） |
 | 平塚市 | 台湾料理 鴻運来 |  |  |  | 寒川（遠い） |
 | 平塚市 | 台湾料理 興福順 東中原店 |  |  |  | 平塚（遠い） |
 | 高座郡 | [台湾料理 百味鮮](https://ramendb.supleks.jp/s/81043.html) |  |  |  | 寒川 |
-| 高座郡 | 中華レストラン 品源 寒川店 |？|  |  | 寒川<br>2023年4月時点では提供 |
+| 高座郡 | [品源 中華レストラン 寒川店](https://ramendb.supleks.jp/s/167311.html) |  |  | ぬ：[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1832513.html)  | 寒川<br>産業道路沿い |
 
 ### 県央
 秦野は湘南とは認めません。
