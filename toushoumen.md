@@ -212,7 +212,7 @@
 | 小田原市     | [福満園 小田原店](https://ramendb.supleks.jp/s/124851/review)   | ？     |    |  [担々刀削麺](https://ramendb.supleks.jp/review/1310947.html)  |鴨宮|
 | 小田原市     | [	美食生](https://ramendb.supleks.jp/s/127193.html)   |  |◯ |ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1819402.html)    |国府津（遠い）<br>R1沿い|
 | 小田原市     | [台湾料理 興福順 寿町店](https://ramendb.supleks.jp/s/128858.html)   |    |     | [五目 刀削麺](https://ramendb.supleks.jp/review/1359511.html)  | 緑町（遠い） |
-| 小田原市     | [家庭料理 富久](https://ramendb.supleks.jp/s/143635.html)     |    |     | ぬ：[マーラー刀削麺](https://ramendb.supleks.jp/review/1542549.html)  | 国府津 |
+| 小田原市     | [家庭料理 富久](https://ramendb.supleks.jp/s/143635.html)     |    |◯ | ぬ：[マーラー刀削麺](https://ramendb.supleks.jp/review/1542549.html)  | 国府津 |
 | 小田原市     | [	台湾料理 興福順 小田原店](https://ramendb.supleks.jp/s/160600.html)   |    |     |  | 箱根板橋<br>R135沿い |
 | 小田原市     | [食香居](https://ramendb.supleks.jp/s/166447.html)   |    |     | [鶏刀削麺セット](https://ramendb.supleks.jp/review/1824056.html) | 小田原 |
 
