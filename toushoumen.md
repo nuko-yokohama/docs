@@ -123,7 +123,7 @@
 | 川崎市川崎区 | [海月飯店](https://ramendb.supleks.jp/s/155530.html)          |         |           | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1730245.html)  | 京急川崎 |
 | 川崎市川崎区 | [中華料理 市民食堂大黒家](https://ramendb.supleks.jp/s/158766.html) |         |           |ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1730583.html)  | 大師橋 |
 | 川崎市幸区   | [金麟](https://ramendb.supleks.jp/s/124603.html)              |         |           | |  川崎(西) |
-| 川崎市幸区   | 幸福飯店      |         |           | |  鹿島田/矢向(遠い) |
+| 川崎市幸区   | [幸福飯店](https://ramendb.supleks.jp/s/167439.html)      | | | ぬ：[五目刀削面](https://ramendb.supleks.jp/review/1834153.html) |  鹿島田/矢向(遠い) |
 | 川崎市高津区 | [龍華飯店 溝ノ口店](https://ramendb.supleks.jp/s/134901.html)          |         |           | ぬ：[酸辣刀削麺・玉葱抜き](https://ramendb.supleks.jp/review/1783796.html) | 武蔵溝ノ口 |
 
 ### 相模原市
