@@ -96,7 +96,7 @@
 | 横浜市鶴見区  | [美食苑](https://ramendb.supleks.jp/s/67193.html)            |         |           | [坦々刀削面](https://ramendb.supleks.jp/review/1460569.html)<br>ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1809819.html)|京急鶴見|
 | 横浜市鶴見区  | [蓬莱春飯店 鶴見東口店](https://ramendb.supleks.jp/s/82130.html) |      |  ◯        | ぬ：[麻辣刀削麺・辛め](https://ramendb.supleks.jp/review/1770017.html)   |京急鶴見|
 | 横浜市鶴見区  | [西安厨房 唐華](https://ramendb.supleks.jp/s/86636.html)       | 閉店      | ？         | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/974149.html)                 |京急鶴見|
-| 横浜市鶴見区  | [福盈門 別館](https://ramendb.supleks.jp/s/129210.html)         |         |   ◯    | ぬ：[香辣刀削湯麺](https://ramendb.supleks.jp/review/1465324.html)                 |京急鶴見|
+| 横浜市鶴見区  | [福盈門 別館](https://ramendb.supleks.jp/s/129210.html)         |         |   ◯    | ぬ：[香辣刀削湯麺](https://ramendb.supleks.jp/review/1465324.html)<br>[豚角煮刀削湯麺](https://ramendb.supleks.jp/review/1832309.html)|京急鶴見|
 | 横浜市鶴見区  | [天府人家](https://ramendb.supleks.jp/s/158872.html)       |         |           | ぬ：[ランチ8 红烧牛肉面＋半炒飯(1080円)＋刀削麺変更](https://ramendb.supleks.jp/review/1795681.html)   |+100円で刀削麺変更<br>京急鶴見|
 | 横浜市鶴見区  | [川味坊 鶴見店](https://ramendb.supleks.jp/s/163287.html)       |         |           | ぬ：[味噌刀削麺＋半炒飯セット](https://ramendb.supleks.jp/review/1790372.html)                 |鶴見|
 | 横浜市鶴見区  | [ボウセン](https://ramendb.supleks.jp/s/167167.html)       | | | ぬ：[牛肉刀削麺](https://ramendb.supleks.jp/review/1831049.html)   |新綱島（遠い）|
@@ -125,6 +125,7 @@
 | 川崎市幸区   | [金麟](https://ramendb.supleks.jp/s/124603.html)              |         |           | |  川崎(西) |
 | 川崎市幸区   | [幸福飯店](https://ramendb.supleks.jp/s/167439.html)      | | | ぬ：[五目刀削面](https://ramendb.supleks.jp/review/1834153.html) |  鹿島田/矢向(遠い) |
 | 川崎市高津区 | [龍華飯店 溝ノ口店](https://ramendb.supleks.jp/s/134901.html)          |         |           | ぬ：[酸辣刀削麺・玉葱抜き](https://ramendb.supleks.jp/review/1783796.html) | 武蔵溝ノ口 |
+| 川崎市高津区 | [C-MEN-HAN. マルイ溝口店](https://ramendb.supleks.jp/s/166233.html)          |         |           | [香辣牛バラ麺　刀削麺](https://ramendb.supleks.jp/review/1833668.html) | 武蔵溝ノ口 |
 
 ### 相模原市
 
@@ -687,6 +688,7 @@
 | つくば市  |創作中華 えん弥 桜ニュータウン店  |         |           |                  |                     |
 | つくば市     |中国家庭料理 香福園 |         |           |                  |                     |
 | つくば市      | [XI’AN 刀削麺 筑波大学店](https://ramendb.supleks.jp/s/163637.html) |         |           | [麻辣刀削麺](https://ramendb.supleks.jp/review/1829924.html) | 最寄り駅不明 |
+| 下妻市     | [富久楼](ramendb.supleks.jp/s/135373.html) | | | [カルボナーラ刀削麺](https://ramendb.supleks.jp/review/1833304.html)| イオンモール下妻内<br>最寄り駅はなし。|
 | 土浦市     | 台湾料理 福源 東真鍋町店 |         |           |                  |                     |
 | 日立市      | 新華苑|         |           |                  |                     |
 | 水戸市        | [台湾料理 興福順](https://ramendb.supleks.jp/s/111272.html)|         |           |                  |偕楽園（遠い）|
