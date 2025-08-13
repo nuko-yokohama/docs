@@ -166,6 +166,7 @@
 | 横須賀市 | 台湾料理 幸楽園 |？| |  |衣笠(遠い)<br>NTT横須賀通研の西側<br>相模原の[台湾料理 幸楽園](https://ramendb.supleks.jp/s/87353.html)と同系列かも|
 | 横須賀市 | 土鍋餃子酒場 |？|  |  |衣笠<br>2022年4月時点では提供 |
 | 三浦市     | 中華料理 桂林 |？| |  |三浦海岸|
+| 三浦市     | 台湾料理・龍華 |？| | 三崎口（遠い）<br>R134沿い  ||
 | 茅ヶ崎市     | [華満楼 イオン茅ヶ崎中央店](https://ramendb.supleks.jp/s/137212.html) |         |           |[牛肉刀削麺](https://ramendb.supleks.jp/review/1460174.html)    | 北茅ヶ崎  |
 | 茅ヶ崎市     | [中国料理 宏福楼 茅ヶ崎店](https://ramendb.supleks.jp/s/163386.html) | | |   | 茅ヶ崎<br>R1沿い  |
 | 藤沢市       | [萬福楼 新館](https://ramendb.supleks.jp/s/28672.html)       |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1659473.html)                 | 藤沢   |
