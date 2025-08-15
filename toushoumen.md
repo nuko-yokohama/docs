@@ -139,7 +139,7 @@
 | 相模原市南区 | [中華家庭料理 宋将](https://ramendb.supleks.jp/s/33648.html) |         |           |[五目野菜刀削麺](https://ramendb.supleks.jp/review/1272935.html)|小田急相模原（少し遠い）|
 | 相模原市緑区 | [香港厨房 橋本店](https://ramendb.supleks.jp/s/24139.html)   |         |           |  |橋本<br>2022年時点のメニューに刀削麺あり |
 | 相模原市緑区 | [台湾料理 龍福園](https://ramendb.supleks.jp/s/75744.html)   |         |           |  |相原(遠い)  |
-| 相模原市緑区 | [台湾料理 幸楽園](https://ramendb.supleks.jp/s/87353.html)   |         |           |[台湾刀削麺](https://ramendb.supleks.jp/review/1437088.html)| 相模湖周辺・R20沿い        |
+| 相模原市緑区 | [台湾料理 幸楽園](https://ramendb.supleks.jp/s/87353.html)   |         |           | ぬ：[豚骨刀削麺・焼き餃子＋ライスセット](https://ramendb.supleks.jp/review/1835739.html)| 相模湖周辺<br>R20沿い        |
 | 相模原市緑区 | 相模原 台湾料理 龍華  | | | |橋本(西・遠い) |
 | 相模原市緑区 | 楽楽中華 | | | |橋本/相原(西・遠い) |
 | 町田市       | [長城飯店 町田店](https://ramendb.supleks.jp/s/81098.html) |    | | | 成瀬（少し遠い）|
