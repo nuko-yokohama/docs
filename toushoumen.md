@@ -340,7 +340,7 @@
 | 新宿区 | 天香宴 | | |    |   |
 | 新宿区 | 興福樓 | | |    |   |
 | 新宿区 | 三和 | | |    |   |
-| 新宿区 | 山西亭 | | |    |   |
+| 新宿区 | [山西亭](https://ramendb.supleks.jp/s/139530.html) | |◯？ | [麻辣刀削麺](https://ramendb.supleks.jp/review/1836970.html)   |  東新宿 |
 | 新宿区 | [銀香園](https://ramendb.supleks.jp/s/140669.html) | | | ぬ：[酸辣刀削麺](https://ramendb.supleks.jp/review/1710396.html)  | 市ヶ谷 |
 | 新宿区 | 中華料理 朝霞刀削麺 新宿店 | | |    |   |
 | 新宿区 | ラーメンセンター炎 西早稲田店 | | |    |   |
