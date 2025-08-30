@@ -47,7 +47,6 @@
 | 横浜市中区    | [飲茶食坊 萬華郷](https://ramendb.supleks.jp/s/161819.html)     |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1768313.html)  | 伊勢佐木   |
 | 横浜市中区    | [肥鶏土鍋](https://ramendb.supleks.jp/s/164475.html) | | | ぬ：[麻辣叉焼麺・刀削麺](https://ramendb.supleks.jp/review/1799503.html)  | 伊勢佐木<br>中華鍋料理＋刀削麺選択   |
 | 横浜市保土ケ谷区  | [錦蘭](https://ramendb.supleks.jp/s/34543.html)    |？|  |  |  和田町<br>R16沿い<br>2年前に刀削麺提供のログあり。 |
-| 横浜市保土ケ谷区  | [鴻運来](https://ramendb.supleks.jp/s/88420.html)    |？|  |  |  西谷<br>R16沿い  |
 | 横浜市保土ケ谷区  | [玲瓏](https://ramendb.supleks.jp/s/140808.html)         |   |    | ぬ：[西安刀削面](https://ramendb.supleks.jp/review/1688970.html)   | 天王町 |
 | 横浜市保土ケ谷区  | [中華料理 天王軒](https://ramendb.supleks.jp/s/141519.html)    |   |  | ぬ：[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1511557.html)  |  天王町  |
 | 横浜市南区    | [松林](https://ramendb.supleks.jp/s/20876.html)  | ？        |           |ぬ：[タンタン刀削麺](https://ramendb.supleks.jp/review/1129836.html)| 以前は刀削麺の幟があったが今はないかも。|
@@ -185,9 +184,9 @@
 | 平塚市 | [台湾料理 佳佳紅](https://ramendb.supleks.jp/s/146319.html) |  |  | | 2023年2月にはメニューにあり。<br>平塚（遠い） |
 | 平塚市 | [台湾料理 天成源](https://ramendb.supleks.jp/s/166069.html) |  |  |[五目刀削麺](https://ramendb.supleks.jp/review/1817494.html)| 東海大学（遠い） |
 | 平塚市 | [中華料理 木蘭](https://ramendb.supleks.jp/s/167727.html) |  |  | ぬ：[担々刀削麺](https://ramendb.supleks.jp/review/1838018.html) | 東海大学（遠い）<br>県道63号線沿い |
-| 平塚市 | 台湾料理 鴻運来 |  |  |  | 寒川（遠い） |
+| 平塚市 | [台湾料理 鴻運来 平塚店](https://ramendb.supleks.jp/s/167853.html) |  |  | ぬ：[四川刀削麺](https://ramendb.supleks.jp/review/1839678.html)  | 寒川（遠い） |
 | 平塚市 | 台湾料理 興福順 東中原店 |  |  |  | 平塚（遠い） |
-| 高座郡 | [台湾料理 百味鮮](https://ramendb.supleks.jp/s/81043.html) |  |  |  | 寒川 |
+| 高座郡 | [台湾料理 百味鮮](https://ramendb.supleks.jp/s/81043.html) | 提供終了 |  |  | 寒川 |
 | 高座郡 | [品源 中華レストラン 寒川店](https://ramendb.supleks.jp/s/167311.html) |  |  | ぬ：[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1832513.html)  | 寒川<br>産業道路沿い |
 
 ### 県央
