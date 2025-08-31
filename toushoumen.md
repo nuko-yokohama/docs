@@ -63,7 +63,7 @@
 | 横浜市戸塚区 | [向陽飯店 戸塚店](https://ramendb.supleks.jp/s/130812.html)     |         |           | ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1725023.html)  |戸塚（遠い）|
 | 横浜市戸塚区 | [北京飯店 戸塚店](https://ramendb.supleks.jp/s/144163.html)     |         |           |  |戸塚（遠い）|
 | 横浜市旭区 | [向陽飯店 上白根店](https://ramendb.supleks.jp/s/110851.html)    |         |           | ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1518667.html)        | |
-| 横浜市旭区 | [中国料理 金満園 若葉台店](https://ramendb.supleks.jp/s/144410.html)    | | |  |すずかけ台駅（遠い）|
+| 横浜市旭区 | [中国料理 金満園 若葉台店](https://ramendb.supleks.jp/s/144410.html)    | | | ぬ：[牛肉刀削麺](https://ramendb.supleks.jp/review/1839886.html)  |すずかけ台駅（遠い）|
 | 横浜市泉区 | [中国料理 旬香菜館](https://ramendb.supleks.jp/s/76697.html) |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1459706.html)                 |立場|
 | 横浜市港北区  | [清宏楼](https://ramendb.supleks.jp/s/82771.html)    |   |    |  [タンタン刀削麺](https://ramendb.supleks.jp/review/1716272.html)   |新横浜|
 | 横浜市港北区  | [中華料理 北京亭](https://ramendb.supleks.jp/s/94524.html)   |         |           | ぬ：[湖南刀削麺](https://ramendb.supleks.jp/review/1703016.html) |綱島|
