@@ -46,6 +46,7 @@
 | 横浜市栄区 | [大船軒 本郷台駅前店](https://supleks.jp/s/63400.html) |閉店 | [中華そば](https://supleks.jp/review/1259142.html) |
 | 横浜市栄区 | [増田屋 本郷台店](https://supleks.jp/s/136094.html) |閉店|  |
 | 横浜市神奈川区   | [蕎麦 源](https://ramendb.supleks.jp/s/28894.html)           | | ぬ：[ラーメン](https://ramendb.supleks.jp/review/1157494.html) |
+| 横浜市神奈川区   | 大むら | 未登録 | 新子安<br>R1近く |
 | 横浜市瀬谷区     | [志波田](https://ramendb.supleks.jp/s/106488.html)           |閉店| ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1119264.html) |
 | 横浜市泉区       | [ゆで太郎横浜中田東店](https://supleks.jp/s/95785.html)      | |    |
 | 横浜市泉区 | [栃木屋](https://supleks.jp/s/128420.html) |  | ぬ：[チャーシューメン](https://ramendb.supleks.jp/review/1417606.html) |
