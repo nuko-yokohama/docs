@@ -171,7 +171,7 @@
 | 茅ヶ崎市     | [中国料理 宏福楼 茅ヶ崎店](https://ramendb.supleks.jp/s/163386.html) | | |   | 茅ヶ崎<br>R1沿い  |
 | 藤沢市       | [萬福楼 新館](https://ramendb.supleks.jp/s/28672.html)       |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1659473.html)                 | 藤沢   |
 | 藤沢市       | [萬福酒楼](https://ramendb.supleks.jp/s/60110.html)          |         |           | ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1726822.html)<br>[高菜入り牛バラ肉刀削麺](https://ramendb.supleks.jp/review/1497286.html) |  藤沢  |
-| 藤沢市 | [台湾料理 百味鮮](https://ramendb.supleks.jp/s/76066.html) | |  | ぬ：[角煮刀削麺]() https://ramendb.supleks.jp/review/1841251.html| 湘南台（遠い） |
+| 藤沢市 | [台湾料理 百味鮮](https://ramendb.supleks.jp/s/76066.html) | |  | ぬ：[角煮刀削麺](https://ramendb.supleks.jp/review/1841251.html) | 湘南台（遠い） |
 | 藤沢市 | [向陽飯店 辻堂店](https://ramendb.supleks.jp/s/98979.html) |  |  |  | 辻堂 |
 | 藤沢市 | [渓源](https://ramendb.supleks.jp/s/112456.html)              |        |  | ぬ：[麻辣牛肉ラーメン・刀削麺変更](https://ramendb.supleks.jp/review/1788449.html)          | 藤沢 |
 | 藤沢市 | [台湾料理 百鮮味 2号店](https://ramendb.supleks.jp/s/115215.html)  |         |           | ぬ：[天津刀削麺](https://ramendb.supleks.jp/review/1785262.html)   | 長後<br>R467沿い |
