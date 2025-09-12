@@ -441,15 +441,15 @@
 | 府中市     | [祥龍房 府中店](https://ramendb.supleks.jp/s/1372.html) |　| | |分倍河原|
 | 府中市     | [北京家庭菜 中河原店](https://ramendb.supleks.jp/s/18294.html) |　| | |中河原駅|
 | 日野市       | 餃子坊 香港亭      |         |           |                  |                     |
-| 日野市       | 日野餃子 & 刀削麺   |         |           |                  |                     |
+| 日野市       | [日野餃子 & 刀削麺](https://ramendb.supleks.jp/s/138721.html)   | | | [麻辣刀削麺](https://ramendb.supleks.jp/review/1478317.html) | 日野 |
 | 昭島市       | [台湾料理 祥瑞 昭島店](https://ramendb.supleks.jp/s/154303.html) | | |[台湾刀削麺、チャーハンセット](https://ramendb.supleks.jp/review/1681951.html)|拝島(少し遠い)|
 | 東久留米市    | 宇都宮餃子 黄金の華 イオンモール東久留米店  |         |           |                  |                     |
 | 武蔵野市      | [上海楼 刀削麺館](https://ramendb.supleks.jp/s/106905.html)    | | ◯ | [【限定】麻婆豆腐麺](https://ramendb.supleks.jp/review/1305818.html) | 武蔵境 |
 | 武蔵野市      | 福龍             |         |           |                  |                     |
 | 福生市        | 本格中華料理 琳家   |         |           |                  |                     |
 | 立川市       | 東華園            |         |           |                  |                     |
-| 立川市       | 龍福園            |         |           |                  |                     |
-| 立川市       | 日野餃子&刀削麺 立川南口店  |         |           |                  |                     |
+| 立川市       | [龍福園](https://ramendb.supleks.jp/s/120880.html) | | | [麻婆刀削麺](https://ramendb.supleks.jp/review/1521293.html) | 西立川 |
+| 立川市       | [日野餃子&刀削麺 立川南口店](https://ramendb.supleks.jp/s/138831.html)  |　| |[牛煮込み刀削麺](https://ramendb.supleks.jp/review/1807878.html) |立川南 |
 | 立川市       | 永祥生煎館         |           |                  |                     |
 | 西東京市    | 中国飯荘 山城       |         |           |                  |                     |
 | 調布市       | [北京家庭菜 調布店](https://ramendb.supleks.jp/s/33699/photo/menu)  | 終了？ | | [五目野菜入り刀削麺](https://ramendb.supleks.jp/review/336878.html) |つつじヶ丘|
