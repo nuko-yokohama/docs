@@ -453,7 +453,7 @@
 | 立川市       | 永祥生煎館         |           |                  |                     |
 | 西東京市    | 中国飯荘 山城       |         |           |                  |                     |
 | 調布市       | [北京家庭菜 調布店](https://ramendb.supleks.jp/s/33699/photo/menu)  | 終了？ | | [五目野菜入り刀削麺](https://ramendb.supleks.jp/review/336878.html) |つつじヶ丘|
-| 調布市       | [刀削麺 大鵬 調布店](https://ramendb.supleks.jp/s/149684.html)  |         |           |[汁なし担々麺](https://ramendb.supleks.jp/review/1619294.html) |調布駅（やや遠い）|
+| 調布市       | [刀削麺 大鵬 調布店](https://ramendb.supleks.jp/s/149684.html)  |         |機会<br>削り|[汁なし担々麺](https://ramendb.supleks.jp/review/1619294.html) |調布駅（やや遠い）|
 
 
 ## 国内その他
