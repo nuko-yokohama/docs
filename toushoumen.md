@@ -593,6 +593,7 @@
 | 中巨摩郡 | [台湾料理 福福 昭和店](https://ramendb.supleks.jp/s/147028.html) | | | | 常永駅 |
 | 大月市  | [台湾料理 紅葉](https://ramendb.supleks.jp/s/139257.html) | | | | 大月（遠い）|
 | 富士吉田市 | [中華食堂 豫園](https://ramendb.supleks.jp/s/154967.html) | 提供<br>終了 | | | 寿（遠い）|
+| 甲府市 | [四川亭](https://ramendb.supleks.jp/s/11393.html) | | ◯？ | [坦々麺](https://ramendb.supleks.jp/review/1284428.html) | 国母（遠い）  |
 | 甲府市 | [昇龍](https://ramendb.supleks.jp/s/20778.html) |  | | | 石和温泉（遠い）|
 | 甲府市 | 華龍 | ？ | | | 最寄り駅なし  |
 | 甲府市 | 台湾料理 聚福龍 |  | | | 竜王（遠い）  |
@@ -603,7 +604,7 @@
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
 | 各務原市     | [刀削麺 喜祥](https://ramendb.supleks.jp/s/53408.html)        |         | ◯        | [麻辣刀削麺](https://ramendb.supleks.jp/review/1392527.html)  |    |
-| 土岐市       | [中華料理 劉家](144841)      |     |    |[麻辣刀削麺](https://ramendb.supleks.jp/review/1802327.html)| |
+| 土岐市       | [中華料理 劉家](https://ramendb.supleks.jp/s/144841.html)      |     |    |[麻辣刀削麺](https://ramendb.supleks.jp/review/1802327.html)| |
 | 本巣市       | 福泰厨房           |         |           |                  |                     |
 
 ### 岡山県
