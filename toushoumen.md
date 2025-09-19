@@ -205,7 +205,7 @@
 | 厚木市       | 台湾料理 興福順上依知2店 |   |   |  | 下溝（遠い） |
 | 大和市       | [台湾料理 福源](https://ramendb.supleks.jp/s/56545.html) |   |     |   | 相模大塚 |
 | 大和市       | [百味鮮](https://ramendb.supleks.jp/s/105933.html) |閉店|     | ぬ：[麻辣刀削面セット](https://ramendb.supleks.jp/review/1812628.html)    | 大和 |
-| 大和市       | [台湾料理 祥瑞](https://ramendb.supleks.jp/s/131533.html) |  |  |  |中央林間|
+| 大和市       | [台湾料理 祥瑞](https://ramendb.supleks.jp/s/131533.html) |  |  |  |南林間（やや遠い）<br>県道50号沿い|
 | 大和市       | [向陽飯店 鶴間店](https://ramendb.supleks.jp/s/154890.html)   |         |           |  [マーラー刀削麺](https://ramendb.supleks.jp/review/1688078.html)  | 鶴間|
 | 大和市       | [上海料理 大和](https://ramendb.supleks.jp/s/168209.html) |  |  |  |大和|
 | 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |終了？| | ぬ：[刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    | さがみ野 |
