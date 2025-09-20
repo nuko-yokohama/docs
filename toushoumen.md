@@ -288,8 +288,8 @@
 | 千代田区  | [隆盛軒](https://ramendb.supleks.jp/s/118909.html)   |         |           | ぬ：[炸醤刀削面](https://ramendb.supleks.jp/review/1242247.html)  |  市ヶ谷  |
 | 千代田区  | [刀削麺酒坊 東京駅店](https://ramendb.supleks.jp/s/129264.html)  | |◯|ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1806624.html)<br>[マーラー刀削麺＋牛肉](https://ramendb.supleks.jp/review/1570821.html) |東京駅(八重洲口)|
 | 千代田区  | 四川厨房 隨苑 |         |           |                  |                     |
-| 千代田区  | 四川料理 秋 神保町店  |         |           |                  |                     |
 | 千代田区  | [四川厨房 随苑 淡路町店](https://ramendb.supleks.jp/s/135983.html) |         |           |青椒肉絲刀削麺|淡路町|
+| 千代田区  | [四川料理 秋 神保町店](https://ramendb.supleks.jp/s/133911.html)  | | |[マーボー刀削麺](https://ramendb.supleks.jp/review/1842221.html) | 神保町駅 |
 | 千代田区  | [刀削麺房 回味 日本橋店](https://ramendb.supleks.jp/s/145495.html) | | ◯？ |ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1569389.html)|                      |
 | 千代田区  | 明記 中華酒場 |         |           |                  |                     |
 | 千代田区  | 張家 虎ノ門店 |         |           |                  |                     |
