@@ -196,25 +196,25 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 伊勢原市     | 台湾料理 福婷 伊勢原店   |    |     |  | 愛甲石田（やや遠い）<br>R271沿い |
+| 伊勢原市     | 台湾料理 福婷 伊勢原店   |未登録|     |  | 愛甲石田（やや遠い）<br>R271沿い |
 | 厚木市       | [吉源](https://ramendb.supleks.jp/s/63418.html) |   |   |  | 台湾料理店。<br>最寄り駅なし。 |
 | 厚木市       | [西安刀削麺酒楼 本厚木店](https://ramendb.supleks.jp/s/67251.html) |   | ◯  | ぬ：[排骨刀削麺・中](https://ramendb.supleks.jp/review/1753162.html) | 本厚木 |
 | 厚木市       | [台湾料理 興福順](https://ramendb.supleks.jp/s/77306.html) |   |   |  | 下溝（遠い） |
 | 厚木市       | [向陽飯店 本厚木店](https://ramendb.supleks.jp/s/130819.html) | | | | 本厚木（やや遠い） |
 | 厚木市       | [台湾料理 福満園](https://ramendb.supleks.jp/s/142726.html) |   |   |  | R412沿い |
-| 厚木市       | 台湾料理 興福順上依知2店 |   |   |  | 下溝（遠い） |
+| 厚木市       | 台湾料理 興福順上依知2店 |未登録|   |  | 下溝（遠い） |
 | 大和市       | [台湾料理 福源](https://ramendb.supleks.jp/s/56545.html) |   |     |   | 相模大塚 |
 | 大和市       | [百味鮮](https://ramendb.supleks.jp/s/105933.html) |閉店|     | ぬ：[麻辣刀削面セット](https://ramendb.supleks.jp/review/1812628.html)    | 大和 |
 | 大和市       | [台湾料理 祥瑞](https://ramendb.supleks.jp/s/131533.html) |  |  |  |南林間（やや遠い）<br>県道50号沿い|
-| 大和市       | [向陽飯店 鶴間店](https://ramendb.supleks.jp/s/154890.html)   |         |           |  [マーラー刀削麺](https://ramendb.supleks.jp/review/1688078.html)  | 鶴間|
+| 大和市       | [向陽飯店 鶴間店](https://ramendb.supleks.jp/s/154890.html)   | | |  [マーラー刀削麺](https://ramendb.supleks.jp/review/1688078.html)  | 鶴間|
 | 大和市       | [中国料理 上海飯店](https://ramendb.supleks.jp/s/168209.html) |  |  |ぬ：[豚肉キャベツ刀削麺](https://ramendb.supleks.jp/review/1844659.html) |大和|
+| 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |終了？| | ぬ：[刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    | さがみ野 |
 | 座間市       | [台湾料理 興福順 小田急相模原店](https://ramendb.supleks.jp/s/130874.html)   | |           |   | 小田急相模原 |
 | 愛甲郡     | [台湾料理 興福順 半原店](https://ramendb.supleks.jp/s/79102.html)     |    |     |  | R412沿い |
-| 海老名市     | 台湾料理 龍華 |   |   |  | 厚木（やや遠い） |
-| 海老名市     | 台湾料理 千福 |   |   |  | 海老名（やや遠い） |
-| 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |終了？| | ぬ：[刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    | さがみ野 |
+| 海老名市     | 台湾料理 龍華 |未登録|   |  | 厚木（やや遠い） |
+| 海老名市     | 台湾料理 千福 |未登録|   |  | 海老名（やや遠い） |
 | 秦野市     | [台湾料理 鴻翔 秦野店](https://ramendb.supleks.jp/s/86951.html)     |    |     |  | 渋沢 |
-| 秦野市     | 中国味道 金記    |    |     |  | 渋沢 |
+| 秦野市     | 中国味道 金記    |未登録|     |  | 渋沢 |
 
 
 ### 県西
