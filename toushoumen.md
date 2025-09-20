@@ -651,6 +651,7 @@
 | 名古屋市瑞穂区  | 劉家 西安刀削麺 堀田店 |         |           |                  |                     |
 | 名古屋市緑区   |  天福 |         |           |                  |                     |
 | 安城市  | [福来源](https://ramendb.supleks.jp/s/84121.html)   | | |[刀削担々麺](https://ramendb.supleks.jp/review/1803558.html) | |
+| 安城市  | [中華料理 華龍 安城店](https://ramendb.supleks.jp/s/163649.html)   | | |[麻辣刀削麺](https://ramendb.supleks.jp/review/1841098.html) | 安城駅（やや遠い）|
 |常滑市   | 西安刀削麺 セントレア店 |         |           |                  |                     |
 | 常滑市       |中華料理京華 |         |           |                  |                     |
 | 津島市   | 西安刀削麺 津島店  |         |           |                  |                     |
