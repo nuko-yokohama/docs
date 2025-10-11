@@ -31,6 +31,7 @@
 | 横浜市中区    |  [四川料理 京華樓 別館](https://ramendb.supleks.jp/s/22079.html)  |        | ◯        |  ぬ：[刀削麺ランチ・四川タンタン刀削麺](https://ramendb.supleks.jp/review/817709.html)     | 中華街  |
 | 横浜市中区    |  [謝朋酒樓](https://ramendb.supleks.jp/s/29230.html)  |      | | ぬ：[タンタン刀削麺](https://ramendb.supleks.jp/review/1631239.html) | 中華街|
 | 横浜市中区    |  [福楼](https://ramendb.supleks.jp/s/33222.html)  |   |    | [麻辛麺+刀削麺変更](https://ramendb.supleks.jp/review/1688485.html) |中華街 |
+| 横浜市中区    |  [百鶴楼](https://ramendb.supleks.jp/s/68810.html)  |   |    | [刀削ルーロ麺](https://ramendb.supleks.jp/review/1847160.html) |本牧<br>最寄り駅なし |
 | 横浜市中区    |  [広東名菜・健康美食 一品閣](https://ramendb.supleks.jp/s/70831.html)   |   | ◯ | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1589834.html)   |  中華街 |
 | 横浜市中区    | [唐家村](https://ramendb.supleks.jp/s/84080.html)   |     |   | [青菜と牛肉刀削麺](https://ramendb.supleks.jp/review/1561368.html) |  関内  |
 | 横浜市中区    | [麺王翔記](https://ramendb.supleks.jp/s/86302.html)   |         | ◯  | ぬ：[担担刀削麺](https://ramendb.supleks.jp/review/938058.html) | 中華街 |
@@ -189,7 +190,7 @@
 | 平塚市 | [台湾料理 佳佳紅](https://ramendb.supleks.jp/s/146319.html) |  |  | | 2023年2月にはメニューにあり。<br>平塚（遠い） |
 | 平塚市 | [台湾料理 天成源](https://ramendb.supleks.jp/s/166069.html) |  |  |[五目刀削麺](https://ramendb.supleks.jp/review/1817494.html)| 東海大学（遠い） |
 | 平塚市 | [中華料理 木蘭](https://ramendb.supleks.jp/s/167727.html) |  |  | ぬ：[担々刀削麺](https://ramendb.supleks.jp/review/1838018.html) | 東海大学（遠い）<br>県道63号線沿い |
-| 平塚市 | [台湾料理 鴻運来 平塚店](https://ramendb.supleks.jp/s/167853.html) |  |  | ぬ：[四川刀削麺](https://ramendb.supleks.jp/review/1839678.html)  | 寒川（遠い） |
+| 平塚市 | [台湾料理 鴻運来 平塚店](https://ramendb.supleks.jp/s/167853.html) |  |  | ぬ：[四川刀削麺](https://ramendb.supleks.jp/review/1839678.html)<br>[五目刀削麺](https://ramendb.supleks.jp/review/1848133.html)  | 寒川（遠い） |
 | 平塚市 | 台湾料理 興福順 東中原店 |  |  |  | 平塚（遠い） |
 | 高座郡 | [台湾料理 百味鮮](https://ramendb.supleks.jp/s/81043.html) | 提供終了 |  |  | 寒川 |
 | 高座郡 | [品源 中華レストラン 寒川店](https://ramendb.supleks.jp/s/167311.html) |  |  | ぬ：[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1832513.html)  | 寒川<br>産業道路沿い |
@@ -439,7 +440,7 @@
 | 八王子市     | [萬福飯店 八王子店](https://ramendb.supleks.jp/s/129695.html)  | | |[ユーポー刀削麺](https://ramendb.supleks.jp/review/1485432.html)|八王子|
 | 八王子市     | [台湾料理 龍福園](https://ramendb.supleks.jp/s/135429.html)  | | | |八王子みなみ野(遠い)|
 | 八王子市     | [喜楽宴](https://ramendb.supleks.jp/s/141481.html)            | | |[担々刀削麺](https://ramendb.supleks.jp/review/1699108.html)|西八王子|
-| 八王子市     | [楽楽中華 本店](https://ramendb.supleks.jp/s/145973.html)            | | | |めじろ台|
+| 八王子市     | [楽楽中華 本店](https://ramendb.supleks.jp/s/145973.html) | | | [麻辣刀削麺](https://ramendb.supleks.jp/review/1848212.html) |めじろ台|
 | 八王子市     | [台湾料理 新台北](https://ramendb.supleks.jp/s/152343.html)    |閉店| | |西八王子|
 | 八王子市     | [中華居酒屋 義萬](https://ramendb.supleks.jp/s/153071.html)    | | |[醤油刀削麺](https://ramendb.supleks.jp/review/1663056.html)|八王子<br>ランチ営業あり|
 | 八王子市     | [奇まぐれダンジョン](https://ramendb.supleks.jp/s/162746.html)  | | |[白湯牛肉麺・刀削麺変更](https://ramendb.supleks.jp/review/1784353.html)|八王子|
@@ -482,7 +483,7 @@
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
 | 神戸市中央区  | [小肥牛 南京町](https://ramendb.supleks.jp/s/136700.html)           |         |           |ぬ： [刀削麺](https://ramendb.supleks.jp/review/1449471.html)   | 南京街<br>ハーフサイズ提供。 |
-| 西脇市       | 笑仁。           |         |           |                  |                     |
+| 西脇市       | [笑仁。](https://ramendb.supleks.jp/s/72591.html) | |◯| [刀削麺](https://ramendb.supleks.jp/review/1847234.html) | 西脇市駅|
 
 ### 北海道
 
