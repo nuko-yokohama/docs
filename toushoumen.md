@@ -162,7 +162,7 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 逗子市 | [中国料理 海浜軒](https://ramendb.supleks.jp/s/115989.html) | |  |  | 逗子・葉山駅 |
+| 逗子市 | [中国料理 海浜軒](https://ramendb.supleks.jp/s/115989.html) | |  | ぬ：[牛肉のマーラ刀削麺](https://ramendb.supleks.jp/review/1851621.html) | 逗子・葉山駅 |
 | 中郡 | [香港軒 二宮店](https://ramendb.supleks.jp/s/63413.html) | |  |  | 二宮（遠い）<br>R1沿い |
 | 中郡 | [台湾料理 鴻翔](https://ramendb.supleks.jp/s/127032.html) |  |  |  | 二宮（遠い）<br>県道71号沿い |
 | 中郡 | [鴻運来 大磯店](https://ramendb.supleks.jp/s/148114.html) |  |  |  | 大磯（遠い）<br>R1沿い |
