@@ -69,7 +69,8 @@
 | 横浜市泉区 | [中国料理 旬香菜館](https://ramendb.supleks.jp/s/76697.html) |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1459706.html)                 |立場|
 | 横浜市港北区  | [清宏楼](https://ramendb.supleks.jp/s/82771.html)    |   |    |  [タンタン刀削麺](https://ramendb.supleks.jp/review/1716272.html)   |新横浜|
 | 横浜市港北区  | [中華料理 北京亭](https://ramendb.supleks.jp/s/94524.html)   |         |           | ぬ：[湖南刀削麺](https://ramendb.supleks.jp/review/1703016.html) |綱島|
-| 横浜市港北区  | [向陽飯店 大倉山店](https://ramendb.supleks.jp/s/126463.html)   |閉店|  | ぬ：[マーラー刀削麺](https://ramendb.supleks.jp/review/1539923.html)    |大倉山<br>環状2号沿い|
+| 横浜市港北区  | [向陽飯店 大倉山店](https://ramendb.supleks.jp/s/126463.html)   | |  | ぬ：[マーラー刀削麺](https://ramendb.supleks.jp/review/1539923.html)    |大倉山<br>環状2号沿い|
+| 横浜市港北区  | [アジア中華創作料理 天府餃子城](https://ramendb.supleks.jp/s/132744.html)   ||  | ぬ：[高菜入り牛バラ刀削麺(](https://ramendb.supleks.jp/review/1853377.html)    |新横浜|
 | 横浜市港北区  | [ニーハオ 新横浜店](https://ramendb.supleks.jp/s/153898.html)   |  |  | |新横浜<br>2023年時点ではメニューに牛肉刀削麺あり|
 | 横浜市港北区  | [楽宴](https://ramendb.supleks.jp/s/161967.html)   |  |  |ぬ：[担々刀削面](https://ramendb.supleks.jp/review/1807030.html)  |大倉山<br>綱島街道沿い|
 | 横浜市港北区  | [品味中華 華の星 酒館](https://ramendb.supleks.jp/s/168346.html) |  |  | ぬ：[親子刀削麺](https://ramendb.supleks.jp/review/1846539.html) |綱島|
