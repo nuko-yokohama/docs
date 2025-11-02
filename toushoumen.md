@@ -141,8 +141,8 @@
 | 相模原市中央区 | [台湾料理 昇龍](https://ramendb.supleks.jp/s/111599.html) | | | |矢部(南 少し遠い)|
 | 相模原市中央区 | [中華料理 香郷源](https://ramendb.supleks.jp/s/146635.html) | | | [タンタン刀削麺](https://ramendb.supleks.jp/review/1821448.html) |相模原|
 | 相模原市中央区 | 華香園 | 未登録 |  |  | 上溝（遠い） |
-| 相模原市南区 | 菜香園 相模大野店 | 未登録 |  |  | 相模大野<br>+100円で刀削麺変更 |
 | 相模原市南区 | [中華家庭料理 宋将](https://ramendb.supleks.jp/s/33648.html) |         |           |[五目野菜刀削麺](https://ramendb.supleks.jp/review/1272935.html)|小田急相模原（少し遠い）|
+| 相模原市南区 | 菜香園 相模大野店 |  |  | ぬ：[台湾刀削麺](https://ramendb.supleks.jp/review/1855001.html) | 相模大野<br>+100円で刀削麺変更 |
 | 相模原市緑区 | [香港厨房 橋本店](https://ramendb.supleks.jp/s/24139.html)   |         |           |  |橋本<br>2022年時点のメニューに刀削麺あり |
 | 相模原市緑区 | [台湾料理 龍福園](https://ramendb.supleks.jp/s/75744.html)   |         |           |  |相原(遠い)  |
 | 相模原市緑区 | [台湾料理 永旺](https://ramendb.supleks.jp/s/83329.html)   | | |  |南橋本(遠い)  |
