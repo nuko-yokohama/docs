@@ -294,7 +294,7 @@
 | 千代田区  | [隆盛軒](https://ramendb.supleks.jp/s/118909.html)   |         |           | ぬ：[炸醤刀削面](https://ramendb.supleks.jp/review/1242247.html)  |  市ヶ谷  |
 | 千代田区  | [刀削麺酒坊 東京駅店](https://ramendb.supleks.jp/s/129264.html)  | |◯|ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1806624.html)<br>[マーラー刀削麺＋牛肉](https://ramendb.supleks.jp/review/1570821.html) |東京駅(八重洲口)|
 | 千代田区  | 四川厨房 隨苑 |         |           |                  |                     |
-| 千代田区  | [四川厨房 随苑 淡路町店](https://ramendb.supleks.jp/s/135983.html) |         |           |青椒肉絲刀削麺|淡路町|
+| 千代田区  | [四川厨房 随苑 淡路町店](https://ramendb.supleks.jp/s/135983.html) | | |[青椒肉絲刀削麺炒](https://ramendb.supleks.jp/review/1857443.html)|淡路町|
 | 千代田区  | [四川料理 秋 神保町店](https://ramendb.supleks.jp/s/133911.html)  | | |[マーボー刀削麺](https://ramendb.supleks.jp/review/1842221.html) | 神保町駅 |
 | 千代田区  | [刀削麺房 回味 日本橋店](https://ramendb.supleks.jp/s/145495.html) | | ◯？ |ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1569389.html)|                      |
 | 千代田区  | 明記 中華酒場 |         |           |                  |                     |
@@ -350,6 +350,7 @@
 | 新宿区 | 天香宴 | | |    |   |
 | 新宿区 | 興福樓 | | |    |   |
 | 新宿区 | 三和 | | |    |   |
+| 新宿区 | [馮記西安刀削麺 曙橋店](https://ramendb.supleks.jp/s/122276.html) | | | [担々刀削麺（大盛）](https://ramendb.supleks.jp/review/1857547.html) | 曙橋 |
 | 新宿区 | [山西亭](https://ramendb.supleks.jp/s/139530.html) | |◯？ | [麻辣刀削麺](https://ramendb.supleks.jp/review/1836970.html)   |  東新宿 |
 | 新宿区 | [銀香園](https://ramendb.supleks.jp/s/140669.html) | | | ぬ：[酸辣刀削麺](https://ramendb.supleks.jp/review/1710396.html)  | 市ヶ谷 |
 | 新宿区 | 中華料理 朝霞刀削麺 新宿店 | | |    |   |
