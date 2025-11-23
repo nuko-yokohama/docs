@@ -119,7 +119,7 @@
 | 川崎市多摩区 | [台湾料理 祥瑞 登戸店](https://ramendb.supleks.jp/s/165011.html)   | | |ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1805482.html) | 中野島（少し遠い） |
 | 川崎市宮前区 | [松楽菜館](https://ramendb.supleks.jp/s/119992.html)          |         |           |                  | 鷺沼 |
 | 川崎市川崎区 | [家系らーめん 横崎家 川崎店](https://ramendb.supleks.jp/s/87231.html)   |         |           |  | 川崎<br>家系＆刀削麺 |
-| 川崎市川崎区 | [多福楼 川崎店](https://ramendb.supleks.jp/s/30984.html)     |         |           | ぬ：[牛バラ麺・汁あり・刀削麺](https://ramendb.supleks.jp/review/1336390.html) | 川崎(東) |
+| 川崎市川崎区 | [多福楼 川崎店](https://ramendb.supleks.jp/s/30984.html)     |         |           | ぬ：[牛バラ麺・汁あり・刀削麺](https://ramendb.supleks.jp/review/1336390.html)<br>[牛バラ角煮刀削麺](https://ramendb.supleks.jp/review/1859261.html) | 川崎(東) |
 | 川崎市川崎区 | [満園](https://ramendb.supleks.jp/s/34460.html)    |         |◯         | ぬ：[高菜麺・刀削麺変更](https://ramendb.supleks.jp/review/1783460.html) | 八丁畷 |
 | 川崎市川崎区 | [香蘭](https://ramendb.supleks.jp/s/137924.html)    |         |  |ぬ：[牛バラ刀削麺セット](https://ramendb.supleks.jp/review/1813992.html)| 川崎(東)<br>最近、刀削麺を提供開始した。 |
 | 川崎市川崎区 | [一龍 餃子亭](https://ramendb.supleks.jp/s/138773.html)          |         |           |ぬ：[豚角煮刀削麺](https://ramendb.supleks.jp/review/1756604.html)  | 八丁畷 |
@@ -175,7 +175,7 @@
 | 三浦市     | [龍華](https://ramendb.supleks.jp/s/87116.html) | | | ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1836176.html) | 三崎口（遠い）<br>R134沿い |
 | 三浦市     | [中華料理 桂林](https://ramendb.supleks.jp/s/169385.html) | |◯| ぬ：[麻辣牛肉面](https://ramendb.supleks.jp/review/1859760.html) |三浦海岸|
 | 茅ヶ崎市     | [華満楼 イオン茅ヶ崎中央店](https://ramendb.supleks.jp/s/137212.html) |         |           |[牛肉刀削麺](https://ramendb.supleks.jp/review/1460174.html)    | 北茅ヶ崎  |
-| 茅ヶ崎市  | [中国料理 宏福楼 茅ヶ崎店](https://ramendb.supleks.jp/s/163386.html) | |◯|ぬ：[刀削ジャージャー麺](https://ramendb.supleks.jp/review/1850265.html)   | 茅ヶ崎<br>R1沿い  |
+| 茅ヶ崎市  | [中国料理 宏福楼 茅ヶ崎店](https://ramendb.supleks.jp/s/163386.html) | |◯|ぬ：[刀削ジャージャー麺](https://ramendb.supleks.jp/review/1850265.html)<br>[刀削牛肉麺](https://ramendb.supleks.jp/review/1859630.html)   | 茅ヶ崎<br>R1沿い  |
 | 藤沢市       | [萬福楼 新館](https://ramendb.supleks.jp/s/28672.html)       | |◯| ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1659473.html) | 藤沢   |
 | 藤沢市       | [萬福酒楼](https://ramendb.supleks.jp/s/60110.html)          | |◯| ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1726822.html)<br>[高菜入り牛バラ肉刀削麺](https://ramendb.supleks.jp/review/1497286.html) |  藤沢  |
 | 藤沢市 | [台湾料理 百味鮮](https://ramendb.supleks.jp/s/76066.html) | |  | ぬ：[角煮刀削麺](https://ramendb.supleks.jp/review/1841251.html) | 湘南台（遠い） |
@@ -345,7 +345,7 @@
 | 新宿区 | 西安刀削麺酒楼 牛込神楽坂店 | | |    |   |
 | 新宿区 | 唐朝刀削麺 西新宿店 | | |    |   |
 | 新宿区 | 味蔵 | | |    |   |
-| 新宿区 | [陳家私菜 新宿店](https://ramendb.supleks.jp/s/73066.html) | | |[汁無し担々麻辣刀削麺](https://ramendb.supleks.jp/review/1814343.html)    |新宿(西)|
+| 新宿区 | [陳家私菜 新宿店](https://ramendb.supleks.jp/s/73066.html) | | |[汁無し担々麻辣刀削麺](https://ramendb.supleks.jp/review/1814343.html)<br>[国産牛チャーシュー刀削麺](https://ramendb.supleks.jp/review/1859201.html)    |新宿(西)|
 | 新宿区 | 祥龍刀削麺荘 東新宿店 | | |    |   |
 | 新宿区 | 天香宴 | | |    |   |
 | 新宿区 | 興福樓 | | |    |   |
@@ -425,7 +425,7 @@
 | 豊島区 | [龍興刀削麺舗](https://ramendb.supleks.jp/s/14064.html) | | |    |新大塚|
 | 豊島区 | 逸品火鍋 四季海岸 | | |    |   |
 | 豊島区 | 四季の宴 | | |    |   |
-| 豊島区 | [刀削麺俱楽部](https://ramendb.supleks.jp/s/139120.html) | | |    |池袋|
+| 豊島区 | [刀削麺俱楽部](https://ramendb.supleks.jp/s/139120.html) | | | [麻辣刀削麺](https://ramendb.supleks.jp/review/1858776.html)   |池袋|
 | 足立区 | 中華 大勝軒 | | |    |   |
 | 足立区 | 八芳亭 | | |    |   |
 | 足立区 | 六町飯店 | | |    |   |
