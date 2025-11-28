@@ -234,7 +234,8 @@
 
 | 店舗名                                             | ジャンル | ラーメン | 特殊麺 | カレー | 炒飯 | 餡かけ炒飯 | 餃子 |麺咖<br>飯餃| メモ                                                         |
 | -------------------------------------------------- | -------- | -------- | ------ | ------ | ---- | ---------- | ---- | ---- | ------------------------------------------------------------ |
-| [中華第一家 杜記](https://supleks.jp/s/19114.html) | 四川料理 | ○        | ○      | ？      | ○    | ？         | ○    |麺　<br>　　| [高菜牛肉麺](https://supleks.jp/review/157541.html)<br />[四川燃面](https://supleks.jp/review/844789.html) |
+| 【移転】[中華第一家 杜記](https://supleks.jp/s/19114.html) | 四川料理 | ○        | ○      | ？      | ○    | ？         | ○    |麺　<br>　　| [高菜牛肉麺](https://supleks.jp/review/157541.html)<br />[四川燃面](https://supleks.jp/review/844789.html) |
+| [頼記](https://supleks.jp/s/169491.html)            |四川料理| ✗  | ○     | ✗      | ◯   | ✗ | ？   |麺　<br>　　| [羊肉面](https://supleks.jp/review/1861300.html) |
 | [福楼](https://supleks.jp/s/33222.html)            |          | ○        | ？     | ？      | ？   | ？         | ？   |麺　<br>　　| [福樓麺](https://supleks.jp/review/823623.html)              |
 | [你好](https://supleks.jp/s/23549.html)            | 台湾料理 | ○        | ✗     | ✗      | ○   | ✗         | ○   |麺　<br>飯　| [魯肉麺](https://supleks.jp/review/1275930.html)<br>[蒜頭炒飯](https://chahandb.supleks.jp/review/1310003.html) |
 
