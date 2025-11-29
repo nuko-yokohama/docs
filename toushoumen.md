@@ -300,6 +300,7 @@
 | 千代田区  | [刀削麺房 回味 日本橋店](https://ramendb.supleks.jp/s/145495.html) | | ◯？ |ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1569389.html)|                      |
 | 千代田区  | 明記 中華酒場 |         |           |                  |                     |
 | 千代田区  | 張家 虎ノ門店 |         |           |                  |                     |
+| 千代田区  | [個室中華居酒屋 元祖秋神保町店](https://ramendb.supleks.jp/s/168324/review) | |  | [麻辣刀削麺](https://ramendb.supleks.jp/review/1860548.html) |神保町|
 | 台東区    | 馥香         |          |         |                    |                    |
 | 台東区    | 正宗四川料理 福楽 |          |         |                    |                    |
 | 台東区    | [祥龍刀削麺荘](https://ramendb.supleks.jp/s/52557.html) |          |         |                    |上野|
@@ -347,7 +348,7 @@
 | 新宿区 | 唐朝刀削麺 西新宿店 | | |    |   |
 | 新宿区 | 味蔵 | | |    |   |
 | 新宿区 | [陳家私菜 新宿店](https://ramendb.supleks.jp/s/73066.html) | | |[汁無し担々麻辣刀削麺](https://ramendb.supleks.jp/review/1814343.html)<br>[国産牛チャーシュー刀削麺](https://ramendb.supleks.jp/review/1859201.html)    |新宿(西)|
-| 新宿区 | 祥龍刀削麺荘 東新宿店 | | |    |   |
+| 新宿区 | [祥龍刀削麺荘 東新宿店](https://ramendb.supleks.jp/s/105901.html) | | | [海鮮刀削麺（塩味）](https://ramendb.supleks.jp/review/1859934.html)    | 東新宿  |
 | 新宿区 | 天香宴 | | |    |   |
 | 新宿区 | 興福樓 | | |    |   |
 | 新宿区 | 三和 | | |    |   |
@@ -679,6 +680,7 @@
 | 佐野市     |   台湾料理 龍鳳軒  |         |           |                  |                     |
 | 宇都宮市     |  中国料理 新農村   |         |           |                  |                     |
 | 宇都宮市     |  小閣樓 東簗瀬店  |         |           |                  |                     |
+| 小山市 | [鴻運 小山店 ](https://ramendb.supleks.jp/s/169406.html) | | | [麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1859930.html) | 小山駅（少し遠い） |
 | 足利市       |   松鶴飯店        |         |           |                  |                     |
 | 足利市       |  麺八  アピタ足利店 |         |           |                  |                     |
 | 那須烏山市    | 食香閣 那須烏山店 |         |           |                  |                     |
