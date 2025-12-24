@@ -103,6 +103,7 @@
 | 横浜市鶴見区  | [西安厨房 唐華](https://ramendb.supleks.jp/s/86636.html)       | 閉店      | ？         | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/974149.html)                 |京急鶴見|
 | 横浜市鶴見区  | [福盈門 別館](https://ramendb.supleks.jp/s/129210.html)         |         |   ◯    | ぬ：[香辣刀削湯麺](https://ramendb.supleks.jp/review/1465324.html)<br>[豚角煮刀削湯麺](https://ramendb.supleks.jp/review/1832309.html)|京急鶴見|
 | 横浜市鶴見区  | [天府人家](https://ramendb.supleks.jp/s/158872.html)       |         |           | ぬ：[ランチ8 红烧牛肉面＋半炒飯(1080円)＋刀削麺変更](https://ramendb.supleks.jp/review/1795681.html)   |+100円で刀削麺変更<br>京急鶴見|
+| 横浜市鶴見区  | [新上海](https://ramendb.supleks.jp/s/160231.html)       |         |           |  |生麦|
 | 横浜市鶴見区  | [川味坊 鶴見店](https://ramendb.supleks.jp/s/163287.html)       |         |           | ぬ：[味噌刀削麺＋半炒飯セット](https://ramendb.supleks.jp/review/1790372.html)                 |鶴見|
 | 横浜市鶴見区  | [ボウセン](https://ramendb.supleks.jp/s/167167.html)       | | | ぬ：[牛肉刀削麺](https://ramendb.supleks.jp/review/1831049.html)   |新綱島（遠い）|
 | 横浜市鶴見区  | [中国料理 上海](https://ramendb.supleks.jp/s/167231.html)       | | | [麺飯セット 牛肉刀削麺](https://ramendb.supleks.jp/review/1831706.html)<br>ぬ：[麻辣牛腩刀削面](https://ramendb.supleks.jp/review/1842812.html)   |鶴見|
