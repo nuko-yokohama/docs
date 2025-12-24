@@ -59,7 +59,7 @@
 | 横浜市南区    | [壱龍釜](https://ramendb.supleks.jp/s/105465.html)         |         |           | ぬ：[什錦湯麺・刀削麺変更](https://ramendb.supleks.jp/review/1792488.html)   | 横浜橋<br>麺類を刀削麺に変更可能。 |
 | 横浜市南区    | [餃子伝説本舗 吉野町店](https://ramendb.supleks.jp/s/130834.html) |         |     |  ぬ：[四川風担々刀削麺](https://ramendb.supleks.jp/review/1398122.html)        |吉野町|
 | 横浜市南区 | [楽小厨](https://ramendb.supleks.jp/s/137765.html)       | 閉店      |           | ぬ：[酸辣刀削面](https://ramendb.supleks.jp/review/1495140.html)                 |                     |
-| 横浜市南区 | [味香苑 蒔田店](https://ramendb.supleks.jp/s/163237.html)       |    | | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1797273.html)|蒔田|
+| 横浜市南区 | [味香苑 蒔田店](https://ramendb.supleks.jp/s/163237.html)       |    | | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1797273.html)<br>[マーボー刀削麺](https://ramendb.supleks.jp/review/1861263.html)|蒔田|
 | 横浜市南区 | [弘中](https://ramendb.supleks.jp/s/160081.html)       |    | | ぬ：[本格ら～ら～麺・普通辛い](https://ramendb.supleks.jp/review/1807915.html)|弘明寺|
 | 横浜市南区 | [味香園](https://ramendb.supleks.jp/s/165922.html) |    | | ぬ：[ランチA・みそ刀削麺](https://ramendb.supleks.jp/review/1815960.html)|弘明寺|
 | 横浜市戸塚区 | [華香閣](https://ramendb.supleks.jp/s/113352.html)       |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1571656.html) |戸塚|
@@ -428,6 +428,7 @@
 | 豊島区 | 逸品火鍋 四季海岸 | | |    |   |
 | 豊島区 | 四季の宴 | | |    |   |
 | 豊島区 | [刀削麺俱楽部](https://ramendb.supleks.jp/s/139120.html) | | | [麻辣刀削麺](https://ramendb.supleks.jp/review/1858776.html)   |池袋|
+| 足立区 | [麺 三福](https://ramendb.supleks.jp/s/21813.html) | | | [五目麺 刀削麺](https://ramendb.supleks.jp/review/1864193.html) |谷在家|
 | 足立区 | 中華 大勝軒 | | |    |   |
 | 足立区 | 八芳亭 | | |    |   |
 | 足立区 | 六町飯店 | | |    |   |
@@ -551,7 +552,8 @@
 |川越市|裕福来|閉店||||
 |川越市|[磨味坊](https://ramendb.supleks.jp/s/148476.html)|         |           |                  |最寄り駅から遠い。|
 |川越市|[台湾料理パンダ](https://ramendb.supleks.jp/s/149328.html)|         |           |[台湾刀削麺セット](https://ramendb.supleks.jp/review/1614422.html)|本川越<br>川越市立博物館近く|
-|所沢市|[餃子市 新所沢店](https://ramendb.supleks.jp/s/18140.html)|    |   |                  |新所沢<br>麺類は刀削麺変更可能|
+|川越市|[中華居酒屋 峰](https://ramendb.supleks.jp/s/169529.html)|         |           | [麻婆豆腐麺・刀削麺変更](https://ramendb.supleks.jp/review/1861986.html) |新河岸駅|
+|所沢市|[](https://ramendb.supleks.jp/s/18140.html)|    |   |                  |新所沢<br>麺類は刀削麺変更可能|
 |所沢市|龍福亭|         |           |                  |                     |
 |所沢市|中国料理 火麒麟 東所沢店|         |           |                  |                     |
 |所沢市|台湾料理 福味居|         |           |                  |                     |
@@ -754,6 +756,7 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
+| 三島市 | [屋台風中華茶房 香香飯店 三島店](https://ramendb.supleks.jp/s/131625.html)  |  |  | [トマトと卵の刀削麺](https://ramendb.supleks.jp/review/1864154.html) | 三島駅 |
 | 伊豆市  | [龍華 土肥店](https://ramendb.supleks.jp/s/130526.html) |  |  |  | 最寄り駅なし |
 | 榛原郡  | [台湾料理 龍華 吉田本店](https://ramendb.supleks.jp/s/61006.html)  |  |  |  | 東静岡（遠い） |
 | 沼津市  | 蘇香  |  |  |  | 沼津（遠い）<br>回鍋刀削麺がある。 |
