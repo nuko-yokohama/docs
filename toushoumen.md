@@ -83,7 +83,7 @@
 | 横浜市磯子区  | [中華料理 楽軒](https://ramendb.supleks.jp/s/163418.html)    | |◯|ぬ：[坦々刀削麺](https://ramendb.supleks.jp/review/1817681.html) |屏風ヶ浦<br>R16沿い|
 | 横浜市神奈川区  | [京華楼 鶴屋町店](https://ramendb.supleks.jp/s/22677.html)   |         | ◯         | ぬ：[四川担担刀削麺](https://ramendb.supleks.jp/review/737223.html)                 |横浜駅|
 | 横浜市神奈川区  | [龍上海](https://ramendb.supleks.jp/s/95197.html)  |  |  | ぬ：[担々刀削麺](https://ramendb.supleks.jp/review/1204014.html) |東白楽<br>[龍上海 赤湯本店](https://ramendb.supleks.jp/s/2440.html)との関連はない。  |
-| 横浜市神奈川区  | [安源楼 本店](https://ramendb.supleks.jp/s/102363.html) |         |   |  |神奈川新町<br>R15沿い|
+| 横浜市神奈川区  | [安源楼 本店](https://ramendb.supleks.jp/s/102363.html) |閉店| | |神奈川新町<br>R15沿い|
 | 横浜市神奈川区  | [大連食府 神奈川新町店](https://ramendb.supleks.jp/s/135942.html) |         | ◯  | ぬ：[四川風牛バラ肉入り刀削麺](https://ramendb.supleks.jp/review/1441373.html)  |神奈川新町<br>R15沿い|
 | 横浜市神奈川区  | [劉家麺屋 刀削麺](https://ramendb.supleks.jp/s/156183.html) | 閉店      | ◯    | ぬ：[麻辣牛肉刀削麺・辛口](https://ramendb.supleks.jp/review/1699626.html) |子安|
 | 横浜市緑区  | [華の星](https://ramendb.supleks.jp/s/132013.html) |  | | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1800332.html) |中山|
