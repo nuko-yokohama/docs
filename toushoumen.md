@@ -235,6 +235,7 @@
 | 小田原市     | [家庭料理 富久](https://ramendb.supleks.jp/s/143635.html)     |    |◯ | ぬ：[マーラー刀削麺](https://ramendb.supleks.jp/review/1542549.html)  | 国府津 |
 | 小田原市     | [	台湾料理 興福順 小田原店](https://ramendb.supleks.jp/s/160600.html)   |    |     |  | 箱根板橋<br>R135沿い |
 | 小田原市     | [食香居](https://ramendb.supleks.jp/s/166447.html)   |    |     | [鶏刀削麺セット](https://ramendb.supleks.jp/review/1824056.html) | 小田原 |
+| 小田原市     | [満州園 西大友店](https://ramendb.supleks.jp/s/169869.html)   |    |     | [牛バラ刀削麺](https://ramendb.supleks.jp/review/1866076.html) | 下曽我（遠い） |
 | 小田原市     | 龍華   |  |  |  | 箱根板橋 |
 
 
@@ -455,7 +456,8 @@
 | 小平市       | 台湾風味 満福楼     |         |           |                  |                     |
 | 小金井市     | 中華料理 高園      |         |           |                  |                     |
 | 府中市     | [祥龍房 府中店](https://ramendb.supleks.jp/s/1372.html) |　| | |分倍河原|
-| 府中市     | [北京家庭菜 中河原店](https://ramendb.supleks.jp/s/18294.html) |　| | |中河原駅|
+| 府中市     | [北京家庭菜 中河原店](https://ramendb.supleks.jp/s/18294.html) |　| | |中河原|
+| 府中市     | [	餃子の王様 龍吟 ミッテン府中店](https://ramendb.supleks.jp/s/141129.html) |　| |[麻婆刀削麺](https://ramendb.supleks.jp/review/1866744.html) |府中|
 | 日野市       | 餃子坊 香港亭      |         |           |                  |                     |
 | 日野市       | [日野餃子 & 刀削麺](https://ramendb.supleks.jp/s/138721.html)   | | | [麻辣刀削麺](https://ramendb.supleks.jp/review/1478317.html) | 日野 |
 | 昭島市       | [台湾料理 祥瑞 昭島店](https://ramendb.supleks.jp/s/154303.html) | | |[台湾刀削麺、チャーハンセット](https://ramendb.supleks.jp/review/1681951.html)|拝島(少し遠い)|
