@@ -149,7 +149,7 @@
 | 相模原市緑区 | [台湾料理 龍福園](https://ramendb.supleks.jp/s/75744.html)   |         |           |  |相原(遠い)  |
 | 相模原市緑区 | [台湾料理 永旺](https://ramendb.supleks.jp/s/83329.html)   | | |  |南橋本(遠い)  |
 | 相模原市緑区 | [台湾料理 幸楽園](https://ramendb.supleks.jp/s/87353.html)   | | | ぬ：[豚骨刀削麺・焼き餃子＋ライスセット](https://ramendb.supleks.jp/review/1835739.html)| 相模湖周辺<br>R20沿い        |
-| 相模原市緑区 | 相模原 大島 台湾料理 龍華  | | | |橋本(西・遠い) |
+| 相模原市緑区 | [相模原 大島 台湾料理 龍華](https://ramendb.supleks.jp/s/170079.html)  | | | |橋本(西・遠い) |
 | 相模原市緑区 | 楽楽中華 | | | |橋本/相原(西・遠い) |
 | 町田市       | [長城飯店 町田店](https://ramendb.supleks.jp/s/81098.html) |    | | | 成瀬（少し遠い）|
 | 町田市       | [中国酒家 十年 2号店](https://ramendb.supleks.jp/s/125541.html) | 閉店   | | | |
