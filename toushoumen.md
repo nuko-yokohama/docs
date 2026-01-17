@@ -177,7 +177,7 @@
 | 横須賀市 | 土鍋餃子酒場 |？|  |  |衣笠<br>2022年4月時点では提供 |
 | 三浦市     | [龍華](https://ramendb.supleks.jp/s/87116.html) | | | ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1836176.html) | 三崎口（遠い）<br>R134沿い |
 | 三浦市     | [中華料理 桂林](https://ramendb.supleks.jp/s/169385.html) | |◯| ぬ：[麻辣牛肉面](https://ramendb.supleks.jp/review/1859760.html) |三浦海岸|
-| 茅ヶ崎市     | [華満楼 イオン茅ヶ崎中央店](https://ramendb.supleks.jp/s/137212.html) |         |           |[牛肉刀削麺](https://ramendb.supleks.jp/review/1460174.html)    | 北茅ヶ崎  |
+| 茅ヶ崎市     | [華満楼 イオン茅ヶ崎中央店](https://ramendb.supleks.jp/s/137212.html) |         |           |[牛肉刀削麺](https://ramendb.supleks.jp/review/1460174.html)<br>ぬ：[麻辛刀削麺](https://ramendb.supleks.jp/review/1872554.html) | 北茅ヶ崎  |
 | 茅ヶ崎市  | [中国料理 宏福楼 茅ヶ崎店](https://ramendb.supleks.jp/s/163386.html) | |◯|ぬ：[刀削ジャージャー麺](https://ramendb.supleks.jp/review/1850265.html)<br>[刀削牛肉麺](https://ramendb.supleks.jp/review/1859630.html)   | 茅ヶ崎<br>R1沿い  |
 | 藤沢市       | [萬福楼 新館](https://ramendb.supleks.jp/s/28672.html)       | |◯| ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1659473.html) | 藤沢   |
 | 藤沢市       | [萬福酒楼](https://ramendb.supleks.jp/s/60110.html)          | |◯| ぬ：[牛杂刀削面](https://ramendb.supleks.jp/review/1726822.html)<br>[高菜入り牛バラ肉刀削麺](https://ramendb.supleks.jp/review/1497286.html) |  藤沢  |
