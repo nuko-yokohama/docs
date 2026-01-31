@@ -214,7 +214,7 @@
 | 厚木市       | [台湾料理 福満園](https://ramendb.supleks.jp/s/142726.html) |   |   |  | R412沿い |
 | 厚木市       | [興福順 下荻野2号店](https://ramendb.supleks.jp/s/170047.html) | | |[刀削麺・餃子セット 五目刀削麺](https://ramendb.supleks.jp/review/1868354.html)  | 入谷（遠い） |
 | 厚木市       | 台湾料理 興福順 上依知2店 |未登録|   |  | 下溝（遠い） |
-| 大和市       | [台湾料理 福源](https://ramendb.supleks.jp/s/56545.html) |   |     |   | 相模大塚 |
+| 大和市       | [台湾料理 福源](https://ramendb.supleks.jp/s/56545.html) |   |     | ぬ：[特製台湾刀削麺](https://ramendb.supleks.jp/review/1875549.html)  | 相模大塚 |
 | 大和市       | [百味鮮](https://ramendb.supleks.jp/s/105933.html) |閉店|     | ぬ：[麻辣刀削面セット](https://ramendb.supleks.jp/review/1812628.html)    | 大和 |
 | 大和市       | [台湾料理 祥瑞](https://ramendb.supleks.jp/s/131533.html) |  |  |  |南林間（やや遠い）<br>県道50号沿い|
 | 大和市       | [向陽飯店 鶴間店](https://ramendb.supleks.jp/s/154890.html)   | | |  [マーラー刀削麺](https://ramendb.supleks.jp/review/1688078.html)  | 鶴間|
