@@ -47,7 +47,7 @@
 | 横浜市中区    | [四川天富園](https://ramendb.supleks.jp/s/158536.html)   |         |           | ぬ：[牛すじ入り刀削麺](https://ramendb.supleks.jp/review/1731542.html)   |  関内  |
 | 横浜市中区    | [飲茶食坊 萬華郷](https://ramendb.supleks.jp/s/161819.html)     |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1768313.html)  | 伊勢佐木   |
 | 横浜市中区    | [肥鶏土鍋](https://ramendb.supleks.jp/s/164475.html) | | | ぬ：[麻辣叉焼麺・刀削麺](https://ramendb.supleks.jp/review/1799503.html)  | 伊勢佐木<br>中華鍋料理＋刀削麺選択   |
-| 横浜市中区    | [中華第一家 杜記](https://ramendb.supleks.jp/s/166340.html) | | ◯  |    |  中華街   |
+| 横浜市中区    | [中華第一家 杜記]つ(https://ramendb.supleks.jp/s/166340.html) | | ◯  |    |  中華街   |
 | 横浜市中区    | [頼記](https://ramendb.supleks.jp/s/169491.html) | | ◯  | ぬ：[羊肉面](https://ramendb.supleks.jp/review/1861300.html) |  中華街   |
 | 横浜市中区    | [麻香園](https://ramendb.supleks.jp/s/170106.html) | | ◯  | ぬ：[牛肚刀削面](https://ramendb.supleks.jp/review/1869398.html) |  中華街   |
 | 横浜市保土ケ谷区  | [錦蘭](https://ramendb.supleks.jp/s/34543.html)    |？|  |  |  和田町<br>R16沿い<br>2年前に刀削麺提供のログあり。 |
@@ -113,7 +113,7 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 川崎市中原区 | [中華料理 曙](https://ramendb.supleks.jp/s/154884.html)       |         |           |                  | 元住吉 |
+| 川崎市中原区 | [中華料理 曙](https://ramendb.supleks.jp/s/154884.html)       |         |           | ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1877376.html)               | 元住吉 |
 | 川崎市中原区 | [川味坊](https://ramendb.supleks.jp/s/160353.html)  | | |ぬ：[ランチ・ピリ辛牛バラ刀削麺＋ライス](https://ramendb.supleks.jp/review/1802046.html)| 武蔵小杉 |
 | 川崎市中原区 | [川湘楼](https://ramendb.supleks.jp/s/164582.html)   | | |ぬ：[ランチ18・五目刀削麺＋チャーハン](https://ramendb.supleks.jp/review/1800640.html)| 武蔵小杉 |
 | 川崎市中原区 | [你好 武蔵小杉店](https://ramendb.supleks.jp/s/165758.html)  | | |ぬ：[刀削麺（辛口）](https://ramendb.supleks.jp/review/1814253.html) | 武蔵小杉 |
