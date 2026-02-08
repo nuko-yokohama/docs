@@ -256,7 +256,7 @@
 | 世田谷区    |  楊國福          |         |           |                  |                     |
 | 中央区    | 西安料理刀削麺 園 |         |           |                  |                     |
 | 中央区    | 刀削麺酒家 茅場町店 |         |           |                  |                     |
-| 中央区    | [刀削麺の王様 茅場町店](https://ramendb.supleks.jp/s/34136.html) |         |           |[釜揚げ刀削麺](https://ramendb.supleks.jp/review/681210.html)|茅場町<br>日・祝休み|
+| 中央区    | [刀削麺の王様 茅場町店](https://ramendb.supleks.jp/s/34136.html) |         |           |[釜揚げ刀削麺](https://ramendb.supleks.jp/review/681210.html)<br>[西安風 サンラー刀削麺](1875966)|茅場町<br>日・祝休み|
 | 中央区    | 台湾料理 小星星 八丁堀店|         |           |                  |                     |
 | 中央区    | 中華料理 美味軒 小伝馬町店 |         |           |                  |                     |
 | 中央区    | 四川料理刀削麺 川府 日本橋店 |  |           |                  |                     |
@@ -391,6 +391,7 @@
 | 江東区 | [元祖打卤麺 香辣居 8号店](https://ramendb.supleks.jp/s/114403.html) | | |[マーボー麵 刀削麺](https://ramendb.supleks.jp/review/1800763.html)|西大島|
 | 江東区 | 中国料理 宝園  | | |    |   |
 | 江東区 | 中華料理 菜香菜 東陽町店 | | |    |   |
+| 江東区 | [張大大 金湯麻辣湯](https://ramendb.supleks.jp/s/168015.html) | | | [麻辣湯（トマトスープ・刀削麺）](https://ramendb.supleks.jp/review/1874406.html)   |亀戸|
 | 渋谷区 | [刀削麺 張家 恵比寿店](https://ramendb.supleks.jp/s/18889.html) | | |    |恵比寿|
 | 渋谷区 | [猪八戒 千駄ヶ谷本店](https://ramendb.supleks.jp/s/20406.html) | | |    |千駄ヶ谷|
 | 渋谷区 | らぁ麺屋 つなぎ | | |    |   |
