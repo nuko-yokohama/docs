@@ -120,6 +120,7 @@
 | 川崎市中原区 | 玉蘭苑 刀削麺   |         |           |                  | 新丸子<br>夜のみ営業 |
 | 川崎市多摩区 | [中華料理 華宴](https://ramendb.supleks.jp/s/89473.html)   |         |           |                  | 稲田堤<br>麺類+50円で刀削麺変更 |
 | 川崎市多摩区 | [台湾料理 祥瑞 登戸店](https://ramendb.supleks.jp/s/165011.html)   | | |ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1805482.html) | 中野島（少し遠い） |
+| 川崎市多摩区 | 中華料理 文昌   | 未登録 | |  | 向ヶ丘遊園<br>「生刀削麺」の記載。 |
 | 川崎市宮前区 | [松楽菜館](https://ramendb.supleks.jp/s/119992.html)          |         |           |[高菜肉入り刀削麺](https://ramendb.supleks.jp/review/1871366.html)（注：玉葱入り）| 鷺沼 |
 | 川崎市川崎区 | [家系らーめん 横崎家 川崎店](https://ramendb.supleks.jp/s/87231.html)   |         |           |  | 川崎<br>家系＆刀削麺 |
 | 川崎市川崎区 | [多福楼 川崎店](https://ramendb.supleks.jp/s/30984.html)     |         |           | ぬ：[牛バラ麺・汁あり・刀削麺](https://ramendb.supleks.jp/review/1336390.html)<br>[牛バラ角煮刀削麺](https://ramendb.supleks.jp/review/1859261.html) | 川崎(東) |
