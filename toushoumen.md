@@ -70,7 +70,7 @@
 | 横浜市旭区 | [中国料理 金満園 若葉台店](https://ramendb.supleks.jp/s/144410.html)    | | | ぬ：[牛肉刀削麺](https://ramendb.supleks.jp/review/1839886.html)  |すずかけ台駅（遠い）|
 | 横浜市泉区 | [中国料理 旬香菜館](https://ramendb.supleks.jp/s/76697.html) |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1459706.html)                 |立場|
 | 横浜市港北区  | [清宏楼](https://ramendb.supleks.jp/s/82771.html)    |   |    |  [タンタン刀削麺](https://ramendb.supleks.jp/review/1716272.html)   |新横浜|
-| 横浜市港北区  | [芳香園 新横浜 北京ダック専門店](https://ramendb.supleks.jp/s/83985.html)    |   |    |  [辣子鶏刀削麺・不要玉葱](https://ramendb.supleks.jp/review/1879119.html)   |新横浜|
+| 横浜市港北区  | [芳香園 新横浜 北京ダック専門店](https://ramendb.supleks.jp/s/83985.html)    |   |    |  ぬ：[辣子鶏刀削麺・不要玉葱](https://ramendb.supleks.jp/review/1879119.html)   |新横浜|
 | 横浜市港北区  | [中華料理 北京亭](https://ramendb.supleks.jp/s/94524.html)   |         |           | ぬ：[湖南刀削麺](https://ramendb.supleks.jp/review/1703016.html) |綱島|
 | 横浜市港北区  | [向陽飯店 大倉山店](https://ramendb.supleks.jp/s/126463.html)   | |  | ぬ：[マーラー刀削麺](https://ramendb.supleks.jp/review/1539923.html)    |大倉山<br>環状2号沿い|
 | 横浜市港北区  | [アジア中華創作料理 天府餃子城](https://ramendb.supleks.jp/s/132744.html)   ||  | ぬ：[高菜入り牛バラ刀削麺(](https://ramendb.supleks.jp/review/1853377.html)    |新横浜|
@@ -143,6 +143,7 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
+| 相模原市中央区 | [大衆酒場 王家餃子](https://ramendb.supleks.jp/s/105790.html) | | | ぬ：[ラム肉辛味刀削麺](https://ramendb.supleks.jp/review/1881026.html)|淵野辺|
 | 相模原市中央区 | [台湾料理 昇龍](https://ramendb.supleks.jp/s/111599.html) | | | |矢部(南 少し遠い)|
 | 相模原市中央区 | [中華料理 香郷源](https://ramendb.supleks.jp/s/146635.html) | | | [タンタン刀削麺](https://ramendb.supleks.jp/review/1821448.html) |相模原|
 | 相模原市中央区 | 華香園 | 未登録 |  |  | 上溝（遠い） |
