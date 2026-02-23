@@ -49,7 +49,7 @@
 | 横浜市中区    | [肥鶏土鍋](https://ramendb.supleks.jp/s/164475.html) | 閉店 | | ぬ：[麻辣叉焼麺・刀削麺](https://ramendb.supleks.jp/review/1799503.html)  | 伊勢佐木<br>中華鍋料理＋刀削麺選択   |
 | 横浜市中区    | [中華第一家 杜記](https://ramendb.supleks.jp/s/166340.html) | | ◯  |    |  中華街   |
 | 横浜市中区    | [頼記](https://ramendb.supleks.jp/s/169491.html) | | ◯  | ぬ：[羊肉面](https://ramendb.supleks.jp/review/1861300.html) |  中華街   |
-| 横浜市中区    | [麻香園](https://ramendb.supleks.jp/s/170106.html) | | ◯  | ぬ：[牛肚刀削面](https://ramendb.supleks.jp/review/1869398.html) |  中華街   |
+| 横浜市中区    | [麻香園](https://ramendb.supleks.jp/s/170106.html) | | ◯  | ぬ：[牛肚刀削面](https://ramendb.supleks.jp/review/1869398.html)<br>[高菜牛肉刀削麺](https://ramendb.supleks.jp/review/1878943.html) |  中華街   |
 | 横浜市保土ケ谷区  | [錦蘭](https://ramendb.supleks.jp/s/34543.html)    |？|  |  |  和田町<br>R16沿い<br>2年前に刀削麺提供のログあり。 |
 | 横浜市保土ケ谷区  | [玲瓏](https://ramendb.supleks.jp/s/140808.html)         |   |    | ぬ：[西安刀削面](https://ramendb.supleks.jp/review/1688970.html)   | 天王町 |
 | 横浜市保土ケ谷区  | [中華料理 天王軒](https://ramendb.supleks.jp/s/141519.html)    |   |  | ぬ：[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1511557.html)  |  天王町  |
@@ -402,6 +402,7 @@
 | 渋谷区 | 路地裏本格中華 陳家私菜 渋谷店 | | |    |   |
 | 渋谷区 | 中華ダイニング 馨 | | |    |   |
 | 渋谷区 | [チャ～ボン 多福楼 渋谷宮下公園前店](https://ramendb.supleks.jp/s/134354/review) | | |    |渋谷|
+| 渋谷区 | [座・撒椒 渋谷店](https://ramendb.supleks.jp/s/163077.html) |  |  | [麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1881184.html) |渋谷| 
 | 港区  | [長安 刀削麺](https://ramendb.supleks.jp/s/4572.html) | | ◯ |    | 虎ノ門 |
 | 港区  | [西安料理 刀削麺 火鍋 XI’AN 新橋店](https://ramendb.supleks.jp/s/14705.html) | | ◯ | ぬ：[油撥刀削麺](https://ramendb.supleks.jp/review/1657967.html)  |新橋|
 | 港区  | [中国家庭菜 湧の台所](https://ramendb.supleks.jp/s/15603.html) | | |[麻辣刀削麺](https://ramendb.supleks.jp/review/97285.html)|赤坂見附|
@@ -463,7 +464,7 @@
 | 小平市       | 傑作               |         |           |                  |                     |
 | 小平市       | 台湾風味 満福楼     |         |           |                  |                     |
 | 小金井市     | 中華料理 高園      |         |           |                  |                     |
-| 府中市     | [祥龍房 府中店](https://ramendb.supleks.jp/s/1372.html) |　| | |分倍河原|
+| 府中市     | [祥龍房 府中店](https://ramendb.supleks.jp/s/1372.html) |　|[牛肉刀削麺](https://ramendb.supleks.jp/review/1880927.html) | |分倍河原|
 | 府中市     | [北京家庭菜 中河原店](https://ramendb.supleks.jp/s/18294.html) |　| | |中河原|
 | 府中市     | [	餃子の王様 龍吟 ミッテン府中店](https://ramendb.supleks.jp/s/141129.html) |　| |[麻婆刀削麺](https://ramendb.supleks.jp/review/1866744.html) |府中|
 | 日野市       | 餃子坊 香港亭      |         |           |                  |                     |
