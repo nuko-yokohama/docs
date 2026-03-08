@@ -47,7 +47,7 @@
 | 横浜市中区    | [四川天富園](https://ramendb.supleks.jp/s/158536.html)   |         |           | ぬ：[牛すじ入り刀削麺](https://ramendb.supleks.jp/review/1731542.html)   |  関内  |
 | 横浜市中区    | [飲茶食坊 萬華郷](https://ramendb.supleks.jp/s/161819.html)     |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1768313.html)  | 伊勢佐木   |
 | 横浜市中区    | [肥鶏土鍋](https://ramendb.supleks.jp/s/164475.html) | 閉店 | | ぬ：[麻辣叉焼麺・刀削麺](https://ramendb.supleks.jp/review/1799503.html)  | 伊勢佐木<br>中華鍋料理＋刀削麺選択   |
-| 横浜市中区    | [中華第一家 杜記](https://ramendb.supleks.jp/s/166340.html) | | ◯  |    |  中華街   |
+| 横浜市中区    | [中華第一家 杜記](https://ramendb.supleks.jp/s/166340.html) | | ◯  | ぬ：[ラム肉刀削麺](https://ramendb.supleks.jp/review/1884525.html) |  中華街   |
 | 横浜市中区    | [頼記](https://ramendb.supleks.jp/s/169491.html) | | ◯  | ぬ：[羊肉面](https://ramendb.supleks.jp/review/1861300.html) |  中華街   |
 | 横浜市中区    | [麻香園](https://ramendb.supleks.jp/s/170106.html) | | ◯  | ぬ：[牛肚刀削面](https://ramendb.supleks.jp/review/1869398.html)<br>[高菜牛肉刀削麺](https://ramendb.supleks.jp/review/1878943.html) |  中華街   |
 | 横浜市中区    | [蒙虎ぎょうざ伝説](https://ramendb.supleks.jp/s/171938.html) | |  | ぬ：[重慶小面・刀削麺変更](https://ramendb.supleks.jp/review/1884223.html) |  阪東橋   |
