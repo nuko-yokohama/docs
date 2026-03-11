@@ -35,8 +35,10 @@
 | 横浜市中区    |  [広東名菜・健康美食 一品閣](https://ramendb.supleks.jp/s/70831.html)   |   | ◯ | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1589834.html)   |  中華街 |
 | 横浜市中区    | [唐家村](https://ramendb.supleks.jp/s/84080.html)   |     |   | [青菜と牛肉刀削麺](https://ramendb.supleks.jp/review/1561368.html) |  関内  |
 | 横浜市中区    | [麺王翔記](https://ramendb.supleks.jp/s/86302.html)   |         | ◯  | ぬ：[担担刀削麺](https://ramendb.supleks.jp/review/938058.html) | 中華街 |
+| 横浜市中区    | [龍城飯店 本館](https://ramendb.supleks.jp/s/96363.html)   |         |  |  | 中華街<br>自己手削 |
 | 横浜市中区    | [和記食坊](https://ramendb.supleks.jp/s/115781.html)  |         |           | [マーボー刀削麺](https://ramendb.supleks.jp/review/1569689.html)<br>ぬ：[什錦刀削面](https://ramendb.supleks.jp/review/1803653.html) | 伊勢佐木<br>品名は刀削麺となっているが、明らかに刀削麺ではない別物 |
-| 横浜市中区    | [中国郷土料理 錦里](https://ramendb.supleks.jp/s/122453.html) |   |    | ぬ：[マーラー牛バラの刀削麺](https://ramendb.supleks.jp/review/1311838.html)  | 中華街<br>グランドメニューにはない  |
+| 横浜市中区    | [四川麻婆 新館](https://ramendb.supleks.jp/s/113566.html)   |         |   | ぬ：[重庆小面・刀削麺変更](https://ramendb.supleks.jp/review/1885042.html) | 中華街 |
+| 横浜市中区    | [中国郷土料理 錦里](https://ramendb.supleks.jp/s/122453.html) |閉店|    | ぬ：[マーラー牛バラの刀削麺](https://ramendb.supleks.jp/review/1311838.html)  | 中華街<br>グランドメニューにはない  |
 | 横浜市中区    | [楊家菜館](https://ramendb.supleks.jp/s/122628.html)   |         |           | ぬ：[麻辣牛肉刀削面](https://ramendb.supleks.jp/review/1280645.html)                 | 伊勢佐木                    |
 | 横浜市中区    | [富莚](https://ramendb.supleks.jp/s/122726.html)  |         |    |ぬ：[葱油刀削麺](https://ramendb.supleks.jp/review/1281880.html)   |  中華街 |
 | 横浜市中区    | [川味](https://ramendb.supleks.jp/s/122793.html)   | 閉店    |           | ぬ：[泡椒羊肉面＋青汁刀削麺変更](https://ramendb.supleks.jp/review/1282483.html)| 中華街 |
