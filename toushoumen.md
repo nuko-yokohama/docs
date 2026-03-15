@@ -540,7 +540,7 @@
 |柏市|天外天刀削麺|         |           |                  |                     |
 |柏市|[本格中華 清香閣](https://ramendb.supleks.jp/s/163718.html)|         |           |                  |柏駅(遠い)|
 |浦安市|[中国料理 味道](https://ramendb.supleks.jp/s/131023.html)|         |           |[牛肉刀削麺](https://ramendb.supleks.jp/review/1816239.html)|浦安|
-|船橋市|餃子酒場 船橋店|         |           |                  |                     |
+|船橋市|[餃子酒場 船橋店](https://ramendb.supleks.jp/s/130188.html) | | ◯？ | [特製まぜ刀削麺](https://ramendb.supleks.jp/review/1586077.html) | 京成船橋 |
 |船橋市|中華上海料理 大龍|         |           |                  |                     |
 |野田市|百香亭 野田店|         |           |                  |                     |
 
@@ -743,7 +743,8 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| つくば市  |創作中華 えん弥 桜ニュータウン店  |         |           |                  |                     |
+| つくば市  |[創作中華 えん弥 桜ニュータウン店](https://ramendb.supleks.jp/s/116802.html)  | | | [ランチセット　担々刀削麺](https://ramendb.supleks.jp/review/1337201.html) | 最寄り駅不明 |
+| つくば市  |[創作中華 えん弥 東光台店](https://ramendb.supleks.jp/s/116803.html)  |　|　| [五目刀削麺](https://ramendb.supleks.jp/review/1885226.html) | 最寄り駅不明 |
 | つくば市     |中国家庭料理 香福園 |         |           |                  |                     |
 | つくば市      | [XI’AN 刀削麺 筑波大学店](https://ramendb.supleks.jp/s/163637.html) |         |           | [麻辣刀削麺](https://ramendb.supleks.jp/review/1829924.html) | 最寄り駅不明 |
 | 下妻市     | [富久楼](ramendb.supleks.jp/s/135373.html) | | | [カルボナーラ刀削麺](https://ramendb.supleks.jp/review/1833304.html)| イオンモール下妻内<br>最寄り駅はなし。|
