@@ -403,7 +403,7 @@
 | 渋谷区 | [刀削麺 張家 恵比寿店](https://ramendb.supleks.jp/s/18889.html) | | |    |恵比寿|
 | 渋谷区 | [猪八戒 千駄ヶ谷本店](https://ramendb.supleks.jp/s/20406.html) | | |    |千駄ヶ谷|
 | 渋谷区 | らぁ麺屋 つなぎ | | |    |   |
-| 渋谷区 | [陳家私菜 新宿店](https://ramendb.supleks.jp/s/73066.html) | | |汁無し担々麻辣刀削麺|新線新宿駅|
+| 渋谷区 | [陳家私菜 新宿店](https://ramendb.supleks.jp/s/73066.html) | | |[汁無し担々麻辣刀削麺](https://ramendb.supleks.jp/review/1886120.html)|新宿駅|
 | 渋谷区 | 路地裏本格中華 陳家私菜 渋谷店 | | |    |   |
 | 渋谷区 | 中華ダイニング 馨 | | |    |   |
 | 渋谷区 | [チャ～ボン 多福楼 渋谷宮下公園前店](https://ramendb.supleks.jp/s/134354/review) | | |    |渋谷|
@@ -720,7 +720,7 @@
 | いわき市     |  中国料理 福興     |         |           |                  |                     |
 | 福島市       | 中華・台湾料理居酒屋 鳳来 |         |           |                  |                     |
 | 福島市       | 新中国料理 福香亭   |         |           |                  |                     |
-| 郡山市       | [酒菜 刀削麺](https://ramendb.supleks.jp/s/53700.html)        |         | |[麻辣刀削麺](https://ramendb.supleks.jp/review/1292529.html)   |        |
+| 郡山市       | [酒菜 刀削麺](https://ramendb.supleks.jp/s/53700.html)        |         | |[麻辣刀削麺](https://ramendb.supleks.jp/review/1292529.html)<br>[坦々刀削麺](https://ramendb.supleks.jp/review/1886206.html)  |        |
 
 ### 群馬県
 
