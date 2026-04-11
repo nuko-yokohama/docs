@@ -68,7 +68,7 @@
 | 横浜市南区 | [味香園](https://ramendb.supleks.jp/s/165922.html) |    | | ぬ：[ランチA・みそ刀削麺](https://ramendb.supleks.jp/review/1815960.html)|弘明寺|
 | 横浜市戸塚区 | [華香閣](https://ramendb.supleks.jp/s/113352.html)       |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1571656.html) |戸塚|
 | 横浜市戸塚区 | [向陽飯店 戸塚店](https://ramendb.supleks.jp/s/130812.html)     |         |           | ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1725023.html)  |戸塚（遠い）|
-| 横浜市戸塚区 | [北京飯店 戸塚店](https://ramendb.supleks.jp/s/144163.html)     | 閉店？ |     | [麻婆刀削麺](https://ramendb.supleks.jp/review/1890510.html) | 戸塚（遠い）|
+| 横浜市戸塚区 | [北京飯店 戸塚店](https://ramendb.supleks.jp/s/144163.html)     | 閉店 |     | [麻婆刀削麺](https://ramendb.supleks.jp/review/1890510.html) | 戸塚（遠い）|
 | 横浜市旭区 | [向陽飯店 上白根店](https://ramendb.supleks.jp/s/110851.html)    |         |           | ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1518667.html)        | |
 | 横浜市旭区 | [中国料理 金満園 若葉台店](https://ramendb.supleks.jp/s/144410.html)    | | | ぬ：[牛肉刀削麺](https://ramendb.supleks.jp/review/1839886.html)  |すずかけ台駅（遠い）|
 | 横浜市泉区 | [中国料理 旬香菜館](https://ramendb.supleks.jp/s/76697.html) |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1459706.html)                 |立場|
