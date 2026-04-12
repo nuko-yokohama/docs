@@ -318,6 +318,7 @@
 | 千代田区  | 明記 中華酒場 |         |           |                  |                     |
 | 千代田区  | 張家 虎ノ門店 |         |           |                  |                     |
 | 千代田区  | [個室中華居酒屋 元祖秋神保町店](https://ramendb.supleks.jp/s/168324/review) | |  | [麻辣刀削麺](https://ramendb.supleks.jp/review/1860548.html) |神保町|
+| 千代田区  | [陳家私菜 丸の内店](https://ramendb.supleks.jp/s/168783.html) | | | [元祖汁無し坦々麻辣刀削麺](https://ramendb.supleks.jp/review/1852478.html) | 東京<br>有楽町|
 | 台東区    | 馥香         |          |         |                    |                    |
 | 台東区    | 正宗四川料理 福楽 |          |         |                    |                    |
 | 台東区    | [祥龍刀削麺荘](https://ramendb.supleks.jp/s/52557.html) |          |         |                    |上野|
