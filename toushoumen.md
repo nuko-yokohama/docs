@@ -82,6 +82,8 @@
 | 横浜市港北区  | [ニーハオ 新横浜店](https://ramendb.supleks.jp/s/153898.html)   |  |  | |新横浜<br>2023年時点ではメニューに牛肉刀削麺あり|
 | 横浜市港北区  | [楽宴](https://ramendb.supleks.jp/s/161967.html)   |  |  |ぬ：[担々刀削面](https://ramendb.supleks.jp/review/1807030.html)  |大倉山<br>綱島街道沿い|
 | 横浜市港北区  | [品味中華 華の星 酒館](https://ramendb.supleks.jp/s/168346.html) |  |  | ぬ：[親子刀削麺](https://ramendb.supleks.jp/review/1846539.html) |綱島|
+| 横浜市港北区  | 福田 大衆酒場 | 未登録 |  | |新横浜<br>担々刀削麺のみ？
+|
 | 横浜市港南区  | [刀削麺屋 港南店](https://ramendb.supleks.jp/s/89843.html)    |         | ◯       | ぬ：[角煮担々刀削麺](https://ramendb.supleks.jp/review/982516.html)    |港南中央|
 | 横浜市港南区  | [匠味](https://ramendb.supleks.jp/s/118920.html)   |  |    |ぬ：[四川担々刀削麺](https://ramendb.supleks.jp/review/1312358.html)|上大岡<br>鎌倉街道沿い|
 | 横浜市港南区  | [中華料理 瀋陽](https://ramendb.supleks.jp/s/116197.html)   | 閉店       |  | ぬ：[高菜牛肉刀削面](https://ramendb.supleks.jp/review/1706896.html)   |上大岡|
@@ -201,6 +203,7 @@
 | 藤沢市 | [向陽飯店 大庭店](https://ramendb.supleks.jp/s/166663.html) |  |  | [葱チャーシュー刀削麺](https://ramendb.supleks.jp/review/1827309.html) | 善行（遠い） |
 | 藤沢市 | [興福順 長後店](https://ramendb.supleks.jp/s/166875.html) |  |  | ぬ：[牛肉刀削麺](https://ramendb.supleks.jp/review/1827401.html) | 長後（遠い） |
 | 藤沢市 | [渓源 南口店](https://ramendb.supleks.jp/s/166966.html) |  |  |  | 藤沢 |
+| 藤沢市 | 中華旬館 彩えん坊 | 未登録 | | | | 辻堂(少し遠い) |
 | 平塚市 | [向陽飯店 平塚駅前店](https://ramendb.supleks.jp/s/124398.html) |閉店|  |  | 平塚 |
 | 平塚市 | [向陽飯店 平塚店](https://ramendb.supleks.jp/s/130996.html) |？|  |  | 大磯（遠い）<br>Google Mapでは営業中 |
 | 平塚市 | [台湾料理 佳佳紅](https://ramendb.supleks.jp/s/146319.html) |  |  | | 2023年2月にはメニューにあり。<br>平塚（遠い） |
@@ -234,6 +237,8 @@
 | 大和市       | [中国料理 上海飯店](https://ramendb.supleks.jp/s/168209.html) |  |  |ぬ：[豚肉キャベツ刀削麺](https://ramendb.supleks.jp/review/1844659.html) |大和|
 | 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |終了？| | ぬ：[刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    | さがみ野 |
 | 座間市       | [台湾料理 興福順 小田急相模原店](https://ramendb.supleks.jp/s/130874.html)   | |           |   | 小田急相模原 |
+| 座間市       | [中国酒家 十年 イオンモール座間店](https://ramendb.supleks.jp/s/130162.html)   | | 
+|   | 相武台駅(小田急)(遠い) |
 | 愛甲郡     | [台湾料理 興福順 半原店](https://ramendb.supleks.jp/s/79102.html)     |    |     |  | R412沿い |
 | 海老名市     | 台湾料理 龍華 |未登録|   |  | 厚木（やや遠い） |
 | 海老名市     | 台湾料理 千福 |未登録|   |  | 海老名（やや遠い） |
