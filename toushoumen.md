@@ -201,7 +201,7 @@
 | 藤沢市 | [向陽飯店 長後店](https://ramendb.supleks.jp/s/166612.html) |  |  | ぬ：[向陽五目麺・刀削麺変更](https://ramendb.supleks.jp/review/1824501.html) | 長後(少し遠い)<br>R467沿い |
 | 藤沢市 | [向陽飯店 大庭店](https://ramendb.supleks.jp/s/166663.html) |  |  | [葱チャーシュー刀削麺](https://ramendb.supleks.jp/review/1827309.html) | 善行（遠い） |
 | 藤沢市 | [興福順 長後店](https://ramendb.supleks.jp/s/166875.html) |  |  | ぬ：[牛肉刀削麺](https://ramendb.supleks.jp/review/1827401.html) | 長後（遠い） |
-| 藤沢市 | [渓源 南口店](https://ramendb.supleks.jp/s/166966.html) |  |  |  | 藤沢 |
+| 藤沢市 | [渓源 南口店](https://ramendb.supleks.jp/s/166966.html) |  |  | ぬ：[台湾味噌麺・刀削麺変更](https://ramendb.supleks.jp/review/1901270.html) | 藤沢 |
 | 藤沢市 | 中華旬館 彩えん坊 | 未登録 | | | | 辻堂(少し遠い) |
 | 平塚市 | [向陽飯店 平塚駅前店](https://ramendb.supleks.jp/s/124398.html) |閉店|  |  | 平塚 |
 | 平塚市 | [向陽飯店 平塚店](https://ramendb.supleks.jp/s/130996.html) |？|  |  | 大磯（遠い）<br>Google Mapでは営業中 |
