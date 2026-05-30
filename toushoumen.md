@@ -168,6 +168,7 @@
 | 町田市       | [蜀味軒](https://ramendb.supleks.jp/s/125856.html) |   |    |       |  町田  |
 | 町田市       | [香港厨房 風香園](https://ramendb.supleks.jp/s/140274.html) |   |    |       |  町田  |
 | 町田市       | [蜀味軒 別館](https://ramendb.supleks.jp/s/161071.html) |   |    |       |  町田  |
+| 町田市       | [麻辣刀削麺 森](https://ramendb.supleks.jp/s/173526.html) |  | ◯ | ぬ：[マーラー麺](https://github.com/nuko-yokohama/docs/blob/master/toushoumen.md) | 町田 |
 | 町田市       | 大衆中華食堂 金満園 |   |    |       |  成瀬  |
 
 
