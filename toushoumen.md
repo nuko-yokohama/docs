@@ -348,7 +348,7 @@
 | 品川区    | [朝霞 天王洲店](https://ramendb.supleks.jp/s/101592.html) | | | [麻辣刀削麺、チャーハンセット](https://ramendb.supleks.jp/review/1384850.html)   | 天王洲アイル |
 | 品川区    | [香辛中華 來來羊](https://ramendb.supleks.jp/s/132020.html) | | | [羊肉刀削面（ラム肉入り刀削麺）ハーフ](https://ramendb.supleks.jp/review/1411599.html)<br>ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1820902.html)   |   |
 | 品川区    | [刀削麺・火鍋・西安料理 XI’AN 五反田店](https://ramendb.supleks.jp/s/142925.html) | 閉店 | |    |   |
-| 品川区    | [華源楼](https://ramendb.supleks.jp/s/159158.html) |  |  |  | 戸越公園 |
+| 品川区    | [華源楼](https://ramendb.supleks.jp/s/159158.html) |  | ◯ | ぬ：[麻辣刀削麺・Aセット＋中辛](https://ramendb.supleks.jp/review/1905797.html) | 戸越公園 |
 | 墨田区    | 中華料理 谷記 3号店 | | |    |   |
 | 墨田区    | 中国料理 祥龍房 刀削麺荘 | | |    |   |
 | 墨田区    | 中華料理 谷記 錦糸町南口店 | | |    |   |
