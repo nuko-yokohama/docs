@@ -132,7 +132,7 @@
 | 川崎市宮前区 | [松楽菜館](https://ramendb.supleks.jp/s/119992.html)          |         |           |[高菜肉入り刀削麺](https://ramendb.supleks.jp/review/1871366.html)（注：玉葱入り）| 鷺沼 |
 | 川崎市川崎区 | [家系らーめん 横崎家 川崎店](https://ramendb.supleks.jp/s/87231.html)   |         |           |  | 川崎<br>家系＆刀削麺 |
 | 川崎市川崎区 | [多福楼 川崎店](https://ramendb.supleks.jp/s/30984.html)     |         |           | ぬ：[牛バラ麺・汁あり・刀削麺](https://ramendb.supleks.jp/review/1336390.html)<br>[牛バラ角煮刀削麺](https://ramendb.supleks.jp/review/1859261.html) | 川崎(東) |
-| 川崎市川崎区 | [中華料理 大番](https://ramendb.supleks.jp/s/31224.html)    |         |  | | 川崎（少し遠い） |
+| 川崎市川崎区 | [中華料理 大番](https://ramendb.supleks.jp/s/31224.html)    | |  | ぬ：[牛腩刀削面](https://ramendb.supleks.jp/review/1907245.html) | 川崎（少し遠い） |
 | 川崎市川崎区 | [満園](https://ramendb.supleks.jp/s/34460.html)    |         |◯         | ぬ：[高菜麺・刀削麺変更](https://ramendb.supleks.jp/review/1783460.html) | 八丁畷 |
 | 川崎市川崎区 | [香蘭](https://ramendb.supleks.jp/s/137924.html)    |         |  |ぬ：[牛バラ刀削麺セット](https://ramendb.supleks.jp/review/1813992.html)| 川崎(東)<br>最近、刀削麺を提供開始した。 |
 | 川崎市川崎区 | [一龍 餃子亭](https://ramendb.supleks.jp/s/138773.html)          |         |           |ぬ：[豚角煮刀削麺](https://ramendb.supleks.jp/review/1756604.html)  | 八丁畷 |
