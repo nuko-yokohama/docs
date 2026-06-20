@@ -144,7 +144,7 @@
 | 川崎市幸区   | [金麟](https://ramendb.supleks.jp/s/124603.html)              |         |           | |  川崎(西) |
 | 川崎市幸区   | [幸福飯店](https://ramendb.supleks.jp/s/167439.html)      | | | ぬ：[五目刀削面](https://ramendb.supleks.jp/review/1834153.html) |  鹿島田/矢向(遠い) |
 | 川崎市高津区 | [龍華飯店 溝ノ口店](https://ramendb.supleks.jp/s/134901.html)          |         |           | ぬ：[酸辣刀削麺・玉葱抜き](https://ramendb.supleks.jp/review/1783796.html) | 武蔵溝ノ口 |
-| 川崎市高津区 | [C-MEN-HAN. マルイ溝口店](https://ramendb.supleks.jp/s/166233.html)          |         |           | [香辣牛バラ麺　刀削麺](https://ramendb.supleks.jp/review/1833668.html) | 武蔵溝ノ口 |
+| 川崎市高津区 | [C-MEN-HAN. マルイ溝口店](https://ramendb.supleks.jp/s/166233.html) | | | ぬ：[香辣牛バラ麺・刀削麺変更(https://ramendb.supleks.jp/review/1907519.html) | 武蔵溝ノ口 |
 
 ### 相模原市
 
