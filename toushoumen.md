@@ -257,7 +257,7 @@
 | 小田原市     | [台湾料理 興福順 寿町店](https://ramendb.supleks.jp/s/128858.html)   | | | [五目 刀削麺](https://ramendb.supleks.jp/review/1359511.html)  | 緑町（遠い） |
 | 小田原市     | [家庭料理 富久](https://ramendb.supleks.jp/s/143635.html)     |    |◯ | ぬ：[マーラー刀削麺](https://ramendb.supleks.jp/review/1542549.html)  | 国府津 |
 | 小田原市     | [	台湾料理 興福順 小田原店](https://ramendb.supleks.jp/s/160600.html)   |    |　| ぬ：[麻辣刀削麺・餃子セット](https://ramendb.supleks.jp/review/1898182.html)  | 箱根板橋<br>R135沿い |
-| 小田原市     | [食香居](https://ramendb.supleks.jp/s/166447.html)   |    |     | [鶏刀削麺セット](https://ramendb.supleks.jp/review/1824056.html) | 小田原 |
+| 小田原市     | [食香居](https://ramendb.supleks.jp/s/166447.html)   |    |     | [鶏刀削麺セット](https://ramendb.supleks.jp/review/1824056.html)<br>ぬ：[牛肉刀削麺＋半炒飯セット](https://ramendb.supleks.jp/review/1909433.html) | 小田原 |
 | 小田原市     | [満州園 西大友店](https://ramendb.supleks.jp/s/169869.html)   |    |     | [牛バラ刀削麺](https://ramendb.supleks.jp/review/1866076.html) | 下曽我（遠い） |
 | 小田原市     | 龍華   |  |  |  | 箱根板橋 |
 
