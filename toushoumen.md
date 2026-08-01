@@ -125,6 +125,7 @@
 | 川崎市中原区 | [川湘楼](https://ramendb.supleks.jp/s/164582.html)   | | |ぬ：[ランチ18・五目刀削麺＋チャーハン](https://ramendb.supleks.jp/review/1800640.html)| 武蔵小杉 |
 | 川崎市中原区 | [你好 武蔵小杉店](https://ramendb.supleks.jp/s/165758.html)  | | |ぬ：[刀削麺（辛口）](https://ramendb.supleks.jp/review/1814253.html) | 武蔵小杉 |
 | 川崎市中原区 | 玉蘭苑 刀削麺   |         |           |                  | 新丸子<br>夜のみ営業 |
+| 川崎市中原区 | 創作中華料理 好運来   |         |           |                  | 武蔵新城<br>夜のみ営業 |
 | 川崎市多摩区 | [中華料理 華宴](https://ramendb.supleks.jp/s/89473.html)   |         |           |                  | 稲田堤<br>麺類+50円で刀削麺変更 |
 | 川崎市多摩区 | [台湾料理 祥瑞 登戸店](https://ramendb.supleks.jp/s/165011.html)   | | |ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1805482.html) | 中野島（少し遠い） |
 | 川崎市多摩区 | [中華料理 文昌](https://ramendb.supleks.jp/s/172194.html)   |  | | ぬ：[牛バラ麻婆豆腐ラーメン・生刀削麺変更](https://ramendb.supleks.jp/review/1885607.html)  | 向ヶ丘遊園<bre>一部の麺は刀削麺変更可能 |
