@@ -103,7 +103,7 @@
 | 横浜市西区 |  [小尾羊 横浜西口店](https://ramendb.supleks.jp/s/81810.html)  |   |  |   | 横浜駅 |
 | 横浜市西区 |  [西安健菜キッチン MARK IS みなとみらい店](https://ramendb.supleks.jp/s/101038.html)  | 閉店  |  | ぬ：[豆乳ごまスープの刀削担々麺](https://ramendb.supleks.jp/review/1285174.html)                 | みなとみらい |
 | 横浜市西区 |  [中国料理 西安刀削麺](https://ramendb.supleks.jp/s/115943.html)  |         |           | ぬ：[牛肉刀削面](https://ramendb.supleks.jp/review/1298383.html)   | 横浜駅 |
-| 横浜市西区 |  [新同楽](https://ramendb.supleks.jp/s/174468.html)  | | | [中華味噌刀削麺](https://ramendb.supleks.jp/review/1917604.html)<br>[ホルモン刀削麺・玉葱抜き](https://ramendb.supleks.jp/review/1919356.html)   | 高島町 |
+| 横浜市西区 |  [新同楽](https://ramendb.supleks.jp/s/174468.html)  | | | [中華味噌刀削麺](https://ramendb.supleks.jp/review/1917604.html)<br>ぬ：[ホルモン刀削麺・玉葱抜き](https://ramendb.supleks.jp/review/1919356.html)   | 高島町 |
 | 横浜市都筑区  | [中華料理 金色大地](https://ramendb.supleks.jp/s/140569.html)  |   |    | ぬ：[牛肉刀削麺](https://ramendb.supleks.jp/review/1499389.html)   |センター南|
 | 横浜市都筑区  | [芳香園 センター南店](https://ramendb.supleks.jp/s/148211.html)  |   |    |ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1816218.html)   |センター南|
 | 横浜市都筑区  | [向陽飯店 都筑店](https://ramendb.supleks.jp/s/162291.html) |  |   | ぬ：[担々刀削麺セット・餃子](https://ramendb.supleks.jp/review/1773759.html) |中川|
