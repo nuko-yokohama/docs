@@ -156,7 +156,7 @@
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
 | 相模原市中央区 | [大衆酒場 王家餃子](https://ramendb.supleks.jp/s/105790.html) | | | ぬ：[ラム肉辛味刀削麺](https://ramendb.supleks.jp/review/1881026.html)|淵野辺|
-| 相模原市中央区 | [台湾料理 昇龍](https://ramendb.supleks.jp/s/111599.html) | | | |矢部(南 少し遠い)|
+| 相模原市中央区 | [台湾料理 昇龍](https://ramendb.supleks.jp/s/111599.html) | | | ぬ：[麻辣刀削麺・餃子セット](https://ramendb.supleks.jp/review/1920497.html) |矢部(南 少し遠い)|
 | 相模原市中央区 | [中華料理 香郷源](https://ramendb.supleks.jp/s/146635.html) | | | [タンタン刀削麺](https://ramendb.supleks.jp/review/1821448.html) |相模原|
 | 相模原市中央区 | 華香園 | 未登録 |  |  | 上溝（遠い） |
 | 相模原市南区 | [中華家庭料理 宋将](https://ramendb.supleks.jp/s/33648.html) |         |           |[五目野菜刀削麺](https://ramendb.supleks.jp/review/1272935.html)|小田急相模原（少し遠い）|
