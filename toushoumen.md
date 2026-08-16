@@ -24,7 +24,7 @@
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
-| 横浜市中区    | [華隆餐館](https://ramendb.supleks.jp/s/3609.html)        |         | ◯        | ぬ：[青花椒牛肉麺](https://ramendb.supleks.jp/review/1793203.html)<br>ぬ：[大腸刀削麺](https://ramendb.supleks.jp/review/1122575.html)                 |  伊勢佐木  |
+| 横浜市中区    | [華隆餐館](https://ramendb.supleks.jp/s/3609.html)        |         | ◯        | ぬ：[青花椒牛肉麺](https://ramendb.supleks.jp/review/1793203.html)<br>ぬ：[大腸刀削麺](https://ramendb.supleks.jp/review/1122575.html)<br>ぬ：[地獄海鮮麺](https://ramendb.supleks.jp/review/1920653.html)|  伊勢佐木長者町  |
 | 横浜市中区    |  [四川料理 京華樓 本館](https://ramendb.supleks.jp/s/5957.html)   |       | ◯        | ぬ：[麻婆豆腐刀削麺](https://ramendb.supleks.jp/review/1323678.html)    |  中華街  |
 | 横浜市中区    | [中華第一家 杜記](https://ramendb.supleks.jp/s/166340.html) |移転| ◯        |  ぬ：[四川燃麺](https://ramendb.supleks.jp/review/844789.html)（移転前）   |  中華街   |
 | 横浜市中区 | [聚香閣](https://ramendb.supleks.jp/s/19664.html) | 閉店 | ◯ |ぬ： [聚香閣刀削麺](https://ramendb.supleks.jp/review/1007083.html) | 中華街 |
