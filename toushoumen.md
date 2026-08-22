@@ -128,7 +128,6 @@
 | 川崎市中原区 | [川湘楼](https://ramendb.supleks.jp/s/164582.html)   | | |ぬ：[ランチ18・五目刀削麺＋チャーハン](https://ramendb.supleks.jp/review/1800640.html)| 武蔵小杉 |
 | 川崎市中原区 | [你好 武蔵小杉店](https://ramendb.supleks.jp/s/165758.html)  | | |ぬ：[刀削麺（辛口）](https://ramendb.supleks.jp/review/1814253.html) | 武蔵小杉 |
 | 川崎市中原区 | 玉蘭苑 刀削麺   |         |           |                  | 新丸子<br>夜のみ営業 |
-| 川崎市中原区 | 創作中華料理 好運来   |         |           |                  | 武蔵新城<br>夜のみ営業 |
 | 川崎市多摩区 | [中華料理 華宴](https://ramendb.supleks.jp/s/89473.html)   |         |           |                  | 稲田堤<br>麺類+50円で刀削麺変更 |
 | 川崎市多摩区 | [台湾料理 祥瑞 登戸店](https://ramendb.supleks.jp/s/165011.html)   | | |ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1805482.html) | 中野島（少し遠い） |
 | 川崎市多摩区 | [中華料理 文昌](https://ramendb.supleks.jp/s/172194.html)   |  | | ぬ：[牛バラ麻婆豆腐ラーメン・生刀削麺変更](https://ramendb.supleks.jp/review/1885607.html)  | 向ヶ丘遊園<bre>一部の麺は刀削麺変更可能 |
@@ -214,7 +213,9 @@
 | 平塚市 | [台湾料理 天成源](https://ramendb.supleks.jp/s/166069.html) |  |  |[五目刀削麺](https://ramendb.supleks.jp/review/1817494.html)| 東海大学（遠い） |
 | 平塚市 | [中華料理 木蘭](https://ramendb.supleks.jp/s/167727.html) |  |  | ぬ：[担々刀削麺](https://ramendb.supleks.jp/review/1838018.html) | 東海大学（遠い）<br>県道63号線沿い |
 | 平塚市 | [台湾料理 鴻運来 平塚店](https://ramendb.supleks.jp/s/167853.html) |  |  | ぬ：[四川刀削麺](https://ramendb.supleks.jp/review/1839678.html)<br>[五目刀削麺](https://ramendb.supleks.jp/review/1848133.html)  | 寒川（遠い） |
-| 平塚市 | 台湾料理 興福順 東中原店 |  |  |  | 平塚（遠い） |
+| 平塚市 | 台湾料理 興福順 東中原店 | 未登録
+|  |  | 平塚（遠い） |
+| 平塚市 | 金水園 | 未登録 |  |  | 平塚（遠い） |
 | 平塚市 | [笑勝亭](https://ramendb.supleks.jp/s/172742.html) |  | ◯ | ぬ：[大肉刀削麺](https://ramendb.supleks.jp/review/1891693.html) | 平塚（少し遠い） |
 | 逗子市 | [中国料理 海浜軒](https://ramendb.supleks.jp/s/115989.html) | |  | ぬ：[牛肉のマーラ刀削麺](https://ramendb.supleks.jp/review/1851621.html) | 逗子・葉山駅 |
 | 鎌倉市 | [四川厨房 大船本店](https://ramendb.supleks.jp/s/117264.html) | |  | [麻婆まぜ刀削麺](https://ramendb.supleks.jp/review/1873989.html) | 大船駅 |
