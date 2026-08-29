@@ -213,12 +213,11 @@
 | 平塚市 | [台湾料理 天成源](https://ramendb.supleks.jp/s/166069.html) |  |  |[五目刀削麺](https://ramendb.supleks.jp/review/1817494.html)| 東海大学（遠い） |
 | 平塚市 | [中華料理 木蘭](https://ramendb.supleks.jp/s/167727.html) |  |  | ぬ：[担々刀削麺](https://ramendb.supleks.jp/review/1838018.html) | 東海大学（遠い）<br>県道63号線沿い |
 | 平塚市 | [台湾料理 鴻運来 平塚店](https://ramendb.supleks.jp/s/167853.html) |  |  | ぬ：[四川刀削麺](https://ramendb.supleks.jp/review/1839678.html)<br>[五目刀削麺](https://ramendb.supleks.jp/review/1848133.html)  | 寒川（遠い） |
-| 平塚市 | 台湾料理 興福順 東中原店 | 未登録
-|  |  | 平塚（遠い） |
+| 平塚市 | 台湾料理 興福順 東中原店 | 未登録 |  |  | 平塚（遠い） |
 | 平塚市 | 金水園 | 未登録 |  |  | 平塚（遠い） |
 | 平塚市 | [笑勝亭](https://ramendb.supleks.jp/s/172742.html) |  | ◯ | ぬ：[大肉刀削麺](https://ramendb.supleks.jp/review/1891693.html) | 平塚（少し遠い） |
 | 逗子市 | [中国料理 海浜軒](https://ramendb.supleks.jp/s/115989.html) | |  | ぬ：[牛肉のマーラ刀削麺](https://ramendb.supleks.jp/review/1851621.html) | 逗子・葉山駅 |
-| 鎌倉市 | [四川厨房 大船本店](https://ramendb.supleks.jp/s/117264.html) | |  | [麻婆まぜ刀削麺](https://ramendb.supleks.jp/review/1873989.html) | 大船駅 |
+| 鎌倉市 | [四川厨房 大船本店](https://ramendb.supleks.jp/s/117264.html) |提供<br>終了 |  | [麻婆まぜ刀削麺](https://ramendb.supleks.jp/review/1873989.html) | 大船駅 |
 | 高座郡 | [台湾料理 百味鮮](https://ramendb.supleks.jp/s/81043.html) | 提供終了 |  |  | 寒川 |
 | 高座郡 | [品源 中華レストラン 寒川店](https://ramendb.supleks.jp/s/167311.html) |  |  | ぬ：[麻辣牛肉刀削麺](https://ramendb.supleks.jp/review/1832513.html)  | 寒川<br>産業道路沿い |
 
