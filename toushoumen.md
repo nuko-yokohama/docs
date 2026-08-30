@@ -236,6 +236,7 @@
 | 厚木市       | [魯園菜館 本厚木店](https://ramendb.supleks.jp/s/174785.html) | | |　ぬ：[担々刀削麺](https://ramendb.supleks.jp/review/1922103.html) | 本厚木 |
 | 厚木市       | 茶薫 小籠包 本厚木ミロード店 | | | | 本厚木 |
 | 厚木市       | 台湾料理 興福順 上依知2店 |未登録|   |  | 下溝（遠い） |
+| 厚木市       | 台湾料理 麗ちゃん | 未登録 | | | | 入谷（遠い） |
 | 大和市       | [台湾料理 福源](https://ramendb.supleks.jp/s/56545.html) |   |     | ぬ：[特製台湾刀削麺](https://ramendb.supleks.jp/review/1875549.html)  | 相模大塚 |
 | 大和市       | [百味鮮](https://ramendb.supleks.jp/s/105933.html) |閉店|     | ぬ：[麻辣刀削面セット](https://ramendb.supleks.jp/review/1812628.html)    | 大和 |
 | 大和市       | [台湾料理 祥瑞](https://ramendb.supleks.jp/s/131533.html) |  |  |  |南林間（やや遠い）<br>県道50号沿い|
@@ -245,6 +246,7 @@
 | 座間市       | [台湾料理 興福順 小田急相模原店](https://ramendb.supleks.jp/s/130874.html)   | |           |   | 小田急相模原 |
 | 座間市       | [中国酒家 十年 イオンモール座間店](https://ramendb.supleks.jp/s/130162.html)   | | |   | 相武台駅(小田急)(遠い) |
 | 愛甲郡     | [台湾料理 興福順 半原店](https://ramendb.supleks.jp/s/79102.html)     |    |     |  | R412沿い |
+| 愛甲郡       | 台湾料理 八福亭食堂 | 未登録 | | |  | 原当麻（遠い） |
 | 海老名市     | 台湾料理 龍華 |未登録|   |  | 厚木（やや遠い） |
 | 海老名市     | 台湾料理 千福 |未登録|   |  | 海老名（やや遠い） |
 | 海老名市     | 香港酒楼 |未登録|   |  | 門沢橋（やや遠い） |
