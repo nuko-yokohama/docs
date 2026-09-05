@@ -74,6 +74,7 @@
 | 横浜市戸塚区 | [北京飯店 戸塚店](https://ramendb.supleks.jp/s/144163.html)     | 閉店 |     | [麻婆刀削麺](https://ramendb.supleks.jp/review/1890510.html) | 戸塚（遠い）|
 | 横浜市旭区 | [向陽飯店 上白根店](https://ramendb.supleks.jp/s/110851.html)    |         |           | ぬ：[サンラー刀削麺](https://ramendb.supleks.jp/review/1518667.html)        | |
 | 横浜市旭区 | [中国料理 金満園 若葉台店](https://ramendb.supleks.jp/s/144410.html)    | | | ぬ：[牛肉刀削麺](https://ramendb.supleks.jp/review/1839886.html)  |すずかけ台駅（遠い）|
+| 横浜市旭区 | [中国料理 上海飯店](https://ramendb.supleks.jp/s/175018.html)    | | | ぬ：[豚肉キャベツ刀削麺(](https://ramendb.supleks.jp/review/1925190.html)  |二俣川|
 | 横浜市泉区 | [中国料理 旬香菜館](https://ramendb.supleks.jp/s/76697.html) |         |           | ぬ：[五目刀削麺](https://ramendb.supleks.jp/review/1459706.html)                 |立場|
 | 横浜市港北区  | [清宏楼](https://ramendb.supleks.jp/s/82771.html)    |   |    |  [タンタン刀削麺](https://ramendb.supleks.jp/review/1716272.html)<br>ぬ：[牛腩刀削麺](https://ramendb.supleks.jp/review/1890188.html)   |新横浜|
 | 横浜市港北区  | [芳香園 新横浜 北京ダック専門店](https://ramendb.supleks.jp/s/83985.html)    |   |    |  ぬ：[辣子鶏刀削麺・不要玉葱](https://ramendb.supleks.jp/review/1879119.html)   |新横浜|
