@@ -242,7 +242,7 @@
 | 大和市       | [台湾料理 祥瑞](https://ramendb.supleks.jp/s/131533.html) |  |  |  |南林間（やや遠い）<br>県道50号沿い|
 | 大和市       | [向陽飯店 鶴間店](https://ramendb.supleks.jp/s/154890.html)   | 閉店 | |  [マーラー刀削麺](https://ramendb.supleks.jp/review/1688078.html)  | 鶴間|
 | 大和市       | [中国料理 上海飯店](https://ramendb.supleks.jp/s/168209.html) |  |  |ぬ：[豚肉キャベツ刀削麺](https://ramendb.supleks.jp/review/1844659.html) |大和|
-| 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |終了？| | ぬ：[刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    | さがみ野 |
+| 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |閉店| | ぬ：[刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    | さがみ野 |
 | 座間市       | [台湾料理 興福順 小田急相模原店](https://ramendb.supleks.jp/s/130874.html)   |閉店 | |    | 小田急相模原 |
 | 座間市       | [中国酒家 十年 イオンモール座間店](https://ramendb.supleks.jp/s/130162.html)   | | |   | 相武台駅(小田急)(遠い) |
 | 愛甲郡     | [台湾料理 興福順 半原店](https://ramendb.supleks.jp/s/79102.html)     |    |     |  | R412沿い |
