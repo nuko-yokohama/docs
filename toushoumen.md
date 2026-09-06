@@ -367,6 +367,7 @@
 | 墨田区    | 刀削麺荘 唐家 錦糸町店 | | |    |   |
 | 墨田区    | 天福 | | |    |   |
 | 大田区    | [四川餃子房](https://ramendb.supleks.jp/s/30835.html) | | |    | 糀谷 |
+| 大田区    | [中華料理 珍味樓 糀谷駅前店](https://ramendb.supleks.jp/s/53512.html) | | |    | 糀谷 |
 | 大田区    | [中国家庭料理 你好 大森駅前店](https://ramendb.supleks.jp/s/103713.html) | | |    | 大森 |
 | 大田区    | [パンダ炭火串焼 蒲田本店](https://ramendb.supleks.jp/s/147213.html) | | |    | 蒲田北西 |
 | 大田区    | [沁香苑 大森店](https://ramendb.supleks.jp/s/149503.html) | | |[牛バラ刀削麺](https://ramendb.supleks.jp/review/1616715.html)|大森|
