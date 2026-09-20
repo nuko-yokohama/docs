@@ -356,7 +356,7 @@
 | 台東区    | 龍艶閣      |          |         |                    |                    |
 | 台東区    | 楊國福 麻辣 上野店 |          |         |                    |                    |
 | 台東区    | [浅草橋 川の味](https://ramendb.supleks.jp/s/156800.html)  | | | [沸騰石焼麻婆刀削麺](https://ramendb.supleks.jp/review/1787479.html) | 浅草橋 |
-| 朱家餃子酒場 上野本店 | 未登録 |  |  | 上野 |
+| 台東区    | 朱家餃子酒場 上野本店 | 未登録 |  |  | 上野 |
 | 品川区    | [刀削麺 西安飯荘](https://ramendb.supleks.jp/s/22675.html) | | |    |五反田|
 | 品川区    | [刀削麺 龍](https://ramendb.supleks.jp/s/23606.html) | | ◯ | ぬ：[牛肉刀削面](https://ramendb.supleks.jp/review/1731918.html) | 大井町 |
 | 品川区    | 香港料理 炎屋 | | |    |   |
