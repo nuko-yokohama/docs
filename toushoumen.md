@@ -343,17 +343,20 @@
 | 台東区    | 馥香         |          |         |                    |                    |
 | 台東区    | 正宗四川料理 福楽 |          |         |                    |                    |
 | 台東区    | [祥龍刀削麺荘](https://ramendb.supleks.jp/s/52557.html) |          |         |                    |上野|
-| 台東区    | 香港飲茶 東海飯店 |          |         |                    |                    |
-| 台東区    | 中国家常菜 胡同101 |          |         |                    |                    |
-| 台東区    | 刀削麺荘 唐家 上野店 |          |         |                    |                    |
+| 台東区    | [美叙飯店](https://ramendb.supleks.jp/s/52557.html) |          |         |                    |鶯谷|
+| 台東区    | [香港飲茶 東海飯店](https://ramendb.supleks.jp/s/70983.html) | 閉店 |         | [麻辣刀削麺](https://ramendb.supleks.jp/review/827607.html)|                    |
+| 台東区    | [中国家常菜 胡同101](https://ramendb.supleks.jp/s/73406.html) | 閉店 | ◯ | [トマト玉子刀削麺](https://ramendb.supleks.jp/review/1239289.html) |上野御徒町駅|
+| 台東区    | [刀削麺荘 唐家 上野店](https://ramendb.supleks.jp/s/76733.html) | 閉店 | | [麻辣刀削麺+パクチー大盛り](https://ramendb.supleks.jp/review/1009191.html) |上野|
 | 台東区    | 花彫酒家      |          |         |                    |                    |
-| 台東区    | 麻辣大学 上野店 |          |         |                    |                    |
-| 台東区    | 東北料理 四川料理 祥瑞坊 |          |         |                    |                    |
-| 台東区    | 和合餃子 秋葉原3号店   |          |         |                    |                    |
+| 台東区    | [麻辣大学 上野店](https://ramendb.supleks.jp/s/100739.html) | | ◯？ | [担担刀削湯麺](https://ramendb.supleks.jp/review/1732991.html) |京成上野/上野|
+| 台東区    | [東北料理 四川料理 祥瑞坊](https://ramendb.supleks.jp/s/103834.html) |　|　| [麻婆豆腐刀削麺](https://ramendb.supleks.jp/review/1095315.html)　|蔵前|
+| 台東区    | [中華料理 慶豊](https://ramendb.supleks.jp/s/116235.html)   |  |  |  | 御徒町 |
+| 台東区    | [和合餃子 秋葉原3号店](https://ramendb.supleks.jp/s/116997.html)   |  |  |[https://ramendb.supleks.jp/review/1570699.html](https://ramendb.supleks.jp/review/1570699.html)|末広町/御徒町 |
 | 台東区    | [中国料理 桃源郷  浅草橋店](https://ramendb.supleks.jp/s/132868.html)  | | |[麻辣刀削麺+半チャーハン](https://ramendb.supleks.jp/review/1799581.html)|浅草橋|
 | 台東区    | 龍艶閣      |          |         |                    |                    |
 | 台東区    | 楊國福 麻辣 上野店 |          |         |                    |                    |
 | 台東区    | [浅草橋 川の味](https://ramendb.supleks.jp/s/156800.html)  | | | [沸騰石焼麻婆刀削麺](https://ramendb.supleks.jp/review/1787479.html) | 浅草橋 |
+| 朱家餃子酒場 上野本店 | 未登録 |  |  | 上野 |
 | 品川区    | [刀削麺 西安飯荘](https://ramendb.supleks.jp/s/22675.html) | | |    |五反田|
 | 品川区    | [刀削麺 龍](https://ramendb.supleks.jp/s/23606.html) | | ◯ | ぬ：[牛肉刀削面](https://ramendb.supleks.jp/review/1731918.html) | 大井町 |
 | 品川区    | 香港料理 炎屋 | | |    |   |
@@ -460,8 +463,10 @@
 | 目黒区 | 梅山飯店 自由が丘店 | |    |   |
 | 練馬区 | [祥龍刀背削麺荘 中村橋店](https://ramendb.supleks.jp/s/24491.html) |         |           |豚角煮刀削麺|中村橋|
 | 練馬区 | 一球酒場 東武練馬店 |         |           |                  |                     |
+| 荒川区 | [紅吉坊](https://ramendb.supleks.jp/s/134098.html) | | |    |日暮里|
 | 荒川区 | [中華酒場 多来福](https://ramendb.supleks.jp/s/139449.html) | | |    |三ノ輪橋|
-| 荒川区 | 美香| | |    |西日暮里<br>麻辣湯に刀削麺追加|
+| 荒川区 | [満福苑](https://ramendb.supleks.jp/s/164545.html) | | |    |西日暮里|
+| 荒川区 | 美香（メイシャン）| | |    |西日暮里<br>麻辣湯に刀削麺追加|
 | 葛飾区 | 中華料理 海華 立石南口店 | | |    |   |
 | 葛飾区 | 本格中華 金盛楼 | | |    |   |
 | 葛飾区 | [元祖チャ～ボン 多福楼 新小岩店](https://ramendb.supleks.jp/s/96275.html) | | |[牛バラ刀削麺](https://ramendb.supleks.jp/review/1029470.html)    |新小岩|
