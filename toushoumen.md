@@ -163,7 +163,7 @@
 | 相模原市中央区 | 華香園 | 未登録 |  |  | 上溝（遠い） |
 | 相模原市南区 | [中華家庭料理 宋将](https://ramendb.supleks.jp/s/33648.html) |         |           |[五目野菜刀削麺](https://ramendb.supleks.jp/review/1272935.html)|小田急相模原（少し遠い）|
 | 相模原市南区 | [中華料理 菜香園](https://ramendb.supleks.jp/s/169002.html) |  |  | ぬ：[台湾刀削麺](https://ramendb.supleks.jp/review/1855001.html) | 相模大野<br>+100円で刀削麺変更 |
-| 相模原市緑区 | [香港厨房 橋本店](https://ramendb.supleks.jp/s/24139.html)   |         |           |  |橋本<br>2022年時点のメニューに刀削麺あり |
+| 相模原市緑区 | [香港厨房 橋本店](https://ramendb.supleks.jp/s/24139.html)   |         |           |  |橋本<br>R16沿い、駐車場あり。<br>2022年時点のメニューに刀削麺あり |
 | 相模原市緑区 | [台湾料理 龍福園](https://ramendb.supleks.jp/s/75744.html)   |         |           |  |相原(遠い)  |
 | 相模原市緑区 | [台湾料理 永旺](https://ramendb.supleks.jp/s/83329.html)   | | |  |南橋本(遠い)  |
 | 相模原市緑区 | [台湾料理 幸楽園](https://ramendb.supleks.jp/s/87353.html)   | | | ぬ：[豚骨刀削麺・焼き餃子＋ライスセット](https://ramendb.supleks.jp/review/1835739.html)| 相模湖周辺<br>R20沿い        |
