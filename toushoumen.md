@@ -588,8 +588,9 @@
 |さいたま市北区 |[台湾料理 天福](https://ramendb.supleks.jp/s/71870.html)|         |           |                  |鉄道博物館|
 |さいたま市北区 |[順原閣](https://ramendb.supleks.jp/s/78143.html)|         |           |                  |宮原|
 |さいたま市大宮区 |[XI'AN刀削麺 大宮店](https://ramendb.supleks.jp/s/78864.html)|         |           |  |大宮|
+|さいたま市大宮区 |[中華料理 瑞香楼](https://ramendb.supleks.jp/s/154866.html)|         |           |  |大宮|
 |さいたま市浦和区 |刀削麺酒家 浦和|閉店||||
-|さいたま市浦和区 |[龍勝麺館](https://ramendb.supleks.jp/s/118655.html)|         |           |                  |北浦和|
+|さいたま市浦和区 |[龍勝麺館](https://ramendb.supleks.jp/s/118655.html)| | | [刀削つけ麺](https://ramendb.supleks.jp/review/1239768.html)|北浦和|
 |さいたま市浦和区 |[中華料理 牡丹亭 浦和店](https://ramendb.supleks.jp/s/159142.html)|         |           |[担々刀削麺](https://ramendb.supleks.jp/review/1773164.html)<br>[牛肉刀削麺](https://ramendb.supleks.jp/review/1820154.html)|浦和|
 |さいたま市見沼区|[台湾料理 太和菜工坊](https://ramendb.supleks.jp/s/98654.html)|         |           ||大和田|
 |ふじみ野市|横浜中華 王記厨房 ふじみ野店|         |           |                  |                     |
@@ -597,9 +598,9 @@
 |入間郡|香林坊|         |           |                  |                     |
 |大里郡|鴻運軒|         |           |                  |                     |
 |富士見市|	[李さんマーラータン](https://ramendb.supleks.jp/s/169941.html)) | | | [麻辣湯・太麺牛筋麺＋刀削麺](https://ramendb.supleks.jp/review/1871563.html) |鶴瀬駅|
-|川口市|中華料理 清香源|         |           |                  |                     |
-|川口市|西安刀削麺 福の市|         |           |                  |                     |
-|川口市|無敵や|         |           |                  |                     |
+|川口市|[中華料理 清香源](https://ramendb.supleks.jp/s/29282.html) |閉店|           |                  |川口駅（少し遠い）|
+|川口市|[西安刀削麺 福の市](https://ramendb.supleks.jp/s/52764.html)|         |           | [マーラー刀削麺](https://ramendb.supleks.jp/review/1304583.html) | 西川口 |
+|川口市|[鑫無敵や](https://ramendb.supleks.jp/s/147181.html)|         |           | [刀削麺 大盛り](https://ramendb.supleks.jp/review/1597157.html) |西川口|
 |川口市|[呑食屋 りぼう](https://ramendb.supleks.jp/s/163462.html)| | |刀削麺ランチセット|西川口|
 |川越市|台湾料理  三福源 小ケ谷店|閉店||||
 |川越市|裕福来|閉店||||
@@ -616,8 +617,8 @@
 |行田市|台湾料理 雪梅園|         |           |                  |                     |
 |越谷市|七左食堂|         |           |                  |                     |
 |飯能市|[中国料理 祥龍房 飯能南口店](https://ramendb.supleks.jp/s/21625.html) | | | [四川担々刀削麺](https://ramendb.supleks.jp/review/1824141.html) | 飯能 |
-|飯能市|台湾料理 龍香 飯能店|         |           |                  |                     |
-|飯能市|中国料理 王記|         |           |                  |                     |
+|飯能市|[台湾料理 龍香 飯能店](https://ramendb.supleks.jp/s/100366.html) | | | [ネギ刀削麺](https://ramendb.supleks.jp/review/1657685.html) |元加治駅|
+|飯能市|[中国料理 王記](https://ramendb.supleks.jp/s/133618/photo/menu) | | | [四川担々刀削麺](https://ramendb.supleks.jp/review/1520661.html) | 飯能 |
 |鶴ヶ島市|利来|         |           |                  |                     |
 |鴻巣市|[台湾料理 興福順](https://ramendb.supleks.jp/s/128798.html)| | | | 北鴻巣 |
 
