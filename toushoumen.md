@@ -710,16 +710,16 @@
 | 半田市        | [中国料理 京華](https://ramendb.supleks.jp/s/88245.html) | | |[ランチセット 台湾刀削麺に変更](https://ramendb.supleks.jp/review/1806484.html)|亀崎駅(遠い)|
 | 半田市       |  中国大衆料理 可心    |         |           |                  |                     |
 | 半田市       |  中国料理 満堂紅   |         |           |                  |                     |
-| 名古屋市中区  | 西安刀削麺 矢場町店 |         |           |                  |                     |
-| 名古屋市中区  | 劉家 西安刀削麺 大須店 |         |           |                  |                     |
-| 名古屋市中川区  | 峰   |         |           |                  |                     |
+| 名古屋市中区  | [西安刀削麺 矢場町店](https://ramendb.supleks.jp/s/23461.html) | 閉店 |           |　| 矢場町 |
+| 名古屋市中区  | [劉家 西安刀削麺 大須店](https://ramendb.supleks.jp/s/128625.html) | | | [西安麻辣刀削麺](https://ramendb.supleks.jp/review/1370355.html) |上前津|
+| 名古屋市中川区  | [峰](https://ramendb.supleks.jp/s/87476.html)   |         |           | [牛すじ刀削麺](https://ramendb.supleks.jp/s/87476.html) |　|
 | 名古屋市南区   |  餃子亭   |         |           |                  |                     |
-| 名古屋市港区   | 中華料理 九州園   |         |           |                  |                     |
-| 名古屋市熱田区 | 劉家 西安刀削麺 熱田高校前店    |         |           |                  |                     |
-| 名古屋市熱田区 | [NANI 回転小火鍋 熱田六番南店](https://ramendb.supleks.jp/s/164698.html)  |         |           |[よくばり牛骨刀削麺](https://ramendb.supleks.jp/review/1802078.html)|                     |
-| 名古屋市瑞穂区  | 劉家 西安刀削麺 堀田店 |         |           |                  |                     |
+| 名古屋市港区   | [中華料理 九州園](https://ramendb.supleks.jp/s/135650.html)   | | | [台湾刀削麺](https://ramendb.supleks.jp/review/1719276.html) |東名古屋港駅|
+| 名古屋市熱田区 | [劉家 西安刀削麺 熱田高校前店](https://ramendb.supleks.jp/s/116560.html)    | | | [麻辣刀削麺](https://ramendb.supleks.jp/review/1865414.html) |東海通|
+| 名古屋市熱田区 | [NANI 回転小火鍋 熱田六番南店](https://ramendb.supleks.jp/s/164698.html)  | | |[よくばり牛骨刀削麺](https://ramendb.supleks.jp/review/1802078.html)|                     |
+| 名古屋市瑞穂区  | 劉家 西安刀削麺 堀田店 | | | [麻辣刀削麺](https://ramendb.supleks.jp/review/1233369.html) |堀田|
 | 名古屋市緑区   |  天福 |         |           |                  |                     |
-| 安城市  | [福来源](https://ramendb.supleks.jp/s/84121.html)   | | |[刀削担々麺](https://ramendb.supleks.jp/review/1803558.html) | |
+| 安城市  | [福来源](https://ramendb.supleks.jp/s/84121.html)   | | |[刀削担々麺](https://ramendb.supleks.jp/review/1803558.html) |  |
 | 安城市  | [中華料理 華龍 安城店](https://ramendb.supleks.jp/s/163649.html)   | | |[麻辣刀削麺](https://ramendb.supleks.jp/review/1841098.html) | 安城駅（やや遠い）|
 |常滑市   | 西安刀削麺 セントレア店 |         |           |                  |                     |
 | 常滑市       |中華料理京華 |         |           |                  |                     |
