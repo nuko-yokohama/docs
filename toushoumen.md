@@ -777,14 +777,14 @@
 | 前橋市       | [台湾料理 興福順 関根店](https://ramendb.supleks.jp/s/100858.html)| | | |群馬総社（遠い）|
 | 前橋市       |  西安餃子館     |         |           |                  |                     |
 | 吾妻郡      |   福満軒       |         |           |                  |                     |
-| 太田市        |  中華菜館 聚福軒    |         |           |                  |                     |
-| 太田市       |  横浜中華 華星 イオンモール太田店|         |           |                  |                     |
+| 太田市        |  中華菜館 聚福軒    | 閉店 |           |                  |                     |
+| 太田市       |  [横浜中華 華星 イオンモール太田店](https://ramendb.supleks.jp/s/157609.html) | | | [五目刀削麺](https://ramendb.supleks.jp/review/1758894.html) |最寄り駅なし|
 | 安中市       | [台湾料理 興福順 安中店](https://ramendb.supleks.jp/s/77285.html) |         |           |                  |磯部駅（遠い）<br>R18沿い|
-| 高崎市        | [中国本場的料理 華龍飯店 駅ビル店](https://ramendb.supleks.jp/s/14429.html)  |         |           | [マーラー刀削麺](https://ramendb.supleks.jp/review/1751559.html)<br>[マーボー刀削麺](https://ramendb.supleks.jp/review/1853366.html) |高崎 |
-| 高崎市       |  上海華龍 ヤマダ電機LABI1高崎店 |         |           |                  |                     |
-| 高崎市       | 台湾料理 長楽 高崎店 |         |           |                  |                     |
-| 高崎市      |  華龍飯店 江木町店 |         |           |                  |                     |
-| 高崎市       | 創作中華料理 名采 |         |           |                  |                     |
+| 高崎市        | [中国本場的料理 華龍飯店 高崎モントレー店](https://ramendb.supleks.jp/s/14429.html)  |         |           | [マーラー刀削麺](https://ramendb.supleks.jp/review/1751559.html)<br>[マーボー刀削麺](https://ramendb.supleks.jp/review/1853366.html) |高崎 |
+| 高崎市       |  [上海華龍 ヤマダ電機LABI1高崎店](https://ramendb.supleks.jp/s/24388.html) |  |  | [麻婆刀削麺](https://ramendb.supleks.jp/review/1617218.html) | 高崎 |
+| 高崎市       | [台湾料理 長楽 高崎店](https://ramendb.supleks.jp/s/74659.html) |  |  | []() |北高崎|
+| 高崎市      |  [華龍飯店 江木町店](https://ramendb.supleks.jp/s/85815.html) |  |  |[マーボー刀削麺](https://ramendb.supleks.jp/review/1483783.html)|高崎(少し遠い)|
+| 高崎市       | [創作中華料理 名采](https://ramendb.supleks.jp/s/119207.html) | | | [五目刀削麺](https://ramendb.supleks.jp/review/1402305.html) | 高崎 |
 
 ### 茨城県
 
