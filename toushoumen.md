@@ -794,13 +794,14 @@
 | 下妻市     | [富久楼](ramendb.supleks.jp/s/135373.html) | | | [カルボナーラ刀削麺](https://ramendb.supleks.jp/review/1833304.html)| イオンモール下妻内<br>最寄り駅はなし。|
 | 土浦市     | 台湾料理 福源 東真鍋町店 |         |           |                  |                     |
 | 日立市      | 新華苑|         |           |                  |                     |
-| 水戸市        | [台湾料理 興福順](https://ramendb.supleks.jp/s/111272.html)|         |           |                  |偕楽園（遠い）|
-| 水戸市       | 中国料理店 四季香 |         |           |                  |                     |
-| 水戸市        | 福客来      |         |           |                  |                     |
-| 稲敷市      | 稲敷市 |         |           |                  |                     |
-| 稲敷郡       | 王府台湾料理  |         |           |                  |                     |
+| 水戸市        | [台湾料理 興福順](https://ramendb.supleks.jp/s/111272.html)| | | |偕楽園（遠い）|
+| 水戸市       | [中国料理店 四季香](https://ramendb.supleks.jp/s/82140.html) | | | [担担刀削麺](https://ramendb.supleks.jp/review/901911.html) |水戸(少し遠い)|
+| 水戸市        | [福客来](https://ramendb.supleks.jp/s/150795.html)      |         |           |                  |偕楽園(少し遠い)|
+| 稲敷市      | [食味閣](https://ramendb.supleks.jp/s/144979.html) | | | [土鍋担々麺](https://ramendb.supleks.jp/review/1717603.html) |(最寄り駅なし)|
+| 稲敷郡       | [王府台湾料理](https://ramendb.supleks.jp/s/74836.html)  | | | [しびれる辛さのマーラー刀削麺](https://ramendb.supleks.jp/review/1031004.html) |(最寄り駅なし)|
 | 結城市      |中華料理 鴻運  |         |           |                  |                     |
 | 行方市      | 台湾料理 八福   |         |           |                  |                     |
+| 守谷市      | [台湾料理 八福](https://ramendb.supleks.jp/s/174741.html)   |         |           |  |新守谷(遠い)|
 
 ### 長野県
 
