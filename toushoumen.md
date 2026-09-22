@@ -210,7 +210,7 @@
 | 藤沢市 | [渓源 南口店](https://ramendb.supleks.jp/s/166966.html) |  |  | ぬ：[台湾味噌麺・刀削麺変更](https://ramendb.supleks.jp/review/1901270.html) | 藤沢 |
 | 藤沢市 | 中華旬館 彩えん坊 | 未登録 | | | | 辻堂(少し遠い) |
 | 平塚市 | [向陽飯店 平塚駅前店](https://ramendb.supleks.jp/s/124398.html) |閉店|  |  | 平塚 |
-| 平塚市 | [向陽飯店 平塚店](https://ramendb.supleks.jp/s/130996.html) |？|  |  | 大磯（遠い）<br>Google Mapでは営業中 |
+| 平塚市 | [向陽飯店 平塚店](https://ramendb.supleks.jp/s/130996.html) |閉店|  |  | 大磯（遠い） |
 | 平塚市 | [台湾料理 佳佳紅](https://ramendb.supleks.jp/s/146319.html) |  |  | | 2023年2月にはメニューにあり。<br>平塚（遠い） |
 | 平塚市 | [台湾料理 天成源](https://ramendb.supleks.jp/s/166069.html) |  |  |[五目刀削麺](https://ramendb.supleks.jp/review/1817494.html)| 東海大学（遠い） |
 | 平塚市 | [中華料理 木蘭](https://ramendb.supleks.jp/s/167727.html) |  |  | ぬ：[担々刀削麺](https://ramendb.supleks.jp/review/1838018.html) | 東海大学（遠い）<br>県道63号線沿い |
