@@ -635,7 +635,7 @@
 | 大阪市北区   | [裕華楼](https://ramendb.supleks.jp/s/163264.html)            |　|　| ぬ：[麻辣牛肉刀削面](https://ramendb.supleks.jp/review/1786766.html)    |中崎町駅|
 | 大阪市北区   | 天満 上海食苑 | 未登録 |  |  | 天満<br>中華鍋に刀削麺がつけられる |
 | 大阪市北区   | [CHINA ROOM 華](https://ramendb.supleks.jp/s/139741.html)    |閉店| | | 天満 |
-
+| 大阪市淀川区 | [中華料理 香満楼](https://ramendb.supleks.jp/s/119244.html) | |  |  | 西中島南方<br>四川牛肉刀削麺のみ確認 |
 ### 奈良県
 
 | 市区郡         | 店名              |状態     |店内削り  | レビュー         |備考                 |
