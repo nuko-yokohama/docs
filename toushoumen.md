@@ -824,6 +824,7 @@
 | ------------ | ----------------- | ------- | --------- | ---------------- | -------------------- |
 | 三島市 | [屋台風中華茶房 香香飯店 三島店](https://ramendb.supleks.jp/s/131625.html)  |  |  | [トマトと卵の刀削麺](https://ramendb.supleks.jp/review/1864154.html) | 三島駅<br>夜のみ営業 |
 | 伊豆市  | [龍華 土肥店](https://ramendb.supleks.jp/s/130526.html) |  |  |  | 最寄り駅なし |
+| 伊豆市  | 台湾料理 昇龍 | 未登録 |  |  | 修善寺 |
 | 榛原郡  | [台湾料理 龍華 吉田本店](https://ramendb.supleks.jp/s/61006.html)  |  |  |  | 東静岡（遠い） |
 | 沼津市  | [香香飯店](https://ramendb.supleks.jp/s/74510.html)  |  |  |  | 沼津 |
 | 沼津市  | [中国料理 蘇香](https://ramendb.supleks.jp/s/173007.html)  |  |  |  | 沼津（遠い）<br>回鍋刀削麺がある。 |
