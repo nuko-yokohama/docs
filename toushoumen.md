@@ -445,6 +445,7 @@
 | 港区  | [四季煲坊](https://ramendb.supleks.jp/s/34551.html) | | |[坦々刀削麺](https://ramendb.supleks.jp/review/1570579.html)|新橋|
 | 港区  | [西安刀削麺酒楼 三田店](https://ramendb.supleks.jp/s/69708.html) | | |    |田町|
 | 港区  | [西安刀削麺酒楼 本店](https://ramendb.supleks.jp/s/70787.html) | | |[五目野菜刀削麺](https://ramendb.supleks.jp/review/1806482.html) | 虎ノ門ヒルズ |
+| 港区  | [香港料理居酒屋 味仙 虎ノ門店](https://ramendb.supleks.jp/s/70789.html) | | |[日替わり 叉焼刀削麺](https://ramendb.supleks.jp/review/1929122.html) | 虎ノ門ヒルズ<br>ランチ提供のみ？ |
 | 港区  | [栄華楼 品川グランドセントラルタワー店](https://ramendb.supleks.jp/s/79007.html) | | |    |   |
 | 港区  | [本格中華料理 味覚](https://ramendb.supleks.jp/s/82435.html) | | |[石焼麻婆刀削麺](https://ramendb.supleks.jp/review/1785605.html)|内幸町|
 | 港区  | [歩高里 六本木店](https://ramendb.supleks.jp/s/82772.html) | | |[蒸し鶏と茄子のシビレ冷やし刀削麺](https://ramendb.supleks.jp/review/1656683.html)|六本木|
