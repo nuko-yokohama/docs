@@ -575,9 +575,9 @@
 |松戸市|[本格中華ダイニング 華記食府](https://ramendb.supleks.jp/s/103146.html) |　|　|　|新松戸|
 |松戸市|[北京菜館](https://ramendb.supleks.jp/s/128418.html)|  |  |  |馬橋|
 |松戸市|[西安刀削麺 北松戸店](https://ramendb.supleks.jp/s/143601.html)|         |  |  | 北松戸 |
-|柏市|中華料理 佳佳苑|         |           |                  |                     |
-|柏市|天外天刀削麺|         |           |                  |                     |
-|柏市|[本格中華 清香閣](https://ramendb.supleks.jp/s/163718.html)|         |           |                  |柏駅(遠い)|
+|柏市|[中華料理 佳佳苑](https://ramendb.supleks.jp/s/32759.html) | | | [麻辣刀削麺](https://ramendb.supleks.jp/review/1457901.html) | 柏 |
+|柏市|[天外天刀削麺](https://ramendb.supleks.jp/s/33439.html)|         |◯？| [麻辣刀削麺](https://ramendb.supleks.jp/review/1424434.html)  | 柏 |
+|柏市|[本格中華 清香閣](https://ramendb.supleks.jp/s/163718.html)|         |           |                  |柏(遠い)|
 |浦安市|[中国料理 味道](https://ramendb.supleks.jp/s/131023.html)|         |           |[牛肉刀削麺](https://ramendb.supleks.jp/review/1816239.html)|浦安|
 |船橋市|[餃子酒場 船橋店](https://ramendb.supleks.jp/s/130188.html) | | ◯？ | [特製まぜ刀削麺](https://ramendb.supleks.jp/review/1586077.html) | 京成船橋 |
 |船橋市|中華上海料理 大龍|         |           |                  |                     |
