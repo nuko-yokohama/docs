@@ -468,11 +468,11 @@
 | 荒川区 | [中華酒場 多来福](https://ramendb.supleks.jp/s/139449.html) | | |    |三ノ輪橋|
 | 荒川区 | [満福苑](https://ramendb.supleks.jp/s/164545.html) | | |    |西日暮里|
 | 荒川区 | 美香（メイシャン）| | |    |西日暮里<br>麻辣湯に刀削麺追加|
-| 葛飾区 | 中華料理 海華 立石南口店 | | |    |   |
-| 葛飾区 | 本格中華 金盛楼 | | |    |   |
-| 葛飾区 | [元祖チャ～ボン 多福楼 新小岩店](https://ramendb.supleks.jp/s/96275.html) | | |[牛バラ刀削麺](https://ramendb.supleks.jp/review/1029470.html)    |新小岩|
-| 葛飾区 | 大上海 麻辣湯 | | |    |   |
-| 葛飾区 | 東城香 | | |    |   |
+| 葛飾区 | [中華料理 海華 立石南口店](https://ramendb.supleks.jp/s/79304.html) | | | [刀削担々麺セット](https://ramendb.supleks.jp/review/882183.html)   |京成立石|
+| 葛飾区 | [本格中華 金盛楼](https://ramendb.supleks.jp/s/82408.html) | 閉店 | | [担々刀削麺セット](https://ramendb.supleks.jp/review/903745.html)   |金町|
+| 葛飾区 | [元祖チャ～ボン 多福楼 新小岩店](https://ramendb.supleks.jp/s/96275.html) |閉店| |[牛バラ刀削麺](https://ramendb.supleks.jp/review/1029470.html)    |新小岩|
+| 葛飾区 | [大上海 麻辣湯](https://ramendb.supleks.jp/s/119069.html) | | | [白湯（刀削麺・ピリ辛）](https://ramendb.supleks.jp/review/1245878.html)   |新小岩(少し遠い)|
+| 葛飾区 | [東城香](https://ramendb.supleks.jp/s/144122.html) | | | [麻辣刀削麺](https://ramendb.supleks.jp/review/1649712.html) |堀切菖蒲園<br>UberEats対応|
 | 豊島区 | 中国家郷料理 餃子房 永利 | | |    |   |
 | 豊島区 | [龍興刀削麺舗](https://ramendb.supleks.jp/s/14064.html) | | |    |新大塚|
 | 豊島区 | 逸品火鍋 四季海岸 | | |    |   |
