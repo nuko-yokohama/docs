@@ -359,8 +359,8 @@
 | 台東区    | 朱家餃子酒場 上野本店 | 未登録 |  |  | 上野 |
 | 品川区    | [刀削麺 西安飯荘](https://ramendb.supleks.jp/s/22675.html) | | |    |五反田|
 | 品川区    | [刀削麺 龍](https://ramendb.supleks.jp/s/23606.html) | | ◯ | ぬ：[牛肉刀削面](https://ramendb.supleks.jp/review/1731918.html) | 大井町 |
-| 品川区    | 香港料理 炎屋 | | |    |   |
-| 品川区    | 陳家私菜 五反田店 | | |    |   |
+| 品川区    | [香港料理 炎屋](https://ramendb.supleks.jp/s/26323.html) | | | [麻婆刀削麺](https://ramendb.supleks.jp/review/1363014.html)   |目黒<br>ランチメニューで刀削麺変更？|
+| 品川区    | [陳家私菜 五反田店](https://ramendb.supleks.jp/s/52026.html) | | | [名物汁無し麻辣刀削麺](https://ramendb.supleks.jp/review/1775039.html) |五反田|
 | 品川区    | [西安料理 張家 大崎店](https://ramendb.supleks.jp/s/82571.html) | | |ぬ：[油撥刀削麺](https://ramendb.supleks.jp/review/999744.html)    |大崎|
 | 品川区    | [朝霞 天王洲店](https://ramendb.supleks.jp/s/101592.html) | | | [麻辣刀削麺、チャーハンセット](https://ramendb.supleks.jp/review/1384850.html)   | 天王洲アイル |
 | 品川区    | [香辛中華 來來羊](https://ramendb.supleks.jp/s/132020.html) | | | [羊肉刀削面（ラム肉入り刀削麺）ハーフ](https://ramendb.supleks.jp/review/1411599.html)<br>ぬ：[麻辣刀削麺](https://ramendb.supleks.jp/review/1820902.html)   |   |
