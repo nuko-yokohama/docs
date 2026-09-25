@@ -202,7 +202,8 @@
 | ------------------------------------------------------------ | ---------------------- | -------- | ------ | ------ | ---- | ---------- | ---- | ---- | ------------------------------------------------------------ |
 | [広東料理 吉兆](https://supleks.jp/s/20304.html)             |                        | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>飯　| あさりそばが有名<br />[あさりそば](https://supleks.jp/review/239365.html)<br>[威魚炒飯](https://chahandb.supleks.jp/review/1337687.html) |
 | [龍門本館](https://supleks.jp/s/89523.html)                  |                        | ○        | ✗      | ✗      | ○    | ✗          | ○    |麺　<br>　餃|[担々麺](https://ramendb.supleks.jp/review/1311369.html)<br>[水餃子](https://gyouzadb.supleks.jp/review/1311370.html)|
-| [金鳳酒家](https://supleks.jp/s/87820.html)                  |                        | ○        | ✗      | ✗      | ○    | ○          | ○    |　　<br>　　| フカヒレあんかけ炒飯                                               |
+| [金鳳酒家](https://supleks.jp/s/87820.html)                  |                        | ○        | ✗      | ✗      | ○    | ○          | ○    |　　<br>　　| 閉店 |
+| [四川料理 成都](https://supleks.jp/s/175443.html)                  |四川料理| ○        | ○      | ✗      | ○    | ✗  | ○    |麺　<br>　　| [坦々刀削面](https://ramendb.supleks.jp/review/1929629.html) |
 | [状元郷](https://supleks.jp/s/75593.html)                    | 台湾料理               | ○        | ？      | ？      | ○    | ？          | ○    |麺　<br>　　| ルーロー飯<br />[激辛汁なしそば](https://supleks.jp/review/843879.html) |
 | [福盛楼](https://supleks.jp/s/75863.html)                    | 四川料理<br />福建料理 | ○        | ？     | ？      | ○    | ？         | ○    |麺　<br>　　| おこげ料理<br />[四川悶麺](https://supleks.jp/review/846367.html) |
 | 横浜酒家 | 食べ放題 | ○ | ✗ | ✗ | ○ | ？ | ○ | |
