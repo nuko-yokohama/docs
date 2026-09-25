@@ -30,6 +30,7 @@
 | 横浜市中区 | [聚香閣](https://ramendb.supleks.jp/s/19664.html) | 閉店 | ◯ |ぬ： [聚香閣刀削麺](https://ramendb.supleks.jp/review/1007083.html) | 中華街 |
 | 横浜市中区    | [杜記 海鮮火鍋菜館](https://ramendb.supleks.jp/s/22023.html) |        | ◯        | ぬ：[牛雑麺](https://ramendb.supleks.jp/review/1054255.html)   |  伊勢佐木  |
 | 横浜市中区    |  [四川料理 京華樓 別館](https://ramendb.supleks.jp/s/22079.html)  |        | ◯        |  ぬ：[刀削麺ランチ・四川タンタン刀削麺](https://ramendb.supleks.jp/review/817709.html)     | 中華街  |
+| 横浜市中区    |  [你好](https://ramendb.supleks.jp/s/23549.html)  |      | | | 中華街<br>最近提供開始？|
 | 横浜市中区    |  [謝朋酒樓](https://ramendb.supleks.jp/s/29230.html)  |      | | ぬ：[タンタン刀削麺](https://ramendb.supleks.jp/review/1631239.html) | 中華街|
 | 横浜市中区    |  [福楼](https://ramendb.supleks.jp/s/33222.html)  |   |    | [麻辛麺+刀削麺変更](https://ramendb.supleks.jp/review/1688485.html) |中華街 |
 | 横浜市中区    |  [百鶴楼](https://ramendb.supleks.jp/s/68810.html)  |   |    | [刀削ルーロ麺](https://ramendb.supleks.jp/review/1847160.html) |本牧<br>最寄り駅なし |
@@ -55,6 +56,7 @@
 | 横浜市中区    | [頼記](https://ramendb.supleks.jp/s/169491.html) | | ◯  | ぬ：[羊肉面](https://ramendb.supleks.jp/review/1861300.html) |  中華街   |
 | 横浜市中区    | [麻香園](https://ramendb.supleks.jp/s/170106.html) | | ◯  | ぬ：[牛肚刀削面](https://ramendb.supleks.jp/review/1869398.html)<br>[高菜牛肉刀削麺](https://ramendb.supleks.jp/review/1878943.html) |  中華街   |
 | 横浜市中区    | [蒙虎ぎょうざ伝説](https://ramendb.supleks.jp/s/171938.html) | |  | ぬ：[重慶小面・刀削麺変更](https://ramendb.supleks.jp/review/1884223.html) |  阪東橋   |
+| 横浜市中区    | [四川料理 成都](https://ramendb.supleks.jp/s/175443.html) |  |  | ぬ：[坦々刀削面](https://ramendb.supleks.jp/review/1929629.html) |  中華街<br>担々刀削麺のみ   |
 | 横浜市中区    | 鴻運飯店 | 未登録 |  |  |  福富町<br>牛肉刀削面がある。   |
 | 横浜市保土ケ谷区  | [錦蘭](https://ramendb.supleks.jp/s/34543.html)    |？|  |  |  和田町<br>R16沿い<br>2年前に刀削麺提供のログあり。 |
 | 横浜市保土ケ谷区  | [玲瓏](https://ramendb.supleks.jp/s/140808.html)         |   |    | ぬ：[西安刀削面](https://ramendb.supleks.jp/review/1688970.html)   | 天王町 |
