@@ -446,7 +446,7 @@
 | 港区  | [西安料理 刀削麺 火鍋 XI’AN 新橋店](https://ramendb.supleks.jp/s/14705.html) | | ◯ | ぬ：[油撥刀削麺](https://ramendb.supleks.jp/review/1657967.html)  |新橋|
 | 港区  | [中国家庭菜 湧の台所](https://ramendb.supleks.jp/s/15603.html) | | |[麻辣刀削麺](https://ramendb.supleks.jp/review/97285.html)|赤坂見附|
 | 港区  | [四季煲坊](https://ramendb.supleks.jp/s/34551.html) | | |[坦々刀削麺](https://ramendb.supleks.jp/review/1570579.html)|新橋|
-| 港区  | [西安刀削麺酒楼 三田店](https://ramendb.supleks.jp/s/69708.html) | | |    |田町|
+| 港区  | [西安刀削麺酒楼 三田店](https://ramendb.supleks.jp/s/69708.html) | | ◯ | ぬ：[本場激辛！！麻辣刀削麺](https://ramendb.supleks.jp/review/1930633.html) |田町|
 | 港区  | [西安刀削麺酒楼 本店](https://ramendb.supleks.jp/s/70787.html) | | |[五目野菜刀削麺](https://ramendb.supleks.jp/review/1806482.html) | 虎ノ門ヒルズ |
 | 港区  | [香港料理居酒屋 味仙 虎ノ門店](https://ramendb.supleks.jp/s/70789.html) | | |[日替わり 叉焼刀削麺](https://ramendb.supleks.jp/review/1929122.html) | 虎ノ門ヒルズ<br>ランチ提供のみ？ |
 | 港区  | [栄華楼 品川グランドセントラルタワー店](https://ramendb.supleks.jp/s/79007.html) | | |    |   |
