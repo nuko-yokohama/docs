@@ -36,7 +36,7 @@
 | 横浜市中区    |  [百鶴楼](https://ramendb.supleks.jp/s/68810.html)  |   |    | [刀削ルーロ麺](https://ramendb.supleks.jp/review/1847160.html) |本牧<br>最寄り駅なし |
 | 横浜市中区    |  [広東名菜・健康美食 一品閣](https://ramendb.supleks.jp/s/70831.html)   |   | ◯ | ぬ：[牛バラ刀削麺](https://ramendb.supleks.jp/review/1589834.html)   |  中華街 |
 | 横浜市中区    | [唐家村](https://ramendb.supleks.jp/s/84080.html)   |     |   | [青菜と牛肉刀削麺](https://ramendb.supleks.jp/review/1561368.html) |  関内  |
-| 横浜市中区    | [麺王翔記](https://ramendb.supleks.jp/s/86302.html)   |         | ◯  | ぬ：[担担刀削麺](https://ramendb.supleks.jp/review/938058.html) | 中華街 |
+| 横浜市中区    | [麺王翔記](https://ramendb.supleks.jp/s/86302.html)   |閉店| ◯  | ぬ：[担担刀削麺](https://ramendb.supleks.jp/review/938058.html) | 中華街 |
 | 横浜市中区    | [龍城飯店 本館](https://ramendb.supleks.jp/s/96363.html)   | | ◯ | ぬ：[ラム肉刀削麺](https://ramendb.supleks.jp/review/1894208.html) | 中華街<br>自己手削 |
 | 横浜市中区    | [和記食坊](https://ramendb.supleks.jp/s/115781.html)  |         |           | [マーボー刀削麺](https://ramendb.supleks.jp/review/1569689.html)<br>ぬ：[什錦刀削面](https://ramendb.supleks.jp/review/1803653.html) | 伊勢佐木<br>品名は刀削麺となっているが、明らかに刀削麺ではない別物 |
 | 横浜市中区    | [四川麻婆 新館](https://ramendb.supleks.jp/s/113566.html)   |         |   | ぬ：[重庆小面・刀削麺変更](https://ramendb.supleks.jp/review/1885042.html) | 中華街 |
