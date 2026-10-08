@@ -178,8 +178,9 @@
 | [京城飯店](https://supleks.jp/s/73700.html)        |          | ○        | ？      | ？ | ○    | ？         | ○    |麺　<br>　　| [黒担々麺](https://supleks.jp/review/827441.html)            |
 | [湖南四川料理 湘厨](https://supleks.jp/s/141057.html)  | 湖南料理<br>四川料理 | ○  | ✗    | ✗   | ○    | ✗   | ○    |麺　<br>飯　| [酸菜魚片面](https://ramendb.supleks.jp/review/1505973.html)<br>[湖南炒飯](https://chahandb.supleks.jp/review/1508618.html)          |
 | [景徳鎮新館](https://supleks.jp/s/26332.html)      | 四川料理 | ○        | ？      | ？   | ○    | ？         | ○    |麺　<br>　　| [棒々鶏冷麺](https://supleks.jp/review/239567.html)          |
+| [四川名菜料理 四川陳麻婆](https://supleks.jp/s/26332.html)      | 四川料理 | ○        | ○     | ？   | ○    | ？         | ○    |麺　<br>　　| [牛腩刀削麺](https://ramendb.supleks.jp/review/1932359.html)          |
 | [上海飯店](https://supleks.jp/s/73799.html)        |          | ○        | ？      | ？  | ○    | ？         | ○    |麺　<br>　　| [椎茸ソバ](https://supleks.jp/review/828380.html)|
-| [大福林](https://supleks.jp/s/118183.html)         |          | ○        | ？      | ？  | ○    | ？         | ○    |麺　<br>　餃| 小皿料理店<br>[辛みそラーメン](https://ramendb.supleks.jp/review/1303237.html)<br>[特製焼き餃子](https://gyouzadb.supleks.jp/review/1303242.html)|
+| 【閉店】[大福林](https://supleks.jp/s/118183.html)         | | ○        | ？      | ？  | ○    | ？         | ○    |麺　<br>　餃| 小皿料理店<br>[辛みそラーメン](https://ramendb.supleks.jp/review/1303237.html)<br>[特製焼き餃子](https://gyouzadb.supleks.jp/review/1303242.html)|
 
 ## 名無しの通り
 
