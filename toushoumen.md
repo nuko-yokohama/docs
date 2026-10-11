@@ -512,7 +512,7 @@
 | 府中市     | [北京家庭菜 中河原店](https://ramendb.supleks.jp/s/18294.html) |　| | |中河原|
 | 府中市     | [	餃子の王様 龍吟 ミッテン府中店](https://ramendb.supleks.jp/s/141129.html) |　| |[麻婆刀削麺](https://ramendb.supleks.jp/review/1866744.html) |府中|
 | 日野市       | 餃子坊 香港亭      |         |           |                  |                     |
-| 日野市       | [日野餃子 & 刀削麺](https://ramendb.supleks.jp/s/138721.html)   | | | [麻辣刀削麺](https://ramendb.supleks.jp/review/1478317.html) | 日野 |
+| 日野市       | [日野餃子 & 刀削麺](https://ramendb.supleks.jp/s/138721.html)   | 閉店 | | [麻辣刀削麺](https://ramendb.supleks.jp/review/1478317.html) | 日野 |
 | 昭島市       | [台湾料理 祥瑞 昭島店](https://ramendb.supleks.jp/s/154303.html) | | |[台湾刀削麺、チャーハンセット](https://ramendb.supleks.jp/review/1681951.html)|拝島(少し遠い)|
 | 東久留米市    | 宇都宮餃子 黄金の華 イオンモール東久留米店  |         |           |                  |                     |
 | 武蔵野市      | [上海楼 刀削麺館](https://ramendb.supleks.jp/s/106905.html)    | | ◯ | [【限定】麻婆豆腐麺](https://ramendb.supleks.jp/review/1305818.html)<br>ぬ：[麻辣刀削麺(激辛)](https://ramendb.supleks.jp/review/1912391.html) | 武蔵境 |
