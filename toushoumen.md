@@ -250,7 +250,7 @@
 | 大和市       | [向陽飯店 鶴間店](https://ramendb.supleks.jp/s/154890.html)   | 閉店 | |  [マーラー刀削麺](https://ramendb.supleks.jp/review/1688078.html)  | 鶴間|
 | 大和市       | [中国料理 上海飯店](https://ramendb.supleks.jp/s/168209.html) | 閉店？  |  |ぬ：[豚肉キャベツ刀削麺](https://ramendb.supleks.jp/review/1844659.html) |大和|
 | 大和市       | [横浜中華 華星](https://ramendb.supleks.jp/s/175364.html) | |  | ぬ：[担々刀削麺・大辛](https://ramendb.supleks.jp/review/1929032.html) |高座渋谷<br>イオン大和店内フードコート|
-| 大和市       | 中華料理 香香  |未登録|  |  |大和<br>[中国料理 上海飯店](https://ramendb.supleks.jp/s/168209.html)跡地？ |
+| 大和市       | [中華料理 香香]  |  |  | ぬ：[麻辣牛肉刀削麺・辛め](https://ramendb.supleks.jp/review/1933179.html) |大和<br>[中国料理 上海飯店](https://ramendb.supleks.jp/s/168209.html)跡地 |
 | 座間市       | [上海料理 梅林園](https://ramendb.supleks.jp/s/82842.html)   |閉店| | ぬ：[刀削牛バラ麺](https://ramendb.supleks.jp/review/907291.html)    | さがみ野 |
 | 座間市       | [台湾料理 興福順 小田急相模原店](https://ramendb.supleks.jp/s/130874.html)   |閉店 | |    | 小田急相模原 |
 | 座間市       | [中国酒家 十年 イオンモール座間店](https://ramendb.supleks.jp/s/130162.html)   | | |   | 相武台駅(小田急)(遠い) |
